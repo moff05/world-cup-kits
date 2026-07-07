@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import { countries } from "../data/countries.js";
+import { countries } from "../data/index.js";
 
 const ALL_WORLD_CUPS = [
   1930, 1934, 1938, 1950, 1954, 1958, 1962, 1966,

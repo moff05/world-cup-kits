@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { countries } from "../data/countries.js";
+import { countries } from "../data/index.js";
 
 function Flag({ code, name }) {
   return (

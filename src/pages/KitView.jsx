@@ -1,6 +1,6 @@
-import { useState } from "react";
-import { Link, useParams } from "react-router-dom";
-import { countries } from "../data/countries.js";
+import { useState, useEffect } from "react";
+import { Link, useParams, useNavigate } from "react-router-dom";
+import { countries } from "../data/index.js";
 
 function StoryText({ text, countryId, kitYears }) {
   const parts = [];
@@ -23,50 +23,15 @@ function StoryText({ text, countryId, kitYears }) {
   return <>{parts}</>;
 }
 
-function AnnotationDot({ annotation, isActive, onClick }) {
-  return (
-    <button
-      className={`annotation-dot ${isActive ? "annotation-dot--active" : ""}`}
-      style={{ left: `${annotation.x}%`, top: `${annotation.y}%` }}
-      onClick={() => onClick(annotation.id)}
-      aria-label={annotation.label}
-    >
-      <span className="annotation-dot-pulse" />
-    </button>
-  );
-}
-
-function AnnotationCard({ annotation, onClose, countryId, kitYears }) {
-  if (!annotation) return null;
-  return (
-    <div className="annotation-card">
-      <button className="annotation-card-close" onClick={onClose}>×</button>
-      <h3 className="annotation-card-label">{annotation.label}</h3>
-      <p className="annotation-card-story">
-        <StoryText text={annotation.story} countryId={countryId} kitYears={kitYears} />
-      </p>
-    </div>
-  );
-}
-
 function KitPanel({ kit, kitType, countryId, kitYears }) {
-  const [activeId, setActiveId] = useState(null);
-  const activeAnnotation = kit.annotations?.find((a) => a.id === activeId) || null;
-  const handleDotClick = (id) => setActiveId((prev) => (prev === id ? null : id));
-
   return (
     <div className="kit-panel">
       <div className="kit-image-wrap" style={kit.imageBg ? { background: kit.imageBg } : undefined}>
         {kit.image ? (
-          <>
-            <img src={kit.image} alt={`${kitType} kit`} className="kit-photo" draggable={false} />
-            {kit.annotations?.map((ann) => (
-              <AnnotationDot key={ann.id} annotation={ann} isActive={activeId === ann.id} onClick={handleDotClick} />
-            ))}
-          </>
+          <img src={kit.image} alt={`${kitType} kit`} className="kit-photo" draggable={false} />
         ) : (
           <div className="kit-image-placeholder">
-            <p>Image coming soon</p>
+            <p>No photograph available</p>
           </div>
         )}
       </div>
@@ -79,33 +44,17 @@ function KitPanel({ kit, kitType, countryId, kitYears }) {
         </p>
       )}
 
-      {kit.image ? (
-        <>
-          <AnnotationCard
-            annotation={activeAnnotation}
-            onClose={() => setActiveId(null)}
-            countryId={countryId}
-            kitYears={kitYears}
-          />
-          {!activeAnnotation && kit.annotations?.length > 0 && (
-            <p className="annotation-hint">
-              {kit.annotations.length} annotation{kit.annotations.length !== 1 ? "s" : ""} — tap a dot on the photo to read the story.
-            </p>
-          )}
-        </>
-      ) : (
-        kit.annotations?.length > 0 && (
-          <div className="annotation-list">
-            {kit.annotations.map((ann) => (
-              <div key={ann.id} className="annotation-list-item">
-                <h3 className="annotation-list-label">{ann.label}</h3>
-                <p className="annotation-list-story">
-                  <StoryText text={ann.story} countryId={countryId} kitYears={kitYears} />
-                </p>
-              </div>
-            ))}
-          </div>
-        )
+      {kit.annotations?.length > 0 && (
+        <div className="annotation-list">
+          {kit.annotations.map((ann) => (
+            <div key={ann.id} className="annotation-list-item">
+              <h3 className="annotation-list-label">{ann.label}</h3>
+              <p className="annotation-list-story">
+                <StoryText text={ann.story} countryId={countryId} kitYears={kitYears} />
+              </p>
+            </div>
+          ))}
+        </div>
       )}
     </div>
   );
@@ -113,12 +62,27 @@ function KitPanel({ kit, kitType, countryId, kitYears }) {
 
 export default function KitView() {
   const { countryId, year } = useParams();
+  const navigate = useNavigate();
   const country = countries.find((c) => c.id === countryId);
   const yearData = country?.kits?.[Number(year)];
   const kitYears = new Set(Object.keys(country?.kits || {}).map(Number));
+  const sortedKitYears = [...kitYears].sort((a, b) => a - b);
 
   const kitTypes = yearData ? Object.keys(yearData.kits) : [];
   const [activeKit, setActiveKit] = useState(kitTypes[0] || "home");
+
+  const yearIndex = sortedKitYears.indexOf(Number(year));
+  const prevYear = yearIndex > 0 ? sortedKitYears[yearIndex - 1] : null;
+  const nextYear = yearIndex < sortedKitYears.length - 1 ? sortedKitYears[yearIndex + 1] : null;
+
+  useEffect(() => {
+    const handleKey = (e) => {
+      if (e.key === "ArrowLeft" && prevYear) navigate(`/${countryId}/${prevYear}`);
+      if (e.key === "ArrowRight" && nextYear) navigate(`/${countryId}/${nextYear}`);
+    };
+    window.addEventListener("keydown", handleKey);
+    return () => window.removeEventListener("keydown", handleKey);
+  }, [prevYear, nextYear, countryId, navigate]);
 
   if (!country || !yearData) {
     return <div className="not-found">Kit not found.</div>;
@@ -161,13 +125,54 @@ export default function KitView() {
         </div>
       )}
 
-      {currentKit && (
-        <KitPanel
-          kit={currentKit}
-          kitType={activeKit}
-          countryId={countryId}
-          kitYears={kitYears}
-        />
+      <div className="kit-content-grid">
+        {currentKit && (
+          <KitPanel
+            kit={currentKit}
+            kitType={activeKit}
+            countryId={countryId}
+            kitYears={kitYears}
+          />
+        )}
+
+        <aside className="kit-sidebar">
+          <p className="kit-sidebar-label">{country.name}</p>
+          <nav className="kit-year-list">
+            {sortedKitYears.map((y) => (
+              <Link
+                key={y}
+                to={`/${countryId}/${y}`}
+                className={`kit-year-item${y === Number(year) ? " kit-year-item--active" : ""}`}
+              >
+                <span className="kit-year-item-year">{y}</span>
+                <span className="kit-year-item-headline">{country.kits[y].headline}</span>
+              </Link>
+            ))}
+          </nav>
+        </aside>
+      </div>
+
+      {(prevYear || nextYear) && (
+        <div className="kit-year-nav">
+          {prevYear ? (
+            <Link to={`/${countryId}/${prevYear}`} className="kit-year-prev">
+              <span className="kit-year-nav-arrow">←</span>
+              <span className="kit-year-nav-info">
+                <span className="kit-year-nav-year">{prevYear}</span>
+                <span className="kit-year-nav-headline">{country.kits[prevYear].headline}</span>
+              </span>
+            </Link>
+          ) : <div />}
+          {nextYear ? (
+            <Link to={`/${countryId}/${nextYear}`} className="kit-year-next">
+              <span className="kit-year-nav-info">
+                <span className="kit-year-nav-year">{nextYear}</span>
+                <span className="kit-year-nav-headline">{country.kits[nextYear].headline}</span>
+              </span>
+              <span className="kit-year-nav-arrow">→</span>
+            </Link>
+          ) : <div />}
+        </div>
       )}
     </div>
   );

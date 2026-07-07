@@ -1,16 +1,49 @@
-# React + Vite
+# World Cup Kits
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A cultural reference site for World Cup history — every nation's tournament runs documented with photographs and short essays. The squad, the run, the kit, the defining moment.
 
-Currently, two official plugins are available:
+**Live**: https://world-cup-kits-xi.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## What's here
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Each country page shows every World Cup they've appeared in. Click a year to get a photograph from that tournament and 2–3 story sections covering the context, the run, and what made it memorable. Kit history is part of the story where it matters.
 
-## Expanding the Oxlint configuration
+Brazil is the reference implementation with full data across all 23 appearances. Every other nation is a stub — waiting for contributors who know the history.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## Contributing
+
+This project is open to contributions. If you know your country's World Cup history, you can add it.
+
+See **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full guide — what to write, how to find photos, and how to submit.
+
+The short version: each country lives in its own file under `src/data/countries/`. Add a year entry with a photo URL and 2–3 story paragraphs. Submit a PR. You don't need React knowledge — just JavaScript object syntax.
+
+---
+
+## Running locally
+
+```bash
+npm install
+npm run dev
+```
+
+Requires Node 18+. The dev server starts at `http://localhost:5173`.
+
+---
+
+## Tech
+
+- React + Vite (SPA with hash routing)
+- Pure CSS — no component library
+- One file per country in `src/data/countries/`
+- Deployed on Vercel
+
+---
+
+## License
+
+MIT — see [LICENSE](LICENSE).
