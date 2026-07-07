@@ -28,6 +28,7 @@ export const brazil = {
     2022,
     2026
   ],
+  "bestResult": "5× World Champions",
   "facts": [
     {
       "id": "one-name",
@@ -43,6 +44,22 @@ export const brazil = {
   "kits": {
     "1930": {
       "headline": "The Debut That Ended in Groups",
+      "result": "Group Stage",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Bolivia",
+                      "score": "4–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Yugoslavia",
+                      "score": "1–2",
+                      "result": "L"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "/kits/brazil/1930-team.jpg",
@@ -73,6 +90,16 @@ export const brazil = {
     },
     "1934": {
       "headline": "One Match. One Defeat. Home.",
+      "result": "Round of 16",
+      "matches": [
+              {
+                      "round": "Round of 16",
+                      "opponent": "Spain",
+                      "score": "1–3",
+                      "result": "L"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sele%C3%A7%C3%A3o_Brasileira_embarcando_para_a_Copa_do_Mundo_de_1934.tif/lossy-page1-3840px-Sele%C3%A7%C3%A3o_Brasileira_embarcando_para_a_Copa_do_Mundo_de_1934.tif.jpg",
@@ -102,6 +129,40 @@ export const brazil = {
     },
     "1938": {
       "headline": "Leônidas and the Blunder That Cost a Final",
+      "result": "3rd Place",
+      "matches": [
+              {
+                      "round": "Round of 16",
+                      "opponent": "Poland",
+                      "score": "6–5 (aet)",
+                      "result": "W"
+              },
+              {
+                      "round": "Quarter-final",
+                      "opponent": "Czechoslovakia",
+                      "score": "1–1 (aet)",
+                      "result": "D"
+              },
+              {
+                      "round": "QF Replay",
+                      "opponent": "Czechoslovakia",
+                      "score": "2–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Semi-final",
+                      "opponent": "Italy",
+                      "score": "1–2",
+                      "result": "L"
+              },
+              {
+                      "round": "3rd Place",
+                      "opponent": "Sweden",
+                      "score": "4–2",
+                      "result": "W"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "/kits/brazil/1938-poland.jpg",
@@ -132,6 +193,46 @@ export const brazil = {
     },
     "1950": {
       "headline": "The White That Was Never Worn Again",
+      "result": "Runners-up",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Mexico",
+                      "score": "4–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Switzerland",
+                      "score": "2–2",
+                      "result": "D"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Yugoslavia",
+                      "score": "2–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Final Pool",
+                      "opponent": "Sweden",
+                      "score": "7–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Final Pool",
+                      "opponent": "Spain",
+                      "score": "6–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Final Pool",
+                      "opponent": "Uruguay",
+                      "score": "1–2",
+                      "result": "L"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Gol_ghiggia_vs_brasil.jpg",
@@ -161,6 +262,28 @@ export const brazil = {
     },
     "1954": {
       "headline": "Yellow for the First Time. The Battle of Bern.",
+      "result": "Quarter-final",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Mexico",
+                      "score": "5–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Yugoslavia",
+                      "score": "1–1",
+                      "result": "D"
+              },
+              {
+                      "round": "Quarter-final",
+                      "opponent": "Hungary",
+                      "score": "2–4",
+                      "result": "L"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "/kits/brazil/1954-hungary.jpg",
@@ -191,6 +314,46 @@ export const brazil = {
     },
     "1958": {
       "headline": "Pelé Was 17. Brazil Was Unstoppable.",
+      "result": "Champions",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Austria",
+                      "score": "3–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "England",
+                      "score": "0–0",
+                      "result": "D"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Soviet Union",
+                      "score": "2–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Quarter-final",
+                      "opponent": "Wales",
+                      "score": "1–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Semi-final",
+                      "opponent": "France",
+                      "score": "5–2",
+                      "result": "W"
+              },
+              {
+                      "round": "Final",
+                      "opponent": "Sweden",
+                      "score": "5–2",
+                      "result": "W"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pel%C3%A9_goal_1958_WC_final.jpg",
@@ -225,6 +388,46 @@ export const brazil = {
     },
     "1962": {
       "headline": "Garrincha's World Cup",
+      "result": "Champions",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Mexico",
+                      "score": "2–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Czechoslovakia",
+                      "score": "0–0",
+                      "result": "D"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Spain",
+                      "score": "2–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Quarter-final",
+                      "opponent": "England",
+                      "score": "3–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Semi-final",
+                      "opponent": "Chile",
+                      "score": "4–2",
+                      "result": "W"
+              },
+              {
+                      "round": "Final",
+                      "opponent": "Czechoslovakia",
+                      "score": "3–1",
+                      "result": "W"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "/kits/brazil/1962-squad.jpg",
@@ -255,6 +458,28 @@ export const brazil = {
     },
     "1966": {
       "headline": "Pelé Kicked Out of His Last World Cup",
+      "result": "Group Stage",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Bulgaria",
+                      "score": "2–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Hungary",
+                      "score": "1–3",
+                      "result": "L"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Portugal",
+                      "score": "1–3",
+                      "result": "L"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "/kits/brazil/1966-jacket.jpg",
@@ -285,6 +510,46 @@ export const brazil = {
     },
     "1970": {
       "headline": "The Kit That Became a Religion",
+      "result": "Champions",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Czechoslovakia",
+                      "score": "4–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "England",
+                      "score": "1–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Romania",
+                      "score": "3–2",
+                      "result": "W"
+              },
+              {
+                      "round": "Quarter-final",
+                      "opponent": "Peru",
+                      "score": "4–2",
+                      "result": "W"
+              },
+              {
+                      "round": "Semi-final",
+                      "opponent": "Uruguay",
+                      "score": "3–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Final",
+                      "opponent": "Italy",
+                      "score": "4–1",
+                      "result": "W"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "/kits/brazil/1970-home.jpg",
@@ -315,6 +580,52 @@ export const brazil = {
     },
     "1974": {
       "headline": "The Post-1970 Hangover",
+      "result": "4th Place",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Yugoslavia",
+                      "score": "0–0",
+                      "result": "D"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Scotland",
+                      "score": "0–0",
+                      "result": "D"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Zaire",
+                      "score": "3–0",
+                      "result": "W"
+              },
+              {
+                      "round": "2nd Round",
+                      "opponent": "East Germany",
+                      "score": "1–0",
+                      "result": "W"
+              },
+              {
+                      "round": "2nd Round",
+                      "opponent": "Argentina",
+                      "score": "2–1",
+                      "result": "W"
+              },
+              {
+                      "round": "2nd Round",
+                      "opponent": "Netherlands",
+                      "score": "0–2",
+                      "result": "L"
+              },
+              {
+                      "round": "3rd Place",
+                      "opponent": "Poland",
+                      "score": "0–1",
+                      "result": "L"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "/kits/brazil/1974-ddr.jpg",
@@ -345,6 +656,52 @@ export const brazil = {
     },
     "1978": {
       "headline": "Argentina's Junta. Goal Difference. Third.",
+      "result": "3rd Place",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Sweden",
+                      "score": "1–1",
+                      "result": "D"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Spain",
+                      "score": "0–0",
+                      "result": "D"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Austria",
+                      "score": "1–0",
+                      "result": "W"
+              },
+              {
+                      "round": "2nd Round",
+                      "opponent": "Peru",
+                      "score": "3–0",
+                      "result": "W"
+              },
+              {
+                      "round": "2nd Round",
+                      "opponent": "Argentina",
+                      "score": "0–0",
+                      "result": "D"
+              },
+              {
+                      "round": "2nd Round",
+                      "opponent": "Poland",
+                      "score": "3–1",
+                      "result": "W"
+              },
+              {
+                      "round": "3rd Place",
+                      "opponent": "Italy",
+                      "score": "2–1",
+                      "result": "W"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "/kits/brazil/1978-peru.jpg",
@@ -375,6 +732,40 @@ export const brazil = {
     },
     "1982": {
       "headline": "The Greatest Team to Never Win",
+      "result": "2nd Round",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Soviet Union",
+                      "score": "2–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Scotland",
+                      "score": "4–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "New Zealand",
+                      "score": "4–0",
+                      "result": "W"
+              },
+              {
+                      "round": "2nd Round",
+                      "opponent": "Argentina",
+                      "score": "3–1",
+                      "result": "W"
+              },
+              {
+                      "round": "2nd Round",
+                      "opponent": "Italy",
+                      "score": "2–3",
+                      "result": "L"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "/kits/brazil/1982-nz.jpg",
@@ -405,6 +796,40 @@ export const brazil = {
     },
     "1986": {
       "headline": "Sócrates' Miss. France's Victory.",
+      "result": "Quarter-final",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Spain",
+                      "score": "1–1",
+                      "result": "D"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Algeria",
+                      "score": "1–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Northern Ireland",
+                      "score": "3–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Round of 16",
+                      "opponent": "Poland",
+                      "score": "4–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Quarter-final",
+                      "opponent": "France",
+                      "score": "1–1 (3–4 pens)",
+                      "result": "L"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": null,
@@ -431,6 +856,34 @@ export const brazil = {
     },
     "1990": {
       "headline": "Maradona's Pass. Caniggia's Goal. Out.",
+      "result": "Round of 16",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Sweden",
+                      "score": "2–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Costa Rica",
+                      "score": "1–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Scotland",
+                      "score": "1–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Round of 16",
+                      "opponent": "Argentina",
+                      "score": "0–1",
+                      "result": "L"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Torino%2C_Stadio_%27Delle_Alpi%27%2C_Mondiali_1990%2C_Brasile-Svezia_2-1.jpg",
@@ -460,6 +913,52 @@ export const brazil = {
     },
     "1994": {
       "headline": "24 Years. Romário. Bebeto. Four Stars.",
+      "result": "Champions",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Russia",
+                      "score": "2–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Cameroon",
+                      "score": "3–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Sweden",
+                      "score": "1–1",
+                      "result": "D"
+              },
+              {
+                      "round": "Round of 16",
+                      "opponent": "United States",
+                      "score": "1–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Quarter-final",
+                      "opponent": "Netherlands",
+                      "score": "3–2",
+                      "result": "W"
+              },
+              {
+                      "round": "Semi-final",
+                      "opponent": "Sweden",
+                      "score": "1–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Final",
+                      "opponent": "Italy",
+                      "score": "0–0 (3–2 pens)",
+                      "result": "W"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "/kits/brazil/1994-taffarel-front.jpg",
@@ -490,6 +989,52 @@ export const brazil = {
     },
     "1998": {
       "headline": "Ronaldo's Seizure. France's Night.",
+      "result": "Runners-up",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Scotland",
+                      "score": "2–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Morocco",
+                      "score": "3–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Norway",
+                      "score": "1–2",
+                      "result": "L"
+              },
+              {
+                      "round": "Round of 16",
+                      "opponent": "Chile",
+                      "score": "4–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Quarter-final",
+                      "opponent": "Denmark",
+                      "score": "3–2",
+                      "result": "W"
+              },
+              {
+                      "round": "Semi-final",
+                      "opponent": "Netherlands",
+                      "score": "1–1 (4–2 pens)",
+                      "result": "W"
+              },
+              {
+                      "round": "Final",
+                      "opponent": "France",
+                      "score": "0–3",
+                      "result": "L"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tribune_pr%C3%A9sidentielle_finale_France_Br%C3%A9sil_football_12_juillet_1998.jpg",
@@ -519,6 +1064,52 @@ export const brazil = {
     },
     "2002": {
       "headline": "Ronaldo's Comeback. Five Stars.",
+      "result": "Champions",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Turkey",
+                      "score": "2–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "China",
+                      "score": "4–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Costa Rica",
+                      "score": "5–2",
+                      "result": "W"
+              },
+              {
+                      "round": "Round of 16",
+                      "opponent": "Belgium",
+                      "score": "2–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Quarter-final",
+                      "opponent": "England",
+                      "score": "2–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Semi-final",
+                      "opponent": "Turkey",
+                      "score": "1–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Final",
+                      "opponent": "Germany",
+                      "score": "2–0",
+                      "result": "W"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "/kits/brazil/2002-ronaldo.jpg",
@@ -548,6 +1139,40 @@ export const brazil = {
     },
     "2006": {
       "headline": "Ronaldo's Record. Zidane's Exit.",
+      "result": "Quarter-final",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Croatia",
+                      "score": "1–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Australia",
+                      "score": "2–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Japan",
+                      "score": "4–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Round of 16",
+                      "opponent": "Ghana",
+                      "score": "3–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Quarter-final",
+                      "opponent": "France",
+                      "score": "0–1",
+                      "result": "L"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "/kits/brazil/2006-ghana.jpg",
@@ -578,6 +1203,40 @@ export const brazil = {
     },
     "2010": {
       "headline": "Africa's First. Holland's Counter.",
+      "result": "Quarter-final",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "North Korea",
+                      "score": "2–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Ivory Coast",
+                      "score": "3–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Portugal",
+                      "score": "0–0",
+                      "result": "D"
+              },
+              {
+                      "round": "Round of 16",
+                      "opponent": "Chile",
+                      "score": "3–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Quarter-final",
+                      "opponent": "Netherlands",
+                      "score": "1–2",
+                      "result": "L"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "/kits/brazil/2010-robinho.jpg",
@@ -607,6 +1266,52 @@ export const brazil = {
     },
     "2014": {
       "headline": "7-1. At Home.",
+      "result": "4th Place",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Croatia",
+                      "score": "3–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Mexico",
+                      "score": "0–0",
+                      "result": "D"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Cameroon",
+                      "score": "4–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Round of 16",
+                      "opponent": "Chile",
+                      "score": "1–1 (3–2 pens)",
+                      "result": "W"
+              },
+              {
+                      "round": "Quarter-final",
+                      "opponent": "Colombia",
+                      "score": "2–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Semi-final",
+                      "opponent": "Germany",
+                      "score": "1–7",
+                      "result": "L"
+              },
+              {
+                      "round": "3rd Place",
+                      "opponent": "Netherlands",
+                      "score": "0–3",
+                      "result": "L"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "/kits/brazil/2014-croatia.jpg",
@@ -636,6 +1341,40 @@ export const brazil = {
     },
     "2018": {
       "headline": "Neymar's Russia. Belgium's Ambush.",
+      "result": "Quarter-final",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Switzerland",
+                      "score": "1–1",
+                      "result": "D"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Costa Rica",
+                      "score": "2–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Serbia",
+                      "score": "2–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Round of 16",
+                      "opponent": "Mexico",
+                      "score": "2–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Quarter-final",
+                      "opponent": "Belgium",
+                      "score": "1–2",
+                      "result": "L"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "/kits/brazil/2018-museum.jpg",
@@ -665,6 +1404,40 @@ export const brazil = {
     },
     "2022": {
       "headline": "The Bicycle Kick. Croatia's Penalties.",
+      "result": "Quarter-final",
+      "matches": [
+              {
+                      "round": "Group Stage",
+                      "opponent": "Serbia",
+                      "score": "2–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Switzerland",
+                      "score": "1–0",
+                      "result": "W"
+              },
+              {
+                      "round": "Group Stage",
+                      "opponent": "Cameroon",
+                      "score": "0–1",
+                      "result": "L"
+              },
+              {
+                      "round": "Round of 16",
+                      "opponent": "South Korea",
+                      "score": "4–1",
+                      "result": "W"
+              },
+              {
+                      "round": "Quarter-final",
+                      "opponent": "Croatia",
+                      "score": "1–1 (2–4 pens)",
+                      "result": "L"
+              }
+      ],
+
       "kits": {
         "home": {
           "image": "/kits/brazil/2022-richarlison.jpg",
