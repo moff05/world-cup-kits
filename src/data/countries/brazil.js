@@ -1466,14 +1466,21 @@ export const brazil = {
       }
     },
     "2026": {
-      "headline": "The Canary Reborn",
+      "headline": "Haaland's Night. Out in the Round of 16.",
+      "result": "Round of 16",
+      "matches": [
+        { "round": "Group Stage",  "opponent": "Morocco",  "score": "1–1", "result": "D" },
+        { "round": "Group Stage",  "opponent": "Haiti",    "score": "3–0", "result": "W" },
+        { "round": "Group Stage",  "opponent": "Scotland", "score": "3–0", "result": "W" },
+        { "round": "Round of 32", "opponent": "Japan",    "score": "2–1", "result": "W" },
+        { "round": "Round of 16", "opponent": "Norway",   "score": "1–2", "result": "L" }
+      ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/brazil-home.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Team_Brazil_at_2026_FIFA_World_Cup_by_YantsImages.jpg",
           "imageCredit": {
             "player": null,
-            "game": "Official Nike product — 2026 FIFA World Cup",
-            "license": "© Nike"
+            "game": "Brazil squad before the 2026 FIFA World Cup Group Stage match vs. Morocco — MetLife Stadium, East Rutherford, New Jersey, June 13, 2026. CC BY-SA 4.0 / YantsImages (Asatur Yesayants)."
           },
           "annotations": [
             {
