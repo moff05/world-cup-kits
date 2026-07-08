@@ -4,12 +4,16 @@
  * Converts each JSON file to a JS module in src/data/countries/ and patches
  * src/data/index.js if the country is new.
  *
+ * On watcher events (not startup), auto-commits to git and deploys to Vercel.
+ * Deploys are debounced 30s so a burst of cowork files only triggers one deploy.
+ *
  * Run: node watch.js
  */
 
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
+import { execSync } from "child_process";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(__dirname, "data/countries");
@@ -62,7 +66,44 @@ function jsonToJsModule(data) {
   return `export const ${exportName} = ${JSON.stringify(normalized, null, 2)};\n`;
 }
 
-function processFile(jsonPath) {
+// ── Auto-deploy ──────────────────────────────────────────────────────────────
+
+let deployTimer = null;
+const pendingCountries = [];
+
+function scheduleDeployment() {
+  clearTimeout(deployTimer);
+  deployTimer = setTimeout(() => {
+    const names = pendingCountries.splice(0).join(", ");
+    try {
+      console.log(`\n⟳  Pushing & deploying (${names})…`);
+      execSync("git push", { cwd: __dirname, stdio: "pipe" });
+      execSync("vercel deploy --prod", { cwd: __dirname, stdio: "inherit" });
+      console.log("✓  Production deploy complete\n");
+    } catch (err) {
+      console.error(`✗  Deploy failed: ${err.message}`);
+    }
+  }, 30_000);
+}
+
+function commitAndScheduleDeploy(countryName) {
+  try {
+    execSync("git add src/data/", { cwd: __dirname, stdio: "pipe" });
+    const dirty = execSync("git status --porcelain src/data/", { cwd: __dirname, stdio: "pipe" })
+      .toString().trim();
+    if (!dirty) return;
+    execSync(`git commit -m "data: ${countryName}"`, { cwd: __dirname, stdio: "pipe" });
+    console.log(`  ↳ Committed "${countryName}" — deploy in 30s`);
+    pendingCountries.push(countryName);
+    scheduleDeployment();
+  } catch (err) {
+    console.error(`  ✗ Auto-commit failed: ${err.message}`);
+  }
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+
+function processFile(jsonPath, { autoDeploy = false } = {}) {
   const filename = path.basename(jsonPath);
   if (!filename.endsWith(".json") || filename === "schema.json") return;
 
@@ -88,6 +129,10 @@ function processFile(jsonPath) {
   // Patch index.js if this is a new country
   if (isNew) {
     patchIndex(data.id, slugToExport(data.id));
+  }
+
+  if (autoDeploy) {
+    commitAndScheduleDeploy(data.name);
   }
 }
 
@@ -138,7 +183,7 @@ fs.watch(DATA_DIR, { persistent: true }, (event, filename) => {
   // Small delay to ensure the write is complete before reading
   setTimeout(() => {
     if (fs.existsSync(fullPath)) {
-      processFile(fullPath);
+      processFile(fullPath, { autoDeploy: true });
     }
   }, 100);
 });
