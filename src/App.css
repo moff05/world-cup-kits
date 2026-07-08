@@ -927,3 +927,53 @@ a { color: inherit; text-decoration: none; }
 .match-wdl--d   { color: #999; }
 .match-wdl--l   { color: #c06060; }
 
+/* ── MOBILE ── */
+@media (max-width: 600px) {
+  /* Search bar: stack input on row 1, dropdowns on row 2 */
+  .search-wrap {
+    flex-wrap: wrap;
+  }
+  .search-input {
+    flex-basis: 100%;
+  }
+  .filter-select-wrap {
+    flex: 1;
+  }
+
+  /* Featured card: disable 2×2 treatment on mobile (same collapse bug as single-country grids) */
+  .country-grid:not(.country-grid--flat) .country-card:first-child {
+    grid-column: span 1;
+    grid-row: span 1;
+    aspect-ratio: 3/2;
+  }
+
+  /* Year accordion: compact rows */
+  .year-row-link {
+    gap: 10px;
+    padding: 14px 12px;
+  }
+  .year-row-year {
+    font-size: 16px;
+    width: 44px;
+  }
+  .year-row-result {
+    font-size: 13px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .year-row-explore { display: none; }
+  .year-row-toggle-btn { padding: 14px 10px; }
+  .year-row-toggle-label { display: none; }
+  .year-row-ghost { font-size: 38px; }
+
+  /* Match table: drop round column, tighten score */
+  .match-round { display: none; }
+  .match-score { min-width: 56px; font-size: 13px; }
+  .match-row td { padding: 6px 6px; font-size: 13px; }
+
+  /* Stats bar: bump font so numbers stay legible at mobile vw */
+  .country-stat-num { font-size: clamp(20px, 6vw, 28px); }
+  .country-stat { padding: 14px 14px; }
+}
+
