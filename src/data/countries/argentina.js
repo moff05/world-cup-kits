@@ -21,30 +21,985 @@ export const argentina = {
     2010,
     2014,
     2018,
-    2022,
-    2026
+    2022
+  ],
+  "bestResult": "3× World Champions",
+  "stats": {
+    "matches": 88,
+    "wins": 47,
+    "draws": 17,
+    "losses": 24,
+    "goalsFor": 152,
+    "goalsAgainst": 101
+  },
+  "facts": [
+    {
+      "id": "the-borrowed-yellow",
+      "label": "THE BORROWED YELLOW",
+      "story": "Argentina landed in Sweden for the 1958 World Cup without a proper alternate kit. When they faced West Germany in Malmö and both sides showed up in white, there was no time to improvise. Local club IFK Malmö lent their own yellow shirts, and Argentina played an entire World Cup match in someone else's colors, losing 3–1 in yellow they'd never worn before or since."
+    },
+    {
+      "id": "38-shirts-from-a-mexico-city-market",
+      "label": "38 SHIRTS FROM A MARKET",
+      "story": "Three days before facing England in the 1986 quarter-final, coach Carlos Bilardo wanted lighter blue shirts from supplier Le Coq Sportif, but they couldn't deliver in time. A staffer scoured Mexico City for 38 plain shirts instead, and the crew hand-stitched the AFA crest onto each one and ironed on silvery American-football numbers. Diego Maradona wore one of those makeshift jerseys to score the Hand of God and the Goal of the Century in the same afternoon."
+    }
   ],
   "kits": {
-    "2026": {
-      "headline": "Three Stars, One Gradient",
+    "1930": {
+      "result": "Runners-up",
+      "headline": "Stábile's Golden Debut",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "6–3",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "3–1",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "United States",
+          "score": "6–1",
+          "result": "W"
+        },
+        {
+          "round": "Final",
+          "opponent": "Uruguay",
+          "score": "2–4",
+          "result": "L"
+        }
+      ],
       "kits": {
         "home": {
           "image": null,
-          "imageCredit": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
           "annotations": [
             {
-              "id": "gradient-stripes",
-              "x": 50,
-              "y": 40,
-              "label": "The Three-Tone Gradient",
-              "story": "Each blue stripe fades through three distinct shades — one for each of Argentina's World Cup victories in 1978, 1986, and 2022. It's a subtle device: from a distance it looks like a classic stripe kit; up close, it carries the weight of three championships."
-            },
+              "id": "story",
+              "label": "STÁBILE'S GOLDEN DEBUT",
+              "story": "Guillermo Stábile, a late replacement, scored a hat-trick against Mexico and finished as the tournament's top scorer with eight goals in his only World Cup. Argentina routed the United States 6–1 in the semi-final, then blew a 2–1 halftime lead in the inaugural final, falling 4–2 to host Uruguay at the Estadio Centenario."
+            }
+          ]
+        }
+      }
+    },
+    "1934": {
+      "result": "Round of 16",
+      "headline": "One and Done in Italy",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Round of 16",
+          "opponent": "Sweden",
+          "score": "2–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
             {
-              "id": "1896",
-              "x": 50,
-              "y": 10,
-              "label": "1896",
-              "story": "Stitched inside the back collar: '1896' — the year the Argentine Football Association was founded. The AFA is one of the oldest football associations in the world outside of Britain. Most players will never see it, but it's there."
+              "id": "story",
+              "label": "ONE AND DONE IN ITALY",
+              "story": "A dispute over amateur versus professional players gutted Argentina's roster before they even reached Italy. Ernesto Belis and Alberto Galateo scored, but Sweden eliminated them in the very first match, 3–2, sending Argentina home after just one game under the tournament's straight-knockout format."
+            }
+          ]
+        }
+      }
+    },
+    "1958": {
+      "result": "Group Stage",
+      "headline": "Borrowed Yellow, Beaten Blue",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks",
+      "awayColors": "borrowed yellow IFK Malmö shirts (no alternate kit brought to Sweden)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "1–3",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Northern Ireland",
+          "score": "3–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Czechoslovakia",
+          "score": "1–6",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "BORROWED YELLOW, BEATEN BLUE",
+              "story": "Forced into local club IFK Malmö's yellow shirts against West Germany after arriving without an alternate kit, Argentina lost 3–1. Czechoslovakia then routed them 6–1 in Helsingborg, still the heaviest defeat in the team's history, and Argentina went out after the group stage."
+            }
+          ]
+        }
+      }
+    },
+    "1962": {
+      "result": "Group Stage",
+      "headline": "Stuck in Neutral in Chile",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Bulgaria",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "1–3",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Hungary",
+          "score": "0–0",
+          "result": "D"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "STUCK IN NEUTRAL IN CHILE",
+              "story": "A goalless draw with Hungary, sandwiched between a win over Bulgaria and a loss to England, left Argentina level on points but short on goal difference in windswept Rancagua. They exited after the first round for the second straight tournament running."
+            }
+          ]
+        }
+      }
+    },
+    "1966": {
+      "result": "Quarter-final",
+      "headline": "Wembley's 'Animals' Remark",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "England",
+          "score": "0–1",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "WEMBLEY'S 'ANIMALS' REMARK",
+              "story": "Luis Artime scored three of Argentina's four goals to top a tight group, setting up a quarter-final against England at Wembley. Captain Antonio Rattín was sent off and refused to leave the pitch for several minutes, and England won 1–0 — a result manager Alf Ramsey later soured by calling Argentina's players 'animals.'"
+            }
+          ]
+        }
+      }
+    },
+    "1974": {
+      "result": "Quarter-final",
+      "headline": "Cruyff's Netherlands Ends It",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks (first Adidas kit)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "2–3",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Haiti",
+          "score": "4–1",
+          "result": "W"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Netherlands",
+          "score": "0–4",
+          "result": "L"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Brazil",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "East Germany",
+          "score": "1–1",
+          "result": "D"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "CRUYFF'S NETHERLANDS ENDS IT",
+              "story": "René Houseman's three goals carried Argentina through an uneven first group, but the second-round group brought Johan Cruyff's Netherlands, who dismantled them 4–0 in Gelsenkirchen. Face-saving draws with East Germany and Brazil closed out a tournament that never got out of second gear."
+            }
+          ]
+        }
+      }
+    },
+    "1978": {
+      "result": "Champions",
+      "headline": "Kempes Wins It at Home",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks (Adidas)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Hungary",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Poland",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Brazil",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Peru",
+          "score": "6–0",
+          "result": "W"
+        },
+        {
+          "round": "Final",
+          "opponent": "Netherlands",
+          "score": "3–1",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "KEMPES WINS IT AT HOME",
+              "story": "Hosting under a military dictatorship, Argentina needed a heavily disputed 6–0 rout of Peru to reach the final ahead of Brazil on goal difference. Mario Kempes scored twice in extra time of the final, and Daniel Bertoni added a third as Argentina beat the Netherlands 3–1 at the Monumental for their first title."
+            }
+          ]
+        }
+      }
+    },
+    "1982": {
+      "result": "2nd Round",
+      "headline": "Golden Boy Silenced by Italy",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks (Le Coq Sportif)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Hungary",
+          "score": "4–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "El Salvador",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Italy",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Brazil",
+          "score": "1–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "GOLDEN BOY SILENCED BY ITALY",
+              "story": "A 20-year-old Diego Maradona wore Argentina's number 10 at his first World Cup, but the defending champions lost their opener to Belgium and never recovered. Claudio Gentile fouled Maradona out of the second-round group decider, and Italy's 2–1 win sent Argentina home before the semi-finals."
+            }
+          ]
+        }
+      }
+    },
+    "1986": {
+      "result": "Champions",
+      "headline": "Hand of God, Then the Cup",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks (Le Coq Sportif)",
+      "awayColors": "plain white shirts with hand-stitched AFA crest (worn vs. England, Quarter-final)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "3–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bulgaria",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Uruguay",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "England",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Belgium",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Final",
+          "opponent": "West Germany",
+          "score": "3–2",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "HAND OF GOD, THEN THE CUP",
+              "story": "Diego Maradona scored the illegal 'Hand of God' and the mazy 'Goal of the Century' seven minutes apart against England, wearing a jersey improvised in a Mexico City market. He set up Jorge Burruchaga's winner in the final, beating West Germany 3–2 for Argentina's second title."
+            }
+          ]
+        }
+      }
+    },
+    "1990": {
+      "result": "Runners-up",
+      "headline": "Two Red Cards in Rome",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks (Adidas)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Cameroon",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Soviet Union",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Romania",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Brazil",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Yugoslavia",
+          "score": "0–0 (3–2 pens)",
+          "result": "D"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Italy",
+          "score": "1–1 (4–3 pens)",
+          "result": "D"
+        },
+        {
+          "round": "Final",
+          "opponent": "West Germany",
+          "score": "0–1",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "TWO RED CARDS IN ROME",
+              "story": "Argentina scraped through a shaky group and needed penalties in both the quarter-final and semi-final. Pedro Monzón became the first player ever sent off in a World Cup final, joined minutes later by Gustavo Dezotti, as West Germany's Andreas Brehme converted a disputed late penalty for a 1–0 win."
+            }
+          ]
+        }
+      }
+    },
+    "1994": {
+      "result": "Round of 16",
+      "headline": "Maradona's Positive Test",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks (Adidas)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Greece",
+          "score": "4–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Nigeria",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bulgaria",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Romania",
+          "score": "2–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "MARADONA'S POSITIVE TEST",
+              "story": "Diego Maradona scored and celebrated wild-eyed into a pitchside camera against Greece, then tested positive for ephedrine after the Nigeria game and was sent home in disgrace. Without their captain, Argentina lost 3–2 to Romania in the Round of 16."
+            }
+          ]
+        }
+      }
+    },
+    "1998": {
+      "result": "Quarter-final",
+      "headline": "Batistuta's Hat-Trick, Bergkamp's Strike",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks (Adidas)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Jamaica",
+          "score": "5–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Croatia",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "England",
+          "score": "2–2 (4–3 pens)",
+          "result": "D"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Netherlands",
+          "score": "1–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "BATISTUTA'S HAT-TRICK, BERGKAMP'S STRIKE",
+              "story": "Gabriel Batistuta became the first player to score hat-tricks at two different World Cups, burying three against Jamaica. Ariel Ortega's red card for headbutting the goalkeeper undid Argentina in the quarter-final, where Dennis Bergkamp's touch-turn-volley in the 89th minute beat them 2–1."
+            }
+          ]
+        }
+      }
+    },
+    "2002": {
+      "result": "Group Stage",
+      "headline": "Golden Generation, Group Exit",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks (Adidas)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Nigeria",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "1–1",
+          "result": "D"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "GOLDEN GENERATION, GROUP EXIT",
+              "story": "A star-studded squad built around Batistuta, Verón, and Crespo lost their opener to David Beckham's penalty against England, then could only draw Sweden despite dominating possession. Argentina's so-called 'golden generation' went out in the group stage, one of the tournament's biggest upsets."
+            }
+          ]
+        }
+      }
+    },
+    "2006": {
+      "result": "Quarter-final",
+      "headline": "24 Passes, One Perfect Goal",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks (Adidas)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Ivory Coast",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Serbia and Montenegro",
+          "score": "6–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Mexico",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Germany",
+          "score": "1–1 (2–4 pens)",
+          "result": "D"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "24 PASSES, ONE PERFECT GOAL",
+              "story": "Esteban Cambiasso finished a 24-pass team move against Serbia and Montenegro in a 6–0 rout still shown as a passing masterclass. Germany eliminated Argentina on penalties in Berlin's quarter-final, Jens Lehmann's cheat-sheet on their takers proving decisive in a 4–2 shootout."
+            }
+          ]
+        }
+      }
+    },
+    "2010": {
+      "result": "Quarter-final",
+      "headline": "Diego's Team Dismantled",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks (Adidas)",
+      "awayColors": "black shirt",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Nigeria",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "4–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Greece",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Mexico",
+          "score": "3–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Germany",
+          "score": "0–4",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "DIEGO'S TEAM DISMANTLED",
+              "story": "Diego Maradona's Argentina rolled through the group stage and past Mexico, but Germany's counter-attacking machine humiliated them 4–0 in the Cape Town quarter-final. It remains Argentina's heaviest World Cup knockout defeat and effectively ended Maradona's brief, chaotic reign as head coach."
+            }
+          ]
+        }
+      }
+    },
+    "2014": {
+      "result": "Runners-up",
+      "headline": "So Close With Messi",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks (Adidas)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Iran",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Nigeria",
+          "score": "3–2",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Switzerland",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Belgium",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Netherlands",
+          "score": "0–0 (4–2 pens)",
+          "result": "D"
+        },
+        {
+          "round": "Final",
+          "opponent": "Germany",
+          "score": "0–1",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "SO CLOSE WITH MESSI",
+              "story": "Lionel Messi carried a functional Argentina to a fifth final, scoring four goals including a stunner against Iran. Mario Götze's extra-time volley in the 113th minute beat them 1–0 at the Maracanã, denying Messi the title that had eluded Maradona's generation too."
+            }
+          ]
+        }
+      }
+    },
+    "2018": {
+      "result": "Round of 16",
+      "headline": "Kylian Mbappé Announces Himself",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks (Adidas)",
+      "awayColors": "black shirt (debuted at this tournament)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Iceland",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Croatia",
+          "score": "0–3",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Nigeria",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "France",
+          "score": "3–4",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "KYLIAN MBAPPÉ ANNOUNCES HIMSELF",
+              "story": "A stumbling Argentina barely escaped the group on Marcos Rojo's late winner over Nigeria, then ran into a 19-year-old Kylian Mbappé, who scored twice and terrorized their back line in a 4–3 Round of 16 loss — the tournament's clearest signal that a new generation had arrived."
+            }
+          ]
+        }
+      }
+    },
+    "2022": {
+      "result": "Champions",
+      "headline": "Messi's Final Redemption",
+      "homeColors": "light blue and white vertical stripes, black shorts, white socks (Adidas)",
+      "awayColors": "purple shirt (debuted in a competitive match at this tournament)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Australia",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Netherlands",
+          "score": "2–2 (4–3 pens)",
+          "result": "D"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Croatia",
+          "score": "3–0",
+          "result": "W"
+        },
+        {
+          "round": "Final",
+          "opponent": "France",
+          "score": "3–3 (4–2 pens)",
+          "result": "D"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "MESSI'S FINAL REDEMPTION",
+              "story": "An opening loss to Saudi Arabia nearly derailed Lionel Messi's last World Cup, but Argentina won seven straight, including a Julián Álvarez-fueled semi-final rout of Croatia. Messi scored twice in the final, Kylian Mbappé's hat-trick forced a 3–3 draw, and Argentina won the shootout 4–2 for a third star."
             }
           ]
         }

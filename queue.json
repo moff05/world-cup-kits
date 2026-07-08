@@ -1,0 +1,666 @@
+[
+  {
+    "id": "brazil",
+    "name": "Brazil",
+    "confederation": "CONMEBOL",
+    "worldCupsCount": 23,
+    "status": "manual",
+    "tier": "large"
+  },
+  {
+    "id": "germany",
+    "name": "Germany",
+    "confederation": "UEFA",
+    "worldCupsCount": 20,
+    "status": "done",
+    "tier": "large"
+  },
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "confederation": "CONMEBOL",
+    "worldCupsCount": 19,
+    "status": "done",
+    "tier": "large"
+  },
+  {
+    "id": "italy",
+    "name": "Italy",
+    "confederation": "UEFA",
+    "worldCupsCount": 18,
+    "status": "done",
+    "tier": "large"
+  },
+  {
+    "id": "mexico",
+    "name": "Mexico",
+    "confederation": "CONCACAF",
+    "worldCupsCount": 17,
+    "status": "done",
+    "tier": "large"
+  },
+  {
+    "id": "france",
+    "name": "France",
+    "confederation": "UEFA",
+    "worldCupsCount": 16,
+    "status": "done",
+    "tier": "large"
+  },
+  {
+    "id": "england",
+    "name": "England",
+    "confederation": "UEFA",
+    "worldCupsCount": 16,
+    "status": "done",
+    "tier": "large"
+  },
+  {
+    "id": "spain",
+    "name": "Spain",
+    "confederation": "UEFA",
+    "worldCupsCount": 16,
+    "status": "done",
+    "tier": "large"
+  },
+  {
+    "id": "uruguay",
+    "name": "Uruguay",
+    "confederation": "CONMEBOL",
+    "worldCupsCount": 15,
+    "status": "done",
+    "tier": "large"
+  },
+  {
+    "id": "belgium",
+    "name": "Belgium",
+    "confederation": "UEFA",
+    "worldCupsCount": 15,
+    "status": "done",
+    "tier": "large"
+  },
+  {
+    "id": "serbia",
+    "name": "Serbia",
+    "confederation": "UEFA",
+    "worldCupsCount": 14,
+    "status": "done",
+    "tier": "large"
+  },
+  {
+    "id": "russia",
+    "name": "Russia",
+    "confederation": "UEFA",
+    "worldCupsCount": 14,
+    "status": "done",
+    "tier": "large"
+  },
+  {
+    "id": "sweden",
+    "name": "Sweden",
+    "confederation": "UEFA",
+    "worldCupsCount": 12,
+    "status": "done",
+    "tier": "medium"
+  },
+  {
+    "id": "switzerland",
+    "name": "Switzerland",
+    "confederation": "UEFA",
+    "worldCupsCount": 12,
+    "status": "done",
+    "tier": "medium"
+  },
+  {
+    "id": "netherlands",
+    "name": "Netherlands",
+    "confederation": "UEFA",
+    "worldCupsCount": 11,
+    "status": "done",
+    "tier": "medium"
+  },
+  {
+    "id": "usa",
+    "name": "United States",
+    "confederation": "CONCACAF",
+    "worldCupsCount": 11,
+    "status": "done",
+    "tier": "medium"
+  },
+  {
+    "id": "south-korea",
+    "name": "South Korea",
+    "confederation": "AFC",
+    "worldCupsCount": 11,
+    "status": "done",
+    "tier": "medium"
+  },
+  {
+    "id": "paraguay",
+    "name": "Paraguay",
+    "confederation": "CONMEBOL",
+    "worldCupsCount": 9,
+    "status": "done",
+    "tier": "medium"
+  },
+  {
+    "id": "chile",
+    "name": "Chile",
+    "confederation": "CONMEBOL",
+    "worldCupsCount": 9,
+    "status": "done",
+    "tier": "medium"
+  },
+  {
+    "id": "poland",
+    "name": "Poland",
+    "confederation": "UEFA",
+    "worldCupsCount": 9,
+    "status": "done",
+    "tier": "medium"
+  },
+  {
+    "id": "hungary",
+    "name": "Hungary",
+    "confederation": "UEFA",
+    "worldCupsCount": 9,
+    "status": "pending",
+    "tier": "medium"
+  },
+  {
+    "id": "czech-republic",
+    "name": "Czech Republic",
+    "confederation": "UEFA",
+    "worldCupsCount": 9,
+    "status": "pending",
+    "tier": "medium"
+  },
+  {
+    "id": "portugal",
+    "name": "Portugal",
+    "confederation": "UEFA",
+    "worldCupsCount": 8,
+    "status": "pending",
+    "tier": "medium"
+  },
+  {
+    "id": "scotland",
+    "name": "Scotland",
+    "confederation": "UEFA",
+    "worldCupsCount": 8,
+    "status": "pending",
+    "tier": "medium"
+  },
+  {
+    "id": "cameroon",
+    "name": "Cameroon",
+    "confederation": "CAF",
+    "worldCupsCount": 8,
+    "status": "pending",
+    "tier": "medium"
+  },
+  {
+    "id": "colombia",
+    "name": "Colombia",
+    "confederation": "CONMEBOL",
+    "worldCupsCount": 7,
+    "status": "pending",
+    "tier": "medium"
+  },
+  {
+    "id": "austria",
+    "name": "Austria",
+    "confederation": "UEFA",
+    "worldCupsCount": 7,
+    "status": "pending",
+    "tier": "medium"
+  },
+  {
+    "id": "romania",
+    "name": "Romania",
+    "confederation": "UEFA",
+    "worldCupsCount": 7,
+    "status": "pending",
+    "tier": "medium"
+  },
+  {
+    "id": "bulgaria",
+    "name": "Bulgaria",
+    "confederation": "UEFA",
+    "worldCupsCount": 7,
+    "status": "pending",
+    "tier": "medium"
+  },
+  {
+    "id": "nigeria",
+    "name": "Nigeria",
+    "confederation": "CAF",
+    "worldCupsCount": 7,
+    "status": "pending",
+    "tier": "medium"
+  },
+  {
+    "id": "morocco",
+    "name": "Morocco",
+    "confederation": "CAF",
+    "worldCupsCount": 7,
+    "status": "pending",
+    "tier": "medium"
+  },
+  {
+    "id": "japan",
+    "name": "Japan",
+    "confederation": "AFC",
+    "worldCupsCount": 7,
+    "status": "pending",
+    "tier": "medium"
+  },
+  {
+    "id": "croatia",
+    "name": "Croatia",
+    "confederation": "UEFA",
+    "worldCupsCount": 6,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "denmark",
+    "name": "Denmark",
+    "confederation": "UEFA",
+    "worldCupsCount": 6,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "costa-rica",
+    "name": "Costa Rica",
+    "confederation": "CONCACAF",
+    "worldCupsCount": 6,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "tunisia",
+    "name": "Tunisia",
+    "confederation": "CAF",
+    "worldCupsCount": 6,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "iran",
+    "name": "Iran",
+    "confederation": "AFC",
+    "worldCupsCount": 6,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "saudi-arabia",
+    "name": "Saudi Arabia",
+    "confederation": "AFC",
+    "worldCupsCount": 6,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "australia",
+    "name": "Australia",
+    "confederation": "AFC",
+    "worldCupsCount": 6,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "peru",
+    "name": "Peru",
+    "confederation": "CONMEBOL",
+    "worldCupsCount": 5,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "ecuador",
+    "name": "Ecuador",
+    "confederation": "CONMEBOL",
+    "worldCupsCount": 4,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "ghana",
+    "name": "Ghana",
+    "confederation": "CAF",
+    "worldCupsCount": 4,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "algeria",
+    "name": "Algeria",
+    "confederation": "CAF",
+    "worldCupsCount": 4,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "bolivia",
+    "name": "Bolivia",
+    "confederation": "CONMEBOL",
+    "worldCupsCount": 3,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "republic-of-ireland",
+    "name": "Republic of Ireland",
+    "confederation": "UEFA",
+    "worldCupsCount": 3,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "northern-ireland",
+    "name": "Northern Ireland",
+    "confederation": "UEFA",
+    "worldCupsCount": 3,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "norway",
+    "name": "Norway",
+    "confederation": "UEFA",
+    "worldCupsCount": 3,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "honduras",
+    "name": "Honduras",
+    "confederation": "CONCACAF",
+    "worldCupsCount": 3,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "senegal",
+    "name": "Senegal",
+    "confederation": "CAF",
+    "worldCupsCount": 3,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "ivory-coast",
+    "name": "Ivory Coast",
+    "confederation": "CAF",
+    "worldCupsCount": 3,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "egypt",
+    "name": "Egypt",
+    "confederation": "CAF",
+    "worldCupsCount": 3,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "south-africa",
+    "name": "South Africa",
+    "confederation": "CAF",
+    "worldCupsCount": 3,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "wales",
+    "name": "Wales",
+    "confederation": "UEFA",
+    "worldCupsCount": 2,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "turkey",
+    "name": "Turkey",
+    "confederation": "UEFA",
+    "worldCupsCount": 2,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "greece",
+    "name": "Greece",
+    "confederation": "UEFA",
+    "worldCupsCount": 2,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "slovenia",
+    "name": "Slovenia",
+    "confederation": "UEFA",
+    "worldCupsCount": 2,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "ukraine",
+    "name": "Ukraine",
+    "confederation": "UEFA",
+    "worldCupsCount": 2,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "confederation": "CONCACAF",
+    "worldCupsCount": 2,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "el-salvador",
+    "name": "El Salvador",
+    "confederation": "CONCACAF",
+    "worldCupsCount": 2,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "north-korea",
+    "name": "North Korea",
+    "confederation": "AFC",
+    "worldCupsCount": 2,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "new-zealand",
+    "name": "New Zealand",
+    "confederation": "OFC",
+    "worldCupsCount": 2,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "slovakia",
+    "name": "Slovakia",
+    "confederation": "UEFA",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "bosnia-and-herzegovina",
+    "name": "Bosnia & Herzegovina",
+    "confederation": "UEFA",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "iceland",
+    "name": "Iceland",
+    "confederation": "UEFA",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "haiti",
+    "name": "Haiti",
+    "confederation": "CONCACAF",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "cuba",
+    "name": "Cuba",
+    "confederation": "CONCACAF",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "jamaica",
+    "name": "Jamaica",
+    "confederation": "CONCACAF",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "trinidad-and-tobago",
+    "name": "Trinidad & Tobago",
+    "confederation": "CONCACAF",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "panama",
+    "name": "Panama",
+    "confederation": "CONCACAF",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "angola",
+    "name": "Angola",
+    "confederation": "CAF",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "togo",
+    "name": "Togo",
+    "confederation": "CAF",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "dr-congo",
+    "name": "DR Congo",
+    "confederation": "CAF",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "china",
+    "name": "China",
+    "confederation": "AFC",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "qatar",
+    "name": "Qatar",
+    "confederation": "AFC",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "iraq",
+    "name": "Iraq",
+    "confederation": "AFC",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "uae",
+    "name": "United Arab Emirates",
+    "confederation": "AFC",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "kuwait",
+    "name": "Kuwait",
+    "confederation": "AFC",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "indonesia",
+    "name": "Indonesia",
+    "confederation": "AFC",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "israel",
+    "name": "Israel",
+    "confederation": "UEFA",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "cape-verde",
+    "name": "Cape Verde",
+    "confederation": "CAF",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "curacao",
+    "name": "Curaçao",
+    "confederation": "CONCACAF",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "jordan",
+    "name": "Jordan",
+    "confederation": "AFC",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  },
+  {
+    "id": "uzbekistan",
+    "name": "Uzbekistan",
+    "confederation": "AFC",
+    "worldCupsCount": 1,
+    "status": "pending",
+    "tier": "small"
+  }
+]

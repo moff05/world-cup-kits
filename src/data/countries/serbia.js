@@ -1,0 +1,650 @@
+export const serbia = {
+  "id": "serbia",
+  "name": "Serbia",
+  "flagCode": "rs",
+  "confederation": "UEFA",
+  "worldCups": [
+    1930,
+    1950,
+    1954,
+    1958,
+    1962,
+    1974,
+    1982,
+    1990,
+    1998,
+    2006,
+    2010,
+    2018,
+    2022
+  ],
+  "bestResult": "Fourth Place (1930, 1962)",
+  "stats": {
+    "matches": 49,
+    "wins": 18,
+    "draws": 9,
+    "losses": 22,
+    "goalsFor": 71,
+    "goalsAgainst": 71
+  },
+  "facts": [
+    {
+      "id": "plavi-to-orlovi",
+      "label": "PLAVI TO ORLOVI",
+      "story": "For 86 years, from the 1920s until 2006, the national team wore blue and carried the nickname \"Plavi\" — the Blues. When Montenegro split from Serbia that year, the federation switched to a red shirt with blue shorts and white socks, honoring the Serbian tricolor, and the crest gained a white double-headed eagle. Fans renamed the side \"Orlovi,\" the Eagles. In 2025, nineteen years later, Serbia brought blue back into the kit, reviving the old nickname alongside the new one."
+    },
+    {
+      "id": "los-ichachos",
+      "label": "LOS ICHACHOS",
+      "story": "At the inaugural 1930 World Cup in Montevideo, Yugoslavia fielded the youngest squad in the tournament, averaging barely 22 years old, yet opened with a stunning 2–1 win over Brazil at Parque Central. The scrappy, fast-attacking teenagers charmed the host country's crowds so much that Uruguayan fans gave them a nickname of their own: \"Los Ichachos.\" The affection didn't save them from a 6–1 semi-final beating at the hands of the tournament hosts, but the nickname outlived the result."
+    }
+  ],
+  "kits": {
+    "1930": {
+      "result": "4th Place",
+      "headline": "Teenagers Topple Brazil",
+      "homeColors": "dark blue shirt, white shorts, red socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bolivia",
+          "score": "4–0",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Uruguay",
+          "score": "1–6",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "TEENAGERS TOPPLE BRAZIL",
+              "story": "Yugoslavia's squad, the youngest at the inaugural tournament with an average age near 22, opened with a stunning 2–1 win over Brazil in Montevideo behind goals from Aleksandar Tirnanić and Ivan Bek. A 4–0 win over Bolivia followed. Host Uruguay ended the run 6–1 in the semi-final, but Uruguayan fans had already nicknamed them 'Los Ichachos.'"
+            }
+          ]
+        }
+      }
+    },
+    "1950": {
+      "result": "Group Stage",
+      "headline": "Denied By Rio Heartbreak",
+      "homeColors": "dark blue shirt, white shorts, red socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "3–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "4–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "DENIED BY RIO HEARTBREAK",
+              "story": "Yugoslavia thrashed Switzerland 3–0 and Mexico 4–1 to open Brazil's tournament, needing just a draw against the hosts to reach the final round-robin. Brazil beat them 2–0 in Rio de Janeiro instead, eliminating Yugoslavia on goal difference in one of the tightest group finishes of the era."
+            }
+          ]
+        }
+      }
+    },
+    "1954": {
+      "result": "Quarter-final",
+      "headline": "Halted By The Miracle Men",
+      "homeColors": "dark blue shirt, white shorts, red socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "West Germany",
+          "score": "0–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "HALTED BY THE MIRACLE MEN",
+              "story": "Miloš Milutinović's goal beat France, and Branko Zebec's equalizer salvaged a 1–1 draw with Brazil to send Yugoslavia into the quarter-finals in Switzerland. West Germany, riding the momentum that would carry them to the 'Miracle of Bern,' shut Yugoslavia out 2–0 and ended their run."
+            }
+          ]
+        }
+      }
+    },
+    "1958": {
+      "result": "Quarter-final",
+      "headline": "Petaković Can't Break Germany",
+      "homeColors": "dark blue shirt, white shorts, red socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "3–2",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Paraguay",
+          "score": "3–3",
+          "result": "D"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "West Germany",
+          "score": "0–1",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "PETAKOVIĆ CAN'T BREAK GERMANY",
+              "story": "Aleksandar Petaković scored in three straight matches as Yugoslavia scraped through a tricky group with Scotland, France, and Paraguay. West Germany's defense proved the difference in the quarter-final, though, with Yugoslavia falling 1–0 despite a spirited showing in Sweden."
+            }
+          ]
+        }
+      }
+    },
+    "1962": {
+      "result": "4th Place",
+      "headline": "Jerković's Golden Boot Run",
+      "homeColors": "dark blue shirt, white shorts, red socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Soviet Union",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "3–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Colombia",
+          "score": "5–0",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "West Germany",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Czechoslovakia",
+          "score": "1–3",
+          "result": "L"
+        },
+        {
+          "round": "3rd Place",
+          "opponent": "Chile",
+          "score": "0–1",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "JERKOVIĆ'S GOLDEN BOOT RUN",
+              "story": "Dražan Jerković's four goals carried Yugoslavia past Uruguay and Colombia, then Milan Radaković's strike shocked West Germany 1–0 in the quarter-final in Chile. Czechoslovakia ended the run in the semi-final, and a weary Yugoslavia lost the third-place match to the hosts, settling for fourth again."
+            }
+          ]
+        }
+      }
+    },
+    "1974": {
+      "result": "2nd Round",
+      "headline": "Nine Unanswered Goals",
+      "homeColors": "dark blue shirt, white shorts, red socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Zaire",
+          "score": "9–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "West Germany",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Poland",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Sweden",
+          "score": "1–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "NINE UNANSWERED GOALS",
+              "story": "Dušan Bajević's hat-trick headlined a 9–0 demolition of Zaire, still the biggest win in the team's World Cup history, after a scoreless draw with Brazil. West Germany, Poland, and Sweden then swept the second group stage in West Germany, ending a promising run just short of the semis."
+            }
+          ]
+        }
+      }
+    },
+    "1982": {
+      "result": "Group Stage",
+      "headline": "A Quiet Group Stage Exit",
+      "homeColors": "dark blue shirt, white shorts, red socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Northern Ireland",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Honduras",
+          "score": "1–0",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "A QUIET GROUP STAGE EXIT",
+              "story": "A scoreless draw with Northern Ireland opened Yugoslavia's tournament in Spain, and Petar Gudelj's strike against the hosts wasn't enough in a 2–1 loss. Petrović's goal beat Honduras to close the group, but goal difference eliminated Yugoslavia just short of the second round."
+            }
+          ]
+        }
+      }
+    },
+    "1990": {
+      "result": "Quarter-final",
+      "headline": "Stojković Stuns Spain",
+      "homeColors": "dark blue shirt, white shorts, red socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "1–4",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Colombia",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United Arab Emirates",
+          "score": "4–1",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Spain",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Argentina",
+          "score": "0–0 (2–3 pens)",
+          "result": "D"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "STOJKOVIĆ STUNS SPAIN",
+              "story": "Dragan Stojković scored twice to beat Spain 2–1 in extra time in the Round of 16, sending Yugoslavia into a quarter-final showdown with Diego Maradona's Argentina. Neither side scored through 120 minutes in Florence, and Argentina survived the shootout 3–2, ending one of Yugoslavia's best modern runs."
+            }
+          ]
+        }
+      }
+    },
+    "1998": {
+      "result": "Round of 16",
+      "headline": "Komljenović's Breakthrough Run",
+      "homeColors": "dark blue shirt, white shorts, red socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Iran",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "2–2",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Netherlands",
+          "score": "1–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "KOMLJENOVIĆ'S BREAKTHROUGH RUN",
+              "story": "Slobodan Komljenović scored the winner against the United States and struck again as the Netherlands eliminated FR Yugoslavia 2–1 in the Round of 16. Predrag Mijatović and Dragan Stojković had rescued a 2–2 draw with Germany in the group, but the Dutch ended the run in France."
+            }
+          ]
+        }
+      }
+    },
+    "2006": {
+      "result": "Group Stage",
+      "headline": "Argentina's Six-Goal Humiliation",
+      "homeColors": "dark blue shirt, white shorts, red socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "0–6",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ivory Coast",
+          "score": "2–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "ARGENTINA'S SIX-GOAL HUMILIATION",
+              "story": "Serbia and Montenegro's farewell World Cup turned disastrous in Germany: a 1–0 loss to the Netherlands, then a 6–0 rout by Argentina, still the program's worst World Cup defeat. Nikola Žigić and Ilić scored consolation goals in a 2–3 loss to Ivory Coast to close a winless tournament."
+            }
+          ]
+        }
+      }
+    },
+    "2010": {
+      "result": "Group Stage",
+      "headline": "Jovanović Topples Germany",
+      "homeColors": "red shirt, blue shorts, white socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Ghana",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Australia",
+          "score": "1–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "JOVANOVIĆ TOPPLES GERMANY",
+              "story": "Milan Jovanović's strike shocked defending finalists Germany 1–0 in South Africa, one of the tournament's biggest upsets. But an opening loss to Ghana and Pantelić's consolation goal in a 2–1 defeat to Australia left Serbia eliminated on goal difference despite beating the runners-up."
+            }
+          ]
+        }
+      }
+    },
+    "2018": {
+      "result": "Group Stage",
+      "headline": "Kolarov's Free Kick Opener",
+      "homeColors": "red shirt, blue shorts, white socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Costa Rica",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "KOLAROV'S FREE KICK OPENER",
+              "story": "Aleksandar Kolarov's free kick beat Costa Rica in Serbia's opener, but Xherdan Shaqiri's late winner sent Switzerland to a 2–1 comeback win, and Brazil closed out Serbia 2–0 in Moscow. A promising start faded fast in a tightly bunched Group E."
+            }
+          ]
+        }
+      }
+    },
+    "2022": {
+      "result": "Group Stage",
+      "headline": "Mitrović's Late Cameroon Rescue",
+      "homeColors": "red shirt, blue shorts, white socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Cameroon",
+          "score": "3–3",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "2–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "MITROVIĆ'S LATE CAMEROON RESCUE",
+              "story": "Aleksandar Mitrović's stoppage-time header salvaged a wild 3–3 draw with Cameroon after Richarlison had sunk Serbia against Brazil. Xherdan Shaqiri's Switzerland struck again in a 2–3 finale loss, and Serbia went out on goal difference for the third straight tournament."
+            }
+          ]
+        }
+      }
+    }
+  }
+};

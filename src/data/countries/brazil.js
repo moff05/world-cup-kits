@@ -29,6 +29,14 @@ export const brazil = {
     2026
   ],
   "bestResult": "5× World Champions",
+  "stats": {
+    "matches": 119,
+    "wins": 79,
+    "draws": 20,
+    "losses": 20,
+    "goalsFor": 247,
+    "goalsAgainst": 112,
+  },
   "facts": [
     {
       "id": "one-name",
@@ -247,14 +255,14 @@ export const brazil = {
               "story": "Brazil wore white for the 1950 World Cup — a plain shirt with no mythology behind it. Then came July 16, 1950. In the final round-robin match, Brazil needed only a draw against Uruguay to win the World Cup on home soil. The Maracanã stadium in Rio de Janeiro held approximately 200,000 people — the largest crowd ever to watch a football match. Brazil scored first. Then Uruguay scored twice in the second half. Final score: Uruguay 2, Brazil 1. The nation went into collective silence. Newspapers printed headlines mourning a defeat that hadn't happened yet. The white shirt was buried with the result. Brazil has never worn white at a World Cup since. When they held a national design competition to replace it, the winner was yellow — the color that would go on to become one of the most recognizable kits in the history of sport."
             },
             {
-              "id": "collar-1950",
-              "label": "The Blue Collar",
-              "story": "The collar and sleeve cuffs on this shirt are blue — not green. Brazil in 1950 wore white shirts with blue trim, pairing with blue shorts. There was no green on the kit at all. When Brazil held a national design competition after the 1950 loss and chose the yellow kit, the accent color shifted from blue to green — pulled from the green border on the Brazilian flag. Look at the 1958 kit on this site: green collar, green cuffs, yellow shirt. That pairing defined every Brazil kit that followed. The blue collar on this 1950 shirt has never appeared again."
+              "id": "ghiggia-goal-1950",
+              "label": "Ghiggia's Goal",
+              "story": "Alcides Ghiggia received the ball on the right wing with eleven minutes left. Brazil needed only a draw to win the World Cup on home soil. Ghiggia cut inside and struck low toward the near post — a side goalkeeper Moacir Barbosa had left open, assuming Ghiggia would cross. The ball went in. Uruguay 2, Brazil 1. The stadium fell into what witnesses described as absolute silence. 'Only three people have ever silenced the Maracanã,' Ghiggia said decades later. 'Frank Sinatra, Pope John Paul II, and me.'"
             },
             {
-              "id": "crest-1950",
-              "label": "The CBD Crest",
-              "story": "The crest reads CBD — Confederação Brasileira de Desportos, the governing body that ran Brazilian football in 1950. The CBD oversaw multiple sports, not football alone. It was renamed the CBF (Confederação Brasileira de Futebol) in 1979. The shield shape and the Southern Cross constellation inside it — the same stars that appear on the Brazilian flag, representing the country's states — carried over into the modern crest. Brazil won the first three of their five World Cups under this CBD badge."
+              "id": "barbosa-1950",
+              "label": "Barbosa's Burden",
+              "story": "Moacir Barbosa, Brazil's goalkeeper, became the public focus of the nation's grief for the rest of his life. He was Black in a country where racism operated beneath the surface of football — and the blame attached to him in ways it did not attach to his white teammates who had also failed to hold the lead. He was banned from visiting the Brazil squad in later years, the federation reportedly fearing his presence brought bad luck. He died in 2000, still carrying it. 'The maximum sentence in Brazil is thirty years,' he once said. 'I have been paying for fifty.'"
             }
           ]
         }
@@ -373,11 +381,6 @@ export const brazil = {
               "story": "The 1958 World Cup final was Brazil vs. Sweden — but Sweden wore yellow, so Brazil had to change. Brazil's outfield starters stripped the CBD crest from their yellow shirts and sewed them onto improvised blue jerseys for the final. They won 5-2. Pelé scored twice. Vavá scored twice. The yellow shirts didn't play in the final; the blue improvisations did. One untouched yellow shirt survived — belonging to substitute Moacir Claudino Pinto, who never came on. It remains the only yellow shirt from the 1958 squad known to still exist."
             },
             {
-              "id": "first-title-abroad",
-              "label": "First Champions Abroad",
-              "story": "Brazil's 1958 title was the first World Cup won by a South American nation on European soil. Uruguay won in 1930 (in Uruguay) and 1950 (in Brazil). Argentina had never won at all. Brazil in Sweden were something different: a squad built around youth (Pelé, 17; Garrincha, 24), technical excellence, and collective joy. The tactics were simple — trust the players. Coach Vicente Feola and psychologist João Carvalho selected players partly on personality and emotional resilience. The selection worked. Brazil had never won the World Cup before 1958. After 1958, they would win it four more times."
-            },
-            {
               "id": "athleta-brand",
               "label": "Made in Brazil",
               "story": "Athleta — a Brazilian sportswear company — supplied Brazil's national team kits from 1958 to 1970, covering three World Cup wins. The company was so proud of this association that they permanently added three gold stars to their logo. Brazil didn't sign with a global kit manufacturer until Topper in 1978, then Adidas, then eventually Nike in 1996. The 1958, 1962, and 1970 titles — three of Brazil's five — were won in shirts made by a domestic manufacturer most of the world had never heard of."
@@ -490,9 +493,9 @@ export const brazil = {
           },
           "annotations": [
             {
-              "id": "jacket-1966",
-              "label": "The Museum Jacket",
-              "story": "This is not a match shirt but a Brazil warm-up jacket from the 1966 World Cup — part of the Maracanã Walk of Fame collection in Rio de Janeiro, the same series that holds the 1950 white shirt. The jacket carries the CBD crest, the same governing body that appeared on every Brazil shirt from 1930 through 1978. It would be renamed the CBF in 1979. This jacket survived in a museum while the squad that wore it became defined by what happened to its best player on an English pitch."
+              "id": "defending-1966",
+              "label": "Two-Time Champions, Nowhere to Hide",
+              "story": "Brazil arrived in England in 1966 as the defending world champions — twice over. They had won in 1958 and 1962 with many of the same players. Pelé was 25, Garrincha 32 and fading. European opponents targeted them physically from the opening match: Bulgarian defenders fouled Pelé repeatedly in the first game, which Brazil won 2-0. Against Hungary, Brazil lost 3-1 — the first time they had been beaten at a World Cup since 1954. Against Portugal, João Morais ended Pelé's tournament with a two-footed tackle that left him unable to walk. Brazil was eliminated in the group stage for the first time since 1934."
             },
             {
               "id": "pele-1966",
@@ -560,19 +563,19 @@ export const brazil = {
           },
           "annotations": [
             {
-              "id": "yellow",
-              "label": "The Yellow",
-              "story": "Brazil didn't always wear yellow. They wore white until 1950, when they lost the World Cup final on home soil to Uruguay — the Maracanazo. A newspaper held a national design competition. The winning entry used the four colors of Brazil's flag. Yellow has never left."
+              "id": "pele-return-1970",
+              "label": "Pelé Came Back",
+              "story": "After the violence of 1966 — where João Morais had broken him on an English pitch — Pelé publicly said he would never play another World Cup. Four years later, Brazil's federation convinced him otherwise. He was 29 in Mexico, and still the best player in the world. In the group stage opener against Czechoslovakia, he struck the ball from his own half — 60 meters out — after seeing the goalkeeper off his line. The shot missed wide by inches. Nobody had attempted that at a World Cup before. It was a statement. Brazil scored 19 goals in 6 matches and conceded 7. They were not cautious. They were joyful."
             },
             {
-              "id": "crest",
-              "label": "The CBD Crest",
-              "story": "The crest on this shirt reads CBD — Confederação Brasileira de Desportos, the same governing body that had run Brazilian football since 1930. The CBD wasn't renamed the CBF (dedicated solely to football) until 1979. The shield in green and gold contains the Southern Cross, the same constellation on the Brazilian flag. Brazil won three of their five World Cup titles wearing this CBD badge."
+              "id": "carlos-alberto-1970",
+              "label": "The Fourth Goal",
+              "story": "Brazil beat Italy 4-1 in the 1970 final in Mexico City. The fourth goal, scored in the 86th minute, is considered by most football historians to be the greatest team goal ever scored in a major tournament. Clodoaldo dribbled through four Italian players in his own half, passed to Rivelino, who found Jairzinho, who laid it to Pelé. Pelé waited — didn't shoot, didn't dribble — and rolled the ball sideways without looking, into the exact path of Carlos Alberto running at full pace from the right. He struck it into the bottom corner. The sequence involved eight touches, six players, and the length of the pitch. Carlos Alberto fell to his knees."
             },
             {
-              "id": "number",
-              "label": "No Numbers on the Front",
-              "story": "In 1970, squad numbers ran 1–22 and appeared only on the back — a convention Brazil kept long after other nations moved to shirt-specific numbering. Pelé wore 10. Carlos Alberto wore 6. The no. 10 became so linked to Pelé that every Brazil ten since — Zico, Rivaldo, Ronaldinho, Neymar — has carried the weight of the comparison."
+              "id": "yellow-1970",
+              "label": "The Color That Owns Football",
+              "story": "The 1970 World Cup was the first broadcast in color television globally. Yellow shirt, blue shorts, green pitch — Brazil's kit became the most visible thing on screens across the world for six weeks. Part of the kit's mythology is inseparable from 1970: the performances gave the color meaning it could not have had on its own. Every replica, every imitation, every homage to Brazil's yellow traces back to what happened in Mexico. The Jules Rimet Trophy went to Rio permanently — three titles gave it to Brazil outright. The yellow shirt went everywhere else."
             }
           ]
         }
@@ -801,8 +804,8 @@ export const brazil = {
               {
                       "round": "Group Stage",
                       "opponent": "Spain",
-                      "score": "1–1",
-                      "result": "D"
+                      "score": "1–0",
+                      "result": "W"
               },
               {
                       "round": "Group Stage",
@@ -826,7 +829,7 @@ export const brazil = {
                       "round": "Quarter-final",
                       "opponent": "France",
                       "score": "1–1 (3–4 pens)",
-                      "result": "L"
+                      "result": "D"
               }
       ],
 
@@ -955,7 +958,7 @@ export const brazil = {
                       "round": "Final",
                       "opponent": "Italy",
                       "score": "0–0 (3–2 pens)",
-                      "result": "W"
+                      "result": "D"
               }
       ],
 
@@ -1025,7 +1028,7 @@ export const brazil = {
                       "round": "Semi-final",
                       "opponent": "Netherlands",
                       "score": "1–1 (4–2 pens)",
-                      "result": "W"
+                      "result": "D"
               },
               {
                       "round": "Final",
@@ -1290,7 +1293,7 @@ export const brazil = {
                       "round": "Round of 16",
                       "opponent": "Chile",
                       "score": "1–1 (3–2 pens)",
-                      "result": "W"
+                      "result": "D"
               },
               {
                       "round": "Quarter-final",
@@ -1389,14 +1392,14 @@ export const brazil = {
               "story": "Reporters calculated that Neymar spent approximately 14 minutes lying on the pitch during Brazil's 2018 World Cup campaign — some after genuine contact, some after minimal or no contact at all. A video of him rolling repeatedly after a soft challenge against Mexico became one of the viral moments of the tournament. Mexico fans chanted his name sarcastically. Rival fans worldwide made compilation videos. Neymar addressed it at a press conference, saying he wasn't proud of it. Brazil eliminated Mexico 2-0 and reached the quarterfinals. But the story of the tournament wasn't the football."
             },
             {
-              "id": "five-stars-badge-2018",
-              "label": "Five Stars, No Sixth",
-              "story": "The CBF crest on this shirt carries five stars — one for each World Cup title: 1958, 1962, 1970, 1994, 2002. Brazil added the fifth star permanently after 2002 and it has been on the badge ever since. But the sixth star has not come. Since winning in Japan and South Korea, Brazil have been eliminated in the quarterfinals in 2006, 2010, 2014, 2018, and 2022. No other nation carries the weight of five stars without a sixth in active pursuit. The badge is a reminder of greatness. It is also, increasingly, a reminder of absence."
-            },
-            {
               "id": "belgium-2018",
               "label": "Belgium's Counter",
               "story": "Belgium beat Brazil 2-1 in the 2018 quarterfinal in Kazan in a match that showed the limits of Neymar-dependent football. Fernandinho accidentally headed into his own net for 1-0. Kevin De Bruyne doubled it with a counterattack so precise it looked designed weeks in advance. Renato Augusto pulled one back (2-1) but Brazil couldn't find a second. Belgium's counter-pressing system — De Bruyne, Eden Hazard, Romelu Lukaku — neutralized everything Brazil built through Neymar. Neymar's tears at full time were broadcast worldwide. He was 26. The weight of Brazil's expectations had become visibly, physically heavy."
+            },
+            {
+              "id": "five-stars-badge-2018",
+              "label": "Five Stars, No Sixth",
+              "story": "The CBF crest on this shirt carries five stars — one for each World Cup title: 1958, 1962, 1970, 1994, 2002. Brazil added the fifth star permanently after 2002 and it has been on the badge ever since. But the sixth star has not come. Since winning in Japan and South Korea, Brazil have been eliminated in the quarterfinals in 2006, 2010, 2014, 2018, and 2022. No other nation carries the weight of five stars without a sixth in active pursuit. The badge is a reminder of greatness. It is also, increasingly, a reminder of absence."
             }
           ]
         }
@@ -1434,7 +1437,7 @@ export const brazil = {
                       "round": "Quarter-final",
                       "opponent": "Croatia",
                       "score": "1–1 (2–4 pens)",
-                      "result": "L"
+                      "result": "D"
               }
       ],
 
@@ -1484,19 +1487,19 @@ export const brazil = {
           },
           "annotations": [
             {
-              "id": "dual-blue",
-              "label": "Two Shades of Blue",
-              "story": "The collar and trim use two distinct blues — Light Mint and Geode Teal — rather than the single navy traditionally used. Nike's designers pulled from the palette of Brazil's rivers, the Amazon and its tributaries. The 1970 kit used a similar dual-tone blue that most replicas get wrong."
+              "id": "favorites-2026",
+              "label": "Favorites in New York",
+              "story": "Brazil arrived at the 2026 World Cup in the United States as one of the shortest-priced favorites in years. Vinicius Júnior was playing the best football of his life. Rodrygo, Endrick, and Raphinha gave them depth in attack that most squads couldn't match. Their group-stage games at MetLife Stadium in New Jersey drew some of the largest crowds of the tournament — the Brazilian diaspora in New York turned the stadium yellow. A 1-1 draw against Morocco was the only stumble. They beat Haiti 3-0 and Scotland 3-0, then eliminated Japan 2-1 in the Round of 32. Norway was next."
             },
             {
-              "id": "flag-pattern",
-              "label": "The Hidden Flag",
-              "story": "Look closely at the fabric. A distorted outline of the Brazilian flag is woven into the yellow as a subtle all-over print. It's invisible at match distance — only visible when you hold the shirt. Nike called it 'a secret only the wearer knows.'"
+              "id": "haaland-2026",
+              "label": "Haaland's Night",
+              "story": "On July 5 at SoFi Stadium in Los Angeles, Erling Haaland scored twice against Brazil in the Round of 16. Both goals were Haaland at his most direct — composed, inevitable, exactly the type of threat Brazil's defense had no answer for. Brazil scored through a Neymar penalty, but Norway held. Norway 2, Brazil 1. The Seleção went home before the quarterfinals for the first time since 1990, beaten by a team they had never lost to at a World Cup before. 'The best night of my football life,' Haaland said afterward."
             },
             {
-              "id": "green-panels",
-              "label": "Green Side Panels",
-              "story": "The side panels and shoulder accents are green — a nod to the 1970 shirt, which used green side inserts at a time when most kits were solid-colored. The 2026 designers explicitly cited the 1970 kit as their starting point."
+              "id": "kit-2026",
+              "label": "The 2026 Kit",
+              "story": "Nike built the 2026 shirt around two shades of blue in the collar and trim — Light Mint and Geode Teal — referencing the palette of Brazil's rivers. The green side panels are a deliberate echo of the 1970 kit's inserts. The fabric carries an all-over print of the Brazilian flag in distorted outline, woven into the yellow and invisible at match distance. It is the most detailed Brazil shirt Nike has produced. It was worn in five matches across New Jersey and Los Angeles. None of them ended in a title."
             }
           ]
         }

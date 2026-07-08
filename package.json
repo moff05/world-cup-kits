@@ -5,9 +5,13 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "watch:data": "node watch.js",
     "build": "vite build",
+    "prebuild": "node scripts/validate.js",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "validate": "node scripts/validate.js",
+    "deploy": "vercel deploy --prod"
   },
   "dependencies": {
     "react": "^19.2.7",

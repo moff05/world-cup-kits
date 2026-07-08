@@ -14,27 +14,437 @@ export const chile = {
     2010,
     2014
   ],
+  "bestResult": "Third Place (1962)",
+  "stats": {
+    "matches": 33,
+    "wins": 11,
+    "draws": 7,
+    "losses": 15,
+    "goalsFor": 40,
+    "goalsAgainst": 49
+  },
+  "facts": [
+    {
+      "id": "battle-of-santiago",
+      "label": "BATTLE OF SANTIAGO",
+      "story": "Chile's group match against Italy at the 1962 World Cup they were hosting produced the most notorious brawl in tournament history. The first foul came after 12 seconds; Italy's Giorgio Ferrini was sent off four minutes later and had to be dragged away by police when he refused to leave the field. Referee Ken Aston, who later invented the yellow and red card system after struggling to control the chaos, called it the worst game he'd ever officiated. Chile won 2–0 amid the wreckage."
+    },
+    {
+      "id": "caszelys-red-card",
+      "label": "FIRST RED CARD EVER",
+      "story": "Red and yellow cards debuted at the 1970 World Cup but sat unused until 1974, when referee Doğan Babacan pulled the first-ever red card in tournament history on Carlos Caszely, sending him off in the 80th minute of Chile's group match against hosts West Germany. It fit a team already nicknamed La Roja — 'The Red One' — for a home shirt worn since the 1947 South American Championship, drawn from the red, white, and blue of the Chilean flag."
+    }
+  ],
   "kits": {
-    "1962": {
-      "headline": "Red on Home Soil",
+    "1930": {
+      "result": "Group Stage",
+      "headline": "First Miss, First Win",
+      "homeColors": null,
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "3–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "1–3",
+          "result": "L"
+        }
+      ],
       "kits": {
         "home": {
           "image": null,
-          "imageCredit": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
           "annotations": [
             {
-              "id": "red-origin",
-              "x": 50,
-              "y": 40,
-              "label": "Why Red?",
-              "story": "Chile's red dates back to the 19th century and the country's flag — a single red stripe representing the blood spilled for independence. In 1962, hosting their only World Cup on home soil, Chile wore a plain red shirt with white shorts. No sponsor logos, no sublimated patterns. Just red. They finished third."
-            },
+              "id": "story",
+              "label": "FIRST MISS, FIRST WIN",
+              "story": "In Chile's first-ever World Cup match, Guillermo Subiabre missed a penalty against France — the tournament's first missed spot-kick — then scored the winner anyway in a 1–0 win. Bata Vidal's brace had already sunk Mexico 3–0, but Argentina's 3–1 victory in the finale eliminated Chile from the inaugural tournament."
+            }
+          ]
+        }
+      }
+    },
+    "1950": {
+      "result": "Group Stage",
+      "headline": "Robledo's Rout, Early Exit",
+      "homeColors": "red shirt, blue shorts, white socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "5–2",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
             {
-              "id": "la-roja",
-              "x": 50,
-              "y": 65,
-              "label": "La Roja",
-              "story": "The nickname 'La Roja' — The Red — is inseparable from the shirt. Chilean fans don't cheer for Chile; they cheer for La Roja. The color has carried the identity of the team for over a century, surviving five different kit manufacturers and every qualifying cycle in between."
+              "id": "story",
+              "label": "ROBLEDO'S ROUT, EARLY EXIT",
+              "story": "George Robledo, born in England to a Chilean father, starred in a 5–2 demolition of the United States in Recife, with Robledo, Riera, and Prieto all on the scoresheet. But back-to-back 2–0 losses to England and Spain had already ended Chile's run in the round-robin final group."
+            }
+          ]
+        }
+      }
+    },
+    "1962": {
+      "result": "3rd Place",
+      "headline": "Hosts Climb to Third",
+      "homeColors": "red shirt, white shorts, blue socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "3–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Soviet Union",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Brazil",
+          "score": "2–4",
+          "result": "L"
+        },
+        {
+          "round": "3rd Place",
+          "opponent": "Yugoslavia",
+          "score": "1–0",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "HOSTS CLIMB TO THIRD",
+              "story": "Leonel Sánchez's goals carried host Chile past Switzerland and Italy into a bruising campaign that toppled the Soviet Union in the quarter-final, before Garrincha's Brazil ended the run 4–2 in the semi. Eladio Rojas's late strike beat Yugoslavia in the third-place match, sealing the best finish in Chilean football history on home soil."
+            }
+          ]
+        }
+      }
+    },
+    "1966": {
+      "result": "Group Stage",
+      "headline": "One Point, Long Trip Home",
+      "homeColors": "red shirt, blue shorts, white socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "North Korea",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Soviet Union",
+          "score": "1–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "ONE POINT, LONG TRIP HOME",
+              "story": "Chile crossed the world to defend their 1962 bronze and found only frustration: a 2–0 opening loss to Italy, then Marcos's penalty salvaged a 1–1 draw with North Korea before his second goal of the tournament wasn't enough as the Soviet Union won 2–1 — three games, one point, and an early flight out of England."
+            }
+          ]
+        }
+      }
+    },
+    "1974": {
+      "result": "Group Stage",
+      "headline": "Caszely's Red Card History",
+      "homeColors": "red shirt, blue shorts, white socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "East Germany",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Australia",
+          "score": "0–0",
+          "result": "D"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "CASZELY'S RED CARD HISTORY",
+              "story": "Carlos Caszely became the first player ever sent off with a red card at a World Cup, dismissed in the 80th minute of a 1–0 loss to hosts West Germany. Draws with East Germany and Australia added a point apiece, but Chile's return to the finals after eight years away ended without a single win."
+            }
+          ]
+        }
+      }
+    },
+    "1982": {
+      "result": "Group Stage",
+      "headline": "Three Games, Three Defeats",
+      "homeColors": "red shirt, blue shorts, white socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Austria",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "1–4",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Algeria",
+          "score": "2–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "THREE GAMES, THREE DEFEATS",
+              "story": "Chile's return to the finals in Spain brought three straight losses: 1–0 to Austria, a Mario Moscoso stoppage-time strike wasn't enough in a 4–1 defeat to West Germany, and a back-and-forth 3–2 loss to Algeria despite goals from Juan Carlos Letelier and a Neira penalty. First World Cup without a single win or draw."
+            }
+          ]
+        }
+      }
+    },
+    "1998": {
+      "result": "Round of 16",
+      "headline": "Salas Shines, Brazil Ends It",
+      "homeColors": "red shirt, blue shorts, white socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "2–2",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Austria",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Cameroon",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Brazil",
+          "score": "1–4",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "SALAS SHINES, BRAZIL ENDS IT",
+              "story": "Marcelo Salas scored in every group match — a brace against Italy, one more against Austria — as Chile drew all three group games to sneak into the knockout stage unbeaten. Brazil, the eventual runners-up, ended the run 4–1 in Paris despite another Salas goal — Chile's first knockout match in 36 years."
+            }
+          ]
+        }
+      }
+    },
+    "2010": {
+      "result": "Round of 16",
+      "headline": "Bielsa's Brand, Brazil Again",
+      "homeColors": "red shirt, blue shorts, white socks (Brooks Sports)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Honduras",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Brazil",
+          "score": "0–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "BIELSA'S BRAND, BRAZIL AGAIN",
+              "story": "Marcelo Bielsa's attacking Chile beat Honduras and Switzerland to reach the knockout stage for the first time since 1998, only for Spain's eventual champions to edge them 2–1 in the group finale. Brazil, again, proved the ceiling — a 3–0 Round of 16 defeat in Johannesburg matched the familiar script from 1998."
+            }
+          ]
+        }
+      }
+    },
+    "2014": {
+      "result": "Round of 16",
+      "headline": "Sánchez Stuns, Penalties Sting",
+      "homeColors": "red shirt, blue shorts with white collar trim (Puma)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Australia",
+          "score": "3–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Brazil",
+          "score": "1–1 (2–3 pens)",
+          "result": "D"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "SÁNCHEZ STUNS, PENALTIES STING",
+              "story": "Alexis Sánchez scored in three straight matches — sinking Australia and Spain to reach the knockouts, then equalizing against host Brazil in the Round of 16. Gonzalo Jara's penalty struck the post in the shootout, and Chile went out 3–2 on spot kicks in a match many still call the tournament's toughest to lose."
             }
           ]
         }

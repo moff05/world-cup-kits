@@ -1,0 +1,534 @@
+export const southKorea = {
+  "id": "south-korea",
+  "name": "South Korea",
+  "flagCode": "kr",
+  "confederation": "AFC",
+  "worldCups": [
+    1954,
+    1986,
+    1990,
+    1994,
+    1998,
+    2002,
+    2006,
+    2010,
+    2014,
+    2018,
+    2022
+  ],
+  "bestResult": "4th Place (2002)",
+  "stats": {
+    "matches": 38,
+    "wins": 7,
+    "draws": 10,
+    "losses": 21,
+    "goalsFor": 39,
+    "goalsAgainst": 78
+  },
+  "facts": [
+    {
+      "id": "the-reds",
+      "label": "THE REDS",
+      "story": "Red has been South Korea's color from the start, but it briefly vanished — in 1994 the home shirt flipped to white, only for red to return that October, paired with black shorts. That same year the Red Devils supporters club was born. By 2002, an entire nation dressed to match: hundreds of thousands filled Seoul's streets in matching red T-shirts for the 'Be the Reds' campaign, turning a jersey color into a national identity."
+    },
+    {
+      "id": "miracle-of-doha",
+      "label": "THE MIRACLE OF DOHA",
+      "story": "Trailing Japan and Saudi Arabia with one 1994 qualifier left in 1993, South Korea needed a miracle — and Iraq's Jaffar Omran Salman delivered it, equalizing against Japan in the dying seconds in Doha to hand South Korea a World Cup berth on goal difference. Koreans still call it the 'Miracle of Doha' (Japan calls it the 'Agony of Doha') — the moment a stranger's late goal decided a nation's World Cup fate."
+    }
+  ],
+  "kits": {
+    "1954": {
+      "result": "Group Stage",
+      "headline": "Baptism By Fire",
+      "homeColors": "red shirt, white shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Hungary",
+          "score": "0–9",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Turkey",
+          "score": "0–7",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": "https://commons.wikimedia.org/wiki/File:Hong_Duk_Yung_%ED%99%8D%EB%8D%95%EC%98%81_(South_Korea,_1954_World_Cup).jpg",
+          "imageCredit": {
+            "player": "Hong Deok-young",
+            "game": "South Korea squad, 1954 FIFA World Cup — Public domain / Wikimedia Commons"
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "BAPTISM BY FIRE",
+              "story": "Barely a year after the Korean War ended, an all-military South Korean squad flew to Switzerland and ran into a Hungarian buzzsaw. The 'Magical Magyars' put nine past goalkeeper Hong Deok-young, still a World Cup record for goals conceded by one keeper in a tournament. Turkey added seven more three days later — a debut so lopsided it took 32 years to return."
+            }
+          ]
+        }
+      }
+    },
+    "1986": {
+      "result": "Group Stage",
+      "headline": "Maradona's Group, First Goal",
+      "homeColors": "red shirt, white shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "1–3",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bulgaria",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "2–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "MARADONA'S GROUP, FIRST GOAL",
+              "story": "Diego Maradona inspired Argentina's 3–1 win in South Korea's return after 32 years away, but Kim Jong-boo's side clawed back to draw Bulgaria 1–1 in a Mexico City downpour, Park Chang-sun's strike the first Korean goal in World Cup history. A 3–2 defeat to defending champions Italy closed the group — no wins, but no longer strangers to the stage."
+            }
+          ]
+        }
+      }
+    },
+    "1990": {
+      "result": "Group Stage",
+      "headline": "Winless in Italy",
+      "homeColors": "red shirt, white shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–3",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "0–1",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "WINLESS IN ITALY",
+              "story": "Full circle after a flawless Asian qualifying run — nine wins, no losses — South Korea arrived in Italy only to lose all three group games, to Belgium, Spain, and Uruguay. Hwangbo Kwan's 25-meter strike against Spain was the only goal they managed, a lone highlight in an otherwise forgettable tournament."
+            }
+          ]
+        }
+      }
+    },
+    "1994": {
+      "result": "Group Stage",
+      "headline": "Comebacks That Weren't Enough",
+      "homeColors": "white shirt, red shorts",
+      "awayColors": "red shirt, white shorts",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "2–2",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bolivia",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "2–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "COMEBACKS THAT WEREN'T ENOUGH",
+              "story": "Still riding the high of the Miracle of Doha, South Korea nearly pulled off two more comebacks in the U.S. — clawing back from 2–0 down to draw Spain 2–2, then from 3–0 down to lose to Germany 3–2 in the final minutes. A scoreless draw with Bolivia in between meant heroics without a single win."
+            }
+          ]
+        }
+      }
+    },
+    "1998": {
+      "result": "Group Stage",
+      "headline": "Cha Bum-kun's Early Exit",
+      "homeColors": "red shirt, black shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "1–3",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "0–5",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "1–1",
+          "result": "D"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "CHA BUM-KUN'S EARLY EXIT",
+              "story": "Legend Cha Bum-kun took charge for South Korea's return, but Ha Seok-ju's red card three minutes after his own opening goal undid a lead against Mexico, and the Netherlands routed them 5–0 next — costing Cha his job mid-tournament. Assistant Kim Pyung-seok salvaged pride with a 1–1 draw against Belgium in the finale."
+            }
+          ]
+        }
+      }
+    },
+    "2002": {
+      "result": "4th Place",
+      "headline": "The Miracle Run to Fourth",
+      "homeColors": "red shirt, red shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Portugal",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Italy",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Spain",
+          "score": "0–0 (5–3 pens)",
+          "result": "D"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Germany",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "3rd Place",
+          "opponent": "Turkey",
+          "score": "2–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "THE MIRACLE RUN TO FOURTH",
+              "story": "Co-hosts South Korea shocked the world under Guus Hiddink — Poland fell first, then Portugal, then Italy in extra time and Spain on penalties, sending Hong Myung-bo's side past two European giants no Asian team had ever beaten. Germany ended the dream 1–0 in the semi-final, but fourth place and a Bronze Ball for Hong remain the country's high-water mark."
+            }
+          ]
+        }
+      }
+    },
+    "2006": {
+      "result": "Group Stage",
+      "headline": "Late Heartbreak in Germany",
+      "homeColors": "red shirt, black shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Togo",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "0–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "LATE HEARTBREAK IN GERMANY",
+              "story": "South Korea beat Togo 2–1, then held eventual finalists France to a 1–1 draw on a Park Ji-sung equalizer, keeping a serious knockout push alive. But Switzerland's two late strikes sank them 2–0 in the decider, eliminating the 2002 co-hosts on goal difference alone."
+            }
+          ]
+        }
+      }
+    },
+    "2010": {
+      "result": "Round of 16",
+      "headline": "Greek Tragedy, Then Uruguay",
+      "homeColors": "red shirt, black shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Greece",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "1–4",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Nigeria",
+          "score": "2–2",
+          "result": "D"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Uruguay",
+          "score": "1–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "GREEK TRAGEDY, THEN URUGUAY",
+              "story": "Lee Jung-soo's goal helped sink Greece 2–0 in the opener, and a wild 2–2 draw with Nigeria carried South Korea into the knockout stage for just the second time. Luis Suárez and Uruguay ended the run 2–1 in Port Elizabeth, but a first away-tournament knockout berth was banked."
+            }
+          ]
+        }
+      }
+    },
+    "2014": {
+      "result": "Group Stage",
+      "headline": "Group of Death, No Survivors",
+      "homeColors": "red shirt, black shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Russia",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Algeria",
+          "score": "2–4",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "0–1",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "GROUP OF DEATH, NO SURVIVORS",
+              "story": "A late equalizer salvaged a 1–1 draw with Russia, but Algeria's four-goal blitz and a late Belgium winner sent South Korea home with a single point. Fans greeted the squad at Incheon Airport by throwing yeot, a sticky Korean candy traditionally hurled as an insult — a blunt verdict on the group-stage exit."
+            }
+          ]
+        }
+      }
+    },
+    "2018": {
+      "result": "Group Stage",
+      "headline": "The Miracle of Kazan",
+      "homeColors": "red shirt, black shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "2–0",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "THE MIRACLE OF KAZAN",
+              "story": "Already eliminated after losses to Sweden and Mexico, South Korea needed to beat defending champions Germany by two goals for a fading chance to advance — and somehow did, Kim Young-gwon and Son Heung-min scoring either side of stoppage time to stun the world champions 2–0. Mexico advanced anyway, and grateful Mexican fans celebrated outside the South Korean embassy."
+            }
+          ]
+        }
+      }
+    },
+    "2022": {
+      "result": "Round of 16",
+      "headline": "Hwang's Stoppage-Time Escape",
+      "homeColors": "red shirt with tiger-stripe pattern, black shorts (Nike)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ghana",
+          "score": "2–3",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Portugal",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Brazil",
+          "score": "1–4",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "HWANG'S STOPPAGE-TIME ESCAPE",
+              "story": "Written off after a loss to Ghana, South Korea needed a win over Portugal and help elsewhere — Hwang Hee-chan delivered a stoppage-time winner while Uruguay beat Ghana, sending Son Heung-min's side through on goals scored. Brazil ended the run 4–1 in the Round of 16, Neymar and Vinícius among the scorers in a rout."
+            }
+          ]
+        }
+      }
+    }
+  }
+};

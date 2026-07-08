@@ -1,0 +1,577 @@
+export const switzerland = {
+  "id": "switzerland",
+  "name": "Switzerland",
+  "flagCode": "ch",
+  "confederation": "UEFA",
+  "worldCups": [
+    1934,
+    1938,
+    1950,
+    1954,
+    1962,
+    1966,
+    1994,
+    2006,
+    2010,
+    2014,
+    2018,
+    2022
+  ],
+  "bestResult": "Quarter-finalists (1934, 1938, 1954)",
+  "stats": {
+    "matches": 41,
+    "wins": 14,
+    "draws": 8,
+    "losses": 19,
+    "goalsFor": 55,
+    "goalsAgainst": 73
+  },
+  "facts": [
+    {
+      "id": "highest-scoring-game",
+      "label": "THE HIGHEST-SCORING GAME EVER",
+      "story": "Switzerland hosted the 1954 World Cup and reached the quarter-final, where Austria beat them 7–5 in Lausanne — still the highest-scoring match in World Cup history, seven decades later. Josef Hügi scored three of Switzerland's five goals that day and finished the tournament with six, sharing the Silver Boot. It remains the only individual FIFA World Cup award ever won by a Swiss player, born from a defeat rather than a triumph."
+    },
+    {
+      "id": "unbeaten-and-out",
+      "label": "OUT WITHOUT CONCEDING",
+      "story": "At the 2006 World Cup in Germany, Switzerland became the first team in tournament history to be eliminated without conceding a single goal in regulation play. They shut out France, Togo, and South Korea to top their group, then held Ukraine scoreless through 120 minutes in the Round of 16 — only to lose the shootout 3–0, missing every one of their penalties. Switzerland went home a statistical anomaly: unbeaten, unscored-upon, and out in the first knockout round."
+    }
+  ],
+  "kits": {
+    "1934": {
+      "result": "Quarter-final",
+      "headline": "Kielholz's Double Debut",
+      "homeColors": "red shirt, white shorts, red socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Round of 16",
+          "opponent": "Netherlands",
+          "score": "3–2",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Czechoslovakia",
+          "score": "2–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "KIELHOLZ'S DOUBLE DEBUT",
+              "story": "Leopold Kielholz scored twice as Switzerland beat the Netherlands 3–2 in Milan for their first-ever World Cup win. Four days later, in the tournament's single-elimination format, Czechoslovakia's eventual runners-up edged them 3–2 in the quarter-final despite goals from Kielholz and Jäggi, ending a promising debut just one round short."
+            }
+          ]
+        }
+      }
+    },
+    "1938": {
+      "result": "Quarter-final",
+      "headline": "A Replay, Then a Wall",
+      "homeColors": "red shirt, white shorts, red socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Round of 16",
+          "opponent": "Germany",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Germany",
+          "score": "4–2",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Hungary",
+          "score": "0–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "A REPLAY, THEN A WALL",
+              "story": "André Abegglen's stoppage-time equalizer forced a replay after a 1–1 draw with Germany, and Switzerland won it 4–2 two days later behind two more Abegglen goals. Hungary, on their way to the final, shut the run down 2–0 in the quarter-final — Switzerland's second straight exit at that stage."
+            }
+          ]
+        }
+      }
+    },
+    "1950": {
+      "result": "Group Stage",
+      "headline": "One Win in Brazil",
+      "homeColors": "red shirt, white shorts, red socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Yugoslavia",
+          "score": "0–3",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "2–2",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "2–1",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "ONE WIN IN BRAZIL",
+              "story": "Yugoslavia routed Switzerland 3–0 to open the tournament, but Jacky Fatton's brace salvaged a draw with Brazil, and a Bader-Antenen combination beat Mexico 2–1 to close the group. It wasn't enough — Switzerland's only trip to a World Cup on South American soil ended without advancing."
+            }
+          ]
+        }
+      }
+    },
+    "1954": {
+      "result": "Quarter-final",
+      "headline": "Seven-Five, Still the Record",
+      "homeColors": "red shirt, white shorts, red socks (hosts' kit, unbranded)",
+      "awayColors": "white shirt, red shorts, white socks",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "4–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Austria",
+          "score": "5–7",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "SEVEN-FIVE, STILL THE RECORD",
+              "story": "Hosting the tournament, Switzerland beat Italy twice — including a play-off after a tied group — to reach the quarter-final in Lausanne. Austria won a track meet of a match 7–5, still the highest-scoring game in World Cup history; Robert Ballaman and Josef Hügi combined for five of Switzerland's goals in the defeat."
+            }
+          ]
+        }
+      }
+    },
+    "1962": {
+      "result": "Group Stage",
+      "headline": "Winless in Chile",
+      "homeColors": "red shirt, white shorts, red socks",
+      "awayColors": "white shirt, red shorts, white socks",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "1–3",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "0–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "WINLESS IN CHILE",
+              "story": "Switzerland lost all three group games in Chile — to Chile, West Germany, and Italy — scoring just twice and finishing bottom of the group without a point. It was a forgettable return after missing the 1958 tournament entirely, and worse was still to come four years later."
+            }
+          ]
+        }
+      }
+    },
+    "1966": {
+      "result": "Group Stage",
+      "headline": "Worst Loss, Worst Cup",
+      "homeColors": "red shirt, white shorts, red socks (Tusa)",
+      "awayColors": "white shirt, red shorts, white socks",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "0–5",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "0–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "WORST LOSS, WORST CUP",
+              "story": "West Germany, on their way to the final, opened with a 5–0 demolition of Switzerland in Sheffield — still Switzerland's heaviest World Cup defeat. Losses to Spain and Argentina followed, sealing another winless group stage and the start of a 28-year absence from the tournament."
+            }
+          ]
+        }
+      }
+    },
+    "1994": {
+      "result": "Round of 16",
+      "headline": "Back After 28 Years",
+      "homeColors": "red shirt, white shorts, red socks (Lotto)",
+      "awayColors": "white shirt, red shorts, white socks",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Romania",
+          "score": "4–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Colombia",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Spain",
+          "score": "0–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "BACK AFTER 28 YEARS",
+              "story": "Switzerland ended a 28-year World Cup absence with a Georges Bregy-led draw against the United States and a 4–1 win over Romania — Adrian Knup scoring twice — to reach the Round of 16. Spain ended the run 3–0 in Washington, but reaching the knockout stage felt like a result in itself."
+            }
+          ]
+        }
+      }
+    },
+    "2006": {
+      "result": "Round of 16",
+      "headline": "Unbeaten, Still Eliminated",
+      "homeColors": "red shirt, white shorts, red socks (Puma)",
+      "awayColors": "white shirt, red shorts, white socks",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Togo",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Ukraine",
+          "score": "0–0 (0–3 pens)",
+          "result": "D"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "UNBEATEN, STILL ELIMINATED",
+              "story": "Switzerland didn't concede a single goal in regulation, shutting out France, Togo, and South Korea to win the group, then held Ukraine scoreless through extra time in the Round of 16. They lost the shootout 3–0 without converting a single kick — a statistical oddity, eliminated while still unbeaten."
+            }
+          ]
+        }
+      }
+    },
+    "2010": {
+      "result": "Group Stage",
+      "headline": "The Team That Beat Spain",
+      "homeColors": "red shirt, white shorts, red socks (Puma)",
+      "awayColors": "white shirt, red shorts, white socks",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Honduras",
+          "score": "0–0",
+          "result": "D"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "THE TEAM THAT BEAT SPAIN",
+              "story": "Gelson Fernandes' goal beat eventual champions Spain 1–0 in the group opener, making Switzerland the only team to defeat Spain all tournament. It didn't matter: a loss to Chile and a scoreless draw with Honduras left Switzerland third in the group, eliminated despite handing the champions their only defeat."
+            }
+          ]
+        }
+      }
+    },
+    "2014": {
+      "result": "Round of 16",
+      "headline": "Shaqiri's Hat-Trick Hero",
+      "homeColors": "red shirt, white shorts, red socks (Puma)",
+      "awayColors": "white shirt, red shorts, white socks",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Ecuador",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "2–5",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Honduras",
+          "score": "3–0",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Argentina",
+          "score": "0–1",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "SHAQIRI'S HAT-TRICK HERO",
+              "story": "Xherdan Shaqiri scored a hat-trick in a 3–0 win over Honduras to send Switzerland through to the Round of 16, after an opening win over Ecuador and a heavy 5–2 loss to France. Ángel Di María's 118th-minute goal ended the run against Argentina — Switzerland's best finish in eight years."
+            }
+          ]
+        }
+      }
+    },
+    "2018": {
+      "result": "Round of 16",
+      "headline": "Forsberg Ends the Run",
+      "homeColors": "red shirt, white shorts, red socks (Puma)",
+      "awayColors": "white shirt, red shorts, white socks",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Serbia",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Costa Rica",
+          "score": "2–2",
+          "result": "D"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Sweden",
+          "score": "0–1",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "FORSBERG ENDS THE RUN",
+              "story": "Granit Xhaka and Xherdan Shaqiri each scored in a 2–1 win over Serbia, sandwiched between a draw with Brazil and a Blerim Džemaili equalizer against Costa Rica. Sweden's Emil Forsberg then ended the run 1–0 in the Round of 16, the same margin Switzerland had used to beat Serbia."
+            }
+          ]
+        }
+      }
+    },
+    "2022": {
+      "result": "Round of 16",
+      "headline": "Akanji's Goal, Portugal's Rout",
+      "homeColors": "red shirt, white shorts, red socks (Puma)",
+      "awayColors": "white shirt, red shorts, white socks",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Cameroon",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Serbia",
+          "score": "3–2",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Portugal",
+          "score": "1–6",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "AKANJI'S GOAL, PORTUGAL'S ROUT",
+              "story": "Breel Embolo's goal beat Cameroon, and second-half strikes from Shaqiri, Embolo, and Remo Freuler downed Serbia 3–2 to reach the Round of 16. Portugal routed Switzerland 6–1 despite a Manuel Akanji goal, matching West Germany's 1966 scoreline as the heaviest defeat in Swiss World Cup history."
+            }
+          ]
+        }
+      }
+    }
+  }
+};

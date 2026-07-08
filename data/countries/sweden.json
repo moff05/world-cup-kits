@@ -1,0 +1,216 @@
+{
+  "id": "sweden",
+  "name": "Sweden",
+  "flagCode": "se",
+  "confederation": "UEFA",
+  "worldCups": [1934, 1938, 1950, 1958, 1970, 1974, 1978, 1990, 1994, 2002, 2006, 2018],
+  "bestResult": "Runners-up (1958)",
+
+  "stats": {
+    "matches": 51,
+    "wins": 19,
+    "draws": 13,
+    "losses": 19,
+    "goalsFor": 80,
+    "goalsAgainst": 73
+  },
+
+  "facts": [
+    {
+      "id": "blue-and-yellow",
+      "label": "BLUE AND YELLOW",
+      "story": "Sweden's colors trace straight to the flag: an oft-quoted 1908 poem by Johan af Klercker cemented blue and yellow as national colors, and the football team has treated them as gospel ever since — yellow shirt, blue shorts, yellow socks, barely altered in over a century. The away kit simply flips the order: blue shirt, yellow shorts, blue socks. Even the women's national team carries the same identity, nicknamed Blågult — 'the blue-yellow' — a tribute to the same century-old scheme that never needed a redesign to stay recognizable."
+    },
+    {
+      "id": "brazil-hoodoo",
+      "label": "THE BRAZIL PROBLEM",
+      "story": "Brazil became Sweden's World Cup nemesis almost by accident. The two sides have met seven times in the tournament and Sweden has never won — five losses and two draws — including the 1958 final in Stockholm, where a 17-year-old named Pelé scored twice as Brazil beat the hosts 5–2 for their first title. Sweden also fell to Brazil in the 1950 group stage and the 1994 semi-final, a hoodoo now spanning five decades of near-misses against the same yellow-and-green shirt."
+    }
+  ],
+
+  "kits": {
+    "1934": {
+      "result": "Quarter-final",
+      "headline": "First Match, First Win",
+      "story": "Sweden's World Cup debut was the tournament's very first match, and they trailed before Sven Jonasson's brace and a goal from Kroon completed a 3–2 comeback over Argentina in Bologna. Four days later, in the era's single-elimination format, a Dunker goal wasn't enough — Germany won 2–1, ending Sweden's tournament in the quarter-final.",
+      "homeColors": "yellow shirt, blue shorts, yellow socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Round of 16", "opponent": "Argentina", "score": "3–2", "result": "W" },
+        { "round": "Quarter-final", "opponent": "Germany", "score": "1–2", "result": "L" }
+      ]
+    },
+    "1938": {
+      "result": "4th Place",
+      "headline": "Eight Goals, Then a Collapse",
+      "story": "Austria's forced withdrawal after the Anschluss gave Sweden a bye into the quarter-finals, where they demolished Cuba 8–0 — still their biggest World Cup win, built on hat-tricks from Harry Andersson and Gustav Wetterström. Hungary ended the run 5–1 in the semi-final, and a tired Sweden lost the third-place match to Brazil 4–2.",
+      "homeColors": "yellow shirt, blue shorts, yellow socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Quarter-final", "opponent": "Cuba", "score": "8–0", "result": "W" },
+        { "round": "Semi-final", "opponent": "Hungary", "score": "1–5", "result": "L" },
+        { "round": "3rd Place", "opponent": "Brazil", "score": "2–4", "result": "L" }
+      ]
+    },
+    "1950": {
+      "result": "3rd Place",
+      "headline": "Bronze Built on Survival",
+      "story": "Sweden beat Italy and drew Paraguay to reach the four-team final pool, then were routed 7–1 by Brazil in Rio — still their heaviest World Cup defeat — before falling to Uruguay and closing with a 3–1 win over Spain. It was enough for third place, a bronze finish built more on survival than form.",
+      "homeColors": "yellow shirt, blue shorts, yellow socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Italy", "score": "3–2", "result": "W" },
+        { "round": "Group Stage", "opponent": "Paraguay", "score": "2–2", "result": "D" },
+        { "round": "2nd Round", "opponent": "Brazil", "score": "1–7", "result": "L" },
+        { "round": "2nd Round", "opponent": "Uruguay", "score": "2–3", "result": "L" },
+        { "round": "2nd Round", "opponent": "Spain", "score": "3–1", "result": "W" }
+      ]
+    },
+    "1958": {
+      "result": "Runners-up",
+      "headline": "So Close, On Home Soil",
+      "story": "Hosting the tournament, Sweden beat Hungary, drew Wales, and eliminated the Soviet Union before stunning defending champions West Germany 3–1 in the semi-final at Råsunda. In the final, a 17-year-old Pelé scored twice as Brazil won 5–2 in Stockholm — the best finish in Swedish football history, delivered in front of a home crowd.",
+      "homeColors": "yellow shirt, blue shorts, yellow socks (unbranded, hosts' kit)",
+      "awayColors": "blue shirt, yellow shorts, blue socks",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Mexico", "score": "3–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Hungary", "score": "2–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Wales", "score": "0–0", "result": "D" },
+        { "round": "Quarter-final", "opponent": "Soviet Union", "score": "2–0", "result": "W" },
+        { "round": "Semi-final", "opponent": "West Germany", "score": "3–1", "result": "W" },
+        { "round": "Final", "opponent": "Brazil", "score": "2–5", "result": "L" }
+      ]
+    },
+    "1970": {
+      "result": "Group Stage",
+      "headline": "One Win, One Round",
+      "story": "An opening 1–0 loss to Italy put Sweden behind before they'd started. Tom Turesson's equalizer earned a point against Israel, and Ove Grahn's late goal beat Uruguay 1–0, but it wasn't enough to escape a tight Group 2, and Sweden went out after the first round.",
+      "homeColors": "yellow shirt, blue shorts, yellow socks",
+      "awayColors": "blue shirt, yellow shorts, blue socks",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Italy", "score": "0–1", "result": "L" },
+        { "round": "Group Stage", "opponent": "Israel", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "Uruguay", "score": "1–0", "result": "W" }
+      ]
+    },
+    "1974": {
+      "result": "2nd Round",
+      "headline": "Edström's Golden Run",
+      "story": "Ralf Edström scored four goals across the tournament, including two in a 3–0 win over Uruguay that carried Sweden through their first group unbeaten. In the second-round group, hosts West Germany survived a Swedish fightback to win 4–2, and despite beating Yugoslavia, Sweden's run ended one round short of the semi-finals.",
+      "homeColors": "yellow shirt, blue shorts, yellow socks (Adidas)",
+      "awayColors": "blue shirt, yellow shorts, blue socks",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Bulgaria", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Netherlands", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Uruguay", "score": "3–0", "result": "W" },
+        { "round": "2nd Round", "opponent": "Poland", "score": "0–1", "result": "L" },
+        { "round": "2nd Round", "opponent": "West Germany", "score": "2–4", "result": "L" },
+        { "round": "2nd Round", "opponent": "Yugoslavia", "score": "2–1", "result": "W" }
+      ]
+    },
+    "1978": {
+      "result": "Group Stage",
+      "headline": "A Draw, Then Silence",
+      "story": "Sjöberg's equalizer salvaged a 1–1 draw with eventual bronze medalists Brazil in the opener, but back-to-back 1–0 losses to Austria and Spain sent Sweden home without a win — a quiet World Cup that did little to build on the promise of the opening result.",
+      "homeColors": "yellow shirt, blue shorts, yellow socks (Adidas)",
+      "awayColors": "blue shirt, yellow shorts, blue socks",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Brazil", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "Austria", "score": "0–1", "result": "L" },
+        { "round": "Group Stage", "opponent": "Spain", "score": "0–1", "result": "L" }
+      ]
+    },
+    "1990": {
+      "result": "Group Stage",
+      "headline": "Winless in Italy",
+      "story": "Tomas Brolin's strike against Brazil gave brief hope, but Sweden lost all three group games — including a shock defeat to Costa Rica — to finish without a point. It remains the low point of the team's World Cup history, a group-stage sweep with nothing to show for it.",
+      "homeColors": "yellow shirt, blue shorts, yellow socks (Adidas)",
+      "awayColors": "blue shirt, yellow shorts, blue socks",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Brazil", "score": "1–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Scotland", "score": "1–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Costa Rica", "score": "1–2", "result": "L" }
+      ]
+    },
+    "1994": {
+      "result": "3rd Place",
+      "headline": "Andersson's Summer in the Sun",
+      "story": "Kennet Andersson scored five goals across the tournament, sharing the Bronze Boot, as Sweden survived a penalty shootout over Romania before eventual champions Brazil edged them 1–0 in the semi-final. Goals from Brolin, Mild, and a young Henrik Larsson crushed Bulgaria 4–0 in the third-place match, sealing Sweden's best finish since 1958.",
+      "homeColors": "yellow shirt, blue shorts, yellow socks (Adidas)",
+      "awayColors": "blue shirt, yellow shorts, blue socks",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Cameroon", "score": "2–2", "result": "D" },
+        { "round": "Group Stage", "opponent": "Russia", "score": "3–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Brazil", "score": "1–1", "result": "D" },
+        { "round": "Round of 16", "opponent": "Saudi Arabia", "score": "3–1", "result": "W" },
+        { "round": "Quarter-final", "opponent": "Romania", "score": "2–2 (5–4 pens)", "result": "D" },
+        { "round": "Semi-final", "opponent": "Brazil", "score": "0–1", "result": "L" },
+        { "round": "3rd Place", "opponent": "Bulgaria", "score": "4–0", "result": "W" }
+      ]
+    },
+    "2002": {
+      "result": "Round of 16",
+      "headline": "Golden Goal Heartbreak",
+      "story": "Anders Svensson's late equalizer salvaged a point against Argentina, and Henrik Larsson's brace beat Nigeria as Sweden advanced from a loaded group. Senegal ended the run in the Round of 16, snatching a golden-goal winner in extra time — one of the tournament's biggest upsets, and Sweden's earliest exit of the decade.",
+      "homeColors": "yellow shirt, blue shorts, yellow socks (Adidas)",
+      "awayColors": "blue shirt, yellow shorts, blue socks",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "England", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "Nigeria", "score": "2–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Argentina", "score": "1–1", "result": "D" },
+        { "round": "Round of 16", "opponent": "Senegal", "score": "1–2", "result": "L" }
+      ]
+    },
+    "2006": {
+      "result": "Round of 16",
+      "headline": "Peak in the Group",
+      "story": "Freddie Ljungberg's goal beat Paraguay, and a spirited 2–2 draw with England kept Sweden in contention, but the group stage proved to be the peak. Hosts Germany eliminated them 2–0 in the Round of 16, a fourth straight World Cup ending without reaching the quarter-finals.",
+      "homeColors": "yellow shirt, blue shorts, yellow socks (Umbro)",
+      "awayColors": "blue shirt, yellow shorts, blue socks",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Trinidad and Tobago", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Paraguay", "score": "1–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "England", "score": "2–2", "result": "D" },
+        { "round": "Round of 16", "opponent": "Germany", "score": "0–2", "result": "L" }
+      ]
+    },
+    "2018": {
+      "result": "Quarter-final",
+      "headline": "Forsberg's Strike, Then England",
+      "story": "Emil Forsberg's second-half strike beat Switzerland in the Round of 16, sending Sweden to their first World Cup quarter-final since 1994. Ola Toivonen's outrageous chip had rattled Germany in the group stage, and wins over South Korea and Mexico carried the run — until England ended it 2–0 in the quarter-final.",
+      "homeColors": "yellow shirt, blue shorts, yellow socks (Adidas)",
+      "awayColors": "blue shirt, yellow shorts, blue socks",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "South Korea", "score": "1–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Germany", "score": "1–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Mexico", "score": "3–0", "result": "W" },
+        { "round": "Round of 16", "opponent": "Switzerland", "score": "1–0", "result": "W" },
+        { "round": "Quarter-final", "opponent": "England", "score": "0–2", "result": "L" }
+      ]
+    }
+  }
+}

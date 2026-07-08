@@ -1,0 +1,276 @@
+{
+  "id": "spain",
+  "name": "Spain",
+  "flagCode": "es",
+  "confederation": "UEFA",
+  "worldCups": [1934, 1950, 1962, 1966, 1978, 1982, 1986, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022],
+  "bestResult": "World Champions (2010)",
+
+  "stats": {
+    "matches": 67,
+    "wins": 31,
+    "draws": 17,
+    "losses": 19,
+    "goalsFor": 108,
+    "goalsAgainst": 75
+  },
+
+  "facts": [
+    {
+      "id": "la-furia-espanola",
+      "label": "LA FURIA ESPAÑOLA",
+      "story": "Spain's early nickname, 'La Furia Española' (the Spanish Fury), didn't come from Spanish fans — it was coined by a Dutch newspaper recalling the 16th-century Sack of Antwerp after Spain's aggressive style at the 1920 Antwerp Olympics won silver. The tag stuck through decades of physical, direct football. Only after the 2008–2012 golden generation's tiki-taka era did Spain earn a gentler nickname, 'La Roja,' marking a total shift from muscle to possession."
+    },
+    {
+      "id": "three-kits-one-tournament",
+      "label": "THREE KITS, ONE TOURNAMENT",
+      "story": "Ahead of their 2014 opener against the Netherlands, FIFA ruled that Spain's registered red home and black away kits were both too dark to satisfy the tournament's light-versus-dark clash rules. Adidas rushed out an emergency all-white third shirt with red accents just for that match, making Spain the first team ever to wear three different kits across a single World Cup. They lost the game 5–1 anyway, and the white kit never reappeared."
+    }
+  ],
+
+  "kits": {
+    "1934": {
+      "result": "Quarter-final",
+      "headline": "Zamora's Injury, Italy's Escape",
+      "story": "Isidro Lángara and a brace from Chirri sank Brazil 3–1 in Spain's World Cup debut. A bruising 1–1 draw with host Italy forced a next-day replay, and with legendary goalkeeper Ricardo Zamora ruled out by injury, the eventual champions escaped 1–0, ending Spain's run after just two matches.",
+      "homeColors": "red shirt, blue shorts, black socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Round of 16", "opponent": "Brazil", "score": "3–1", "result": "W" },
+        { "round": "Quarter-final", "opponent": "Italy", "score": "1–1", "result": "D" },
+        { "round": "Quarter-final Replay", "opponent": "Italy", "score": "0–1", "result": "L" }
+      ]
+    },
+    "1950": {
+      "result": "4th Place",
+      "headline": "Zarra's Header Shocks England",
+      "story": "Telmo Zarra's header beat England 1–0 in Rio, still considered one of the great World Cup upsets. Spain topped their first group unbeaten, but the final round brought a 6–1 mauling by Brazil at the Maracanã and a loss to Sweden, leaving them fourth — their best finish for six decades.",
+      "homeColors": "red shirt, blue shorts, black socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "United States", "score": "3–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Chile", "score": "2–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "England", "score": "1–0", "result": "W" },
+        { "round": "Final Round", "opponent": "Uruguay", "score": "2–2", "result": "D" },
+        { "round": "Final Round", "opponent": "Brazil", "score": "1–6", "result": "L" },
+        { "round": "Final Round", "opponent": "Sweden", "score": "1–3", "result": "L" }
+      ]
+    },
+    "1962": {
+      "result": "Group Stage",
+      "headline": "Di Stéfano Never Plays",
+      "story": "A late Adelardo strike wasn't enough as Brazil edged Spain 2–1 in a rain-soaked Chile decider, sending the reigning champions through and Spain out after the group stage. José Villalonga's side, built around a nominally star-studded roster, never got to use Alfredo Di Stéfano, injured and left out of every match.",
+      "homeColors": "red shirt, blue shorts, black socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Czechoslovakia", "score": "0–1", "result": "L" },
+        { "round": "Group Stage", "opponent": "Mexico", "score": "1–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Brazil", "score": "1–2", "result": "L" }
+      ]
+    },
+    "1966": {
+      "result": "Group Stage",
+      "headline": "Eliminated Again at Villa Park",
+      "story": "Pirri's late strike wasn't enough in a 2–1 opening loss to Argentina, and although Amancio and Sanchís rallied past Switzerland, José Fusté's goal against West Germany at Villa Park couldn't stop a 2–1 defeat. Spain went out in the group stage for the second time in three tournaments.",
+      "homeColors": "red shirt, blue shorts, black socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Argentina", "score": "1–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Switzerland", "score": "2–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "West Germany", "score": "1–2", "result": "L" }
+      ]
+    },
+    "1978": {
+      "result": "Group Stage",
+      "headline": "Same Script, Group Stage Again",
+      "story": "Dani's consolation goal couldn't prevent a 2–1 opening loss to Austria in Buenos Aires, and although Asensi's strike beat Sweden and Spain held Brazil scoreless, the group's math left them short. It was the same story as 1966 and 1962 — group stage, then home.",
+      "homeColors": "red shirt, blue shorts, black socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Austria", "score": "1–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Brazil", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Sweden", "score": "1–0", "result": "W" }
+      ]
+    },
+    "1982": {
+      "result": "2nd Round",
+      "headline": "Hosts Fall Short at Home",
+      "story": "Hosting their first World Cup since Franco's death, Spain stumbled early as Northern Ireland beat them 1–0 despite playing a man down. Jesús María Zamora's goal wasn't enough in a 2–1 second-round loss to West Germany, and a goalless stalemate with England sent the hosts out before the semi-finals.",
+      "homeColors": "red shirt with white trim, blue shorts, black socks (Adidas debut kit)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Honduras", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "Yugoslavia", "score": "2–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Northern Ireland", "score": "0–1", "result": "L" },
+        { "round": "2nd Round", "opponent": "West Germany", "score": "1–2", "result": "L" },
+        { "round": "2nd Round", "opponent": "England", "score": "0–0", "result": "D" }
+      ]
+    },
+    "1986": {
+      "result": "Quarter-final",
+      "headline": "Butragueño's Four-Goal Night",
+      "story": "Emilio 'El Buitre' Butragueño scored four goals in a stunning 5–1 demolition of Denmark in the Round of 16, one of the tournament's signature performances. Belgium eliminated Spain on penalties in the quarter-final after Antonio Señor's equalizer forced extra time, the shootout ending 5–4 to the Belgians.",
+      "homeColors": "red shirt, blue shorts, black socks (Le Coq Sportif)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Brazil", "score": "0–1", "result": "L" },
+        { "round": "Group Stage", "opponent": "Northern Ireland", "score": "2–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Algeria", "score": "3–0", "result": "W" },
+        { "round": "Round of 16", "opponent": "Denmark", "score": "5–1", "result": "W" },
+        { "round": "Quarter-final", "opponent": "Belgium", "score": "1–1 (4–5 pens)", "result": "D" }
+      ]
+    },
+    "1990": {
+      "result": "Round of 16",
+      "headline": "Míchel's Hat-Trick, Then Yugoslavia",
+      "story": "Míchel's hat-trick demolished South Korea 3–1 to help Spain top the group, but Dragan Stojković tormented their defense in the Round of 16. Julio Salinas pulled one back, yet Spain fell 2–1 to Yugoslavia in Verona, one win short of matching the previous tournament's quarter-final run.",
+      "homeColors": "red shirt, blue shorts, black socks (Le Coq Sportif)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Uruguay", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "South Korea", "score": "3–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Belgium", "score": "2–1", "result": "W" },
+        { "round": "Round of 16", "opponent": "Yugoslavia", "score": "1–2", "result": "L" }
+      ]
+    },
+    "1994": {
+      "result": "Quarter-final",
+      "headline": "The Elbow Referee Never Saw",
+      "story": "Luis Enrique needed his nose packed with cotton after Mauro Tassotti's elbow drew blood in the box, but referee Sándor Puhl waved play on and Roberto Baggio's late winner sent Italy through 2–1. It remains one of the World Cup's most notorious missed penalty calls, denying Spain a semi-final chance.",
+      "homeColors": "red shirt, blue shorts, socks shifting from black to blue (Adidas)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "South Korea", "score": "2–2", "result": "D" },
+        { "round": "Group Stage", "opponent": "Germany", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "Bolivia", "score": "3–1", "result": "W" },
+        { "round": "Round of 16", "opponent": "Switzerland", "score": "3–0", "result": "W" },
+        { "round": "Quarter-final", "opponent": "Italy", "score": "1–2", "result": "L" }
+      ]
+    },
+    "1998": {
+      "result": "Group Stage",
+      "headline": "Nigeria's Opening Day Shock",
+      "story": "Nigeria stunned Spain 3–2 in the opener despite goals from Fernando Hierro and a teenage Raúl. José Luis Chilavert frustrated them to a 0–0 draw with Paraguay, and although Spain routed Bulgaria 6–1 in the finale, Nigeria's group-stage upset had already ended the tournament before it truly began.",
+      "homeColors": "red shirt, navy shorts, blue socks (Adidas)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Nigeria", "score": "2–3", "result": "L" },
+        { "round": "Group Stage", "opponent": "Paraguay", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Bulgaria", "score": "6–1", "result": "W" }
+      ]
+    },
+    "2002": {
+      "result": "Quarter-final",
+      "headline": "Two Goals Wiped Off in Korea",
+      "story": "Iker Casillas saved two penalties to beat the Republic of Ireland in the Round of 16, but the quarter-final against co-host South Korea turned sour. The referee disallowed two Spanish goals, and Joaquín's missed spot-kick sent South Korea through 5–3 on penalties in one of the tournament's most contested matches.",
+      "homeColors": "red shirt, navy shorts, blue socks (Adidas)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Slovenia", "score": "3–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Paraguay", "score": "3–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "South Africa", "score": "3–2", "result": "W" },
+        { "round": "Round of 16", "opponent": "Republic of Ireland", "score": "1–1 (3–2 pens)", "result": "D" },
+        { "round": "Quarter-final", "opponent": "South Korea", "score": "0–0 (3–5 pens)", "result": "D" }
+      ]
+    },
+    "2006": {
+      "result": "Round of 16",
+      "headline": "Zidane Ends the Run",
+      "story": "David Villa scored a brace in a 4–0 opening rout of Ukraine and finished the group stage with three goals. Zinedine Zidane, playing what he had announced as his final tournament, tore through Spain's defense in the Round of 16 as France won 3–1, ending Spain's run in Hanover.",
+      "homeColors": "red shirt, navy shorts, black socks (Adidas)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Ukraine", "score": "4–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Tunisia", "score": "3–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Saudi Arabia", "score": "1–0", "result": "W" },
+        { "round": "Round of 16", "opponent": "France", "score": "1–3", "result": "L" }
+      ]
+    },
+    "2010": {
+      "result": "Champions",
+      "headline": "Iniesta's 116th-Minute Winner",
+      "story": "A shock 0–1 opening loss to Switzerland nearly derailed everything, but Spain won every remaining match 1–0, including Carles Puyol's headed semi-final winner over Germany. Andrés Iniesta settled the final in the 116th minute against the Netherlands, and Spain became the first European team to win a World Cup outside Europe.",
+      "homeColors": "red shirt with gold trim, navy shorts, black socks (Adidas)",
+      "awayColors": "navy shirt with red-and-yellow flag-striped trim on the collar and shoulders, navy shorts (Adidas) — worn in the final",
+      "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Germany_vs_Spain_semi-final.jpg",
+      "imageCredit": { "player": null, "game": "Spain vs Germany, 2010 Semi-final — CC BY-SA 3.0 / Wikimedia Commons" },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Switzerland", "score": "0–1", "result": "L" },
+        { "round": "Group Stage", "opponent": "Honduras", "score": "2–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Chile", "score": "2–1", "result": "W" },
+        { "round": "Round of 16", "opponent": "Portugal", "score": "1–0", "result": "W" },
+        { "round": "Quarter-final", "opponent": "Paraguay", "score": "1–0", "result": "W" },
+        { "round": "Semi-final", "opponent": "Germany", "score": "1–0", "result": "W" },
+        { "round": "Final", "opponent": "Netherlands", "score": "1–0", "result": "W" }
+      ]
+    },
+    "2014": {
+      "result": "Group Stage",
+      "headline": "The Emergency White Kit Disaster",
+      "story": "Defending champions Spain were forced into an emergency all-white third kit for the opener because FIFA ruled their red home and black away were both too dark against Netherlands orange — then lost the match 5–1 anyway, with Robin van Persie's diving header and two Arjen Robben goals dismantling them. A group-stage exit followed within a week.",
+      "homeColors": "red shirt, navy shorts, black socks (Adidas)",
+      "awayColors": "black shirt with red trim (Adidas); emergency all-white third kit with red accents worn vs Netherlands after FIFA ruled the registered kits too dark",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Netherlands", "score": "1–5", "result": "L" },
+        { "round": "Group Stage", "opponent": "Chile", "score": "0–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Australia", "score": "3–0", "result": "W" }
+      ]
+    },
+    "2018": {
+      "result": "Round of 16",
+      "headline": "Fired Coach, Then Penalties",
+      "story": "Julen Lopetegui was fired as coach two days before the opener after secretly signing with Real Madrid, and Diego Costa's brace salvaged a 3–3 draw with a Cristiano Ronaldo-inspired Portugal. Under interim boss Fernando Hierro, Spain lost on penalties to host Russia in the Round of 16, ending Andrés Iniesta's final World Cup.",
+      "homeColors": "red shirt, navy shorts, black socks (Adidas)",
+      "awayColors": "pale 'Halo Blue' shirt with red trim and an 1980s-inspired geometric pattern (Adidas)",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Portugal", "score": "3–3", "result": "D" },
+        { "round": "Group Stage", "opponent": "Iran", "score": "1–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Morocco", "score": "2–2", "result": "D" },
+        { "round": "Round of 16", "opponent": "Russia", "score": "1–1 (3–5 pens)", "result": "D" }
+      ]
+    },
+    "2022": {
+      "result": "Round of 16",
+      "headline": "Morocco's Shootout Ambush",
+      "story": "Eighteen-year-old Gavi became one of the youngest World Cup goalscorers in a 7–0 opening rout of Costa Rica. Spain then collapsed late to lose 2–1 to Japan in a controversial reversal, and Morocco eliminated them in the Round of 16, saving three penalties in a shootout that ended Luis Enrique's tenure.",
+      "homeColors": "red shirt with white and gold geometric pattern, navy shorts (Adidas)",
+      "awayColors": "sky-blue shirt with an art-deco pattern inspired by Spain's 1982 World Cup logo, royal blue trim (Adidas)",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Costa Rica", "score": "7–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Germany", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "Japan", "score": "1–2", "result": "L" },
+        { "round": "Round of 16", "opponent": "Morocco", "score": "0–0 (0–3 pens)", "result": "D" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "id": "mexico",
+  "name": "Mexico",
+  "flagCode": "mx",
+  "confederation": "CONCACAF",
+  "worldCups": [1930, 1950, 1954, 1958, 1962, 1966, 1970, 1978, 1986, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022],
+  "bestResult": "Quarter-finalists (1970, 1986)",
+
+  "stats": {
+    "matches": 60,
+    "wins": 17,
+    "draws": 15,
+    "losses": 28,
+    "goalsFor": 62,
+    "goalsAgainst": 101
+  },
+
+  "facts": [
+    {
+      "id": "before-the-green",
+      "label": "BEFORE THE GREEN",
+      "story": "El Tri wasn't always green. Through the 1930 and 1950 World Cups, Mexico played in maroon shirts with black or dark blue shorts, nothing like the colors now central to the country's football identity. By the mid-1950s the federation switched to green, white, and red, mirroring the national flag, and the change stuck for good. It's why Mexicans still call their team 'El Tri' — short for tricolor — a nickname that only makes sense because of a kit change nobody remembers anymore."
+    },
+    {
+      "id": "the-cachirules-scandal",
+      "label": "THE CACHIRULES SCANDAL",
+      "story": "Mexico never got the chance to qualify for the 1990 World Cup. In 1988, FIFA discovered the federation had fielded over-age players with falsified birth certificates — nicknamed 'cachirules' — during qualifying for a FIFA youth tournament. The punishment banned every Mexican national team, senior side included, from international competition for two years, erasing any shot at defending the 1986 quarter-final run and keeping El Tri's colors off the World Cup stage until 1994."
+    }
+  ],
+
+  "kits": {
+    "1930": {
+      "result": "Group Stage",
+      "headline": "World Cup's First-Ever Match",
+      "story": "On 13 July 1930, Mexico played in the very first World Cup match in history, falling 4–1 to France as Juan Carreño scored the team's first tournament goal. Manuel Rosas converted the competition's first-ever penalty in a 6–3 loss to Argentina, but three straight defeats sent Mexico home without a point.",
+      "homeColors": "maroon shirt, black shorts (pre-tricolor era)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "France", "score": "1–4", "result": "L" },
+        { "round": "Group Stage", "opponent": "Chile", "score": "0–3", "result": "L" },
+        { "round": "Group Stage", "opponent": "Argentina", "score": "3–6", "result": "L" }
+      ]
+    },
+    "1950": {
+      "result": "Group Stage",
+      "headline": "Overwhelmed in Brazil",
+      "story": "Mexico's second World Cup ended in three lopsided defeats, outscored 10–2 across matches with Brazil, Yugoslavia, and Switzerland. Héctor Ortiz's goal against Yugoslavia and a late strike versus Switzerland were the only bright spots in a tournament that never got Mexico off the bottom of the group.",
+      "homeColors": "maroon shirt, black or dark blue shorts (pre-tricolor era)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Brazil", "score": "0–4", "result": "L" },
+        { "round": "Group Stage", "opponent": "Yugoslavia", "score": "1–4", "result": "L" },
+        { "round": "Group Stage", "opponent": "Switzerland", "score": "1–2", "result": "L" }
+      ]
+    },
+    "1954": {
+      "result": "Group Stage",
+      "headline": "Cinco Copas Begins",
+      "story": "Under a seeding format where top teams skipped each other, Mexico played only two matches in Switzerland, losing 5–0 to Brazil and 2–3 to France. Goalkeeper Antonio Carbajal made his World Cup debut here — the first of a record five consecutive tournaments that would earn him the nickname 'Cinco Copas.'",
+      "homeColors": "maroon shirt, dark shorts (final tournament of Mexico's pre-tricolor era, shortly before the mid-1950s switch to green)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Brazil", "score": "0–5", "result": "L" },
+        { "round": "Group Stage", "opponent": "France", "score": "2–3", "result": "L" }
+      ]
+    },
+    "1958": {
+      "result": "Group Stage",
+      "headline": "Still Searching for a Win",
+      "story": "Antonio Carbajal started his second World Cup in Sweden as Mexico opened with a 3–0 loss to the hosts. Isidoro Belmonte's goal salvaged a 1–1 draw with Wales, but Hungary's 4–0 rout in the finale ended the group stage still without a single win in four tournaments.",
+      "homeColors": "green shirt, white shorts, red socks (tricolor scheme adopted from the national flag)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Sweden", "score": "0–3", "result": "L" },
+        { "round": "Group Stage", "opponent": "Wales", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "Hungary", "score": "0–4", "result": "L" }
+      ]
+    },
+    "1962": {
+      "result": "Group Stage",
+      "headline": "Breaking the Winless Streak",
+      "story": "Mexico finally ended a winless World Cup streak stretching back to 1930, hammering Czechoslovakia 3–1 as Isidoro Díaz, Alfredo del Águila, and Salvador Hernández all found the net. Losses to Brazil and Spain around that breakthrough win meant it still wasn't enough to escape the group.",
+      "homeColors": "green shirt, white shorts, red socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Brazil", "score": "0–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Spain", "score": "0–1", "result": "L" },
+        { "round": "Group Stage", "opponent": "Czechoslovakia", "score": "3–1", "result": "W" }
+      ]
+    },
+    "1966": {
+      "result": "Group Stage",
+      "headline": "Draws Bookend a Wembley Loss",
+      "story": "Héctor Borja's equalizer salvaged a 1–1 draw with France in Mexico's opener, and a scoreless stalemate with Uruguay closed the group. Sandwiched between them was a 2–0 loss to eventual champions England at Wembley, leaving Mexico with two draws and a defeat — still no wins on the board.",
+      "homeColors": "green shirt, white shorts, red socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "France", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "England", "score": "0–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Uruguay", "score": "0–0", "result": "D" }
+      ]
+    },
+    "1970": {
+      "result": "Quarter-final",
+      "headline": "Azteca Roars, Italy Ends It",
+      "story": "Hosting for the first time, Mexico opened with a goalless draw against the Soviet Union, then Javier Valdivia's brace powered a 4–0 win over El Salvador. A late strike from Peña beat Belgium 1–0 to reach the quarter-finals, where Italy ended the run 4–1 despite a consolation goal from González — the deepest Mexico had ever gone.",
+      "homeColors": "green shirt, white shorts, red socks (first World Cup played with Adidas's Telstar ball)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Soviet Union", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "El Salvador", "score": "4–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Belgium", "score": "1–0", "result": "W" },
+        { "round": "Quarter-final", "opponent": "Italy", "score": "1–4", "result": "L" }
+      ]
+    },
+    "1978": {
+      "result": "Group Stage",
+      "headline": "Heaviest Defeat on Record",
+      "story": "A brutal group draw put Mexico against reigning champions West Germany, who routed them 6–0 in Córdoba — still the heaviest defeat in Mexican World Cup history. Losses to Tunisia and Poland completed a winless group stage in Argentina, Mexico's first tournament since their 1970 quarter-final breakthrough.",
+      "homeColors": "green shirt, white shorts, red socks (Levi's, first kit supplier deal)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Tunisia", "score": "1–3", "result": "L" },
+        { "round": "Group Stage", "opponent": "West Germany", "score": "0–6", "result": "L" },
+        { "round": "Group Stage", "opponent": "Poland", "score": "1–3", "result": "L" }
+      ]
+    },
+    "1986": {
+      "result": "Quarter-final",
+      "headline": "Negrete's Scissor-Kick Wonder",
+      "story": "Hosting for a second time, Mexico topped Group B behind Fernando Quirarte's goals in wins over Belgium and Iraq. Manuel Negrete's scissor-kick volley against Bulgaria in the Round of 16 remains one of the tournament's iconic goals, before West Germany eliminated El Tri on penalties after a scoreless quarter-final.",
+      "homeColors": "green shirt with white trim and three white stripes, white shorts, red socks (Adidas)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Belgium", "score": "2–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Paraguay", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "Iraq", "score": "1–0", "result": "W" },
+        { "round": "Round of 16", "opponent": "Bulgaria", "score": "2–0", "result": "W" },
+        { "round": "Quarter-final", "opponent": "West Germany", "score": "0–0 (1–4 pens)", "result": "D" }
+      ]
+    },
+    "1994": {
+      "result": "Round of 16",
+      "headline": "Second Straight Shootout Exit",
+      "story": "Luis García scored twice as Mexico beat the Republic of Ireland and drew Italy to top a group that also featured Norway. Bulgaria matched Mexico's stubbornness for 120 scoreless minutes in the Round of 16 before winning 3–1 on penalties — the second straight tournament El Tri exited via shootout.",
+      "homeColors": "green shirt, white shorts, red socks (Umbro)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Norway", "score": "0–1", "result": "L" },
+        { "round": "Group Stage", "opponent": "Republic of Ireland", "score": "2–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Italy", "score": "1–1", "result": "D" },
+        { "round": "Round of 16", "opponent": "Bulgaria", "score": "1–1 (1–3 pens)", "result": "D" }
+      ]
+    },
+    "1998": {
+      "result": "Round of 16",
+      "headline": "El Matador's Four Goals",
+      "story": "Luis Hernández, the platinum-blond striker nicknamed 'El Matador,' scored four goals across the tournament, including a brace in a 3–1 win over South Korea and comeback draws against Belgium and the Netherlands. He struck again in the Round of 16, but Germany's Jürgen Klinsmann-led side won 2–1 to end Mexico's run.",
+      "homeColors": "green shirt, white shorts, red socks (Aba Sport)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "South Korea", "score": "3–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Belgium", "score": "2–2", "result": "D" },
+        { "round": "Group Stage", "opponent": "Netherlands", "score": "2–2", "result": "D" },
+        { "round": "Round of 16", "opponent": "Germany", "score": "1–2", "result": "L" }
+      ]
+    },
+    "2002": {
+      "result": "Round of 16",
+      "headline": "USA Ends the Golden Run",
+      "story": "Cuauhtémoc Blanco's calm and Jared Borgetti's finishing carried Mexico through a group with Italy and Croatia, including Borgetti's opener in a 2–1 win over Ecuador. Their fiercest CONCACAF rival, the United States, ended the run 2–0 in the Round of 16 at Jeonju — a loss still felt across Mexican football.",
+      "homeColors": "green shirt, white shorts, red socks (Atletica)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Croatia", "score": "1–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Ecuador", "score": "2–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Italy", "score": "1–1", "result": "D" },
+        { "round": "Round of 16", "opponent": "United States", "score": "0–2", "result": "L" }
+      ]
+    },
+    "2006": {
+      "result": "Round of 16",
+      "headline": "Maxi Rodríguez Breaks Hearts",
+      "story": "Omar Bravo's brace in a 3–1 opening win over Iran set the tone, but Cristiano Ronaldo's Portugal beat Mexico 2–1 to complicate their path from the group. Rafael Márquez's equalizer against Argentina in the Round of 16 forced extra time, only for Maxi Rodríguez's thunderous volley to end the tournament 2–1.",
+      "homeColors": "green shirt, white shorts, red socks (Nike)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Iran", "score": "3–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Angola", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Portugal", "score": "1–2", "result": "L" },
+        { "round": "Round of 16", "opponent": "Argentina", "score": "1–2", "result": "L" }
+      ]
+    },
+    "2010": {
+      "result": "Round of 16",
+      "headline": "Argentina Again in the Last 16",
+      "story": "Rafael Márquez, captaining his third World Cup, helped Mexico draw South Africa in the opener before Javier Hernández announced himself against France in a 2–0 win. Argentina eliminated Mexico 3–1 in the Round of 16 for the second straight tournament, with a disputed offside goal from Carlos Tevez tilting the game.",
+      "homeColors": "green shirt, white shorts, red socks (Adidas)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "South Africa", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "France", "score": "2–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Uruguay", "score": "0–1", "result": "L" },
+        { "round": "Round of 16", "opponent": "Argentina", "score": "1–3", "result": "L" }
+      ]
+    },
+    "2014": {
+      "result": "Round of 16",
+      "headline": "San Memo Stuns Brazil",
+      "story": "Guillermo Ochoa's saves against Brazil, including a stop on Neymar, earned him the nickname 'San Memo' and a scoreless draw that kept Mexico's group alive. Giovanni dos Santos gave Mexico the lead over the Netherlands in the Round of 16, but Arjen Robben won a stoppage-time penalty that ended the run 2–1.",
+      "homeColors": "green shirt, white shorts, red socks (Adidas)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Cameroon", "score": "1–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Brazil", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Croatia", "score": "3–1", "result": "W" },
+        { "round": "Round of 16", "opponent": "Netherlands", "score": "1–2", "result": "L" }
+      ]
+    },
+    "2018": {
+      "result": "Round of 16",
+      "headline": "Lozano Shocks the Champions",
+      "story": "Hirving Lozano's first-half strike beat Manuel Neuer to open the tournament with a 1–0 upset of defending champions Germany, one of the World Cup's biggest shocks. Carlos Vela and Javier Hernández saw off South Korea, but Sweden's 3–0 win and a 2–0 Round of 16 loss to Brazil ended the run in the last 16 for a seventh straight tournament.",
+      "homeColors": "green shirt with a thin sash pattern echoing Mexico's 1970s kits, white shorts (Adidas)",
+      "awayColors": "black shirt with green and red trim (Adidas)",
+      "image": "https://commons.wikimedia.org/wiki/File:Hirving_Lozano_at_Russia_2018_FIFA_World_Cup.jpg",
+      "imageCredit": { "player": "Hirving Lozano", "game": "Mexico vs Germany, 2018 Group Stage — Wikimedia Commons (freely licensed)" },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Germany", "score": "1–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "South Korea", "score": "2–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Sweden", "score": "0–3", "result": "L" },
+        { "round": "Round of 16", "opponent": "Brazil", "score": "0–2", "result": "L" }
+      ]
+    },
+    "2022": {
+      "result": "Group Stage",
+      "headline": "Group Stage on Goal Difference",
+      "story": "A goalless draw with Poland opened the tournament, and a 2–1 comeback win over Saudi Arabia — sparked by goals from Martín and Luis Chávez's thunderous free kick — arrived too late. Lionel Messi's Argentina had already beaten Mexico 2–0, and goal difference sent El Tri home in the group stage for the first time since 1978.",
+      "homeColors": "green shirt, white shorts, red socks (Adidas)",
+      "awayColors": "black shirt (Adidas)",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Poland", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Argentina", "score": "0–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Saudi Arabia", "score": "2–1", "result": "W" }
+      ]
+    }
+  }
+}

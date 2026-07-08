@@ -23,10 +23,37 @@ function StoryText({ text, countryId, kitYears }) {
   return <>{parts}</>;
 }
 
-function KitPanel({ kit, kitType, countryId, kitYears }) {
+function Lightbox({ src, alt, onClose }) {
+  useEffect(() => {
+    const onKey = (e) => { if (e.key === "Escape") onClose(); };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [onClose]);
+
+  return (
+    <div className="lightbox" onClick={onClose} role="dialog" aria-modal="true">
+      <button className="lightbox-close" onClick={onClose} aria-label="Close">✕</button>
+      <img
+        src={src}
+        alt={alt}
+        className="lightbox-img"
+        onClick={(e) => e.stopPropagation()}
+      />
+    </div>
+  );
+}
+
+function KitPanel({ kit, kitType, countryId, kitYears, yearData }) {
+  const [lightboxOpen, setLightboxOpen] = useState(false);
+
   return (
     <div className="kit-panel">
-      <div className="kit-image-wrap" style={kit.imageBg ? { background: kit.imageBg } : undefined}>
+      <div
+        className={`kit-image-wrap${kit.image ? " kit-image-wrap--clickable" : ""}`}
+        style={kit.imageBg ? { background: kit.imageBg } : undefined}
+        onClick={() => kit.image && setLightboxOpen(true)}
+        title={kit.image ? "Click to enlarge" : undefined}
+      >
         {kit.image ? (
           <img src={kit.image} alt={`${kitType} kit`} className="kit-photo" draggable={false} />
         ) : (
@@ -34,7 +61,16 @@ function KitPanel({ kit, kitType, countryId, kitYears }) {
             <p>No photograph available</p>
           </div>
         )}
+        {kit.image && <span className="kit-image-zoom-hint">⤢ Enlarge</span>}
       </div>
+
+      {lightboxOpen && (
+        <Lightbox
+          src={kit.image}
+          alt={`${kitType} kit`}
+          onClose={() => setLightboxOpen(false)}
+        />
+      )}
 
       {kit.imageCredit && (
         <p className="image-credit">
@@ -56,6 +92,12 @@ function KitPanel({ kit, kitType, countryId, kitYears }) {
           ))}
         </div>
       )}
+
+      {!kit.annotations?.length && yearData?.story && (
+        <p className="kit-year-story">
+          <StoryText text={yearData.story} countryId={countryId} kitYears={kitYears} />
+        </p>
+      )}
     </div>
   );
 }
@@ -74,6 +116,11 @@ export default function KitView() {
   const yearIndex = sortedKitYears.indexOf(Number(year));
   const prevYear = yearIndex > 0 ? sortedKitYears[yearIndex - 1] : null;
   const nextYear = yearIndex < sortedKitYears.length - 1 ? sortedKitYears[yearIndex + 1] : null;
+
+  useEffect(() => {
+    if (country && year) document.title = `${country.name} ${year} · World Cup Kits`;
+    return () => { document.title = "World Cup Kits"; };
+  }, [country, year]);
 
   useEffect(() => {
     const handleKey = (e) => {
@@ -98,16 +145,22 @@ export default function KitView() {
         <span>{year}</span>
       </div>
 
-      <div className="kit-view-header">
-        <img
-          src={`https://flagcdn.com/w40/${country.flagCode}.png`}
-          srcSet={`https://flagcdn.com/w80/${country.flagCode}.png 2x`}
-          width="40" height="27"
-          alt={`${country.name} flag`}
-        />
-        <div>
-          <h1>{country.name} <span className="kit-view-year">{year}</span></h1>
-          <p className="kit-view-headline">{yearData.headline}</p>
+      <div className="kit-view-hero">
+        <div className="kit-view-header">
+          <img
+            src={`https://flagcdn.com/w160/${country.flagCode}.png`}
+            srcSet={`https://flagcdn.com/w320/${country.flagCode}.png 2x`}
+            width="72" height="54"
+            alt={`${country.name} flag`}
+            className="dashboard-flag"
+          />
+          <div>
+            <h1>{country.name}</h1>
+            <p className="kit-view-meta">
+              <span className="kit-view-year">{year}</span>
+              {yearData.headline && <> · {yearData.headline}</>}
+            </p>
+          </div>
         </div>
       </div>
 
@@ -132,6 +185,7 @@ export default function KitView() {
             kitType={activeKit}
             countryId={countryId}
             kitYears={kitYears}
+            yearData={yearData}
           />
         )}
 

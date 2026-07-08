@@ -1,0 +1,1203 @@
+export const germany = {
+  "id": "germany",
+  "name": "Germany",
+  "flagCode": "de",
+  "confederation": "UEFA",
+  "worldCups": [
+    1934,
+    1938,
+    1954,
+    1958,
+    1962,
+    1966,
+    1970,
+    1974,
+    1978,
+    1982,
+    1986,
+    1990,
+    1994,
+    1998,
+    2002,
+    2006,
+    2010,
+    2014,
+    2018,
+    2022
+  ],
+  "bestResult": "4× World Champions",
+  "stats": {
+    "matches": 112,
+    "wins": 68,
+    "draws": 21,
+    "losses": 23,
+    "goalsFor": 232,
+    "goalsAgainst": 130
+  },
+  "facts": [
+    {
+      "id": "screwed-to-victory",
+      "label": "SCREWED TO VICTORY",
+      "story": "Before the 1954 final, Adidas founder Adi Dassler told coach Sepp Herberger about a new invention: boots with screw-in studs that could be swapped for length depending on the pitch. As rain turned Bern's Wankdorf into a swamp, Herberger reportedly said, 'Adi, screw them on.' The longer studs gave West Germany's players better grip than Hungary's heavier, mud-caked boots, and West Germany came back from 2–0 down to win 3–2. Adidas has outfitted the national team ever since — for 70 years, until Nike took over in 2027."
+    },
+    {
+      "id": "four-stars-above-the-crest",
+      "label": "FOUR STARS ABOVE THE CREST",
+      "story": "For decades West Germany's shirt crest carried no mark of its World Cup titles. That changed in 1996, when the German federation stitched three small stars above the eagle badge, one for each championship won in 1954, 1974, and 1990. The tradition sat still for 18 years until Mario Götze's extra-time goal beat Argentina in the 2014 final, earning a fourth star sewn above the crest — matching the four-time-champion status Germany now shares with Italy, one shy of five-time winners Brazil."
+    }
+  ],
+  "kits": {
+    "1934": {
+      "result": "3rd Place",
+      "headline": "First Try, Third Place",
+      "homeColors": "white shirt, black shorts, white socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Round of 16",
+          "opponent": "Belgium",
+          "score": "5–2",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Sweden",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Czechoslovakia",
+          "score": "1–3",
+          "result": "L"
+        },
+        {
+          "round": "3rd Place",
+          "opponent": "Austria",
+          "score": "3–2",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "FIRST TRY, THIRD PLACE",
+              "story": "Edmund Conen's hat-trick powered a 5–2 win over Belgium in Germany's World Cup debut. Czechoslovakia ended the run in the semi-final, but Rudolf Lehner's brace lifted Germany past Austria 3–2 in Naples for third place — a tidy finish in the tournament's first trip outside Uruguay."
+            }
+          ]
+        }
+      }
+    },
+    "1938": {
+      "result": "Group Stage",
+      "headline": "Gone in the Replay",
+      "homeColors": "white shirt, black shorts, white socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Round of 16",
+          "opponent": "Switzerland",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Switzerland",
+          "score": "2–4",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "GONE IN THE REPLAY",
+              "story": "Freshly merged with an annexed Austria, Germany drew Switzerland 1–1 needing a late equalizer from Georg Gauchel. The mandatory replay four days later got away from them, 4–2, the Swiss finishing stronger. It was an early exit that stood alone in German World Cup history until 2018."
+            }
+          ]
+        }
+      }
+    },
+    "1954": {
+      "result": "Champions",
+      "headline": "The Miracle of Bern",
+      "homeColors": "white shirt, black shorts, white socks (Leuzela)",
+      "awayColors": "green shirt, white shorts",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Turkey",
+          "score": "4–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Hungary",
+          "score": "3–8",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Turkey",
+          "score": "7–2",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Yugoslavia",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Austria",
+          "score": "6–1",
+          "result": "W"
+        },
+        {
+          "round": "Final",
+          "opponent": "Hungary",
+          "score": "3–2",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "THE MIRACLE OF BERN",
+              "story": "Down 2–0 inside eight minutes to Hungary's unbeaten Golden Team, West Germany clawed level by the 18th minute, then Helmut Rahn buried the winner in the 84th at a rain-soaked Wankdorf. 'Rahn schießt — Tor!' became the most famous radio call in German sports history, the upset forever known as the Miracle of Bern."
+            }
+          ]
+        }
+      }
+    },
+    "1958": {
+      "result": "4th Place",
+      "headline": "Fontaine Ends the Defense",
+      "homeColors": "white shirt, black shorts, white socks (Leuzela)",
+      "awayColors": "green shirt, white shorts",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "3–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Czechoslovakia",
+          "score": "2–2",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Northern Ireland",
+          "score": "2–2",
+          "result": "D"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Yugoslavia",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Sweden",
+          "score": "1–3",
+          "result": "L"
+        },
+        {
+          "round": "3rd Place",
+          "opponent": "France",
+          "score": "3–6",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "FONTAINE ENDS THE DEFENSE",
+              "story": "Defending champions West Germany needed a play-off just to escape their group, then fell 1–3 to host Sweden in the semi-final. France's Just Fontaine, mid-way through his record 13-goal tournament, tortured a young Uwe Seeler and company in a 6–3 third-place defeat that closed out a fourth-place finish."
+            }
+          ]
+        }
+      }
+    },
+    "1962": {
+      "result": "Quarter-final",
+      "headline": "Stopped Cold by Yugoslavia",
+      "homeColors": "white shirt, black shorts, white socks (Leuzela)",
+      "awayColors": "green shirt, white shorts",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Yugoslavia",
+          "score": "0–1",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "STOPPED COLD BY YUGOSLAVIA",
+              "story": "Germany opened with a goalless bore against holders Italy, then squeezed past Switzerland and Chile to top the group. Yugoslavia shut them out 1–0 in the Santiago quarter-final, a tournament remembered more for its brutal, foul-strewn football than for Germany's efficient but unspectacular run to the last eight."
+            }
+          ]
+        }
+      }
+    },
+    "1966": {
+      "result": "Runners-up",
+      "headline": "The Ghost Goal Final",
+      "homeColors": "white shirt, black shorts, white socks (Umbro)",
+      "awayColors": "green shirt, white shorts",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "5–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Uruguay",
+          "score": "4–0",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Soviet Union",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Final",
+          "opponent": "England",
+          "score": "2–4",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "THE GHOST GOAL FINAL",
+              "story": "Franz Beckenbauer and Helmut Haller each scored twice as West Germany reached the Wembley final, then trailed England 2–1 before Wolfgang Weber's stoppage-time strike forced extra time. Geoff Hurst's disputed 101st-minute shot off the crossbar — waved in after a linesman's nod — proved decisive in England's controversial 4–2 win."
+            }
+          ]
+        }
+      }
+    },
+    "1970": {
+      "result": "3rd Place",
+      "headline": "The Game of the Century",
+      "homeColors": "white shirt, black shorts, white socks (Umbro)",
+      "awayColors": "green shirt, white shorts",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bulgaria",
+          "score": "5–2",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Peru",
+          "score": "3–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "England",
+          "score": "3–2",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Italy",
+          "score": "3–4",
+          "result": "L"
+        },
+        {
+          "round": "3rd Place",
+          "opponent": "Uruguay",
+          "score": "1–0",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "THE GAME OF THE CENTURY",
+              "story": "Gerd Müller's hat-trick sank England in an extra-time quarter-final comeback from 2–0 down, but the semi-final against Italy became the 'Game of the Century' — five goals in extra time alone, Italy prevailing 4–3 in the Azteca heat. Müller's brace in the third-place win over Uruguay capped a 10-goal tournament for the young striker."
+            }
+          ]
+        }
+      }
+    },
+    "1974": {
+      "result": "Champions",
+      "headline": "Breitner, Müller, and Home Soil",
+      "homeColors": "white shirt, black shorts, white socks (Erima)",
+      "awayColors": "green shirt, white shorts",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Australia",
+          "score": "3–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "East Germany",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Yugoslavia",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Sweden",
+          "score": "4–2",
+          "result": "W"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Poland",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Final",
+          "opponent": "Netherlands",
+          "score": "2–1",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "BREITNER, MÜLLER, AND HOME SOIL",
+              "story": "An early sting from East Germany's Jürgen Sparwasser in the group stage barely dented West Germany's march at their own World Cup. Johan Cruyff's Netherlands scored inside two minutes of the final off a penalty before Paul Breitner leveled and Gerd Müller turned in the winner just before halftime, sealing a 2–1 win at Munich's Olympiastadion."
+            }
+          ]
+        }
+      }
+    },
+    "1978": {
+      "result": "2nd Round",
+      "headline": "A Flat Title Defense",
+      "homeColors": "white shirt, black shorts, white socks (Erima)",
+      "awayColors": "green shirt, white shorts",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "6–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Tunisia",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Italy",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Netherlands",
+          "score": "2–2",
+          "result": "D"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Austria",
+          "score": "2–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "A FLAT TITLE DEFENSE",
+              "story": "Defending champions West Germany limped through four scoreless draws in Argentina, including a stalemate with hosts Italy, and then lost the decisive second-round game 3–2 to Austria — the so-called 'Miracle of Córdoba' that eliminated them and delighted Austrians for a generation."
+            }
+          ]
+        }
+      }
+    },
+    "1982": {
+      "result": "Runners-up",
+      "headline": "The Disgrace of Gijón, Then Italy",
+      "homeColors": "white shirt, black shorts, white socks (first Adidas kit)",
+      "awayColors": "green shirt, white shorts",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Algeria",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "4–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Austria",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "England",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Spain",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "France",
+          "score": "3–3 (5–4 pens)",
+          "result": "D"
+        },
+        {
+          "round": "Final",
+          "opponent": "Italy",
+          "score": "1–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "THE DISGRACE OF GIJÓN, THEN ITALY",
+              "story": "West Germany's tournament nearly ended after an opening loss to Algeria, before a blatantly choreographed 1–0 win over Austria — both teams content with a scoreline that eliminated Algeria — drew lasting condemnation as the 'Disgrace of Gijón.' Harald Schumacher's brutal foul on Patrick Battiston overshadowed a semi-final shootout win over France, and Italy routed a spent Germany 3–1 in the final."
+            }
+          ]
+        }
+      }
+    },
+    "1986": {
+      "result": "Runners-up",
+      "headline": "Maradona's Argentina Gets Revenge",
+      "homeColors": "white shirt, black shorts, white socks",
+      "awayColors": "green shirt, white shorts",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Denmark",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Morocco",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Mexico",
+          "score": "0–0 (4–1 pens)",
+          "result": "D"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "France",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Final",
+          "opponent": "Argentina",
+          "score": "2–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "MARADONA'S ARGENTINA GETS REVENGE",
+              "story": "West Germany scraped through the group in third place, then needed penalties past Mexico in the quarter-final. Down 2–0 to Argentina in the final, Karl-Heinz Rummenigge and Rudi Völler leveled it inside six minutes — before Diego Maradona's pass sent Jorge Burruchaga through for the 3–2 winner in Mexico City."
+            }
+          ]
+        }
+      }
+    },
+    "1990": {
+      "result": "Champions",
+      "headline": "Brehme's Penalty in Rome",
+      "homeColors": "white shirt with black, red, and gold trim; black shorts; white socks",
+      "awayColors": "green shirt, white shorts",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Yugoslavia",
+          "score": "4–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United Arab Emirates",
+          "score": "5–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Colombia",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Netherlands",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Czechoslovakia",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "England",
+          "score": "1–1 (4–3 pens)",
+          "result": "D"
+        },
+        {
+          "round": "Final",
+          "opponent": "Argentina",
+          "score": "1–0",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "BREHME'S PENALTY IN ROME",
+              "story": "Lothar Matthäus ran the tournament from midfield as West Germany avenged 1986 with a Round of 16 win over the Netherlands amid a Rijkaard-Völler spitting incident, then edged England on penalties in the semi-final. Andreas Brehme converted a controversial late penalty for the only goal of a bad-tempered final against ten-man Argentina, delivering West Germany's third title before reunification that October."
+            }
+          ]
+        }
+      }
+    },
+    "1994": {
+      "result": "Quarter-final",
+      "headline": "Klinsmann's Diving Celebration",
+      "homeColors": "white shirt, black shorts, white socks",
+      "awayColors": "green shirt, white shorts",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Bolivia",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "3–2",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Belgium",
+          "score": "3–2",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Bulgaria",
+          "score": "1–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "KLINSMANN'S DIVING CELEBRATION",
+              "story": "Jürgen Klinsmann scored five goals and popularized his mocking swan-dive celebration — a response to accusations of diving — as Germany topped their group. Bulgaria's Yordan Letchkov, unmarked and half-bald, headed a stunning winner in the quarter-final upset that ended the defending champions' run in the United States."
+            }
+          ]
+        }
+      }
+    },
+    "1998": {
+      "result": "Quarter-final",
+      "headline": "Croatia's Shock Upset",
+      "homeColors": "white shirt, black shorts, white socks",
+      "awayColors": "green and black shirt",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "FR Yugoslavia",
+          "score": "2–2",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Iran",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Mexico",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Croatia",
+          "score": "0–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "CROATIA'S SHOCK UPSET",
+              "story": "Germany squeaked past Mexico in the Round of 16 despite trailing 1–0 with 20 minutes left. Croatia, in their World Cup debut, exposed an aging German side in the quarter-final, with Christian Wörns sent off before a rampant Croatia won 3–0 — a result that triggered a generational rebuild of German football."
+            }
+          ]
+        }
+      }
+    },
+    "2002": {
+      "result": "Runners-up",
+      "headline": "Klose's Header Barrage",
+      "homeColors": "white shirt, black shorts, white socks",
+      "awayColors": "green shirt, white shorts",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "score": "8–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Republic of Ireland",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Cameroon",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Paraguay",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "United States",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "South Korea",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Final",
+          "opponent": "Brazil",
+          "score": "0–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "KLOSE'S HEADER BARRAGE",
+              "story": "Miroslav Klose scored all five of his tournament goals with his head, including a hat-trick in an 8–0 rout of Saudi Arabia. Oliver Kahn conceded once in six matches before the final, where a rare mistake let Ronaldo in for the second goal of a 2–0 Brazilian win that denied Germany a fifth star."
+            }
+          ]
+        }
+      }
+    },
+    "2006": {
+      "result": "3rd Place",
+      "headline": "Summer Fairy Tale at Home",
+      "homeColors": "white shirt, black shorts, white socks",
+      "awayColors": "red shirt, black shorts (introduced 2005, unused at the tournament)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Costa Rica",
+          "score": "4–2",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ecuador",
+          "score": "3–0",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Sweden",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Argentina",
+          "score": "1–1 (4–2 pens)",
+          "result": "D"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Italy",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "3rd Place",
+          "opponent": "Portugal",
+          "score": "3–1",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "SUMMER FAIRY TALE AT HOME",
+              "story": "Hosting for the first time since 1974, Germany rode a wave of national goodwill dubbed the 'Sommermärchen.' Jens Lehmann's cheat sheet of Argentine penalty tendencies helped win a quarter-final shootout, but Fabio Grosso's extra-time strike sent Italy through in the semi-final. Bastian Schweinsteiger scored twice in a third-place rout of Portugal to send the hosts out with pride intact."
+            }
+          ]
+        }
+      }
+    },
+    "2010": {
+      "result": "3rd Place",
+      "headline": "Young Guns Score Twice",
+      "homeColors": "white shirt, black shorts, white socks",
+      "awayColors": "black shirt, worn with the home kit's black shorts at the tournament",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Australia",
+          "score": "4–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Serbia",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ghana",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "England",
+          "score": "4–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Argentina",
+          "score": "4–0",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Spain",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "3rd Place",
+          "opponent": "Uruguay",
+          "score": "3–2",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "YOUNG GUNS SCORE TWICE",
+              "story": "A youthful Germany, missing captain Michael Ballack to injury, blitzed England 4–1 and Argentina 4–0 in consecutive knockout routs built on quick counters from Thomas Müller and Mesut Özil. Spain's Carles Puyol headed the only goal of the semi-final, but Müller's tournament-best five goals carried Germany past Uruguay for third place."
+            }
+          ]
+        }
+      }
+    },
+    "2014": {
+      "result": "Champions",
+      "headline": "Götze's Extra-Time Winner",
+      "homeColors": "white shirt, white shorts (switched from traditional black under FIFA's kit-clash rule), black socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Portugal",
+          "score": "4–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ghana",
+          "score": "2–2",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Algeria",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "France",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Brazil",
+          "score": "7–1",
+          "result": "W"
+        },
+        {
+          "round": "Final",
+          "opponent": "Argentina",
+          "score": "1–0",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "GÖTZE'S EXTRA-TIME WINNER",
+              "story": "Germany dismantled hosts Brazil 7–1 in a semi-final rout that included five goals in 18 first-half minutes, an all-time World Cup humiliation. Substitute Mario Götze settled the final itself, chesting down André Schürrle's cross and volleying past Sergio Romero in the 113th minute for the only goal against Argentina at the Maracanã — Germany's fourth title and first as a reunified nation."
+            }
+          ]
+        }
+      }
+    },
+    "2018": {
+      "result": "Group Stage",
+      "headline": "Reigning Champions, First Out",
+      "homeColors": "white shirt, black shorts, white socks",
+      "awayColors": "green shirt",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "0–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "REIGNING CHAMPIONS, FIRST OUT",
+              "story": "The defending champions lost their opener to Mexico, then needed a stoppage-time Toni Kroos free kick to beat Sweden and stay alive. South Korea eliminated them anyway, scoring twice in second-half stoppage time — the first time Germany had failed to escape a World Cup group since 1938."
+            }
+          ]
+        }
+      }
+    },
+    "2022": {
+      "result": "Group Stage",
+      "headline": "Group Stage, Again",
+      "homeColors": "white shirt, black shorts, white socks",
+      "awayColors": "black shirt",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Costa Rica",
+          "score": "4–2",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "GROUP STAGE, AGAIN",
+              "story": "Japan's second-half comeback stunned Germany 2–1 in the opener, a repeat of the shock that had ended their 2018 campaign. A 1–1 draw with Spain and a 4–2 win over Costa Rica weren't enough on goal difference, sending Germany out in the group stage for the second straight World Cup — a first in the country's history."
+            }
+          ]
+        }
+      }
+    }
+  }
+};

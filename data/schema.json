@@ -1,0 +1,66 @@
+{
+  "_comment": "Schema for World Cup Kits country data. Cowork outputs JSON matching this structure. Watcher converts to JS module.",
+
+  "id": "string — kebab-case slug matching the filename (e.g. 'argentina')",
+  "name": "string — display name (e.g. 'Argentina')",
+  "flagCode": "string — ISO 3166-1 alpha-2 code for flagcdn.com (e.g. 'ar'). Special: 'gb-eng', 'gb-sct', 'gb-wls', 'gb-nir'",
+  "confederation": "string — one of: CONMEBOL / UEFA / CONCACAF / CAF / AFC / OFC",
+  "worldCups": "number[] — years they qualified, 1930–2022 only. Do NOT include 2026.",
+  "bestResult": "string — e.g. '3× World Champions' or 'Quarter-finalists' or 'Group Stage (1 appearance)'",
+
+  "stats": {
+    "matches": "number — total matches played (must equal W+D+L)",
+    "wins": "number",
+    "draws": "number — includes penalty shootout matches (count as D regardless of who advances)",
+    "losses": "number",
+    "goalsFor": "number",
+    "goalsAgainst": "number"
+  },
+
+  "facts": [
+    {
+      "id": "string — kebab-case unique identifier",
+      "label": "string — ALL CAPS, 2-4 words (e.g. 'THE ALBICELESTE')",
+      "story": "string — 3-5 sentences. Magazine voice. Specific names, dates, moments. NOT encyclopedia prose. Tell a story."
+    }
+  ],
+
+  "kits": {
+    "YEAR": {
+      "result": "string — exactly one of: Champions / Runners-up / 3rd Place / 4th Place / Semi-final / Quarter-final / Round of 16 / 2nd Round / Group Stage",
+      "headline": "string — 3-6 evocative words capturing the year (e.g. 'The Hand of God'). Null if nothing iconic.",
+      "annotations": [
+        {
+          "id": "string — kebab-case slug (e.g. 'hand-of-god')",
+          "label": "string — 2-4 words ALL CAPS (e.g. 'THE HAND OF GOD')",
+          "story": "string — 30-60 words. One specific moment. Magazine voice. No Wikipedia prose."
+        }
+      ],
+      "homeColors": "string — describe the home kit colors (e.g. 'light blue and white stripes')",
+      "awayColors": "string or null — describe the away kit if used or notable",
+      "image": "string or null — direct Wikimedia Commons image URL with a CC license. Must be an actual URL you verified. Null if not found.",
+      "imageCredit": {
+        "player": "string or null — player name visible in the image",
+        "game": "string or null — match description and license (e.g. 'Argentina vs France, 1978 Final — CC BY-SA 3.0 / Wikimedia Commons')"
+      },
+      "matches": [
+        {
+          "round": "string — e.g. 'Group Stage', 'Quarter-final', 'Final', 'Round of 16', '2nd Round', '3rd Place'",
+          "opponent": "string — use the name as they were known at the time (e.g. 'West Germany', not 'Germany')",
+          "score": "string — use en-dash: '2–1'. For pens add: '1–1 (4–2 pens)'. Never hyphen.",
+          "result": "string — W / D / L. Penalty shootout = D always."
+        }
+      ]
+    }
+  },
+
+  "_rules": [
+    "Set any field to null if you cannot verify it. Never invent a score or stat.",
+    "Penalty shootouts always count as D in the result field.",
+    "stats.matches must equal stats.wins + stats.draws + stats.losses — verify this.",
+    "worldCups must only include years 1930–2022. No 2026.",
+    "Writing must be magazine voice: specific, vivid, surprising. Not Wikipedia.",
+    "Image URLs must be real Wikimedia Commons URLs you have verified. Null is better than a broken link.",
+    "opponent names: use historical names — 'West Germany' not 'Germany' (pre-1990), 'Soviet Union' not 'Russia', 'Yugoslavia' not 'Serbia', 'Zaire' not 'DR Congo', 'Czechoslovakia' not 'Czech Republic'"
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "id": "england",
+  "name": "England",
+  "flagCode": "gb-eng",
+  "confederation": "UEFA",
+  "worldCups": [1950, 1954, 1958, 1962, 1966, 1970, 1982, 1986, 1990, 1998, 2002, 2006, 2010, 2014, 2018, 2022],
+  "bestResult": "World Champions (1966)",
+
+  "stats": {
+    "matches": 74,
+    "wins": 32,
+    "draws": 22,
+    "losses": 20,
+    "goalsFor": 104,
+    "goalsAgainst": 68
+  },
+
+  "facts": [
+    {
+      "id": "ten-roses-no-answer",
+      "label": "TEN ROSES, NO ANSWER",
+      "story": "For decades the Three Lions crest sat beneath a crown, borrowed from Richard the Lionheart's 12th-century seal. That changed in 1949, when the College of Arms granted the FA an official coat of arms and swapped the crown for ten small Tudor roses ringing the badge. Nobody at the FA ever explained why ten and not eleven, one per outfield position. The roses have stayed anyway, unexplained, stitched over every white shirt since."
+    },
+    {
+      "id": "one-star-two-tries",
+      "label": "ONE STAR, TWO TRIES",
+      "story": "England's crest went decades unmarked by their sole triumph. Only in 2003, 37 years after Bobby Moore lifted the trophy, did the FA stitch a single gold star onto the shirt, tucked onto the left sleeve of the home kit, easy to miss. A year later it moved to pride of place above the badge itself, debuting first on the away shirt before becoming permanent. One star, one tournament, one country still chasing a second."
+    }
+  ],
+
+  "kits": {
+    "1950": {
+      "result": "Group Stage",
+      "headline": "Shock Defeat by the USA",
+      "story": "Stan Mortensen and Wilf Mannion goals sealed a comfortable 2–0 win over Chile in Rio. Four days later in Belo Horizonte, part-time player Joe Gaetjens headed in the only goal as the United States pulled off the biggest shock in World Cup history. Telmo Zarra's late strike for Spain finished the job, and England went out in the group stage of their World Cup debut.",
+      "homeColors": "white shirt, navy blue shorts, white socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Chile", "score": "2–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "United States", "score": "0–1", "result": "L" },
+        { "round": "Group Stage", "opponent": "Spain", "score": "0–1", "result": "L" }
+      ]
+    },
+    "1954": {
+      "result": "Quarter-final",
+      "headline": "Undone by Defending Champions",
+      "story": "Ivor Broadis scored twice in a wild 4–4 draw with Belgium that needed extra time under the tournament's group-stage rules. England eased past Switzerland 2–0 to reach the last eight, where holders Uruguay proved too strong. Tom Finney's 67th-minute strike made it 3–2, but Javier Ambrois restored the gap and Uruguay advanced 4–2.",
+      "homeColors": "white shirt, navy blue shorts, white socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Belgium", "score": "4–4", "result": "D" },
+        { "round": "Group Stage", "opponent": "Switzerland", "score": "2–0", "result": "W" },
+        { "round": "Quarter-final", "opponent": "Uruguay", "score": "2–4", "result": "L" }
+      ]
+    },
+    "1958": {
+      "result": "Group Stage",
+      "headline": "Playoff Ends Winless Campaign",
+      "story": "England drew all three group games, including a goalless stalemate with a Brazil side about to win its first title, making them the only team that year not to lose to the eventual champions. That consolation meant little after a playoff loss to the Soviet Union sent England home without a single win, still mourning players lost months earlier in the Munich air disaster.",
+      "homeColors": "white shirt, navy blue shorts, white socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Soviet Union", "score": "2–2", "result": "D" },
+        { "round": "Group Stage", "opponent": "Brazil", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Austria", "score": "2–2", "result": "D" },
+        { "round": "Group Stage", "opponent": "Soviet Union", "score": "0–1", "result": "L" }
+      ]
+    },
+    "1962": {
+      "result": "Quarter-final",
+      "headline": "Brazil Ends Winterbottom's Reign",
+      "story": "Ron Flowers, Bobby Charlton and Jimmy Greaves ran riot in a 3–1 win over Argentina, but a 2–1 loss to Hungary meant England finished second in the group. Holders Brazil awaited in the quarter-final at Viña del Mar, and Garrincha tormented England twice either side of a Gerry Hitchens equaliser as Brazil won 3–1, closing out Walter Winterbottom's 16 years in charge.",
+      "homeColors": "white shirt, navy blue shorts, white socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Hungary", "score": "1–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Argentina", "score": "3–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Bulgaria", "score": "0–0", "result": "D" },
+        { "round": "Quarter-final", "opponent": "Brazil", "score": "1–3", "result": "L" }
+      ]
+    },
+    "1966": {
+      "result": "Champions",
+      "headline": "Hurst's Hat-Trick at Wembley",
+      "story": "Playing every match at Wembley, England didn't concede until the semi-final and beat Argentina and Portugal to reach the final against West Germany. Trailing twice, Geoff Hurst equalised and Martin Peters put England ahead before Wolfgang Weber forced extra time in the 89th minute. Hurst's controversial second goal off the crossbar and a fourth in stoppage time completed the first World Cup final hat-trick, sealing a 4–2 win in England's only red change shirt.",
+      "homeColors": "white shirt, navy blue shorts, white socks",
+      "awayColors": "red shirt, white shorts, red socks (worn in the final)",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Uruguay", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Mexico", "score": "2–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "France", "score": "2–0", "result": "W" },
+        { "round": "Quarter-final", "opponent": "Argentina", "score": "1–0", "result": "W" },
+        { "round": "Semi-final", "opponent": "Portugal", "score": "2–1", "result": "W" },
+        { "round": "Final", "opponent": "West Germany", "score": "4–2", "result": "W" }
+      ]
+    },
+    "1970": {
+      "result": "Quarter-final",
+      "headline": "Bonetti In, Beckenbauer's Revenge",
+      "story": "Defending champions England lost only to Brazil in the group stage, setting up a rematch with West Germany in the quarter-final. With goalkeeper Gordon Banks sidelined by illness, stand-in Peter Bonetti watched a 2–0 lead evaporate as Franz Beckenbauer and Uwe Seeler drew Germany level, and Gerd Müller's extra-time strike completed the turnaround, 3–2. It was Bobby Charlton's last game for England.",
+      "homeColors": "white shirt, navy blue shorts, white socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Romania", "score": "1–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Brazil", "score": "0–1", "result": "L" },
+        { "round": "Group Stage", "opponent": "Czechoslovakia", "score": "1–0", "result": "W" },
+        { "round": "Quarter-final", "opponent": "West Germany", "score": "2–3", "result": "L" }
+      ]
+    },
+    "1982": {
+      "result": "2nd Round",
+      "headline": "Unbeaten, Yet Eliminated Early",
+      "story": "Debuting Admiral's bold red-and-blue trimmed kit, England won all three group games, Bryan Robson scoring after just 27 seconds against France, then the fastest goal in World Cup history at that point. The second group phase brought only two scoreless draws, against West Germany and Spain, and England went home unbeaten but empty-handed, needing a two-goal win over Spain that never came.",
+      "homeColors": "white shirt with red and blue sleeve trim, navy blue shorts, white socks",
+      "awayColors": "red shirt with blue trim",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "France", "score": "3–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Czechoslovakia", "score": "2–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Kuwait", "score": "1–0", "result": "W" },
+        { "round": "2nd Round", "opponent": "West Germany", "score": "0–0", "result": "D" },
+        { "round": "2nd Round", "opponent": "Spain", "score": "0–0", "result": "D" }
+      ]
+    },
+    "1986": {
+      "result": "Quarter-final",
+      "headline": "Maradona's Hand and Genius",
+      "story": "After an opening loss to Portugal and a Ray Wilkins red card against Morocco, Gary Lineker's hat-trick against Poland revived England's run through the Round of 16. Diego Maradona ended it in the quarter-final, punching in the Hand of God before slaloming past five England players for the Goal of the Century in a 2–1 win. Lineker still finished the tournament as top scorer.",
+      "homeColors": "white shirt with grey pinstripe trim, navy blue shorts, white socks",
+      "awayColors": "red shirt, white shorts",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Portugal", "score": "0–1", "result": "L" },
+        { "round": "Group Stage", "opponent": "Morocco", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Poland", "score": "3–0", "result": "W" },
+        { "round": "Round of 16", "opponent": "Paraguay", "score": "3–0", "result": "W" },
+        { "round": "Quarter-final", "opponent": "Argentina", "score": "1–2", "result": "L" }
+      ]
+    },
+    "1990": {
+      "result": "4th Place",
+      "headline": "Gazza's Tears, Penalty Heartbreak",
+      "story": "David Platt's extra-time volley beat Belgium, and two Gary Lineker penalties saw off Cameroon, sending England to a semi-final against West Germany. Paul Gascoigne's booking meant he'd miss a final he never got to play in, as the game finished 1–1 and West Germany won the shootout 4–3 after Stuart Pearce and Chris Waddle both missed. Italy beat England in the third-place match.",
+      "homeColors": "white shirt with shadow pinstripe pattern, navy blue shorts, white socks",
+      "awayColors": "red shirt, white shorts",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Republic of Ireland", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "Netherlands", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Egypt", "score": "1–0", "result": "W" },
+        { "round": "Round of 16", "opponent": "Belgium", "score": "1–0", "result": "W" },
+        { "round": "Quarter-final", "opponent": "Cameroon", "score": "3–2", "result": "W" },
+        { "round": "Semi-final", "opponent": "West Germany", "score": "1–1 (3–4 pens)", "result": "D" },
+        { "round": "3rd Place", "opponent": "Italy", "score": "1–2", "result": "L" }
+      ]
+    },
+    "1998": {
+      "result": "Round of 16",
+      "headline": "Owen's Wonder, Beckham's Red Card",
+      "story": "Eighteen-year-old Michael Owen scored a mazy solo goal against Romania that still wasn't enough to avoid defeat. Against Argentina, David Beckham was sent off in the 47th minute for a kick on Diego Simeone, and ten men held out through a 2–2 draw and extra time. Goalkeeper Carlos Roa saved David Batty's decisive penalty, sending Argentina through 4–3 on kicks.",
+      "homeColors": "white shirt, navy blue shorts, white socks",
+      "awayColors": "red shirt, white shorts",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Tunisia", "score": "2–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Romania", "score": "1–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Colombia", "score": "2–0", "result": "W" },
+        { "round": "Round of 16", "opponent": "Argentina", "score": "2–2 (3–4 pens)", "result": "D" }
+      ]
+    },
+    "2002": {
+      "result": "Quarter-final",
+      "headline": "Beckham's Redemption, Brazil's Revenge",
+      "story": "David Beckham exorcised his 1998 demons with the winning penalty against Argentina, then set up Michael Owen for the opener in the quarter-final against Brazil. Ronaldinho's speculative free kick looped over a stranded David Seaman for the equaliser, and Brazil went on to win 2–1 and the tournament itself, ending England's run in Shizuoka.",
+      "homeColors": "white shirt, navy blue shorts, white socks",
+      "awayColors": "red shirt, navy blue shorts",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Sweden", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "Argentina", "score": "1–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Nigeria", "score": "0–0", "result": "D" },
+        { "round": "Round of 16", "opponent": "Denmark", "score": "3–0", "result": "W" },
+        { "round": "Quarter-final", "opponent": "Brazil", "score": "1–2", "result": "L" }
+      ]
+    },
+    "2006": {
+      "result": "Quarter-final",
+      "headline": "Rooney's Red Card, Ricardo's Saves",
+      "story": "A David Beckham free kick edged out Ecuador in the Round of 16, but the quarter-final against Portugal turned sour when Wayne Rooney was sent off for stamping on Ricardo Carvalho. The match finished goalless after extra time, and Portuguese goalkeeper Ricardo saved three England penalties, including Jamie Carragher's, to send Portugal through 3–1 on kicks.",
+      "homeColors": "white shirt, navy blue shorts, white socks",
+      "awayColors": "red shirt, white shorts",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Paraguay", "score": "1–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Trinidad and Tobago", "score": "2–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Sweden", "score": "2–2", "result": "D" },
+        { "round": "Round of 16", "opponent": "Ecuador", "score": "1–0", "result": "W" },
+        { "round": "Quarter-final", "opponent": "Portugal", "score": "0–0 (1–3 pens)", "result": "D" }
+      ]
+    },
+    "2010": {
+      "result": "Round of 16",
+      "headline": "The Ghost Goal at Bloemfontein",
+      "story": "England scraped out of a weak group before meeting Germany in the Round of 16, where Frank Lampard's shot crashed down clearly over the line and was never given by the officials. Germany capitalised, running out 4–1 winners in Bloemfontein, England's heaviest defeat in World Cup history and a result that finally pushed FIFA toward goal-line technology.",
+      "homeColors": "white shirt, navy blue shorts, white socks",
+      "awayColors": "red shirt, red shorts",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "United States", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "Algeria", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Slovenia", "score": "1–0", "result": "W" },
+        { "round": "Round of 16", "opponent": "Germany", "score": "1–4", "result": "L" }
+      ]
+    },
+    "2014": {
+      "result": "Group Stage",
+      "headline": "Two Defeats, Early Elimination",
+      "story": "Nike's first England World Cup kit debuted in defeat, Daniel Sturridge's goal not enough against Italy, and Wayne Rooney's late strike not enough against Uruguay. A scoreless draw with Costa Rica in the final group game confirmed England's earliest World Cup exit since 1958, with just one point from three matches.",
+      "homeColors": "white shirt with silver trim, navy blue shorts, white socks",
+      "awayColors": "red shirt",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Italy", "score": "1–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Uruguay", "score": "1–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Costa Rica", "score": "0–0", "result": "D" }
+      ]
+    },
+    "2018": {
+      "result": "4th Place",
+      "headline": "Kane's Golden Boot Run",
+      "story": "England scored nine goals from set pieces, the most in a single tournament since 1966, with Harry Kane converting a stoppage-time penalty against Tunisia and a hat-trick in a 6–1 rout of Panama. A shootout win over Colombia, England's first ever at a World Cup, and headers from Harry Maguire and Dele Alli against Sweden carried them to their first semi-final since 1990, where Croatia won in extra time.",
+      "homeColors": "white shirt with red trim, navy blue shorts, white socks",
+      "awayColors": "red shirt, white shorts, red socks",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Tunisia", "score": "2–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Panama", "score": "6–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Belgium", "score": "0–1", "result": "L" },
+        { "round": "Round of 16", "opponent": "Colombia", "score": "1–1 (4–3 pens)", "result": "D" },
+        { "round": "Quarter-final", "opponent": "Sweden", "score": "2–0", "result": "W" },
+        { "round": "Semi-final", "opponent": "Croatia", "score": "1–2", "result": "L" },
+        { "round": "3rd Place", "opponent": "Belgium", "score": "0–2", "result": "L" }
+      ]
+    },
+    "2022": {
+      "result": "Quarter-final",
+      "headline": "Bellingham Arrives, Kane Misses",
+      "story": "Nineteen-year-old Jude Bellingham announced himself with a goal in a 6–2 opening rout of Iran, and Marcus Rashford scored twice against Wales as England topped their group. Senegal were dispatched 3–0 in the Round of 16, but Harry Kane's missed second penalty against France in the quarter-final ended the run, leaving England with only the tournament's Fair Play award.",
+      "homeColors": "white shirt with blue gradient trim, navy blue shorts, white socks",
+      "awayColors": "red shirt, navy blue shorts",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Iran", "score": "6–2", "result": "W" },
+        { "round": "Group Stage", "opponent": "United States", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Wales", "score": "3–0", "result": "W" },
+        { "round": "Round of 16", "opponent": "Senegal", "score": "3–0", "result": "W" },
+        { "round": "Quarter-final", "opponent": "France", "score": "1–2", "result": "L" }
+      ]
+    }
+  }
+}
