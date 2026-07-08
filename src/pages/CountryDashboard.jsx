@@ -247,14 +247,21 @@ export default function CountryDashboard() {
                             <tr key={i} className="match-row">
                               <td className="match-round">{m.round}</td>
                               <td className="match-opponent">
-                                {flagCode && (
-                                  <img
-                                    src={`https://flagcdn.com/w40/${flagCode}.png`}
-                                    alt=""
-                                    className="match-flag"
-                                  />
-                                )}
-                                {m.opponent}
+                                <div className="match-opponent-inner">
+                                  <span className="match-opponent-name">
+                                    {flagCode && (
+                                      <img
+                                        src={`https://flagcdn.com/w40/${flagCode}.png`}
+                                        alt=""
+                                        className="match-flag"
+                                      />
+                                    )}
+                                    {m.opponent}
+                                  </span>
+                                  {m.scorers && (
+                                    <span className="match-scorers">{m.scorers}</span>
+                                  )}
+                                </div>
                               </td>
                               <td className="match-score">{m.score}</td>
                               <td className={`match-wdl match-wdl--${m.result.toLowerCase()}`}>{m.result}</td>

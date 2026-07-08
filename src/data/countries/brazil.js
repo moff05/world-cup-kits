@@ -519,37 +519,43 @@ export const brazil = {
                       "round": "Group Stage",
                       "opponent": "Czechoslovakia",
                       "score": "4–1",
-                      "result": "W"
+                      "result": "W",
+                      "scorers": "Rivelino 24', Pelé 59', Jairzinho 71', Jairzinho 81'"
               },
               {
                       "round": "Group Stage",
                       "opponent": "England",
                       "score": "1–0",
-                      "result": "W"
+                      "result": "W",
+                      "scorers": "Jairzinho 59'"
               },
               {
                       "round": "Group Stage",
                       "opponent": "Romania",
                       "score": "3–2",
-                      "result": "W"
+                      "result": "W",
+                      "scorers": "Pelé 19', Pelé 67', Jairzinho 58'"
               },
               {
                       "round": "Quarter-final",
                       "opponent": "Peru",
                       "score": "4–2",
-                      "result": "W"
+                      "result": "W",
+                      "scorers": "Rivelino 11', Tostão 15', Jairzinho 52', Tostão 58'"
               },
               {
                       "round": "Semi-final",
                       "opponent": "Uruguay",
                       "score": "3–1",
-                      "result": "W"
+                      "result": "W",
+                      "scorers": "Clodoaldo 44', Jairzinho 76', Rivelino 89'"
               },
               {
                       "round": "Final",
                       "opponent": "Italy",
                       "score": "4–1",
-                      "result": "W"
+                      "result": "W",
+                      "scorers": "Pelé 18', Gerson 66', Jairzinho 71', Carlos Alberto 86'"
               }
       ],
 

@@ -73,6 +73,7 @@ export default function Home() {
             <span className="home-stat-label">First Cup</span>
           </div>
         </div>
+        <p className="pipeline-counter">{countries.length} / 83 nations researched by AI · auto-updating</p>
       </header>
 
       <div className="search-wrap">

@@ -48,14 +48,16 @@
           "round": "string — e.g. 'Group Stage', 'Quarter-final', 'Final', 'Round of 16', '2nd Round', '3rd Place'",
           "opponent": "string — use the name as they were known at the time (e.g. 'West Germany', not 'Germany')",
           "score": "string — use en-dash: '2–1'. For pens add: '1–1 (4–2 pens)'. Never hyphen.",
-          "result": "string — W / D / L. Penalty shootout = D always."
+          "result": "string — W / D / L. Penalty shootout = D always.",
+          "scorers": "string or null — goal scorers with minute, e.g. 'Pelé 18\\', Jairzinho 71\\''. Own goals: 'Mazzola OG 45\\''. Null if not found."
         }
       ]
     }
   },
 
   "_rules": [
-    "Set any field to null if you cannot verify it. Never invent a score or stat.",
+    "Set any field to null if you cannot verify it. Never invent a score, stat, or scorer.",
+    "scorers: list this country's scorers only — not the opponent's. Format: 'Surname Minute\\'' e.g. 'Pelé 18\\', Vavá 68\\''. Own goals: 'Surname OG Minute\\''. Null if unknown.",
     "Penalty shootouts always count as D in the result field.",
     "stats.matches must equal stats.wins + stats.draws + stats.losses — verify this.",
     "worldCups must only include years 1930–2022. No 2026.",

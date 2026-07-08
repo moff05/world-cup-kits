@@ -31,6 +31,7 @@ From each tournament page, extract every single match:
 - Opponent name as they were known at the time
 - Score using en-dash: `2–1`. Penalty shootouts: `1–1 (4–2 pens)`
 - Result: W / D / L — **penalty shootout matches are always D, never W or L**
+- Scorers: **this country's goal scorers only**, with minute. Format: `"Pelé 18', Jairzinho 71'"`. Own goals: `"Mazzola OG 45'"`. Set to null if not found on the page — never guess.
 
 ### Source C — Kit colors
 Search: **"[Country] national football team kit [decade]" site:en.wikipedia.org** OR **"[Country] [YEAR] FIFA World Cup kit"**

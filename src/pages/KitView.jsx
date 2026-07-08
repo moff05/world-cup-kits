@@ -2,6 +2,18 @@ import { useState, useEffect } from "react";
 import { Link, useParams, useNavigate } from "react-router-dom";
 import { countries } from "../data/index.js";
 
+const FLAG_OVERRIDES = {
+  "England": "gb-eng", "Scotland": "gb-sct", "Wales": "gb-wls", "Northern Ireland": "gb-nir",
+  "West Germany": "de", "East Germany": "de", "Soviet Union": "ru", "Yugoslavia": "rs",
+  "Czechoslovakia": "cz", "Zaire": "cd", "Serbia and Montenegro": "rs",
+  "Netherlands Antilles": "nl", "Dutch East Indies": "id", "Saar": "de",
+  "United Arab Republic": "eg", "Bohemia": "cz", "North Vietnam": "vn",
+};
+const NAME_TO_FLAG = Object.fromEntries(countries.map((c) => [c.name, c.flagCode]));
+function opponentFlagCode(opponent) {
+  return FLAG_OVERRIDES[opponent] || NAME_TO_FLAG[opponent] || null;
+}
+
 function StoryText({ text, countryId, kitYears }) {
   const parts = [];
   const yearRegex = /\b(1[89]\d{2}|20\d{2})\b/g;
@@ -205,6 +217,37 @@ export default function KitView() {
           </nav>
         </aside>
       </div>
+
+      {yearData.matches?.length > 0 && (
+        <section className="kit-matches">
+          <h3 className="kit-matches-title">Matches</h3>
+          <table className="match-table">
+            <tbody>
+              {yearData.matches.map((m, i) => {
+                const flagCode = opponentFlagCode(m.opponent);
+                return (
+                  <tr key={i} className="match-row">
+                    <td className="match-round">{m.round}</td>
+                    <td className="match-opponent">
+                      <div className="match-opponent-inner">
+                        <span className="match-opponent-name">
+                          {flagCode && (
+                            <img src={`https://flagcdn.com/w40/${flagCode}.png`} alt="" className="match-flag" />
+                          )}
+                          {m.opponent}
+                        </span>
+                        {m.scorers && <span className="match-scorers">{m.scorers}</span>}
+                      </div>
+                    </td>
+                    <td className="match-score">{m.score}</td>
+                    <td className={`match-wdl match-wdl--${m.result.toLowerCase()}`}>{m.result}</td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </section>
+      )}
 
       {(prevYear || nextYear) && (
         <div className="kit-year-nav">

@@ -1,10 +1,454 @@
-export const czechRepublic = {
-  id: "czech-republic",
-  name: "Czech Republic",
-  flagCode: "cz",
-  confederation: "UEFA",
-  worldCups: [1934,1938,1954,1958,1962,1970,1982,1990,2006],
-  bestResult: "Runners-up",
-  facts: [],
-  kits: {},
+export const czech_republic = {
+  "id": "czech-republic",
+  "name": "Czech Republic",
+  "flagCode": "cz",
+  "confederation": "UEFA",
+  "worldCups": [
+    1934,
+    1938,
+    1954,
+    1958,
+    1962,
+    1970,
+    1982,
+    1990,
+    2006
+  ],
+  "bestResult": "Runners-up (1934, 1962, as Czechoslovakia)",
+  "stats": {
+    "matches": 33,
+    "wins": 12,
+    "draws": 5,
+    "losses": 16,
+    "goalsFor": 47,
+    "goalsAgainst": 49
+  },
+  "facts": [
+    {
+      "id": "the-panenka",
+      "label": "THE PANENKA",
+      "story": "In the 1976 European Championship final against West Germany, Antonín Panenka stepped up in a deciding penalty shootout and, with the title on the line, gently chipped the ball down the middle as goalkeeper Sepp Maier dove left — a technique so audacious it now bears his name worldwide. Six years later at the 1982 World Cup, Panenka scored penalties against both Kuwait and France — the only two goals Czechoslovakia managed in a first-round exit, proof the moment defined far more than a highlight reel."
+    },
+    {
+      "id": "tricolor-to-red",
+      "label": "TRICOLOR TO RED",
+      "story": "For nearly seventy years, Czechoslovakia played in white shirts with red shorts and blue socks, echoing the national flag's white-red bicolor and blue hoist triangle that symbolized the 1918 union of Czechs and Slovaks. When the country split peacefully in 1993, the new Czech Republic team dropped white as its primary color and adopted red as the dominant home shirt from 1994 onward — a small but permanent break from seven decades of shared identity."
+    }
+  ],
+  "kits": {
+    "1934": {
+      "result": "Runners-up",
+      "headline": "Nejedlý's Furious Final Run",
+      "homeColors": "white shirt, red shorts, blue socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Round of 16",
+          "opponent": "Romania",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Switzerland",
+          "score": "3–2",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Germany",
+          "score": "3–1",
+          "result": "W"
+        },
+        {
+          "round": "Final",
+          "opponent": "Italy",
+          "score": "1–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "NEJEDLÝ'S FURIOUS FINAL RUN",
+              "story": "Oldřich Nejedlý terrorized Italy's group, scoring three times in a 3–1 demolition of Germany in the semi-final after propelling wins over Romania and Switzerland. In Rome's final, Antonín Puč's opener had Czechoslovakia ahead, but Raimundo Orsi's equalizer and Angelo Schiavio's extra-time winner handed host Italy the trophy 2–1, Nejedlý's tournament-topping five goals a bittersweet consolation."
+            }
+          ]
+        }
+      }
+    },
+    "1938": {
+      "result": "Quarter-final",
+      "headline": "Two Games, One Opponent",
+      "homeColors": "white shirt, red shorts, blue socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Round of 16",
+          "opponent": "Netherlands",
+          "score": "3–0",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Brazil",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Brazil",
+          "score": "1–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "TWO GAMES, ONE OPPONENT",
+              "story": "Czechoslovakia beat the Netherlands 3–0 in extra time behind Oldřich Nejedlý, then drew Brazil 1–1 through extra time in a brutal quarter-final marked by broken bones and three ejections. The replay two days later went to Brazil 2–1 despite Václav Kopecký's goal, ending Czechoslovakia's run in one of the tournament's most physical ties."
+            }
+          ]
+        }
+      }
+    },
+    "1954": {
+      "result": "Group Stage",
+      "headline": "Two Games, No Goals For",
+      "homeColors": "white shirt, red shorts, blue socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Austria",
+          "score": "0–5",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "TWO GAMES, NO GOALS FOR",
+              "story": "Czechoslovakia's tournament lasted just two matches — a 2–0 loss to Uruguay in Bern, then a 5–0 rout by Austria in Zürich, the heaviest defeat in the team's World Cup history. Without a single goal scored across the whole tournament, the group-stage exit was as swift as it was scoreless."
+            }
+          ]
+        }
+      }
+    },
+    "1958": {
+      "result": "Group Stage",
+      "headline": "Zikán's Six-Goal Burst",
+      "homeColors": "white shirt, red shorts, blue socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Northern Ireland",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "2–2",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "6–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Northern Ireland",
+          "score": "1–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "ZIKÁN'S SIX-GOAL BURST",
+              "story": "Zdeněk Zikán and Václav Hovorka combined for four goals in a 6–1 rout of Argentina, Czechoslovakia's biggest-ever World Cup win, after a 2–2 draw with West Germany kept hopes alive. But a playoff rematch with Northern Ireland — needed after both finished level on points — went to extra time and ended 2–1, Zikán's goal not enough."
+            }
+          ]
+        }
+      }
+    },
+    "1962": {
+      "result": "Runners-up",
+      "headline": "Masopust's Silver Ball Run",
+      "homeColors": "white shirt, red shorts, blue socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "1–3",
+          "result": "L"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Hungary",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Yugoslavia",
+          "score": "3–1",
+          "result": "W"
+        },
+        {
+          "round": "Final",
+          "opponent": "Brazil",
+          "score": "1–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "MASOPUST'S SILVER BALL RUN",
+              "story": "Josef Masopust won the Silver Ball as Czechoslovakia beat Spain, drew Brazil, then edged Hungary and Yugoslavia to reach a second World Cup final. Masopust himself put them ahead inside 16 minutes against Brazil in Santiago, but Amarildo, Zito, and Vavá turned it around, Brazil winning 3–1 to claim their second straight title."
+            }
+          ]
+        }
+      }
+    },
+    "1970": {
+      "result": "Group Stage",
+      "headline": "Petráš Scores, Little Else",
+      "homeColors": "white shirt, red shorts, blue socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "1–4",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Romania",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–1",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "PETRÁŠ SCORES, LITTLE ELSE",
+              "story": "Ladislav Petráš scored in back-to-back losses to Brazil and Romania in Guadalajara, but a 1–0 defeat to England in the finale sealed a winless group-stage exit. Pelé, Jairzinho, and a rampant Brazil side that would go on to lift the trophy proved simply too strong for a Czechoslovak side missing its 1962 spark."
+            }
+          ]
+        }
+      }
+    },
+    "1982": {
+      "result": "Group Stage",
+      "headline": "Panenka's Penalties, No Wins",
+      "homeColors": "white shirt, red shorts, blue socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Kuwait",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "1–1",
+          "result": "D"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "PANENKA'S PENALTIES, NO WINS",
+              "story": "Antonín Panenka scored both Czechoslovak goals from the penalty spot — equalizing draws against Kuwait and France — but a 2–0 loss to England sandwiched between them meant Czechoslovakia finished without a win. Two draws and a defeat were enough only for an early flight home from Spain."
+            }
+          ]
+        }
+      }
+    },
+    "1990": {
+      "result": "Quarter-final",
+      "headline": "Skuhravý's Five-Goal Spring",
+      "homeColors": "white shirt, red shorts, blue socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "5–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Austria",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Costa Rica",
+          "score": "4–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "West Germany",
+          "score": "0–1",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "SKUHRAVÝ'S FIVE-GOAL SPRING",
+              "story": "Tomáš Skuhravý terrorized Italy's group stage, scoring five goals including a hat-trick in a 4–1 rout of Costa Rica, as Czechoslovakia reached the quarter-finals for the first time since 1962. West Germany, the eventual champions, ended the run 1–0 in Milan, but Skuhravý's Silver Boot marked the country's best World Cup since the golden era."
+            }
+          ]
+        }
+      }
+    },
+    "2006": {
+      "result": "Group Stage",
+      "headline": "Rosický's Brace, Brief Return",
+      "homeColors": "red shirt, white shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "3–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ghana",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "0–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "ROSICKÝ'S BRACE, BRIEF RETURN",
+              "story": "Tomáš Rosický scored twice in a 3–0 opening win over the United States, the Czech Republic's first World Cup match as an independent nation. But losses to Ghana and Italy in Cologne and Hamburg sent the Czechs home after the group stage, their only World Cup appearance since the 1993 split still without a knockout match."
+            }
+          ]
+        }
+      }
+    }
+  }
 };
