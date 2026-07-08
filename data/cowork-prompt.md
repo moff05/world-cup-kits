@@ -66,17 +66,17 @@ Run this checklist. Fix any discrepancy before writing the file.
 
 Schema: `/Users/nmoff/Desktop/Claude Projects/world-cup-kits/data/schema.json`
 
-**Per year, write 2–3 annotations instead of a single story.**
+**Per year, write exactly 3 annotations. Never fewer. This is the minimum.**
 
 Each annotation has:
 - `id`: kebab-case slug (e.g. `"hand-of-god"`, `"the-kit"`, `"the-result"`)
 - `label`: 2–4 words ALL CAPS (e.g. `"THE HAND OF GOD"`, `"THE KIT"`, `"HOW IT ENDED"`)
 - `story`: 30–60 words. One specific moment, one specific detail. Magazine voice.
 
-Good annotation topics per year:
-- The most iconic moment or player
-- Something specific about the kit that year
-- A tactical, political, or cultural detail that made that tournament unique
+The 3 annotations must cover 3 different angles — do not write 3 variations of the same topic:
+1. **The result / key moment** — what happened on the pitch, the defining match or player
+2. **The kit** — something specific and visual about what they wore that year (colors, badge, sponsor, design detail)
+3. **The context** — a political, cultural, or off-pitch story that made that tournament unique for this country
 
 **Strict field limits:**
 - `headline`: 3–6 words
