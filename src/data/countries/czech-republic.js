@@ -1,4 +1,4 @@
-export const czech_republic = {
+export const czechRepublic = {
   "id": "czech-republic",
   "name": "Czech Republic",
   "flagCode": "cz",
