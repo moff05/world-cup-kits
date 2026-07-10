@@ -476,7 +476,7 @@
     "name": "North Korea",
     "confederation": "AFC",
     "worldCupsCount": 2,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -484,7 +484,7 @@
     "name": "New Zealand",
     "confederation": "OFC",
     "worldCupsCount": 2,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -492,7 +492,7 @@
     "name": "Slovakia",
     "confederation": "UEFA",
     "worldCupsCount": 1,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
