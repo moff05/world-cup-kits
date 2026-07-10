@@ -49,14 +49,14 @@ export const ecuador = {
           "opponent": "Mexico",
           "score": "1–2",
           "result": "L",
-          "scorers": "Delgado 5''"
+          "scorers": "Delgado 5'"
         },
         {
           "round": "Group Stage",
           "opponent": "Croatia",
           "score": "1–0",
           "result": "W",
-          "scorers": "Méndez 48''"
+          "scorers": "Méndez 48'"
         }
       ],
       "kits": {
@@ -92,14 +92,14 @@ export const ecuador = {
           "opponent": "Poland",
           "score": "2–0",
           "result": "W",
-          "scorers": "Tenorio 24'', Delgado 80''"
+          "scorers": "Tenorio 24', Delgado 80'"
         },
         {
           "round": "Group Stage",
           "opponent": "Costa Rica",
           "score": "3–0",
           "result": "W",
-          "scorers": "Tenorio 8'', Delgado 54'', Kaviedes 90'+2''"
+          "scorers": "Tenorio 8', Delgado 54', Kaviedes 90'+2'"
         },
         {
           "round": "Group Stage",
@@ -149,14 +149,14 @@ export const ecuador = {
           "opponent": "Switzerland",
           "score": "1–2",
           "result": "L",
-          "scorers": "Valencia 22''"
+          "scorers": "Valencia 22'"
         },
         {
           "round": "Group Stage",
           "opponent": "Honduras",
           "score": "2–1",
           "result": "W",
-          "scorers": "Valencia 34'', Valencia 65''"
+          "scorers": "Valencia 34', Valencia 65'"
         },
         {
           "round": "Group Stage",
