@@ -41,14 +41,14 @@ export const honduras = {
           "opponent": "Spain",
           "score": "1–1",
           "result": "D",
-          "scorers": "Zelaya 8''"
+          "scorers": "Zelaya 8'"
         },
         {
           "round": "Group Stage",
           "opponent": "Northern Ireland",
           "score": "1–1",
           "result": "D",
-          "scorers": "Laing 60''"
+          "scorers": "Laing 60'"
         },
         {
           "round": "Group Stage",
@@ -143,7 +143,7 @@ export const honduras = {
           "opponent": "Ecuador",
           "score": "1–2",
           "result": "L",
-          "scorers": "Costly 31''"
+          "scorers": "Costly 31'"
         },
         {
           "round": "Group Stage",
