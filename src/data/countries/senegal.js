@@ -41,33 +41,33 @@ export const senegal = {
           "opponent": "France",
           "score": "1–0",
           "result": "W",
-          "scorers": "Diop 30'"
+          "scorers": "Diop 30''"
         },
         {
           "round": "Group Stage",
           "opponent": "Denmark",
           "score": "1–1",
           "result": "D",
-          "scorers": "Diao 52'"
+          "scorers": "Diao 52''"
         },
         {
           "round": "Group Stage",
           "opponent": "Uruguay",
           "score": "3–3",
           "result": "D",
-          "scorers": "Fadiga 20' (pen), Diop 26', 38'"
+          "scorers": "Fadiga 20'', Diop 26'', Diop 38''"
         },
         {
           "round": "Round of 16",
           "opponent": "Sweden",
-          "score": "2–1 (a.e.t.)",
+          "score": "2–1",
           "result": "W",
-          "scorers": "Camara 37', 104'"
+          "scorers": "Camara 37'', Camara 104''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Turkey",
-          "score": "0–1 (a.e.t.)",
+          "score": "0–1",
           "result": "L",
           "scorers": null
         }
@@ -115,14 +115,14 @@ export const senegal = {
           "opponent": "Poland",
           "score": "2–1",
           "result": "W",
-          "scorers": "Cionek OG 37', Niang 60'"
+          "scorers": "Cionek OG 37'', Niang 60''"
         },
         {
           "round": "Group Stage",
           "opponent": "Japan",
           "score": "2–2",
           "result": "D",
-          "scorers": "Mané 11', Wagué 71'"
+          "scorers": "Mané 11'', Wagué 71''"
         },
         {
           "round": "Group Stage",
