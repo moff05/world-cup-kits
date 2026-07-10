@@ -41,21 +41,21 @@ export const ivoryCoast = {
           "opponent": "Argentina",
           "score": "1–2",
           "result": "L",
-          "scorers": "Drogba 82''"
+          "scorers": "Drogba 82'"
         },
         {
           "round": "Group Stage",
           "opponent": "Netherlands",
           "score": "1–2",
           "result": "L",
-          "scorers": "Koné 38''"
+          "scorers": "Koné 38'"
         },
         {
           "round": "Group Stage",
           "opponent": "Serbia and Montenegro",
           "score": "3–2",
           "result": "W",
-          "scorers": "Dindane 37'', Dindane 67'', Kalou 86''"
+          "scorers": "Dindane 37', Dindane 67', Kalou 86'"
         }
       ],
       "kits": {
@@ -98,14 +98,14 @@ export const ivoryCoast = {
           "opponent": "Brazil",
           "score": "1–3",
           "result": "L",
-          "scorers": "Drogba 79''"
+          "scorers": "Drogba 79'"
         },
         {
           "round": "Group Stage",
           "opponent": "North Korea",
           "score": "3–0",
           "result": "W",
-          "scorers": "Touré 14'', Romaric 20'', Kalou 82''"
+          "scorers": "Touré 14', Romaric 20', Kalou 82'"
         }
       ],
       "kits": {
@@ -141,21 +141,21 @@ export const ivoryCoast = {
           "opponent": "Japan",
           "score": "2–1",
           "result": "W",
-          "scorers": "Bony 64'', Gervinho 66''"
+          "scorers": "Bony 64', Gervinho 66'"
         },
         {
           "round": "Group Stage",
           "opponent": "Colombia",
           "score": "1–2",
           "result": "L",
-          "scorers": "Gervinho 73''"
+          "scorers": "Gervinho 73'"
         },
         {
           "round": "Group Stage",
           "opponent": "Greece",
           "score": "1–2",
           "result": "L",
-          "scorers": "Bony 74''"
+          "scorers": "Bony 74'"
         }
       ],
       "kits": {
