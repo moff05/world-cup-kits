@@ -77,7 +77,7 @@ export const qatar = {
             {
               "id": "zero-points-record",
               "label": "THE WINLESS RECORD",
-              "story": "A goalless 0-2 loss to the Netherlands at Al Bayt Stadium closed out Qatar's campaign with three defeats from three, one goal scored, and zero points — the first host nation in tournament history to finish a World Cup without a single point on the board."
+              "story": "A goalless 0–2 loss to the Netherlands at Al Bayt Stadium closed out Qatar's campaign with three defeats from three, one goal scored, and zero points — the first host nation in tournament history to finish a World Cup without a single point on the board."
             }
           ]
         }
