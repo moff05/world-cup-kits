@@ -40,7 +40,7 @@ export const slovenia = {
           "opponent": "Spain",
           "score": "1–3",
           "result": "L",
-          "scorers": "Sebastjan Cimirotič 82'"
+          "scorers": "Cimirotič 82''"
         },
         {
           "round": "Group Stage",
@@ -54,7 +54,7 @@ export const slovenia = {
           "opponent": "Paraguay",
           "score": "1–3",
           "result": "L",
-          "scorers": "Milenko Ačimovič 45'"
+          "scorers": "Ačimovič 45'+1''"
         }
       ],
       "kits": {
@@ -95,14 +95,14 @@ export const slovenia = {
           "opponent": "Algeria",
           "score": "1–0",
           "result": "W",
-          "scorers": "Robert Koren 79'"
+          "scorers": "Koren 79''"
         },
         {
           "round": "Group Stage",
           "opponent": "United States",
           "score": "2–2",
           "result": "D",
-          "scorers": "Valter Birsa 13', Zlatan Ljubijankič 42'"
+          "scorers": "Birsa 13'', Ljubijankić 42''"
         },
         {
           "round": "Group Stage",
