@@ -1,4 +1,4 @@
-export const kuwait = {
+{
   "id": "kuwait",
   "name": "Kuwait",
   "flagCode": "kw",
@@ -31,8 +31,25 @@ export const kuwait = {
     "1982": {
       "result": "Group Stage",
       "headline": "The Prince Stops Play",
+      "annotations": [
+        {
+          "id": "al-dakhils-header",
+          "label": "AN OPENING-DAY DRAW",
+          "story": "Faisal Al-Dakhil headed home a corner in the 57th minute against Czechoslovakia, Kuwait's first-ever World Cup goal, canceling out an early Panenka penalty to secure a 1-1 draw in their tournament debut."
+        },
+        {
+          "id": "the-pitch-invasion",
+          "label": "A SHEIKH INTERVENES",
+          "story": "Trailing France 3-1, Kuwait's players stopped play believing they'd heard a whistle from the stands when France scored a fourth. Sheikh Fahad Al-Ahmad Al-Sabah walked onto the pitch to protest, and the referee disallowed the goal before France closed out a 4-1 win regardless."
+        }
+      ],
       "homeColors": "blue shirt with white trim (Puma)",
       "awayColors": "white shirt with blue trim",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -55,28 +72,7 @@ export const kuwait = {
           "result": "L",
           "scorers": "Al-Buloushi 75'"
         }
-      ],
-      "kits": {
-        "home": {
-          "image": null,
-          "imageCredit": {
-            "player": null,
-            "game": null
-          },
-          "annotations": [
-            {
-              "id": "al-dakhils-header",
-              "label": "AN OPENING-DAY DRAW",
-              "story": "Faisal Al-Dakhil headed home a corner in the 57th minute against Czechoslovakia, Kuwait's first-ever World Cup goal, canceling out an early Panenka penalty to secure a 1-1 draw in their tournament debut."
-            },
-            {
-              "id": "the-pitch-invasion",
-              "label": "A SHEIKH INTERVENES",
-              "story": "Trailing France 3-1, Kuwait's players stopped play believing they'd heard a whistle from the stands when France scored a fourth. Sheikh Fahad Al-Ahmad Al-Sabah walked onto the pitch to protest, and the referee disallowed the goal before France closed out a 4-1 win regardless."
-            }
-          ]
-        }
-      }
+      ]
     }
   }
-};
+}
