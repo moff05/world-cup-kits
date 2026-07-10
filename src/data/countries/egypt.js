@@ -41,7 +41,7 @@ export const egypt = {
           "opponent": "Hungary",
           "score": "2–4",
           "result": "L",
-          "scorers": null
+          "scorers": "Fawzi 35'', Fawzi 39''"
         }
       ],
       "kits": {
@@ -72,7 +72,7 @@ export const egypt = {
           "opponent": "Netherlands",
           "score": "1–1",
           "result": "D",
-          "scorers": "Abdelghani 83' (pen)"
+          "scorers": "Abdelghani 83''"
         },
         {
           "round": "Group Stage",
@@ -124,14 +124,14 @@ export const egypt = {
           "opponent": "Russia",
           "score": "1–3",
           "result": "L",
-          "scorers": "Salah 73' (pen)"
+          "scorers": "Salah 73''"
         },
         {
           "round": "Group Stage",
           "opponent": "Saudi Arabia",
           "score": "1–2",
           "result": "L",
-          "scorers": "Salah 22'"
+          "scorers": "Salah 22''"
         }
       ],
       "kits": {
