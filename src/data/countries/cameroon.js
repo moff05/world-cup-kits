@@ -60,7 +60,7 @@ export const cameroon = {
           "opponent": "Italy",
           "score": "1–1",
           "result": "D",
-          "scorers": "M'Bida 61''"
+          "scorers": "M'Bida 61'"
         }
       ],
       "kits": {
@@ -91,14 +91,14 @@ export const cameroon = {
           "opponent": "Argentina",
           "score": "1–0",
           "result": "W",
-          "scorers": "Omam-Biyik 67''"
+          "scorers": "Omam-Biyik 67'"
         },
         {
           "round": "Group Stage",
           "opponent": "Romania",
           "score": "2–1",
           "result": "W",
-          "scorers": "Milla 76'', Milla 86''"
+          "scorers": "Milla 76', Milla 86'"
         },
         {
           "round": "Group Stage",
@@ -112,14 +112,14 @@ export const cameroon = {
           "opponent": "Colombia",
           "score": "2–1",
           "result": "W",
-          "scorers": "Milla 106'', Milla 108''"
+          "scorers": "Milla 106', Milla 108'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "England",
           "score": "2–3",
           "result": "L",
-          "scorers": "Kundé 61'', Ekéké 65''"
+          "scorers": "Kundé 61', Ekéké 65'"
         }
       ],
       "kits": {
@@ -150,7 +150,7 @@ export const cameroon = {
           "opponent": "Sweden",
           "score": "2–2",
           "result": "D",
-          "scorers": "Embé 31'', Omam-Biyik 47''"
+          "scorers": "Embé 31', Omam-Biyik 47'"
         },
         {
           "round": "Group Stage",
@@ -164,7 +164,7 @@ export const cameroon = {
           "opponent": "Russia",
           "score": "1–6",
           "result": "L",
-          "scorers": "Milla 46''"
+          "scorers": "Milla 46'"
         }
       ],
       "kits": {
@@ -195,7 +195,7 @@ export const cameroon = {
           "opponent": "Austria",
           "score": "1–1",
           "result": "D",
-          "scorers": "Njanka 77''"
+          "scorers": "Njanka 77'"
         },
         {
           "round": "Group Stage",
@@ -209,7 +209,7 @@ export const cameroon = {
           "opponent": "Chile",
           "score": "1–1",
           "result": "D",
-          "scorers": "M'Boma 56''"
+          "scorers": "M'Boma 56'"
         }
       ],
       "kits": {
@@ -240,14 +240,14 @@ export const cameroon = {
           "opponent": "Republic of Ireland",
           "score": "1–1",
           "result": "D",
-          "scorers": "M'Boma 39''"
+          "scorers": "M'Boma 39'"
         },
         {
           "round": "Group Stage",
           "opponent": "Saudi Arabia",
           "score": "1–0",
           "result": "W",
-          "scorers": "Eto'o 66''"
+          "scorers": "Eto'o 66'"
         },
         {
           "round": "Group Stage",
@@ -292,14 +292,14 @@ export const cameroon = {
           "opponent": "Denmark",
           "score": "1–2",
           "result": "L",
-          "scorers": "Eto'o 10''"
+          "scorers": "Eto'o 10'"
         },
         {
           "round": "Group Stage",
           "opponent": "Netherlands",
           "score": "1–2",
           "result": "L",
-          "scorers": "Eto'o 65''"
+          "scorers": "Eto'o 65'"
         }
       ],
       "kits": {
@@ -344,7 +344,7 @@ export const cameroon = {
           "opponent": "Brazil",
           "score": "1–4",
           "result": "L",
-          "scorers": "Matip 26''"
+          "scorers": "Matip 26'"
         }
       ],
       "kits": {
