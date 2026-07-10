@@ -90,7 +90,7 @@ export const elSalvador = {
           "opponent": "Hungary",
           "score": "1–10",
           "result": "L",
-          "scorers": "Ramírez 64'"
+          "scorers": "Ramírez Zapata 64''"
         },
         {
           "round": "Group Stage",
