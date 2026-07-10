@@ -43,7 +43,7 @@ export const peru = {
           "opponent": "Romania",
           "score": "1–3",
           "result": "L",
-          "scorers": "Souza 75'"
+          "scorers": "Souza Ferreira 75''"
         },
         {
           "round": "Group Stage",
@@ -81,28 +81,28 @@ export const peru = {
           "opponent": "Bulgaria",
           "score": "3–2",
           "result": "W",
-          "scorers": "Gallardo 50', Chumpitaz 55', Cubillas 73'"
+          "scorers": "Gallardo 50'', Chumpitaz 55'', Cubillas 73''"
         },
         {
           "round": "Group Stage",
           "opponent": "Morocco",
           "score": "3–0",
           "result": "W",
-          "scorers": "Cubillas 65', Challe 67', Cubillas 75'"
+          "scorers": "Cubillas 65'', Challe 67'', Cubillas 75''"
         },
         {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "1–3",
           "result": "L",
-          "scorers": "Cubillas 44'"
+          "scorers": "Cubillas 44''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Brazil",
           "score": "2–4",
           "result": "L",
-          "scorers": "Gallardo 28', Cubillas 70'"
+          "scorers": "Gallardo 28'', Cubillas 70''"
         }
       ],
       "kits": {
@@ -133,7 +133,7 @@ export const peru = {
           "opponent": "Scotland",
           "score": "3–1",
           "result": "W",
-          "scorers": "Cueto 43', Cubillas 70', Cubillas 76'"
+          "scorers": "Cueto 43'', Cubillas 71'', Cubillas 77''"
         },
         {
           "round": "Group Stage",
@@ -147,7 +147,7 @@ export const peru = {
           "opponent": "Iran",
           "score": "4–1",
           "result": "W",
-          "scorers": "Velásquez 2', Cubillas 36' (pen.), Cubillas 39' (pen.), Cubillas 79'"
+          "scorers": "Velásquez 2'', Cubillas 36'', Cubillas 39'', Cubillas 79''"
         },
         {
           "round": "2nd Round",
@@ -211,14 +211,14 @@ export const peru = {
           "opponent": "Italy",
           "score": "1–1",
           "result": "D",
-          "scorers": "Díaz 83'"
+          "scorers": "Díaz 83''"
         },
         {
           "round": "Group Stage",
           "opponent": "Poland",
           "score": "1–5",
           "result": "L",
-          "scorers": "La Rosa 83'"
+          "scorers": "La Rosa 83''"
         }
       ],
       "kits": {
@@ -263,7 +263,7 @@ export const peru = {
           "opponent": "Australia",
           "score": "2–0",
           "result": "W",
-          "scorers": "Carrillo 18', Guerrero 50'"
+          "scorers": "Carrillo 18'', Guerrero 50''"
         }
       ],
       "kits": {
