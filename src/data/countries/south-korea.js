@@ -87,21 +87,21 @@ export const southKorea = {
           "opponent": "Argentina",
           "score": "1–3",
           "result": "L",
-          "scorers": "Park 73''"
+          "scorers": "Park 73'"
         },
         {
           "round": "Group Stage",
           "opponent": "Bulgaria",
           "score": "1–1",
           "result": "D",
-          "scorers": "Kim 70''"
+          "scorers": "Kim 70'"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "2–3",
           "result": "L",
-          "scorers": "Choi 62'', Huh 83''"
+          "scorers": "Choi 62', Huh 83'"
         }
       ],
       "kits": {
@@ -139,7 +139,7 @@ export const southKorea = {
           "opponent": "Spain",
           "score": "1–3",
           "result": "L",
-          "scorers": "Hwangbo 43''"
+          "scorers": "Hwangbo 43'"
         },
         {
           "round": "Group Stage",
@@ -177,7 +177,7 @@ export const southKorea = {
           "opponent": "Spain",
           "score": "2–2",
           "result": "D",
-          "scorers": "Hong 85'', Seo 90''"
+          "scorers": "Hong 85', Seo 90'"
         },
         {
           "round": "Group Stage",
@@ -191,7 +191,7 @@ export const southKorea = {
           "opponent": "Germany",
           "score": "2–3",
           "result": "L",
-          "scorers": "Hwang 52'', Hong 63''"
+          "scorers": "Hwang 52', Hong 63'"
         }
       ],
       "kits": {
@@ -222,7 +222,7 @@ export const southKorea = {
           "opponent": "Mexico",
           "score": "1–3",
           "result": "L",
-          "scorers": "Ha 27''"
+          "scorers": "Ha 27'"
         },
         {
           "round": "Group Stage",
@@ -236,7 +236,7 @@ export const southKorea = {
           "opponent": "Belgium",
           "score": "1–1",
           "result": "D",
-          "scorers": "Yoo 72''"
+          "scorers": "Yoo 72'"
         }
       ],
       "kits": {
@@ -267,38 +267,38 @@ export const southKorea = {
           "opponent": "Poland",
           "score": "2–0",
           "result": "W",
-          "scorers": "Hwang 26'', Yoo 53''"
+          "scorers": "Hwang 26', Yoo 53'"
         },
         {
           "round": "Group Stage",
           "opponent": "United States",
           "score": "1–1",
           "result": "D",
-          "scorers": "Ahn 78''"
+          "scorers": "Ahn 78'"
         },
         {
           "round": "Group Stage",
           "opponent": "Portugal",
           "score": "1–0",
           "result": "W",
-          "scorers": "Park 70''"
+          "scorers": "Park 70'"
         },
         {
           "round": "Round of 16",
           "opponent": "Italy",
           "score": "2–1",
           "result": "W",
-          "scorers": "Seol 88'', Ahn 117''"
+          "scorers": "Seol 88', Ahn 117'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Spain",
           "score": "0–0 (5–3 pens)",
           "result": "D",
           "scorers": null
         },
         {
-          "round": "semi-finals",
+          "round": "Semi-final",
           "opponent": "Germany",
           "score": "0–1",
           "result": "L",
@@ -309,7 +309,7 @@ export const southKorea = {
           "opponent": "Turkey",
           "score": "2–3",
           "result": "L",
-          "scorers": "Lee 9'', Song 90'+3''"
+          "scorers": "Lee 9', Song 90'+3'"
         }
       ],
       "kits": {
@@ -340,14 +340,14 @@ export const southKorea = {
           "opponent": "Togo",
           "score": "2–1",
           "result": "W",
-          "scorers": "Lee 54'', Ahn 72''"
+          "scorers": "Lee 54', Ahn 72'"
         },
         {
           "round": "Group Stage",
           "opponent": "France",
           "score": "1–1",
           "result": "D",
-          "scorers": "Park 81''"
+          "scorers": "Park 81'"
         },
         {
           "round": "Group Stage",
@@ -385,28 +385,28 @@ export const southKorea = {
           "opponent": "Greece",
           "score": "2–0",
           "result": "W",
-          "scorers": "Lee 7'', Park 52''"
+          "scorers": "Lee 7', Park 52'"
         },
         {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "1–4",
           "result": "L",
-          "scorers": "Lee 45'+1''"
+          "scorers": "Lee 45'+1'"
         },
         {
           "round": "Group Stage",
           "opponent": "Nigeria",
           "score": "2–2",
           "result": "D",
-          "scorers": "Lee 38'', Park 49''"
+          "scorers": "Lee 38', Park 49'"
         },
         {
           "round": "Round of 16",
           "opponent": "Uruguay",
           "score": "1–2",
           "result": "L",
-          "scorers": "Lee 68''"
+          "scorers": "Lee 68'"
         }
       ],
       "kits": {
@@ -437,14 +437,14 @@ export const southKorea = {
           "opponent": "Russia",
           "score": "1–1",
           "result": "D",
-          "scorers": "Lee 68''"
+          "scorers": "Lee 68'"
         },
         {
           "round": "Group Stage",
           "opponent": "Algeria",
           "score": "2–4",
           "result": "L",
-          "scorers": "Son 50'', Koo 72''"
+          "scorers": "Son 50', Koo 72'"
         },
         {
           "round": "Group Stage",
@@ -489,14 +489,14 @@ export const southKorea = {
           "opponent": "Mexico",
           "score": "1–2",
           "result": "L",
-          "scorers": "Son 90'+3''"
+          "scorers": "Son 90'+3'"
         },
         {
           "round": "Group Stage",
           "opponent": "Germany",
           "score": "2–0",
           "result": "W",
-          "scorers": "Kim 90'+2'', Son 90'+6''"
+          "scorers": "Kim 90'+2', Son 90'+6'"
         }
       ],
       "kits": {
