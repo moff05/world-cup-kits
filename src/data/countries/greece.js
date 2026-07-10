@@ -1,10 +1,206 @@
 export const greece = {
-  id: "greece",
-  name: "Greece",
-  flagCode: "gr",
-  confederation: "UEFA",
-  worldCups: [1994,2010],
-  bestResult: "Group Stage",
-  facts: [],
-  kits: {},
+  "id": "greece",
+  "name": "Greece",
+  "flagCode": "gr",
+  "confederation": "UEFA",
+  "worldCups": [
+    1994,
+    2010,
+    2014
+  ],
+  "bestResult": "Round of 16 (2014)",
+  "stats": {
+    "matches": 10,
+    "wins": 2,
+    "draws": 2,
+    "losses": 6,
+    "goalsFor": 5,
+    "goalsAgainst": 20
+  },
+  "facts": [
+    {
+      "id": "the-pirate-ship",
+      "label": "THE PIRATE SHIP",
+      "story": "During the Euro 2004 opening ceremony, a replica 16th-century Portuguese galleon sailed onto the pitch before the hosts kicked off against Greece. Commentator Georgios Helakis joked live on air that if Portugal got a ship, Greece should turn pirate and steal the game. Greece won 2–1, then kept winning, upsetting France, the Czech Republic, and Portugal again in the final to become European champions in just their second-ever major tournament. The nickname 'Piratiko' — the Pirate Ship — has stuck to the national team ever since."
+    },
+    {
+      "id": "galanolefki-the-blue-and-white",
+      "label": "GALANOLEFKI",
+      "story": "Greece's players are nicknamed Galanolefki — 'blue and white' — the same two colors that make up the national flag, and the home kit has stuck to that pairing for generations regardless of manufacturer. It's a rare case of a football shirt functioning as a near-literal flag: white cross and stripes reduced to a plain blue or white jersey, the meaning understood without needing the crest."
+    }
+  ],
+  "kits": {
+    "1994": {
+      "result": "Group Stage",
+      "headline": "A Winless Debut",
+      "homeColors": "white shirt with blue trim, blue shorts — the Galanolefki colors of the national flag",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "0–4",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bulgaria",
+          "score": "0–4",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Nigeria",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "argentina-and-maradonas-last-stand",
+              "label": "MARADONA'S LAST DANCE",
+              "story": "Greece's first-ever World Cup match ended in a routine 4–0 loss to Argentina in Foxborough. Diego Maradona scored and celebrated wildly into a pitchside camera — days before he failed a doping test and was sent home, ending his World Cup career in disgrace."
+            },
+            {
+              "id": "bulgaria-doubles-the-damage",
+              "label": "BULGARIA PILES IT ON",
+              "story": "A second straight 4–0 defeat, this time to Bulgaria, left Greece already eliminated with a game still to play. Hristo Stoichkov's side was flying toward a eventual semi-final run; Greece had yet to register a single World Cup goal."
+            },
+            {
+              "id": "nigeria-completes-the-sweep",
+              "label": "A SCORELESS SEND-OFF",
+              "story": "Nigeria closed out the group with a 2–0 win in Foxborough, completing a three-match campaign in which Greece conceded ten goals and scored none. It remains the only winless, scoreless World Cup campaign in the nation's history."
+            }
+          ]
+        }
+      }
+    },
+    "2010": {
+      "result": "Group Stage",
+      "headline": "The First-Ever Win",
+      "homeColors": "white shirt with blue chest band, blue shorts (Adidas)",
+      "awayColors": "blue shirt with white trim (Adidas)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Nigeria",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Dimitrios Salpingidis 44', Vasilis Torosidis 71'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "korea-opens-with-a-lesson",
+              "label": "A ROUGH REINTRODUCTION",
+              "story": "Sixteen years after their winless 1994 campaign, Greece's World Cup return began with a 2–0 loss to South Korea in Port Elizabeth, Lee Jung-soo and Park Ji-sung finding the net either side of halftime."
+            },
+            {
+              "id": "kaita-red-card-salpingidis-torosidis",
+              "label": "GREECE'S FIRST-EVER WIN",
+              "story": "Sani Kaita's reckless kick-out earned Nigeria a 33rd-minute red card, and Greece made the extra man count: Dimitrios Salpingidis poked in a deflected shot before halftime, then Vasilis Torosidis smashed home a rebound in the 71st minute. It was Greece's first win in seven World Cup matches across sixteen years."
+            },
+            {
+              "id": "argentina-closes-the-door",
+              "label": "ARGENTINA ENDS THE RUN",
+              "story": "Needing a result against an Argentina side already through, Greece fell 2–0 in Polokwane, eliminated from the group despite their historic win over Nigeria days earlier."
+            }
+          ]
+        }
+      }
+    },
+    "2014": {
+      "result": "Round of 16",
+      "headline": "Gekas's Missed Penalty",
+      "homeColors": "white shirt with blue geometric pattern on the sleeves (Nike, launched March 2014)",
+      "awayColors": "blue shirt with white trim (Nike)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Colombia",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ivory Coast",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Andreas Samaris 42', Georgios Samaras 90+3' (pen)"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Costa Rica",
+          "score": "1–1 (3–5 pens)",
+          "result": "D",
+          "scorers": "Sokratis Papastathopoulos 90+1'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "james-rodriguez-announces-himself",
+              "label": "COLOMBIA'S OPENING STATEMENT",
+              "story": "Pablo Armero's deflected strike, a Teofilo Gutierrez finish, and a late James Rodriguez goal gave Colombia a 3–0 opening win over Greece in Belo Horizonte — the first notes of a tournament that would make Rodriguez a star."
+            },
+            {
+              "id": "samaris-steals-and-scores",
+              "label": "SAMARIS STEALS, SAMARAS SEALS IT",
+              "story": "Andreas Samaris pounced on Cheick Tiote's error, combined with Georgios Samaras, and finished to put Greece ahead of Ivory Coast. Wilfried Bony equalized, but deep in stoppage time Samaras won and converted a penalty to send Greece through as group runners-up."
+            },
+            {
+              "id": "papastathopoulos-forces-extra-time",
+              "label": "SOKRATIS'S 92ND-MINUTE HEADER",
+              "story": "Trailing Bryan Ruiz's 52nd-minute strike, Greece pressed until center-back Sokratis Papastathopoulos headed a stoppage-time equalizer to force extra time against ten-man Costa Rica. Kostas Mitroglou hit the crossbar in the dying seconds; in the shootout, Theofanis Gekas missed the decisive kick and Costa Rica advanced 5–3 on penalties."
+            }
+          ]
+        }
+      }
+    }
+  }
 };

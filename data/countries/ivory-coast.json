@@ -1,0 +1,108 @@
+{
+  "id": "ivory-coast",
+  "name": "Ivory Coast",
+  "flagCode": "ci",
+  "confederation": "CAF",
+  "worldCups": [2006, 2010, 2014],
+  "bestResult": "Group Stage (3 appearances)",
+
+  "stats": {
+    "matches": 9,
+    "wins": 3,
+    "draws": 1,
+    "losses": 5,
+    "goalsFor": 13,
+    "goalsAgainst": 14
+  },
+
+  "facts": [
+    {
+      "id": "les-elephants-nickname",
+      "label": "LES ÉLÉPHANTS",
+      "story": "Ivory Coast play as Les Éléphants, a nickname tied to the elephant on the national crest and to the ivory trade the country is named for. The bond runs past branding: supporter sections at matches are built around a percussion band that mimics the sound of an elephant moving through the forest, turning the stands into something closer to a drum circle than a typical soccer crowd."
+    },
+    {
+      "id": "drogba-peace-plea",
+      "label": "THE PEACE SPEECH",
+      "story": "Minutes after Ivory Coast beat Sudan in October 2005 to clinch its first-ever World Cup berth, captain Didier Drogba grabbed a microphone in the dressing room and addressed a country three years into civil war, begging combatants on both sides to lay down their weapons. The plea didn't end the fighting instantly, but it helped push the government and rebel New Forces back toward peace talks that led to a ceasefire."
+    }
+  ],
+
+  "kits": {
+    "2006": {
+      "result": "Group Stage",
+      "headline": "The Elephants' First Bow",
+      "annotations": [
+        {
+          "id": "drogba-first-goal",
+          "label": "THE FIRST GOAL",
+          "story": "Didier Drogba's 82nd-minute strike against Argentina was more than a consolation in a losing effort — it was Ivory Coast's first goal at a World Cup, arriving eight months after Drogba stood in a Khartoum stadium and begged a divided nation to put down its weapons following qualification."
+        },
+        {
+          "id": "great-escape-comeback",
+          "label": "THE GREAT ESCAPE",
+          "story": "Already eliminated and down 2-0 inside 20 minutes to Serbia and Montenegro, Ivory Coast staged a stunning revival. Aruna Dindane leveled it with a penalty and a header, and Bonaventure Kalou converted a spot kick with six minutes left to complete a 3-2 win — the country's first-ever World Cup victory."
+        }
+      ],
+      "homeColors": "orange shirt with green trim on the crew-neck collar and sleeve cuffs, and a subtle tonal elephant graphic across the front (Puma)",
+      "awayColors": "white shirt with a subtle elephant graphic across the torso, green collar and cuffs, and orange accents in the crest and Puma logo (Puma)",
+      "image": "https://commons.wikimedia.org/wiki/File:Ivory_Coast_penalty.jpg",
+      "imageCredit": { "player": null, "game": "Penalty kick, Ivory Coast v Serbia and Montenegro, 2006 FIFA World Cup group stage — photo by Björn Laczay, CC BY 2.0, via Wikimedia Commons" },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Argentina", "score": "1–2", "result": "L", "scorers": "Drogba 82'" },
+        { "round": "Group Stage", "opponent": "Netherlands", "score": "1–2", "result": "L", "scorers": "Bakari Koné 38'" },
+        { "round": "Group Stage", "opponent": "Serbia and Montenegro", "score": "3–2", "result": "W", "scorers": "Dindane 37' (pen), 67', Bonaventure Kalou 86' (pen)" }
+      ]
+    },
+    "2010": {
+      "result": "Group Stage",
+      "headline": "Three Goals Not Enough",
+      "annotations": [
+        {
+          "id": "drogba-broken-arm",
+          "label": "THE MAN IN THE CAST",
+          "story": "Ten days before the opener, Drogba fractured his right forearm in a friendly and needed surgery. FIFA still cleared him to play in a protective cast, and he came off the bench against Portugal to a roar — defiance that set the tone before he later headed in against Brazil, the first African player ever to score on Brazil at a World Cup."
+        },
+        {
+          "id": "north-korea-goal-difference",
+          "label": "THE MATH THAT FAILED",
+          "story": "Needing an emphatic scoreline to leapfrog Portugal on goal difference, Ivory Coast delivered everything it could: Yaya Touré, Romaric and Salomon Kalou all scored in a 3-0 rout of North Korea. It still wasn't enough — Portugal's own 7-0 demolition of the same opponent days earlier had put the math permanently out of reach."
+        }
+      ],
+      "homeColors": "all-orange shirt with green trim (Puma)",
+      "awayColors": "green shirt with white horizontal stripes edged in thin gold, and a diagonal white-and-green panel crossing the chest (Puma)",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Portugal", "score": "0–0", "result": "D", "scorers": null },
+        { "round": "Group Stage", "opponent": "Brazil", "score": "1–3", "result": "L", "scorers": "Drogba 79'" },
+        { "round": "Group Stage", "opponent": "North Korea", "score": "3–0", "result": "W", "scorers": "Yaya Touré 14', Romaric 20', Salomon Kalou 82'" }
+      ]
+    },
+    "2014": {
+      "result": "Group Stage",
+      "headline": "Denied By A Late Penalty",
+      "annotations": [
+        {
+          "id": "aurier-double-assist",
+          "label": "AURIER'S DOUBLE",
+          "story": "Two crosses, two headers, two minutes: Serge Aurier fed both Wilfried Bony (64') and Gervinho (66') from the right flank to erase Japan's early lead and hand Ivory Coast a come-from-behind win in their tournament opener — the first World Cup victory of the Sabri Lamouchi era."
+        },
+        {
+          "id": "sio-injury-time-foul",
+          "label": "THE FOUL THAT ENDED IT",
+          "story": "Needing only a draw against Greece to reach the knockout rounds for the first time in the country's history, substitute Giovanni Sio needlessly hooked down Georgios Samaras deep in stoppage time. Samaras buried the penalty low to the goalkeeper's left, sending Greece through instead and eliminating Ivory Coast in the group stage for a third straight tournament."
+        }
+      ],
+      "homeColors": "orange shirt with a cave-painting-style elephant motif printed across the sleeves (Puma)",
+      "awayColors": "all-green shirt sharing the same cave-painting elephant design as the home kit (Puma)",
+      "image": "https://commons.wikimedia.org/wiki/File:Colombia_and_Ivory_Coast_match_at_the_FIFA_World_Cup_2014-06-19_(15).jpg",
+      "imageCredit": { "player": null, "game": "Colombia v Ivory Coast, 2014 FIFA World Cup group stage — freely licensed photo via Wikimedia Commons" },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Japan", "score": "2–1", "result": "W", "scorers": "Bony 64', Gervinho 66'" },
+        { "round": "Group Stage", "opponent": "Colombia", "score": "1–2", "result": "L", "scorers": "Gervinho 73'" },
+        { "round": "Group Stage", "opponent": "Greece", "score": "1–2", "result": "L", "scorers": "Bony 74'" }
+      ]
+    }
+  }
+}

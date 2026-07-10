@@ -1,10 +1,184 @@
 export const southAfrica = {
-  id: "south-africa",
-  name: "South Africa",
-  flagCode: "za",
-  confederation: "CAF",
-  worldCups: [1998,2002,2010],
-  bestResult: "Group Stage",
-  facts: [],
-  kits: {},
+  "id": "south-africa",
+  "name": "South Africa",
+  "flagCode": "za",
+  "confederation": "CAF",
+  "worldCups": [
+    1998,
+    2002,
+    2010
+  ],
+  "bestResult": "Group Stage (3 appearances)",
+  "stats": {
+    "matches": 9,
+    "wins": 2,
+    "draws": 4,
+    "losses": 3,
+    "goalsFor": 11,
+    "goalsAgainst": 16
+  },
+  "facts": [
+    {
+      "id": "mccarthy-first-ever-goal",
+      "label": "BAFANA'S FIRST-EVER GOAL",
+      "story": "On 18 June 1998, in only South Africa's second-ever World Cup match, Benni McCarthy latched onto space on the edge of the box and drilled a low, left-footed shot through the legs of Denmark goalkeeper Peter Schmeichel to level the score at 1–1. It was Bafana Bafana's first-ever goal at a World Cup finals, six years after South Africa had been readmitted to international football following the end of apartheid. McCarthy went on to become the country's all-time leading World Cup scorer."
+    },
+    {
+      "id": "tshabalalas-opening-night",
+      "label": "OPENING NIGHT, AFRICAN SOIL",
+      "story": "On 11 June 2010, in the opening match of the first World Cup held on African soil, Siphiwe Tshabalala curled a rehearsed left-footed strike into the top corner against Mexico, then launched into a choreographed touchline dance with his teammates that became almost as famous as the goal itself — later shortlisted for the Puskás Award. Despite the electric start, South Africa became the first host nation in World Cup history to be eliminated in the group stage."
+    }
+  ],
+  "kits": {
+    "1998": {
+      "result": "Group Stage",
+      "headline": "First Steps, First Goal",
+      "homeColors": "yellow shirt with bold geometric colour-blocking (Kappa)",
+      "awayColors": "green shirt with yellow trim (Kappa)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Denmark",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "McCarthy 51'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Bartlett 20', 90+5' (pen)"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "mccarthy-first-ever-goal",
+              "label": "BAFANA'S FIRST-EVER GOAL",
+              "story": "Trailing Denmark 1–0, Benni McCarthy picked up the ball on the edge of the box and drilled a low left-footed shot through Peter Schmeichel's legs to level the match. It was South Africa's first-ever World Cup goal, arriving in just their second appearance at the tournament."
+            },
+            {
+              "id": "bartlett-stoppage-time-save",
+              "label": "BARTLETT'S STOPPAGE-TIME SAVE",
+              "story": "Shaun Bartlett opened the scoring in the 20th minute, but two second-half penalties — from Sami Al-Jaber and Youssef Al-Tunian — put Saudi Arabia 2–1 up. In the fifth minute of stoppage time, Bartlett converted a penalty of his own to salvage a dramatic 2–2 draw on South Africa's World Cup farewell."
+            }
+          ]
+        }
+      }
+    },
+    "2002": {
+      "result": "Group Stage",
+      "headline": "Undone by Goals Scored",
+      "homeColors": "yellow shirt with green V-neck collar, shoulder stripes and sleeve cuffs, dark green mesh side panels (Adidas)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Paraguay",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Mokoena 63', Fortune 90+1' (pen)"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Slovenia",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Nomvethe 4'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "McCarthy 31', Radebe 53'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "mokoena-fortune-paraguay",
+              "label": "STOPPAGE-TIME EQUALIZER",
+              "story": "Paraguay led 2–0 through Roque Santa Cruz and Francisco Arce, but Teboho Mokoena pulled one back in the 63rd minute and Quinton Fortune drilled home a stoppage-time penalty to snatch a 2–2 draw South Africa badly needed to stay alive in the group."
+            },
+            {
+              "id": "nomvethe-only-goal",
+              "label": "NOMVETHE'S HISTORIC WINNER",
+              "story": "A mistimed header from a Quinton Fortune free-kick cannoned in off Siyabonga Nomvethe's thigh in the fourth minute, the only goal of the game. The 1–0 win over Slovenia was South Africa's first-ever World Cup victory, arriving in their second tournament appearance."
+            }
+          ]
+        }
+      }
+    },
+    "2010": {
+      "result": "Group Stage",
+      "headline": "The Host Nation's Heartbreak",
+      "homeColors": "sunshine yellow shirt with twilight green trim on the collar and sleeves, eleven threads woven in to symbolize unity (Adidas)",
+      "awayColors": "green shirt with yellow trim (Adidas)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Tshabalala 55'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Khumalo 20', Mphela 37'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "tshabalalas-opening-strike",
+              "label": "TSHABALALA'S OPENING STRIKE",
+              "story": "In the tournament's opening match, Siphiwe Tshabalala curled a rehearsed left-footed shot into the top corner against Mexico in the 55th minute, then broke into a choreographed touchline dance with his teammates — the first goal of a World Cup held on African soil, in a match that finished 1–1."
+            },
+            {
+              "id": "khumalo-mphela-shock-france",
+              "label": "SOUTH AFRICA STUNS FRANCE",
+              "story": "With qualification already gone, South Africa gave the World Cup hosts a farewell to remember: Bongani Khumalo headed home a corner in the 20th minute and Katlego Mphela added a second in the 37th, holding on through a late Florent Malouda strike to beat France 2–1 — too little, too late for the group stage."
+            }
+          ]
+        }
+      }
+    }
+  }
 };

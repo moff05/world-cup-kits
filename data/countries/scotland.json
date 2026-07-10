@@ -1,0 +1,144 @@
+{
+  "id": "scotland",
+  "name": "Scotland",
+  "flagCode": "gb-sct",
+  "confederation": "UEFA",
+  "worldCups": [1954, 1958, 1974, 1978, 1982, 1986, 1990, 1998],
+  "bestResult": "Group Stage (8 appearances, never past the first round)",
+
+  "stats": {
+    "matches": 23,
+    "wins": 4,
+    "draws": 7,
+    "losses": 12,
+    "goalsFor": 25,
+    "goalsAgainst": 41
+  },
+
+  "facts": [
+    {
+      "id": "gemmills-wonder-goal",
+      "label": "GEMMILL'S WONDER GOAL",
+      "story": "Needing a three-goal win over the Netherlands just to have a chance of survival in 1978, Scotland somehow delivered two-thirds of it through Archie Gemmill. His second goal was absurd: he nutmegged one defender, skipped past two more, and lifted the ball over goalkeeper Jan Jongbloed with his weaker foot. The 3–2 win remains one of the great World Cup goals — and still wasn't enough. Scotland went out on goal difference anyway."
+    },
+    {
+      "id": "jock-steins-final-match",
+      "label": "STEIN'S LAST STAND",
+      "story": "Scotland went into their final 1986 qualifier at Ninian Park needing only a point against Wales, and Davie Cooper's calm penalty with nine minutes left delivered exactly that in a 1–1 draw. As players and fans celebrated qualification, manager Jock Stein collapsed in the tunnel with a heart attack and died shortly after. Assistant Alex Ferguson took the team to Mexico in his place, a bittersweet passage to a fifth straight World Cup."
+    }
+  ],
+
+  "kits": {
+    "1954": {
+      "result": "Group Stage",
+      "headline": "Thirteen Men, One Disaster",
+      "homeColors": "dark blue shirt, white shorts, dark blue socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "story": "The SFA sent only 13 players to Switzerland despite a 22-man allowance, and manager Andy Beattie quit before the second match in protest at the shambolic preparation. Scotland lost 1–0 to Austria, then were thrashed 7–0 by defending champions Uruguay — still the heaviest defeat in the team's World Cup history, a first finals appearance to forget entirely.",
+      "matches": [
+        { "round": "Group Stage", "opponent": "Austria", "score": "0–1", "result": "L" },
+        { "round": "Group Stage", "opponent": "Uruguay", "score": "0–7", "result": "L" }
+      ]
+    },
+    "1958": {
+      "result": "Group Stage",
+      "headline": "Ignored Advice, Familiar Exit",
+      "homeColors": "dark blue shirt, white shorts, dark blue socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "story": "A creditable 1–1 draw with Yugoslavia opened the tournament, but manager Dawson Walker ignored scouting reports that flagged Paraguay as rough and combative, leaving out his own toughest players. Scotland lost 3–2 anyway, then fell 2–1 to France, exiting after the group stage in what became a 16-year wait for the next finals.",
+      "matches": [
+        { "round": "Group Stage", "opponent": "Yugoslavia", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "Paraguay", "score": "2–3", "result": "L" },
+        { "round": "Group Stage", "opponent": "France", "score": "1–2", "result": "L" }
+      ]
+    },
+    "1974": {
+      "result": "Group Stage",
+      "headline": "Unbeaten, Still Eliminated",
+      "homeColors": "dark blue shirt, white shorts, dark blue socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "story": "Peter Lorimer and Joe Jordan sank Zaire 2–0, then goalless and 1–1 draws with Brazil and Yugoslavia left Scotland the only unbeaten team eliminated in World Cup history. The margin was cruel: Scotland's win over Zaire wasn't big enough on goal difference, a fate that still stings more than any defeat could.",
+      "matches": [
+        { "round": "Group Stage", "opponent": "Zaire", "score": "2–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Brazil", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Yugoslavia", "score": "1–1", "result": "D" }
+      ]
+    },
+    "1978": {
+      "result": "Group Stage",
+      "headline": "Gemmill's Goal, Wrong Scoreline",
+      "homeColors": "dark blue shirt, white shorts, dark blue socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "story": "Manager Ally MacLeod promised a medal and got a nightmare: a 3–1 loss to Peru and a flat 1–1 draw with Iran left the campaign in ruins before Archie Gemmill's wonder goal helped beat the Netherlands 3–2 in the finale. It remains one of the sport's great what-ifs — Scotland needed three clear goals to advance and managed only two.",
+      "matches": [
+        { "round": "Group Stage", "opponent": "Peru", "score": "1–3", "result": "L" },
+        { "round": "Group Stage", "opponent": "Iran", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "Netherlands", "score": "3–2", "result": "W" }
+      ]
+    },
+    "1982": {
+      "result": "Group Stage",
+      "headline": "Hansen, Miller, and Disaster",
+      "homeColors": "dark blue shirt, white shorts, dark blue socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "story": "Kenny Dalglish and John Wark led a 5–2 opening rout of New Zealand before Brazil's Socrates and Zico exposed the gap in class, winning 4–1. Needing a win over the Soviet Union to advance, Scotland conceded after defenders Alan Hansen and Willie Miller collided chasing the same ball, settling for a 2–2 draw and yet another exit on goal difference.",
+      "matches": [
+        { "round": "Group Stage", "opponent": "New Zealand", "score": "5–2", "result": "W" },
+        { "round": "Group Stage", "opponent": "Brazil", "score": "1–4", "result": "L" },
+        { "round": "Group Stage", "opponent": "Soviet Union", "score": "2–2", "result": "D" }
+      ]
+    },
+    "1986": {
+      "result": "Group Stage",
+      "headline": "Stein's Final Gift",
+      "homeColors": "dark blue shirt, white shorts, dark blue socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "story": "Qualification came at the cost of Jock Stein's life, and Alex Ferguson led the team he inherited to a tough group with Denmark, Uruguay, and West Germany. Losses to Denmark and West Germany sandwiched a goalless draw with an Uruguay side reduced to ten men in 55 seconds, leaving Scotland out with a single point.",
+      "matches": [
+        { "round": "Group Stage", "opponent": "Denmark", "score": "0–1", "result": "L" },
+        { "round": "Group Stage", "opponent": "West Germany", "score": "1–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Uruguay", "score": "0–0", "result": "D" }
+      ]
+    },
+    "1990": {
+      "result": "Group Stage",
+      "headline": "Leighton's Fumble, Brazil's Break",
+      "homeColors": "dark blue shirt, white shorts, dark blue socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "story": "A shock opening loss to Costa Rica threatened disaster, and Stuart McCall and Mo Johnston's goals beat Sweden 2–1 to keep hope alive. But goalkeeper Jim Leighton fumbled a routine shot late on against Brazil, gifting the only goal of the match and sending Scotland home after the first round yet again.",
+      "matches": [
+        { "round": "Group Stage", "opponent": "Costa Rica", "score": "0–1", "result": "L" },
+        { "round": "Group Stage", "opponent": "Sweden", "score": "2–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Brazil", "score": "0–1", "result": "L" }
+      ]
+    },
+    "1998": {
+      "result": "Group Stage",
+      "headline": "Boyd's Own Goal Opener",
+      "homeColors": "dark blue shirt, white shorts, dark blue socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "story": "John Collins leveled a tournament-opening match against holders Brazil from the penalty spot, but Tom Boyd's own goal settled it 2–1 in the Stade de France. A 1–1 draw with Norway kept faint hopes flickering before a 3–0 defeat to Morocco closed out Scotland's last World Cup finals appearance for nearly three decades.",
+      "matches": [
+        { "round": "Group Stage", "opponent": "Brazil", "score": "1–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Norway", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "Morocco", "score": "0–3", "result": "L" }
+      ]
+    }
+  }
+}

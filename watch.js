@@ -159,10 +159,32 @@ function patchIndex(id, exportName) {
   console.log(`  ↳ Patched index.js with ${exportName}`);
 }
 
+// Fix any JS files that cowork wrote directly with snake_case exports instead
+// of going through the JSON→watcher pipeline (e.g. costa_rica → costaRica).
+function repairDirectWrites() {
+  if (!fs.existsSync(SRC_DIR)) return;
+  const files = fs.readdirSync(SRC_DIR).filter((f) => f.endsWith(".js"));
+  for (const f of files) {
+    const id = f.replace(/\.js$/, "");
+    const expected = slugToExport(id);
+    const jsPath = path.join(SRC_DIR, f);
+    let src = fs.readFileSync(jsPath, "utf8");
+    // Match any `export const <snake_case> =` where snake_case !== expected
+    const match = src.match(/^export const ([a-zA-Z_]+) = /m);
+    if (match && match[1] !== expected) {
+      src = src.replace(`export const ${match[1]} =`, `export const ${expected} =`);
+      fs.writeFileSync(jsPath, src);
+      console.log(`  ↳ Fixed export: ${match[1]} → ${expected} in ${f}`);
+    }
+  }
+}
+
 // Process all existing JSON files on startup
 console.log("World Cup Kits — data watcher started");
 console.log(`Watching: ${DATA_DIR}`);
 console.log("─".repeat(50));
+
+repairDirectWrites();
 
 if (!fs.existsSync(DATA_DIR)) {
   fs.mkdirSync(DATA_DIR, { recursive: true });

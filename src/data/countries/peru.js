@@ -10,27 +10,274 @@ export const peru = {
     1982,
     2018
   ],
+  "bestResult": "Quarter-finals (1970)",
+  "stats": {
+    "matches": 18,
+    "wins": 5,
+    "draws": 3,
+    "losses": 10,
+    "goalsFor": 21,
+    "goalsAgainst": 33
+  },
+  "facts": [
+    {
+      "id": "the-blanquirroja-sash",
+      "label": "THE BLANQUIRROJA SASH",
+      "story": "Peru's diagonal red sash across a white shirt dates to the 1936 Berlin Olympics, borrowed from a schoolyard trick: when two teams both showed up in white, one side draped a colored sash over its shoulder so players could tell each other apart. The look stuck and became a global favorite — ESPN ranked the 1978 version, worn by Teófilo Cubillas and company, the single best World Cup jersey of all time in a 2010 countdown, decades before adidas reissued it for nostalgic sale."
+    },
+    {
+      "id": "the-argentina-scandal",
+      "label": "THE 6–0 THAT WON'T DIE",
+      "story": "Needing a four-goal win over Peru to leapfrog Brazil into the 1978 final, Argentina's military government hosted Peru's squad, shipped 35,000 tons of grain to Lima, and unfroze $50 million in Peruvian assets that same week. General Jorge Videla visited Peru's locker room before kickoff. Argentina won 6-0 and reached the final; decades later, a former Peruvian senator alleged the deal also included quietly imprisoning Peruvian dissidents. Nothing was ever proven."
+    }
+  ],
   "kits": {
-    "1978": {
-      "headline": "The Sash That Scandalized Argentina",
+    "1930": {
+      "result": "Group Stage",
+      "headline": "First Red Card in History",
+      "homeColors": "white shirt with red collar, white shorts, black socks — a one-off design since rivals Paraguay had already registered Peru's usual red-and-white stripes",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Romania",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Souza 75'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
+      ],
       "kits": {
         "home": {
           "image": null,
-          "imageCredit": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
           "annotations": [
             {
-              "id": "sash",
-              "x": 48,
-              "y": 45,
-              "label": "The Diagonal Sash",
-              "story": "Peru's red diagonal sash on white is one of the most distinctive designs in international football. The sash dates back to Peru's earliest matches in the 1920s and references the red-and-white of the Peruvian flag. No other major footballing nation uses a diagonal stripe as their primary design element."
+              "id": "lowest-attendance-first-red-card",
+              "label": "FIRST-EVER SENT OFF",
+              "story": "Peru's opener against Romania drew only 300 spectators — still the lowest attendance in World Cup history — before a second-half brawl saw a Peruvian shown the first red card in World Cup history. Playing a man down, Peru still scored through Souza in the 75th minute, but lost 3-1."
+            }
+          ]
+        }
+      }
+    },
+    "1970": {
+      "result": "Quarter-final",
+      "headline": "Cubillas Announces Himself",
+      "homeColors": "white shirt with diagonal red sash, white shorts, white socks (adidas)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Bulgaria",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Gallardo 50', Chumpitaz 55', Cubillas 73'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Cubillas 65', Challe 67', Cubillas 75'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Cubillas 44'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Brazil",
+          "score": "2–4",
+          "result": "L",
+          "scorers": "Gallardo 28', Cubillas 70'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "cubillas-breakout-1970",
+              "label": "A 20-YEAR-OLD ARRIVES",
+              "story": "Playing their opener just two days after the devastating 1970 Ancash earthquake back home, Peru fell behind Bulgaria before 20-year-old Teófilo Cubillas took over, scoring in a stirring 3-2 comeback. He finished the tournament with five goals, announcing himself as one of the era's great attacking talents."
+            }
+          ]
+        }
+      }
+    },
+    "1978": {
+      "result": "2nd Round",
+      "headline": "Group Leaders, Then a Scandal",
+      "homeColors": "white shirt with diagonal red sash, white shorts, white socks (adidas) — later voted the best World Cup jersey of all time by ESPN",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Cueto 43', Cubillas 70', Cubillas 76'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Iran",
+          "score": "4–1",
+          "result": "W",
+          "scorers": "Velásquez 2', Cubillas 36' (pen.), Cubillas 39' (pen.), Cubillas 79'"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Brazil",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Poland",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Argentina",
+          "score": "0–6",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "gráfico-best-midfield",
+              "label": "WORLD'S BEST MIDFIELD",
+              "story": "Argentine magazine El Gráfico called Peru's midfield the best in the world entering the tournament, and the team backed it up — beating Scotland, drawing the Netherlands, and thrashing Iran 4-1 to top their first-round group ahead of the eventual runners-up."
             },
             {
-              "id": "1978-controversy",
-              "x": 50,
-              "y": 70,
-              "label": "The Night Everything Fell Apart",
-              "story": "In the 1978 World Cup second group stage, Peru needed to lose by 4 goals to eliminate Argentina. They lost 6–0. Argentina went on to win the tournament. The match remains one of football's most investigated results. Peru's goalkeeper that night was Ramón Quiroga — an Argentine-born naturalized Peruvian."
+              "id": "eliminated-before-kickoff",
+              "label": "ELIMINATED BEFORE KICKOFF",
+              "story": "Two straight defeats to Brazil and Poland in the second-round group had already ended Peru's semifinal hopes before they even faced Argentina. What followed — a 6-0 defeat that sent the hosts to the final over Brazil on goal difference — became one of the most disputed results in World Cup history."
+            }
+          ]
+        }
+      }
+    },
+    "1982": {
+      "result": "Group Stage",
+      "headline": "Draws With the Champions",
+      "homeColors": "white shirt with diagonal red sash, white shorts, white socks (adidas)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Cameroon",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Díaz 83'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "1–5",
+          "result": "L",
+          "scorers": "La Rosa 83'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "diaz-stunner-italy",
+              "label": "DÍAZ STUNS THE CHAMPIONS",
+              "story": "Peru needed just one more point to advance and came within a whisker, holding tournament winners-to-be Italy to a 1-1 draw when Díaz struck in the 83rd minute. A scoreless draw with Cameroon had set up the chance; a second-half collapse against Poland ended it instead."
+            }
+          ]
+        }
+      }
+    },
+    "2018": {
+      "result": "Group Stage",
+      "headline": "Back After 36 Years",
+      "homeColors": "white shirt with diagonal red sash, white shorts, white socks (Umbro)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Denmark",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Australia",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Carrillo 18', Guerrero 50'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "guerrero-farewell-win",
+              "label": "GUERRERO'S EMOTIONAL SEND-OFF",
+              "story": "Captain Paolo Guerrero had his doping suspension controversially reduced just weeks before the tournament to let him play. With Peru already eliminated, he scored the second goal in a 2-0 win over Australia in Sochi — Peru's first World Cup victory in 40 years, since Cubillas's 1978 heroics."
             }
           ]
         }

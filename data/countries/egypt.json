@@ -1,0 +1,96 @@
+{
+  "id": "egypt",
+  "name": "Egypt",
+  "flagCode": "eg",
+  "confederation": "CAF",
+  "worldCups": [1934, 1990, 2018],
+  "bestResult": "Round of 16 (1934)",
+
+  "stats": {
+    "matches": 7,
+    "wins": 0,
+    "draws": 2,
+    "losses": 5,
+    "goalsFor": 5,
+    "goalsAgainst": 12
+  },
+
+  "facts": [
+    {
+      "id": "fawzis-lonely-record",
+      "label": "AFRICA'S FIRST GOALS",
+      "story": "On 27 May 1934, in Egypt's first-ever World Cup match, forward Abdulrahman Fawzi scored twice in a 2–4 defeat to Hungary, becoming the first African player to find the net at a World Cup. His feat stood entirely alone for eighty-four years — no other African forward managed two goals in a single World Cup match until Mohamed Salah matched him against Saudi Arabia in 2018, closing a gap that had outlasted entire generations of the sport."
+    },
+    {
+      "id": "el-hadary-oldest-ever",
+      "label": "OLDEST MAN STANDING",
+      "story": "On 25 June 2018, goalkeeper Essam El-Hadary walked out against Saudi Arabia at 45 years and five months old, becoming the oldest player ever to appear in a World Cup match. Recalled for Egypt's dead-rubber finale after being benched for the first two games, he saved Salman Al-Faraj's first-half penalty to a raucous ovation. Egypt still lost 1–2, but El-Hadary's record — and that save — outlived the scoreline entirely."
+    }
+  ],
+
+  "kits": {
+    "1934": {
+      "result": "Round of 16",
+      "headline": "Pharaohs' Historic Debut",
+      "annotations": [
+        {
+          "id": "fawzi-double",
+          "label": "FAWZI'S HISTORIC DOUBLE",
+          "story": "In Egypt's first-ever World Cup match, Abdulrahman Fawzi scored twice in a 2–4 loss to Hungary, becoming Africa's first World Cup goalscorer. The tally stood alone for 84 years — no other African player scored twice in a match until Mohamed Salah in 2018."
+        }
+      ],
+      "homeColors": "green long-sleeved shirt with a red chest patch and white shorts",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Round of 16", "opponent": "Hungary", "score": "2–4", "result": "L", "scorers": null }
+      ]
+    },
+    "1990": {
+      "result": "Group Stage",
+      "headline": "The 56-Year Wait",
+      "annotations": [
+        {
+          "id": "abdelghani-penalty",
+          "label": "ABDELGHANI STUNS THE DUTCH",
+          "story": "Trailing Wim Kieft's 58th-minute header, Egypt won a penalty when Ronald Koeman fouled inside the box. Magdi Abdelghani stepped up in the 83rd minute and beat the Dutch keeper, salvaging a 1–1 draw against the reigning European champions in Egypt's first World Cup match in 56 years."
+        }
+      ],
+      "homeColors": "red shirt with a white V-neck collar and sleeve panels, white three stripes on the shoulders (Adidas)",
+      "awayColors": "green shirt (Adidas)",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Netherlands", "score": "1–1", "result": "D", "scorers": "Abdelghani 83' (pen)" },
+        { "round": "Group Stage", "opponent": "Republic of Ireland", "score": "0–0", "result": "D", "scorers": null },
+        { "round": "Group Stage", "opponent": "England", "score": "0–1", "result": "L", "scorers": null }
+      ]
+    },
+    "2018": {
+      "result": "Group Stage",
+      "headline": "Salah's Lonely Heroics",
+      "annotations": [
+        {
+          "id": "salah-penalty-vs-russia",
+          "label": "SALAH BREAKS 28-YEAR DROUGHT",
+          "story": "Egypt trailed hosts Russia 3–0 in Saint Petersburg when Mohamed Salah converted a 73rd-minute penalty — the country's first World Cup goal since Abdelghani's strike in 1990. It arrived too late to matter in the scoreline, but not to a stadium full of Egyptian fans."
+        },
+        {
+          "id": "salah-chip-saudi-arabia",
+          "label": "SALAH'S FAREWELL CHIP",
+          "story": "Already eliminated, Mohamed Salah lifted a delicate 22nd-minute chip over goalkeeper Yasser Al-Mosailem, becoming the first African player to score in his first two World Cup appearances — scant consolation in a 1–2 defeat to Saudi Arabia that closed out Egypt's tournament."
+        }
+      ],
+      "homeColors": "red shirt with black ribbed collar and sleeve cuffs, white stripes down the sides, subtle chequered pattern (Adidas)",
+      "awayColors": "white shirt with subtle graphic print, black shorts, white socks (Adidas)",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Uruguay", "score": "0–1", "result": "L", "scorers": null },
+        { "round": "Group Stage", "opponent": "Russia", "score": "1–3", "result": "L", "scorers": "Salah 73' (pen)" },
+        { "round": "Group Stage", "opponent": "Saudi Arabia", "score": "1–2", "result": "L", "scorers": "Salah 22'" }
+      ]
+    }
+  }
+}

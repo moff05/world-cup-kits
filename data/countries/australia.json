@@ -1,0 +1,164 @@
+{
+  "id": "australia",
+  "name": "Australia",
+  "flagCode": "au",
+  "confederation": "AFC",
+  "worldCups": [1974, 2006, 2010, 2014, 2018, 2022],
+  "bestResult": "Round of 16 (2 appearances)",
+
+  "stats": {
+    "matches": 20,
+    "wins": 4,
+    "draws": 4,
+    "losses": 12,
+    "goalsFor": 17,
+    "goalsAgainst": 37
+  },
+
+  "facts": [
+    {
+      "id": "born-a-socceroo",
+      "label": "BORN A SOCCEROO",
+      "story": "Sydney journalist Tony Horstead coined 'Socceroos' in 1967 while covering a squad's goodwill tour of South Vietnam, though his own newspaper poll had readers voting for 'Emus' instead. The nickname stuck anyway: the Australian Soccer Federation's 1972 World Cup fundraising drive stamped a kangaroo in football boots with 'World Cup 1974 Socceroo,' and by kickoff in West Germany it was universal. The green and gold itself dates back further, to 1924, when officials swapped Australia's original sky-blue-and-maroon strip for colors drawn from the Golden Wattle and the eucalypt bush."
+    },
+    {
+      "id": "the-32-year-wait",
+      "label": "THE 32-YEAR WAIT",
+      "story": "Australia's 1974 squad was entirely amateur — office workers and tradesmen moonlighting as footballers — and went home from West Germany without a single goal in three matches. The Socceroos didn't return to the World Cup for 32 years. In Kaiserslautern in 2006, trailing Japan 1-0 with 20 minutes left, substitute Tim Cahill scored twice in five second-half minutes, and John Aloisi added a third in stoppage time. The 3-1 comeback delivered Australia's first-ever World Cup win, on their second attempt."
+    }
+  ],
+
+  "kits": {
+    "1974": {
+      "result": "Group Stage",
+      "headline": "The Scoreless Debut",
+      "annotations": [],
+      "homeColors": "gold shirt, green shorts, white socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "East Germany", "score": "0–2", "result": "L", "scorers": null },
+        { "round": "Group Stage", "opponent": "West Germany", "score": "0–3", "result": "L", "scorers": null },
+        { "round": "Group Stage", "opponent": "Chile", "score": "0–0", "result": "D", "scorers": null }
+      ]
+    },
+    "2006": {
+      "result": "Round of 16",
+      "headline": "Cahill's Late Arrival",
+      "annotations": [
+        {
+          "id": "cahill-double-vs-japan",
+          "label": "CAHILL'S FIVE MINUTES",
+          "story": "Down 1-0 to Japan with 20 minutes left in Kaiserslautern, substitute Tim Cahill leveled in the 84th minute, then struck again in the 89th. John Aloisi added a third in stoppage time. The 3-1 win was Australia's first-ever World Cup victory, 32 years after their scoreless 1974 debut."
+        },
+        {
+          "id": "kewell-croatia-equalizer",
+          "label": "KEWELL'S LATE LEVELER",
+          "story": "Trailing Croatia 2-1 with ten minutes left, Harry Kewell drilled a loose ball past Stipe Pletikosa in the 79th minute for a 2-2 draw. The goal was nearly overshadowed by referee Graham Poll's blunder minutes earlier — booking Josip Šimunić three times before sending him off — but it sent Australia through to the round of 16."
+        }
+      ],
+      "homeColors": "gold shirt with green trim, green shorts, gold socks (Nike)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Japan", "score": "3–1", "result": "W", "scorers": "Cahill 84', Cahill 89', Aloisi 90+2'" },
+        { "round": "Group Stage", "opponent": "Brazil", "score": "0–2", "result": "L", "scorers": null },
+        { "round": "Group Stage", "opponent": "Croatia", "score": "2–2", "result": "D", "scorers": "Moore 38' (pen.), Kewell 79'" },
+        { "round": "Round of 16", "opponent": "Italy", "score": "0–1", "result": "L", "scorers": null }
+      ]
+    },
+    "2010": {
+      "result": "Group Stage",
+      "headline": "Kewell's Costly Red Card",
+      "annotations": [
+        {
+          "id": "kewell-red-card-ghana",
+          "label": "TEN MEN HOLD ON",
+          "story": "Brett Holman pounced on a Ghana goalkeeping error to put Australia ahead in the 11th minute. Harry Kewell then blocked a goal-bound shot with his upper arm, was sent off, and Asamoah Gyan converted the penalty to level it. Australia held on with ten men for a 1-1 draw that kept their knockout hopes alive."
+        }
+      ],
+      "homeColors": "gold shirt, navy shorts, gold socks (Nike)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Germany", "score": "0–4", "result": "L", "scorers": null },
+        { "round": "Group Stage", "opponent": "Ghana", "score": "1–1", "result": "D", "scorers": "Holman 11'" },
+        { "round": "Group Stage", "opponent": "Serbia", "score": "2–1", "result": "W", "scorers": "Cahill 69', Holman 73'" }
+      ]
+    },
+    "2014": {
+      "result": "Group Stage",
+      "headline": "Cahill's Wonder Strike",
+      "annotations": [
+        {
+          "id": "cahill-volley-netherlands",
+          "label": "THE UNDERSIDE OF THE BAR",
+          "story": "One minute after Arjen Robben's opener, Tim Cahill met a long ball from Ryan McGowan and volleyed it in off the underside of the crossbar — instantly ranked among the tournament's best goals. Australia briefly led 2-1 after Mile Jedinak's penalty, but Robin van Persie and Memphis Depay answered to complete a 3-2 Dutch win."
+        }
+      ],
+      "homeColors": "gold shirt with green sleeves, navy shorts, gold socks (Nike)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Chile", "score": "1–3", "result": "L", "scorers": "Cahill 35'" },
+        { "round": "Group Stage", "opponent": "Netherlands", "score": "2–3", "result": "L", "scorers": "Cahill 21', Jedinak 54' (pen.)" },
+        { "round": "Group Stage", "opponent": "Spain", "score": "0–3", "result": "L", "scorers": null }
+      ]
+    },
+    "2018": {
+      "result": "Group Stage",
+      "headline": "So Close, Group Stage Again",
+      "annotations": [
+        {
+          "id": "jedinak-var-penalty-denmark",
+          "label": "VAR'S FIRST WORLD CUP CALL",
+          "story": "Antoine Griezmann converted the first-ever VAR-assisted penalty in World Cup history in the 58th minute. Mile Jedinak answered from the spot four minutes later to level it at 1-1, before a shot from Paul Pogba deflected in off Aziz Behich in the 81st minute, handing France a 2-1 win."
+        }
+      ],
+      "homeColors": "gold shirt, green shorts, gold socks (Nike)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "France", "score": "1–2", "result": "L", "scorers": "Jedinak 62' (pen.)" },
+        { "round": "Group Stage", "opponent": "Denmark", "score": "1–1", "result": "D", "scorers": "Jedinak 35' (pen.)" },
+        { "round": "Group Stage", "opponent": "Peru", "score": "0–2", "result": "L", "scorers": null }
+      ]
+    },
+    "2022": {
+      "result": "Round of 16",
+      "headline": "Argentina Ends the Run",
+      "annotations": [
+        {
+          "id": "goodwin-strikes-early",
+          "label": "GOODWIN STRIKES EARLY",
+          "story": "Craig Goodwin lashed a left-footed strike into the roof of the net in the ninth minute to briefly threaten the eventual champions. France answered with four unanswered goals, but the early setback didn't define the group — Australia still finished above Denmark and reached the knockout stage for a second time."
+        },
+        {
+          "id": "leckie-sends-them-through",
+          "label": "LECKIE SENDS THEM THROUGH",
+          "story": "Mathew Leckie collected a long ball, drove into the box, and beat Kasper Schmeichel at the far post in the 60th minute to sink Denmark 1-0. The win put Australia through to the round of 16 for just the second time, level with 2006 as their best-ever World Cup finish."
+        },
+        {
+          "id": "goodwins-historic-deflection",
+          "label": "GOODWIN'S HISTORIC DEFLECTION",
+          "story": "Trailing 2-0, Craig Goodwin's low shot deflected off Enzo Fernández and past goalkeeper Emiliano Martínez in the 77th minute — Australia's first-ever goal in a World Cup knockout match. It wasn't enough; Argentina held on 2-1 and went on to win the tournament."
+        }
+      ],
+      "homeColors": "gold shirt with a stitched Golden Wattle pattern, green shorts, gold socks (Nike)",
+      "awayColors": "obsidian dark shirt with green accents (Nike)",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "France", "score": "1–4", "result": "L", "scorers": "Goodwin 9'" },
+        { "round": "Group Stage", "opponent": "Tunisia", "score": "1–0", "result": "W", "scorers": "Duke 23'" },
+        { "round": "Group Stage", "opponent": "Denmark", "score": "1–0", "result": "W", "scorers": "Leckie 60'" },
+        { "round": "Round of 16", "opponent": "Argentina", "score": "1–2", "result": "L", "scorers": "Enzo Fernández OG 77'" }
+      ]
+    }
+  }
+}

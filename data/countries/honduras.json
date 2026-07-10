@@ -1,0 +1,103 @@
+{
+  "id": "honduras",
+  "name": "Honduras",
+  "flagCode": "hn",
+  "confederation": "CONCACAF",
+  "worldCups": [1982, 2010, 2014],
+  "bestResult": "Group Stage (3 appearances)",
+
+  "stats": {
+    "matches": 9,
+    "wins": 0,
+    "draws": 3,
+    "losses": 6,
+    "goalsFor": 3,
+    "goalsAgainst": 14
+  },
+
+  "facts": [
+    {
+      "id": "the-catrachos",
+      "label": "THE CATRACHOS",
+      "story": "Hondurans call themselves Catrachos, a nickname with no connection to football at all. In 1857, Honduran general Florencio Xatruch led troops into Nicaragua to help repel the American filibuster William Walker, and grateful Nicaraguans reportedly cheered 'Aquí vienen los xatruches!' as his soldiers marched home. Locals mangled the unfamiliar Catalan surname into 'catruches,' then 'catrachos' — a name that outlived the war by a century and became shorthand for the national team itself."
+    },
+    {
+      "id": "the-football-war",
+      "label": "THE FOOTBALL WAR",
+      "story": "Honduras's strangest World Cup story never happened at a World Cup. Qualifying for Mexico 1970, Honduras and El Salvador split two increasingly hostile legs before a decisive playoff in Mexico City, a series so charged with nationalist tension that it helped spark the four-day Football War between the two countries weeks later. El Salvador won the playoff 3-2 and advanced; Honduras went home, a reminder that this small qualifying region has always carried outsized stakes."
+    }
+  ],
+
+  "kits": {
+    "1982": {
+      "result": "Group Stage",
+      "headline": "Honduran Pirates Spoil the Party",
+      "annotations": [
+        {
+          "id": "zelaya-shocks-the-hosts",
+          "label": "ZELAYA SHOCKS THE HOSTS",
+          "story": "Eight minutes into their first-ever World Cup match, unheralded midfielder Héctor Zelaya beat Spain's goalkeeper to give Los Catrachos an improbable early lead in Valencia. Roberto López Ufarte pulled the hosts level from the penalty spot in the 65th minute, but the 1-1 draw became an instant national legend."
+        },
+        {
+          "id": "petrovic-penalty-heartbreak",
+          "label": "PETROVIĆ'S PENALTY HEARTBREAK",
+          "story": "Needing only a draw to advance, Honduras held Yugoslavia scoreless deep into the second half before Vladimir Petrović converted a stoppage-time penalty in the 88th minute. The 1-0 defeat closed out a debut built on two draws and zero wins, but no goals conceded in open play."
+        }
+      ],
+      "homeColors": "white shirt with a blue crew-neck collar and blue Adidas three stripes on the shoulders, blue crest reading HONDURAS (Adidas)",
+      "awayColors": "blue and white vertical stripes with a white collar and blue Adidas three stripes (Adidas)",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Spain", "score": "1–1", "result": "D", "scorers": "Zelaya 8'" },
+        { "round": "Group Stage", "opponent": "Northern Ireland", "score": "1–1", "result": "D", "scorers": "Laing 60'" },
+        { "round": "Group Stage", "opponent": "Yugoslavia", "score": "0–1", "result": "L", "scorers": null }
+      ]
+    },
+    "2010": {
+      "result": "Group Stage",
+      "headline": "Twenty-Eight Years, One Point",
+      "annotations": [
+        {
+          "id": "switzerland-clean-sheet-history",
+          "label": "A CLEAN SHEET FOR HISTORY",
+          "story": "After conceding three unanswered goals across losses to Chile and Spain, Honduras dug in against Switzerland in Bloemfontein and held out for a scoreless draw. It was a single point from three games, but it was Honduras's first result of any kind since their 1982 debut — their first-ever World Cup point."
+        }
+      ],
+      "homeColors": "white shirt with a blue horizontal band fading across the chest, blue V-neck collar and sleeve cuffs (Joma)",
+      "awayColors": "blue shirt with white stripes (Joma)",
+      "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Spain_Honduras.jpg",
+      "imageCredit": { "player": null, "game": "Spain vs Honduras, 2010 World Cup Group H (Wikimedia Commons)" },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Chile", "score": "0–1", "result": "L", "scorers": null },
+        { "round": "Group Stage", "opponent": "Spain", "score": "0–2", "result": "L", "scorers": null },
+        { "round": "Group Stage", "opponent": "Switzerland", "score": "0–0", "result": "D", "scorers": null }
+      ]
+    },
+    "2014": {
+      "result": "Group Stage",
+      "headline": "Goal-Line Technology Arrives",
+      "annotations": [
+        {
+          "id": "goal-line-technology-debuts",
+          "label": "TECHNOLOGY MAKES ITS DEBUT",
+          "story": "In Porto Alegre, goalkeeper Noel Valladares turned Karim Benzema's headed effort into his own net, and for the first time in World Cup history, goal-line technology confirmed the goal before the referee even signaled. France won 3-0, but the moment made Honduras a footnote in the sport's technological history."
+        },
+        {
+          "id": "costly-ends-the-drought",
+          "label": "COSTLY ENDS THE DROUGHT",
+          "story": "Thirty-two years after Héctor Zelaya's opener against Spain, Carlo Costly slotted home in the 31st minute against Ecuador for Honduras's first World Cup goal since that 1982 debut. Enner Valencia answered twice to seal a 2-1 defeat, but for a few minutes in Curitiba, Honduras were actually winning."
+        }
+      ],
+      "homeColors": "white shirt with light blue trim on the collar and sleeve cuffs, flag-inspired white-and-blue design (Joma)",
+      "awayColors": "blue shirt with white and sky-blue design elements, mirroring the home kit (Joma)",
+      "image": "https://commons.wikimedia.org/wiki/File:Honduras_and_Ecuador_match_at_the_FIFA_World_Cup_2014-06-20_(14283334658).jpg",
+      "imageCredit": { "player": null, "game": "Honduras vs Ecuador, 2014 World Cup Group E (Wikimedia Commons)" },
+      "matches": [
+        { "round": "Group Stage", "opponent": "France", "score": "0–3", "result": "L", "scorers": null },
+        { "round": "Group Stage", "opponent": "Ecuador", "score": "1–2", "result": "L", "scorers": "Costly 31'" },
+        { "round": "Group Stage", "opponent": "Switzerland", "score": "0–3", "result": "L", "scorers": null }
+      ]
+    }
+  }
+}

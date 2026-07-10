@@ -1,0 +1,158 @@
+{
+  "id": "croatia",
+  "name": "Croatia",
+  "flagCode": "hr",
+  "confederation": "UEFA",
+  "worldCups": [1998, 2002, 2006, 2014, 2018, 2022],
+  "bestResult": "Runners-up (2018)",
+
+  "stats": {
+    "matches": 30,
+    "wins": 13,
+    "draws": 8,
+    "losses": 9,
+    "goalsFor": 43,
+    "goalsAgainst": 33
+  },
+
+  "facts": [
+    {
+      "id": "sahovnica-checkerboard",
+      "label": "THE ŠAHOVNICA",
+      "story": "Croatia's checkerboard shirt traces back to legend: 10th-century king Stjepan Držislav supposedly won his freedom from Venetian captors in a game of chess, then folded the red-and-white check — the šahovnica — into his coat of arms. Designer Miroslav Šutej revived the pattern for the modern national team's debut, a 2–1 win over the United States on 17 October 1990, months before Croatia even had FIFA recognition. It's been the kit's blueprint ever since."
+    },
+    {
+      "id": "smallest-finalists",
+      "label": "GIANT KILLERS, TINY NATION",
+      "story": "With barely 3.8 million people, Croatia is the second-smallest nation by population, after Uruguay, ever to reach a World Cup final, and the second-smallest by land area, after the Netherlands. They've done it while medaling twice: third place in 1998 behind Davor Šuker's six goals, then the 2018 final itself, where Luka Modrić's Golden Ball capped a run through three straight penalty-shootout survivals. No team that small has come nearly as close, this often."
+    }
+  ],
+
+  "kits": {
+    "1998": {
+      "result": "3rd Place",
+      "headline": "The Debutants' Bronze Miracle",
+      "annotations": [
+        {
+          "id": "worns-red-card-rout",
+          "label": "TEN MEN, THREE GOALS",
+          "story": "Christian Wörns lasted 40 minutes before a professional foul on Davor Šuker earned him a straight red card. Croatia punished ten-man Germany ruthlessly: Robert Jarni struck in first-half stoppage time, Goran Vlaović doubled it in the 80th, and Šuker sealed a stunning 3–0 quarter-final win in Lyon."
+        }
+      ],
+      "homeColors": "red-and-white checkerboard shirt (šahovnica pattern), white shorts, blue socks (Lotto)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Jamaica", "score": "3–1", "result": "W", "scorers": "Stanić 27', Prosinečki 53', Šuker 69'" },
+        { "round": "Group Stage", "opponent": "Japan", "score": "1–0", "result": "W", "scorers": "Šuker 77'" },
+        { "round": "Group Stage", "opponent": "Argentina", "score": "0–1", "result": "L", "scorers": null },
+        { "round": "Round of 16", "opponent": "Romania", "score": "1–0", "result": "W", "scorers": "Šuker 45+1' (pen.)" },
+        { "round": "Quarter-final", "opponent": "Germany", "score": "3–0", "result": "W", "scorers": "Jarni 45+3', Vlaović 80', Šuker 85'" },
+        { "round": "Semi-final", "opponent": "France", "score": "1–2", "result": "L", "scorers": "Šuker 46'" },
+        { "round": "3rd Place", "opponent": "Netherlands", "score": "2–1", "result": "W", "scorers": "Prosinečki 14', Šuker 36'" }
+      ]
+    },
+    "2002": {
+      "result": "Group Stage",
+      "headline": "Golden Generation's Last Stand",
+      "annotations": [],
+      "homeColors": "red-and-white checkerboard shirt, white shorts, blue socks (Nike)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Mexico", "score": "0–1", "result": "L", "scorers": null },
+        { "round": "Group Stage", "opponent": "Italy", "score": "2–1", "result": "W", "scorers": "Olić 73', Rapaić 76'" },
+        { "round": "Group Stage", "opponent": "Ecuador", "score": "0–1", "result": "L", "scorers": null }
+      ]
+    },
+    "2006": {
+      "result": "Group Stage",
+      "headline": "Three Red Cards, One Point",
+      "annotations": [
+        {
+          "id": "poll-three-yellows",
+          "label": "THREE YELLOWS, ONE RED",
+          "story": "Referee Graham Poll booked Josip Šimunić twice without realizing his mistake, then produced a third yellow — and finally red — deep into stoppage time against Australia. It remains the only three-card dismissal in World Cup history, an absurd footnote to a wild 2–2 draw that sent Croatia home."
+        }
+      ],
+      "homeColors": "red-and-white checkerboard shirt, white shorts, blue socks (Nike)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Brazil", "score": "0–1", "result": "L", "scorers": null },
+        { "round": "Group Stage", "opponent": "Japan", "score": "0–0", "result": "D", "scorers": null },
+        { "round": "Group Stage", "opponent": "Australia", "score": "2–2", "result": "D", "scorers": "Srna 2', N. Kovač 58'" }
+      ]
+    },
+    "2014": {
+      "result": "Group Stage",
+      "headline": "Marcelo's Gift, Neymar's Answer",
+      "annotations": [],
+      "homeColors": "red-and-white checkerboard shirt, white shorts, blue socks (Nike)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Brazil", "score": "1–3", "result": "L", "scorers": "Marcelo OG 11'" },
+        { "round": "Group Stage", "opponent": "Cameroon", "score": "4–0", "result": "W", "scorers": "Olić, Perišić, Mandžukić (2)" },
+        { "round": "Group Stage", "opponent": "Mexico", "score": "1–3", "result": "L", "scorers": "Perišić 87'" }
+      ]
+    },
+    "2018": {
+      "result": "Runners-up",
+      "headline": "Golden Ball, Silver Medal",
+      "annotations": [
+        {
+          "id": "subasic-shootout-denmark",
+          "label": "SUBAŠIĆ'S SAVES",
+          "story": "Mario Mandžukić leveled in the fourth minute after Mathias Jørgensen's early strike, and neither side broke through in 120 minutes. Danijel Subašić then saved three Danish penalties in the shootout, sending Croatia through in their first-ever World Cup shootout — the first of three straight nail-biters they'd need to survive that summer."
+        },
+        {
+          "id": "mandzukic-extra-time-winner",
+          "label": "MANDŽUKIĆ'S LATE, LATE SHOW",
+          "story": "Kieran Trippier's fifth-minute free kick had England dreaming, but Ivan Perišić leveled in the 68th minute. Mario Mandžukić pounced on a mistake by John Stones and Kyle Walker in the 109th minute, sending Croatia to their first World Cup final and breaking English hearts in Moscow."
+        }
+      ],
+      "homeColors": "red-and-white checkerboard shirt with v-collar, white shorts, blue socks (Nike)",
+      "awayColors": "dark navy-and-black checkerboard shirt (Nike)",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Nigeria", "score": "2–0", "result": "W", "scorers": "Etebo OG, Modrić (pen.)" },
+        { "round": "Group Stage", "opponent": "Argentina", "score": "3–0", "result": "W", "scorers": "Rebić, Modrić, Rakitić" },
+        { "round": "Group Stage", "opponent": "Iceland", "score": "2–1", "result": "W", "scorers": "Badelj, Perišić" },
+        { "round": "Round of 16", "opponent": "Denmark", "score": "1–1 (3–2 pens)", "result": "D", "scorers": "Mandžukić 4'" },
+        { "round": "Quarter-final", "opponent": "Russia", "score": "2–2 (4–3 pens)", "result": "D", "scorers": "Kramarić, Vida" },
+        { "round": "Semi-final", "opponent": "England", "score": "2–1", "result": "W", "scorers": "Perišić 68', Mandžukić 109'" },
+        { "round": "Final", "opponent": "France", "score": "2–4", "result": "L", "scorers": "Perišić 28', Mandžukić 69'" }
+      ]
+    },
+    "2022": {
+      "result": "3rd Place",
+      "headline": "Livaković's Shootout Magic",
+      "annotations": [
+        {
+          "id": "livakovic-heroics",
+          "label": "LIVAKOVIĆ THE WALL",
+          "story": "Dominik Livaković stopped three of Japan's four spot kicks in the round of 16, then made a tournament-high eleven saves against Brazil in the quarter-finals as Bruno Petković's 117th-minute equalizer forced another shootout. Croatia won that one too, twice surviving on penalties on their way to a second straight semi-final."
+        }
+      ],
+      "homeColors": "red-and-white checkerboard shirt, tidier and slightly smaller check pattern, white shorts, blue socks (Nike)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Morocco", "score": "0–0", "result": "D", "scorers": null },
+        { "round": "Group Stage", "opponent": "Canada", "score": "4–1", "result": "W", "scorers": "Kramarić (2), Livaja, Majer" },
+        { "round": "Group Stage", "opponent": "Belgium", "score": "0–0", "result": "D", "scorers": null },
+        { "round": "Round of 16", "opponent": "Japan", "score": "1–1 (3–1 pens)", "result": "D", "scorers": "Perišić 55'" },
+        { "round": "Quarter-final", "opponent": "Brazil", "score": "1–1 (4–2 pens)", "result": "D", "scorers": "Petković 117'" },
+        { "round": "Semi-final", "opponent": "Argentina", "score": "0–3", "result": "L", "scorers": null },
+        { "round": "3rd Place", "opponent": "Morocco", "score": "2–1", "result": "W", "scorers": "Gvardiol, Oršić" }
+      ]
+    }
+  }
+}

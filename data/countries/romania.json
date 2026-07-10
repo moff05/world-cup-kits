@@ -1,0 +1,149 @@
+{
+  "id": "romania",
+  "name": "Romania",
+  "flagCode": "ro",
+  "confederation": "UEFA",
+  "worldCups": [1930, 1934, 1938, 1970, 1990, 1994, 1998],
+  "bestResult": "Quarter-finalists (1994)",
+
+  "stats": {
+    "matches": 21,
+    "wins": 8,
+    "draws": 5,
+    "losses": 8,
+    "goalsFor": 30,
+    "goalsAgainst": 32
+  },
+
+  "facts": [
+    {
+      "id": "the-tricolorii",
+      "label": "BORN FROM THE FLAG",
+      "story": "Romania's nickname, Tricolorii — the Tricolors — comes directly from wearing all three colors of the national flag at once: blue, yellow, and red. The yellow shirt only became the primary color in 1970, after decades of red dominating; the look crystallized at the 1990 World Cup in Italy, when Romania wore yellow shirts, blue shorts, and red socks, a combination fans still consider the definitive Tricolorii kit."
+    },
+    {
+      "id": "the-bleach-bet",
+      "label": "THE BLEACHED HAIR BET",
+      "story": "Two days before the 1998 World Cup opener, Romania's players dared coach Anghel Iordănescu to shave his head if the team advanced through the group. He agreed — on the condition they'd dye their hair blond in return. After beating Colombia and England, all 23 players and their newly bald coach walked out against Tunisia as platinum blonds, a stunt still replayed on Romanian television every World Cup."
+    }
+  ],
+
+  "kits": {
+    "1930": {
+      "result": "Group Stage",
+      "headline": "A Bright Start, Early Exit",
+      "annotations": [],
+      "homeColors": "red shirt, blue shorts, black socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Peru", "score": "3–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Uruguay", "score": "0–4", "result": "L" }
+      ]
+    },
+    "1934": {
+      "result": "Round of 16",
+      "headline": "One And Done In Trieste",
+      "annotations": [],
+      "homeColors": "red shirt, blue shorts",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Round of 16", "opponent": "Czechoslovakia", "score": "1–2", "result": "L" }
+      ]
+    },
+    "1938": {
+      "result": "Round of 16",
+      "headline": "Marathon Draw, Then Elimination",
+      "annotations": [],
+      "homeColors": "red shirt, blue shorts",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Round of 16", "opponent": "Cuba", "score": "3–3 (a.e.t.)", "result": "D" },
+        { "round": "Round of 16", "opponent": "Cuba", "score": "1–2", "result": "L" }
+      ]
+    },
+    "1970": {
+      "result": "Group Stage",
+      "headline": "One Win Not Enough",
+      "annotations": [],
+      "homeColors": "yellow shirt, blue shorts",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "England", "score": "0–1", "result": "L" },
+        { "round": "Group Stage", "opponent": "Czechoslovakia", "score": "2–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Brazil", "score": "2–3", "result": "L" }
+      ]
+    },
+    "1990": {
+      "result": "Round of 16",
+      "headline": "First Knockout Since 1938",
+      "annotations": [
+        {
+          "id": "timofte-penalty",
+          "label": "BONNER SAVES, IRELAND THROUGH",
+          "story": "After 120 scoreless minutes in Genoa, the Round of 16 tie between Romania and the Republic of Ireland went to penalties. Daniel Timofte stepped up for Romania's fifth kick and watched goalkeeper Packie Bonner dive to his right and save it, sending Ireland through 5–4 and sparking a night of celebration across Dublin."
+        }
+      ],
+      "homeColors": "yellow shirt, blue shorts, red socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Soviet Union", "score": "2–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Cameroon", "score": "1–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Argentina", "score": "1–1", "result": "D" },
+        { "round": "Round of 16", "opponent": "Republic of Ireland", "score": "0–0 (a.e.t.) (4–5 pens)", "result": "D" }
+      ]
+    },
+    "1994": {
+      "result": "Quarter-final",
+      "headline": "Hagi's Golden Generation Peaks",
+      "annotations": [
+        {
+          "id": "hagi-vs-argentina",
+          "label": "TOPPLING MARADONA'S ARGENTINA",
+          "story": "Ilie Dumitrescu scored twice and Gheorghe Hagi added a stunning long-range strike as Romania stunned Diego Maradona's Argentina 3–2 in the Round of 16 in Pasadena — Romania's first-ever World Cup knockout win. It remains the signature victory of the country's most talented generation."
+        }
+      ],
+      "homeColors": "yellow shirt with blue and red chevron pattern, blue shorts (Adidas)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Colombia", "score": "3–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Switzerland", "score": "1–4", "result": "L" },
+        { "round": "Group Stage", "opponent": "United States", "score": "1–0", "result": "W" },
+        { "round": "Round of 16", "opponent": "Argentina", "score": "3–2", "result": "W" },
+        { "round": "Quarter-final", "opponent": "Sweden", "score": "2–2 (a.e.t.) (4–5 pens)", "result": "D" }
+      ]
+    },
+    "1998": {
+      "result": "Round of 16",
+      "headline": "Blond Squad's Final Bow",
+      "annotations": [
+        {
+          "id": "petrescu-strike-england",
+          "label": "PETRESCU'S WINNER OVER ENGLAND",
+          "story": "Dan Petrescu scored the winner in a 2–1 victory over England in Toulouse, sending Romania to the top of Group G. It was one of the golden generation's signature results, coming with half the squad already sporting fresh peroxide-blond haircuts from a bet with their coach."
+        }
+      ],
+      "homeColors": "yellow shirt, blue shorts (Adidas)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Colombia", "score": "1–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "England", "score": "2–1", "result": "W" },
+        { "round": "Group Stage", "opponent": "Tunisia", "score": "1–1", "result": "D" },
+        { "round": "Round of 16", "opponent": "Croatia", "score": "0–1", "result": "L" }
+      ]
+    }
+  }
+}

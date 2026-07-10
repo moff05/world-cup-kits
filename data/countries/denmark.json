@@ -1,0 +1,134 @@
+{
+  "id": "denmark",
+  "name": "Denmark",
+  "flagCode": "dk",
+  "confederation": "UEFA",
+  "worldCups": [1986, 1998, 2002, 2010, 2018, 2022],
+  "bestResult": "Quarter-finalists (1998)",
+
+  "stats": {
+    "matches": 23,
+    "wins": 9,
+    "draws": 6,
+    "losses": 8,
+    "goalsFor": 31,
+    "goalsAgainst": 29
+  },
+
+  "facts": [
+    {
+      "id": "danish-dynamite",
+      "label": "DANISH DYNAMITE",
+      "story": "In 1986, Denmark qualified for a World Cup for the first time and immediately terrified everyone. Preben Elkjær and Michael Laudrup tore through the group stage unbeaten, including a 6–1 demolition of Uruguay, wearing Hummel's audacious two-tone 'Carnival Suit' that critics mocked before crowning it a design classic. The dream ended in the Round of 16, when a mistimed Jesper Olsen backpass gifted Emilio Butragueño a hat-trick in a 5–1 defeat to Spain — an error still nicknamed 'a real Jesper Olsen' in Denmark decades later."
+    },
+    {
+      "id": "father-son-goalkeepers",
+      "label": "LIKE FATHER, LIKE SON",
+      "story": "Peter Schmeichel guarded Denmark's goal through the 1998 quarter-final run in France, marshaling a defense that stunned Nigeria 4–1 before falling to Brazil. Twenty years later, his son Kasper Schmeichel wore the gloves at the 2018 World Cup, saving Luka Modrić's extra-time penalty and then Milan Badelj's shootout spot-kick against Croatia in the Round of 16 — heroics that still weren't enough, as Denmark lost the shootout 3–2 in Nizhny Novgorod."
+    }
+  ],
+
+  "kits": {
+    "1986": {
+      "result": "Round of 16",
+      "headline": "The Carnival Suit Arrives",
+      "annotations": [
+        {
+          "id": "carnival-suit-debut",
+          "label": "THE CARNIVAL SUIT",
+          "story": "Hummel's half-plain, half-pinstriped jersey stunned onlookers when unveiled — swiftly dubbed 'the carnival suit.' Ridiculed at first for its clashing panels and dark chevron sleeves, it became one of football's most coveted retro shirts, reissued by Hummel decades later and credited with changing kit design forever."
+        }
+      ],
+      "homeColors": "Half plain red, half red-and-white pinstripes, with dark blue Hummel chevron sleeves and collar ('Carnival Suit')",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Scotland", "score": "1–0", "result": "W", "scorers": "Elkjær 57'" },
+        { "round": "Group Stage", "opponent": "Uruguay", "score": "6–1", "result": "W", "scorers": "Elkjær 11', 67', 80', Lerby 41', M. Laudrup 52', J. Olsen 88'" },
+        { "round": "Group Stage", "opponent": "West Germany", "score": "2–0", "result": "W", "scorers": "J. Olsen 43' (pen.), J. Eriksen 62'" },
+        { "round": "Round of 16", "opponent": "Spain", "score": "1–5", "result": "L", "scorers": "J. Olsen 33' (pen.)" }
+      ]
+    },
+    "1998": {
+      "result": "Quarter-final",
+      "headline": "Laudrup Brothers' Last Dance",
+      "annotations": [],
+      "homeColors": "Red shirt with white V-neck collar, white shoulder panels, and white Hummel chevron sleeves",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Saudi Arabia", "score": "1–0", "result": "W", "scorers": "Rieper 69'" },
+        { "round": "Group Stage", "opponent": "South Africa", "score": "1–1", "result": "D", "scorers": "Nielsen 12'" },
+        { "round": "Group Stage", "opponent": "France", "score": "1–2", "result": "L", "scorers": "M. Laudrup 42' (pen.)" },
+        { "round": "Round of 16", "opponent": "Nigeria", "score": "4–1", "result": "W", "scorers": "Møller 3', B. Laudrup 12', Sand 60', Helveg 76'" },
+        { "round": "Quarter-final", "opponent": "Brazil", "score": "2–3", "result": "L", "scorers": "Mar. Jørgensen 2', B. Laudrup 50'" }
+      ]
+    },
+    "2002": {
+      "result": "Round of 16",
+      "headline": "Tomasson Topples Champions",
+      "annotations": [],
+      "homeColors": "Red shirt with white Hummel chevron shoulders, white round-neck collar and cuffs",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Uruguay", "score": "2–1", "result": "W", "scorers": "Tomasson 45', 83'" },
+        { "round": "Group Stage", "opponent": "Senegal", "score": "1–1", "result": "D", "scorers": "Tomasson 16' (pen.)" },
+        { "round": "Group Stage", "opponent": "France", "score": "2–0", "result": "W", "scorers": "Rommedahl 22', Tomasson 67'" },
+        { "round": "Round of 16", "opponent": "England", "score": "0–3", "result": "L", "scorers": null }
+      ]
+    },
+    "2010": {
+      "result": "Group Stage",
+      "headline": "Undone By Free Kicks",
+      "annotations": [],
+      "homeColors": "Red shirt with white polo collar, adidas shoulder stripes and dashed chest graphics",
+      "awayColors": "White shirt with navy blue trim (adidas)",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Netherlands", "score": "0–2", "result": "L", "scorers": null },
+        { "round": "Group Stage", "opponent": "Cameroon", "score": "2–1", "result": "W", "scorers": "Bendtner 33', Rommedahl 61'" },
+        { "round": "Group Stage", "opponent": "Japan", "score": "1–3", "result": "L", "scorers": "Tomasson 81'" }
+      ]
+    },
+    "2018": {
+      "result": "Round of 16",
+      "headline": "Schmeichel's Shootout Heroics",
+      "annotations": [
+        {
+          "id": "schmeichel-saves-croatia",
+          "label": "SCHMEICHEL DENIES CROATIA",
+          "story": "Denmark missed three of five penalties — Christian Eriksen crashed one against the post, Lasse Schöne and Nicolai Jørgensen were both saved by Danijel Subašić — but Kasper Schmeichel matched him, denying Milan Badelj and Josip Pivarić, before Ivan Rakitić finally beat him to send Croatia through 3–2."
+        }
+      ],
+      "homeColors": "Red shirt with cross-lacing jacquard pattern inspired by the Danish Life Guards, white Hummel chevron trim with blue accents",
+      "awayColors": "White shirt with red and blue trim (Hummel)",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Peru", "score": "1–0", "result": "W", "scorers": "Poulsen 59'" },
+        { "round": "Group Stage", "opponent": "Australia", "score": "1–1", "result": "D", "scorers": "C. Eriksen 7'" },
+        { "round": "Group Stage", "opponent": "France", "score": "0–0", "result": "D", "scorers": null },
+        { "round": "Round of 16", "opponent": "Croatia", "score": "1–1 (2–3 pens)", "result": "D", "scorers": "Mat. Jørgensen 1'" }
+      ]
+    },
+    "2022": {
+      "result": "Group Stage",
+      "headline": "A Silent Kit, A Silent Exit",
+      "annotations": [],
+      "homeColors": "All-red shirt with deliberately faded crest and Hummel chevrons, a protest against Qatar's human rights record",
+      "awayColors": "All-white shirt with matching faded branding; all-black third kit worn in mourning for migrant workers who died building World Cup stadiums",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Tunisia", "score": "0–0", "result": "D", "scorers": null },
+        { "round": "Group Stage", "opponent": "France", "score": "1–2", "result": "L", "scorers": "A. Christensen 68'" },
+        { "round": "Group Stage", "opponent": "Australia", "score": "0–1", "result": "L", "scorers": null }
+      ]
+    }
+  }
+}

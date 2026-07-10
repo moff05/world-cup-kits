@@ -1,10 +1,143 @@
 export const slovenia = {
-  id: "slovenia",
-  name: "Slovenia",
-  flagCode: "si",
-  confederation: "UEFA",
-  worldCups: [2002,2010],
-  bestResult: "Group Stage",
-  facts: [],
-  kits: {},
+  "id": "slovenia",
+  "name": "Slovenia",
+  "flagCode": "si",
+  "confederation": "UEFA",
+  "worldCups": [
+    2002,
+    2010
+  ],
+  "bestResult": "Group Stage (2 appearances)",
+  "stats": {
+    "matches": 6,
+    "wins": 1,
+    "draws": 1,
+    "losses": 4,
+    "goalsFor": 5,
+    "goalsAgainst": 10
+  },
+  "facts": [
+    {
+      "id": "the-olimpija-green-experiment",
+      "label": "BORROWED COLORS",
+      "story": "For its first international matches after independence, Slovenia wore the same white, blue, and red as its national flag. In 1993 the federation switched to green and white instead — not a national color at all, but the colors of NK Olimpija Ljubljana, the country's dominant club at the time. The change stuck through both of Slovenia's World Cup campaigns, though it was controversial enough that the federation eventually reversed course, moving to white and blue in 2012."
+    },
+    {
+      "id": "zahovic-sent-home",
+      "label": "THE STAR WHO WENT HOME EARLY",
+      "story": "Slovenia's best player, Zlatko Zahovič, was substituted in the 63rd minute of the opening loss to Spain in 2002. Furious, he clashed with manager Srečko Katanec afterward and hurled insults at him. Katanec sent his own star forward home from the tournament mid-campaign — then announced he'd resign as soon as it ended. Slovenia lost all three group games without him."
+    }
+  ],
+  "kits": {
+    "2002": {
+      "result": "Group Stage",
+      "headline": "A Star Sent Home",
+      "homeColors": "green shirt with white trim, white shorts — adopted in 1993 in place of the flag's white, blue, and red",
+      "awayColors": "white shirt with green trim",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Sebastjan Cimirotič 82'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Africa",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Paraguay",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Milenko Ačimovič 45'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "cimirotic-cant-save-opener",
+              "label": "A LATE CONSOLATION VS SPAIN",
+              "story": "Raúl and Juan Carlos Valerón had already put Spain ahead when Sebastjan Cimirotič pulled one back in the 82nd minute in Slovenia's first-ever World Cup match. Fernando Hierro's penalty six minutes later restored the two-goal margin, and Zahovič's substitution that day sparked the row that sent him home."
+            },
+            {
+              "id": "nomvethe-fourth-minute-blow",
+              "label": "NOMVETHE'S EARLY STRIKE",
+              "story": "Siyabonga Nomvethe pounced on a defensive mistake just four minutes in, and Slovenia never recovered, falling 1–0 to South Africa in Daegu — a result that eliminated them from qualification contention with one group game still to play."
+            },
+            {
+              "id": "acimovic-goal-cant-stop-paraguay",
+              "label": "AČIMOVIČ'S HALF-TIME EQUALIZER",
+              "story": "Milenko Ačimovič leveled the score right on the stroke of halftime against Paraguay, Slovenia's only goal of note in a winless tournament. Nelson Cuevas and Jorge Campos struck twice in the second half to seal a 3–1 defeat and a group-stage exit without a single win."
+            }
+          ]
+        }
+      }
+    },
+    "2010": {
+      "result": "Group Stage",
+      "headline": "The First-Ever Win",
+      "homeColors": "green shirt with white trim, white shorts (Nike)",
+      "awayColors": "white shirt with green trim (Nike)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Algeria",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Robert Koren 79'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Valter Birsa 13', Zlatan Ljubijankič 42'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Slovenia_USA.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "Slovenia vs United States, 2010 World Cup Group C (Wikimedia Commons)"
+          },
+          "annotations": [
+            {
+              "id": "koren-beats-algeria",
+              "label": "KOREN'S HISTORIC WINNER",
+              "story": "Down to ten men after Abdelkader Ghezzal's second yellow card, Algeria couldn't hold out: Robert Koren's long-range effort in the 79th minute bounced in off the goalkeeper's arm, handing Slovenia their first-ever World Cup victory and first place in Group C."
+            },
+            {
+              "id": "birsa-ljubijankic-and-a-disallowed-goal",
+              "label": "TWO UP, THEN A CONTROVERSY",
+              "story": "Valter Birsa curled in a 25-yard strike and Zlatan Ljubijankič added a second before halftime, putting Slovenia 2–0 up on the United States. The Americans clawed back to 2–2, then appeared to win it in stoppage time — only for referee Koman Coulibaly to disallow Maurice Edu's goal for an uncalled foul, one of the most debated decisions of the tournament."
+            },
+            {
+              "id": "england-ends-the-dream",
+              "label": "ONE POINT SHORT",
+              "story": "Needing only a draw against England to reach the knockout stage for the first time, Slovenia fell 1–0 in Port Elizabeth. A United States win over Algeria in the other group match completed a cruel finish: Slovenia missed advancing on goal difference."
+            }
+          ]
+        }
+      }
+    }
+  }
 };

@@ -1,0 +1,97 @@
+{
+  "id": "turkey",
+  "name": "Turkey",
+  "flagCode": "tr",
+  "confederation": "UEFA",
+  "worldCups": [1954, 2002],
+  "bestResult": "3rd Place (2002)",
+
+  "stats": {
+    "matches": 10,
+    "wins": 5,
+    "draws": 1,
+    "losses": 4,
+    "goalsFor": 20,
+    "goalsAgainst": 17
+  },
+
+  "facts": [
+    {
+      "id": "sukurs-record-strike",
+      "label": "FASTEST GOAL EVER",
+      "story": "Eleven seconds. That's all it took Hakan Şükür to find the net against South Korea in the 2002 third-place match in Daegu, a low left-footed finish from the edge of the box straight from kickoff. It shattered a record that had stood since 1962, when Czechoslovakia's Václav Mašek needed 16 seconds against Mexico. More than two decades later, Şükür's strike remains the fastest goal in FIFA World Cup history."
+    },
+    {
+      "id": "coin-toss-qualifier",
+      "label": "QUALIFIED BY COIN TOSS",
+      "story": "Turkey's very first World Cup appearance almost didn't happen through football at all. In a 1954 qualifying play-off against Spain, Turkey lost the first leg 4–1, then stunned Spain 1–0 in the return. A neutral decider finished 2–2, and with no penalty shootouts yet in use, officials drew lots to break the deadlock. Turkey's name came out, sending them to Switzerland instead of Spain."
+    }
+  ],
+
+  "kits": {
+    "1954": {
+      "result": "Group Stage",
+      "headline": "Decided by a Coin Toss",
+      "annotations": [
+        {
+          "id": "coin-toss-into-the-cup",
+          "label": "A LOTTERY TICKET TO SWITZERLAND",
+          "story": "Turkey and Spain finished level after a home-and-away play-off and a neutral replay, all square at 2–2 on aggregate. With no shootout rule in place, the tie was settled by drawing lots. Turkey's name was pulled, sending them to their first-ever World Cup instead of Spain."
+        },
+        {
+          "id": "sargun-and-mamat-rout",
+          "label": "A 7–0 ROUT IN GENEVA",
+          "story": "Four days after a 4–1 opening loss to West Germany, Turkey routed South Korea 7–0 in Geneva. Burhan Sargun scored a hat-trick and Suat Mamat added two more, still the heaviest World Cup defeat South Korea has ever suffered."
+        },
+        {
+          "id": "germany-ends-it-twice",
+          "label": "GERMANY ENDS IT TWICE",
+          "story": "Because Turkey and West Germany finished level in the group, FIFA ordered a play-off replay to decide who advanced. West Germany, resting several starters in the first meeting, fielded a full-strength side this time and routed Turkey 7–2, ending their debut tournament in Zurich."
+        }
+      ],
+      "homeColors": "red shirt with white shorts and socks — Turkey's traditional home colors",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "West Germany", "score": "1–4", "result": "L", "scorers": null },
+        { "round": "Group Stage", "opponent": "South Korea", "score": "7–0", "result": "W", "scorers": null },
+        { "round": "Group Stage Play-off", "opponent": "West Germany", "score": "2–7", "result": "L", "scorers": null }
+      ]
+    },
+    "2002": {
+      "result": "3rd Place",
+      "headline": "11 Seconds to Bronze",
+      "annotations": [
+        {
+          "id": "sas-injury-time-strike",
+          "label": "ŞAŞ STRIKES LATE",
+          "story": "Down 2–0 to eventual champions Brazil, Hasan Şaş pulled one back deep into first-half stoppage time in Ulsan. It wasn't enough to avoid the 2–1 opening loss, but it kept Turkey's group hopes alive heading into their next two matches."
+        },
+        {
+          "id": "davala-heads-japan-out",
+          "label": "DAVALA HEADS OUT THE HOSTS",
+          "story": "Twelve minutes into the Round of 16 in Miyagi, Ergün Penbe's corner found Ümit Davala, who rose to head Turkey in front. It stood as the only goal of the match, eliminating co-host Japan in front of a stunned home crowd."
+        },
+        {
+          "id": "mansiz-golden-goal",
+          "label": "MANSIZ'S GOLDEN MOMENT",
+          "story": "Locked at 0–0 deep into extra time against Senegal, substitute İlhan Mansız struck in the 94th minute to win it by golden goal, sending Turkey into their first-ever World Cup semi-final and ending Senegal's fairytale run in Osaka."
+        }
+      ],
+      "homeColors": "red shirt with white shorts (Adidas, 1983–2002 era)",
+      "awayColors": "white shirt with red trim (Adidas, 1983–2002 era)",
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Brazil", "score": "1–2", "result": "L", "scorers": "Şaş 45+2'" },
+        { "round": "Group Stage", "opponent": "Costa Rica", "score": "1–1", "result": "D", "scorers": "Belözoğlu 56'" },
+        { "round": "Group Stage", "opponent": "China", "score": "3–0", "result": "W", "scorers": null },
+        { "round": "Round of 16", "opponent": "Japan", "score": "1–0", "result": "W", "scorers": "Davala 12'" },
+        { "round": "Quarter-final", "opponent": "Senegal", "score": "1–0 (a.e.t.)", "result": "W", "scorers": "Mansız 94'" },
+        { "round": "Semi-final", "opponent": "Brazil", "score": "0–1", "result": "L", "scorers": null },
+        { "round": "3rd Place", "opponent": "South Korea", "score": "3–2", "result": "W", "scorers": null }
+      ]
+    }
+  }
+}

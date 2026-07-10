@@ -1,10 +1,215 @@
 export const algeria = {
-  id: "algeria",
-  name: "Algeria",
-  flagCode: "dz",
-  confederation: "CAF",
-  worldCups: [1982,1986,2010,2014],
-  bestResult: "Round of 16",
-  facts: [],
-  kits: {},
+  "id": "algeria",
+  "name": "Algeria",
+  "flagCode": "dz",
+  "confederation": "CAF",
+  "worldCups": [
+    1982,
+    1986,
+    2010,
+    2014
+  ],
+  "bestResult": "Round of 16 (2014)",
+  "stats": {
+    "matches": 13,
+    "wins": 3,
+    "draws": 3,
+    "losses": 7,
+    "goalsFor": 13,
+    "goalsAgainst": 19
+  },
+  "facts": [
+    {
+      "id": "miracle-of-gijon",
+      "label": "THE MIRACLE OF GIJÓN",
+      "story": "In their first-ever World Cup match, Algeria beat West Germany 2-1 in Gijón — Rabah Madjer poking in a rebound, Karl-Heinz Rummenigge equalizing, then Lakhdar Belloumi restoring the lead straight from kickoff with a ten-pass move. It remains one of the great upsets in tournament history, though West Germany's final group game — a placid 1-0 stitch-up against Austria that eliminated Algeria on goal difference — became almost as famous as the win itself, forcing FIFA to schedule final group matches simultaneously from then on."
+    },
+    {
+      "id": "les-fennecs",
+      "label": "LES FENNECS",
+      "story": "Algeria's players are nicknamed Les Fennecs, or the Desert Foxes, after the small, enormous-eared fox native to the Sahara. The nickname mirrors the team's kit: white and green trimmed shirts drawn from the Algerian flag, worn since the country's football federation was founded after independence in 1962, with the away kit inverting to green with white trim."
+    }
+  ],
+  "kits": {
+    "1982": {
+      "result": "Group Stage",
+      "headline": "The Disgrace of Gijón",
+      "homeColors": "white shirt with green trim, drawn from the Algerian flag",
+      "awayColors": "green shirt with white trim",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Madjer 54', Belloumi 68'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Austria",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Assad 2, Bensaoula"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "beating-west-germany",
+              "label": "TOPPLING THE EUROPEANS",
+              "story": "Algeria became the first African nation to beat a European team at a World Cup, stunning West Germany 2-1 in their tournament debut. Rabah Madjer and Lakhdar Belloumi scored either side of a Karl-Heinz Rummenigge equalizer in a match still celebrated as one of the great shocks in World Cup history."
+            }
+          ]
+        }
+      }
+    },
+    "1986": {
+      "result": "Group Stage",
+      "headline": "Back-to-Back Qualifiers",
+      "homeColors": "white shirt with green trim",
+      "awayColors": "green shirt with white trim",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Northern Ireland",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Zidane"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": []
+        }
+      }
+    },
+    "2010": {
+      "result": "Group Stage",
+      "headline": "A Long-Awaited Return",
+      "homeColors": "white shirt with green trim (Puma)",
+      "awayColors": "green shirt with white trim (Puma)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Slovenia",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": []
+        }
+      }
+    },
+    "2014": {
+      "result": "Round of 16",
+      "headline": "Four Goals, First-Ever Knockout",
+      "homeColors": "white shirt with green sash and trim (Puma)",
+      "awayColors": "green shirt with white trim (Puma)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Feghouli 25' (pen)"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "4–2",
+          "result": "W",
+          "scorers": "Slimani 26', Halliche 28', Djabou 38', Brahimi 62'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Russia",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Slimani 60'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Germany",
+          "score": "1–2 (a.e.t.)",
+          "result": "L",
+          "scorers": "Djabou 120+1'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "four-goal-history",
+              "label": "FOUR AGAINST SOUTH KOREA",
+              "story": "Algeria raced to a 3-0 halftime lead over South Korea and held on to win 4-2, becoming the first African team to score four goals in a single World Cup match. Islam Slimani, Rafik Halliche, Abdelmoumene Djabou and Yacine Brahimi all found the net inside a wild attacking display."
+            },
+            {
+              "id": "germany-extra-time-heartbreak",
+              "label": "HEARTBREAK IN EXTRA TIME",
+              "story": "Algeria held Germany, the eventual champions, scoreless through 90 minutes in the round of 16 before André Schürrle broke through in extra time. Mesut Özil doubled the lead in the 120th minute, and Abdelmoumene Djabou's injury-time reply arrived one minute too late to force penalties."
+            }
+          ]
+        }
+      }
+    }
+  }
 };

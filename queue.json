@@ -12,7 +12,7 @@
     "name": "Germany",
     "confederation": "UEFA",
     "worldCupsCount": 20,
-    "status": "pending",
+    "status": "done",
     "tier": "large"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Argentina",
     "confederation": "CONMEBOL",
     "worldCupsCount": 19,
-    "status": "pending",
+    "status": "done",
     "tier": "large"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Italy",
     "confederation": "UEFA",
     "worldCupsCount": 18,
-    "status": "pending",
+    "status": "done",
     "tier": "large"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Mexico",
     "confederation": "CONCACAF",
     "worldCupsCount": 17,
-    "status": "pending",
+    "status": "done",
     "tier": "large"
   },
   {
@@ -44,7 +44,7 @@
     "name": "France",
     "confederation": "UEFA",
     "worldCupsCount": 16,
-    "status": "pending",
+    "status": "done",
     "tier": "large"
   },
   {
@@ -52,7 +52,7 @@
     "name": "England",
     "confederation": "UEFA",
     "worldCupsCount": 16,
-    "status": "pending",
+    "status": "done",
     "tier": "large"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Spain",
     "confederation": "UEFA",
     "worldCupsCount": 16,
-    "status": "pending",
+    "status": "done",
     "tier": "large"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Uruguay",
     "confederation": "CONMEBOL",
     "worldCupsCount": 15,
-    "status": "pending",
+    "status": "done",
     "tier": "large"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Belgium",
     "confederation": "UEFA",
     "worldCupsCount": 15,
-    "status": "pending",
+    "status": "done",
     "tier": "large"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Serbia",
     "confederation": "UEFA",
     "worldCupsCount": 14,
-    "status": "pending",
+    "status": "done",
     "tier": "large"
   },
   {
@@ -92,7 +92,7 @@
     "name": "Russia",
     "confederation": "UEFA",
     "worldCupsCount": 14,
-    "status": "pending",
+    "status": "done",
     "tier": "large"
   },
   {
@@ -100,7 +100,7 @@
     "name": "Sweden",
     "confederation": "UEFA",
     "worldCupsCount": 12,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -108,7 +108,7 @@
     "name": "Switzerland",
     "confederation": "UEFA",
     "worldCupsCount": 12,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -116,7 +116,7 @@
     "name": "Netherlands",
     "confederation": "UEFA",
     "worldCupsCount": 11,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -124,7 +124,7 @@
     "name": "United States",
     "confederation": "CONCACAF",
     "worldCupsCount": 11,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -132,7 +132,7 @@
     "name": "South Korea",
     "confederation": "AFC",
     "worldCupsCount": 11,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -140,7 +140,7 @@
     "name": "Paraguay",
     "confederation": "CONMEBOL",
     "worldCupsCount": 9,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -148,7 +148,7 @@
     "name": "Chile",
     "confederation": "CONMEBOL",
     "worldCupsCount": 9,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -156,7 +156,7 @@
     "name": "Poland",
     "confederation": "UEFA",
     "worldCupsCount": 9,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -164,7 +164,7 @@
     "name": "Hungary",
     "confederation": "UEFA",
     "worldCupsCount": 9,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -172,7 +172,7 @@
     "name": "Czech Republic",
     "confederation": "UEFA",
     "worldCupsCount": 9,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -180,7 +180,7 @@
     "name": "Portugal",
     "confederation": "UEFA",
     "worldCupsCount": 8,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -188,7 +188,7 @@
     "name": "Scotland",
     "confederation": "UEFA",
     "worldCupsCount": 8,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -196,7 +196,7 @@
     "name": "Cameroon",
     "confederation": "CAF",
     "worldCupsCount": 8,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -204,7 +204,7 @@
     "name": "Colombia",
     "confederation": "CONMEBOL",
     "worldCupsCount": 7,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -212,7 +212,7 @@
     "name": "Austria",
     "confederation": "UEFA",
     "worldCupsCount": 7,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -220,7 +220,7 @@
     "name": "Romania",
     "confederation": "UEFA",
     "worldCupsCount": 7,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -228,7 +228,7 @@
     "name": "Bulgaria",
     "confederation": "UEFA",
     "worldCupsCount": 7,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -236,7 +236,7 @@
     "name": "Nigeria",
     "confederation": "CAF",
     "worldCupsCount": 7,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -244,7 +244,7 @@
     "name": "Morocco",
     "confederation": "CAF",
     "worldCupsCount": 7,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -252,7 +252,7 @@
     "name": "Japan",
     "confederation": "AFC",
     "worldCupsCount": 7,
-    "status": "pending",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -260,7 +260,7 @@
     "name": "Croatia",
     "confederation": "UEFA",
     "worldCupsCount": 6,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -268,7 +268,7 @@
     "name": "Denmark",
     "confederation": "UEFA",
     "worldCupsCount": 6,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -276,7 +276,7 @@
     "name": "Costa Rica",
     "confederation": "CONCACAF",
     "worldCupsCount": 6,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -284,7 +284,7 @@
     "name": "Tunisia",
     "confederation": "CAF",
     "worldCupsCount": 6,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -292,7 +292,7 @@
     "name": "Iran",
     "confederation": "AFC",
     "worldCupsCount": 6,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -300,7 +300,7 @@
     "name": "Saudi Arabia",
     "confederation": "AFC",
     "worldCupsCount": 6,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -308,7 +308,7 @@
     "name": "Australia",
     "confederation": "AFC",
     "worldCupsCount": 6,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -316,7 +316,7 @@
     "name": "Peru",
     "confederation": "CONMEBOL",
     "worldCupsCount": 5,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -324,7 +324,7 @@
     "name": "Ecuador",
     "confederation": "CONMEBOL",
     "worldCupsCount": 4,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -332,7 +332,7 @@
     "name": "Ghana",
     "confederation": "CAF",
     "worldCupsCount": 4,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -340,7 +340,7 @@
     "name": "Algeria",
     "confederation": "CAF",
     "worldCupsCount": 4,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -348,7 +348,7 @@
     "name": "Bolivia",
     "confederation": "CONMEBOL",
     "worldCupsCount": 3,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -356,7 +356,7 @@
     "name": "Republic of Ireland",
     "confederation": "UEFA",
     "worldCupsCount": 3,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -364,7 +364,7 @@
     "name": "Northern Ireland",
     "confederation": "UEFA",
     "worldCupsCount": 3,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -372,7 +372,7 @@
     "name": "Norway",
     "confederation": "UEFA",
     "worldCupsCount": 3,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -380,7 +380,7 @@
     "name": "Honduras",
     "confederation": "CONCACAF",
     "worldCupsCount": 3,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -388,7 +388,7 @@
     "name": "Senegal",
     "confederation": "CAF",
     "worldCupsCount": 3,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -396,7 +396,7 @@
     "name": "Ivory Coast",
     "confederation": "CAF",
     "worldCupsCount": 3,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -404,7 +404,7 @@
     "name": "Egypt",
     "confederation": "CAF",
     "worldCupsCount": 3,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -412,7 +412,7 @@
     "name": "South Africa",
     "confederation": "CAF",
     "worldCupsCount": 3,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -420,7 +420,7 @@
     "name": "Wales",
     "confederation": "UEFA",
     "worldCupsCount": 2,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -428,7 +428,7 @@
     "name": "Turkey",
     "confederation": "UEFA",
     "worldCupsCount": 2,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -436,7 +436,7 @@
     "name": "Greece",
     "confederation": "UEFA",
     "worldCupsCount": 2,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -444,7 +444,7 @@
     "name": "Slovenia",
     "confederation": "UEFA",
     "worldCupsCount": 2,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {

@@ -7,22 +7,232 @@ export const ecuador = {
     2002,
     2006,
     2014,
-    2026
+    2022
+  ],
+  "bestResult": "Round of 16 (2006)",
+  "stats": {
+    "matches": 13,
+    "wins": 5,
+    "draws": 2,
+    "losses": 6,
+    "goalsFor": 14,
+    "goalsAgainst": 14
+  },
+  "facts": [
+    {
+      "id": "the-quito-altitude-fortress",
+      "label": "THE QUITO ALTITUDE FORTRESS",
+      "story": "Ecuador plays home qualifiers at Estadio Atahualpa in Quito, 2,850 meters above sea level — thin enough air that visiting South American giants routinely arrive breathless and error-prone. The advantage became so pronounced that FIFA moved in 2007 to ban competitive matches above 2,500 meters altogether, a rule aimed squarely at Ecuador and Bolivia. Ecuadorian protests, including a public campaign fronted by Diego Maradona, helped get the ban overturned within a year."
+    },
+    {
+      "id": "valencia-twice-over",
+      "label": "VALENCIA, TWICE OVER",
+      "story": "Enner Valencia scored Ecuador's opening goal in two separate World Cups, twelve years apart — against Switzerland in 2014, then twice against host Qatar in 2022. His 16th-minute penalty in that opener was the first goal of the entire 2022 tournament, and the first World Cup opening-match goal in history scored from the spot. His header 15 minutes later made it 2-0. Those six career goals make him Ecuador's all-time World Cup top scorer."
+    }
   ],
   "kits": {
-    "2026": {
-      "headline": "Middle of the World",
+    "2002": {
+      "result": "Group Stage",
+      "headline": "La Tri's World Cup Debut",
+      "homeColors": "yellow shirt, blue shorts, red socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Delgado 5'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Croatia",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Méndez 48'"
+        }
+      ],
       "kits": {
         "home": {
           "image": null,
-          "imageCredit": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
           "annotations": [
             {
-              "id": "marathon",
-              "x": 75,
-              "y": 20,
-              "label": "Made in Ecuador",
-              "story": "Marathon Sports is Ecuador's homegrown sportswear brand — one of the last national kit manufacturers still dressing a national team at a World Cup. While every other CONMEBOL team wears Nike, Adidas, or Puma, Ecuador's kit is designed, manufactured, and sold by a company from the country it represents."
+              "id": "delgado-first-goal-ever",
+              "label": "ECUADOR'S FIRST-EVER GOAL",
+              "story": "Agustín Delgado struck in the 5th minute against Mexico, the first goal Ecuador ever scored at a World Cup. It didn't hold up — Jared Borgetti and Gerardo Torrado turned the game around for a 2-1 Mexican win — but it marked the arrival of Ecuador's first-ever finals appearance."
+            },
+            {
+              "id": "sinking-croatia",
+              "label": "SINKING THE BRONZE MEDALISTS",
+              "story": "Édison Méndez struck in the 48th minute to beat Croatia 1-0 in Ecuador's final group match. It came too late to save their own tournament, but it eliminated Croatia — third-place finishers just four years earlier in 1998 — from the competition entirely."
+            }
+          ]
+        }
+      }
+    },
+    "2006": {
+      "result": "Round of 16",
+      "headline": "Historic Round of 16 Run",
+      "homeColors": "yellow shirt with blue trim, blue shorts, red socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Tenorio 24', Delgado 80'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Costa Rica",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Tenorio 8', Delgado 54', Kaviedes 90+2'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "England",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "poland-shock-win",
+              "label": "SHOCKING THE GROUP FAVORITES",
+              "story": "Carlos Tenorio headed in a long throw-in flicked on by Agustín Delgado in the 24th minute, and Delgado sealed it himself in the 80th. The 2-0 win over Poland opened Ecuador's campaign and set up their best-ever World Cup run, all the way to the round of 16."
+            },
+            {
+              "id": "beckham-freekick-exit",
+              "label": "BECKHAM'S KNUCKLING FREE KICK",
+              "story": "Having already rested starters in a dead-rubber loss to Germany, Ecuador faced England in the round of 16 with a fresh XI. A single second-half David Beckham free kick was enough to end Ecuador's tournament, their deepest World Cup run to date."
+            }
+          ]
+        }
+      }
+    },
+    "2014": {
+      "result": "Group Stage",
+      "headline": "Valencia's Coming-Out Party",
+      "homeColors": "yellow shirt with blue sleeves, blue shorts, red socks (Marathon)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Valencia 22'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Honduras",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Valencia 34', Valencia 65'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "valencia-double-honduras",
+              "label": "VALENCIA'S DOUBLE STRIKE",
+              "story": "Down 1-0 to Honduras, Enner Valencia tapped in an equalizer in the 34th minute, then headed home a Walter Ayoví cross in the 65th for a 2-1 win — Ecuador's first-ever World Cup victory outside their debut tournament, and the springboard for Valencia's breakout summer."
+            },
+            {
+              "id": "valencia-captain-sent-off",
+              "label": "TEN MEN HOLD FRANCE SCORELESS",
+              "story": "Captain Antonio Valencia was sent off in the 50th minute against France, and Ecuador spent the rest of the match defending a goalless scoreline with ten men. The 0-0 draw held, but results elsewhere eliminated Ecuador from the group anyway."
+            }
+          ]
+        }
+      }
+    },
+    "2022": {
+      "result": "Group Stage",
+      "headline": "Valencia Opens the World Cup",
+      "homeColors": "yellow shirt with blue geometric pattern, blue shorts, red socks (Marathon)",
+      "awayColors": "blue shirt, blue shorts, blue socks (Marathon)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Qatar",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Valencia 16' (pen.), Valencia 31'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Valencia 49'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Senegal",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Caicedo 67'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "valencia-historic-opener",
+              "label": "FIRST GOAL OF THE TOURNAMENT",
+              "story": "Enner Valencia converted a penalty in the 16th minute — the first goal of the entire 2022 World Cup, and the first opening-match goal in tournament history scored from the spot. His header made it 2-0 in the 31st, as Ecuador beat host Qatar in the opener."
+            },
+            {
+              "id": "netherlands-draw-senegal-exit",
+              "label": "ONE POINT SHORT",
+              "story": "Valencia's 49th-minute equalizer salvaged a 1-1 draw with the Netherlands after Cody Gakpo's early opener. Needing only a draw against Senegal to advance, Ecuador led through Moisés Caicedo before conceding twice, exiting the group stage they'd dominated for two matches."
             }
           ]
         }

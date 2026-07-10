@@ -1,10 +1,441 @@
 export const portugal = {
-  id: "portugal",
-  name: "Portugal",
-  flagCode: "pt",
-  confederation: "UEFA",
-  worldCups: [1966,1986,2002,2006,2010,2014,2018,2022],
-  bestResult: "3rd Place",
-  facts: [],
-  kits: {},
+  "id": "portugal",
+  "name": "Portugal",
+  "flagCode": "pt",
+  "confederation": "UEFA",
+  "worldCups": [
+    1966,
+    1986,
+    2002,
+    2006,
+    2010,
+    2014,
+    2018,
+    2022
+  ],
+  "bestResult": "Third place (1966)",
+  "stats": {
+    "matches": 35,
+    "wins": 17,
+    "draws": 6,
+    "losses": 12,
+    "goalsFor": 61,
+    "goalsAgainst": 41
+  },
+  "facts": [
+    {
+      "id": "eusebio-north-korea",
+      "label": "EUSÉBIO'S COMEBACK",
+      "story": "Down 3–0 inside 25 minutes to unfancied North Korea in the 1966 quarter-final at Goodison Park, Portugal looked finished. Then Eusébio took over, scoring four times in a stretch of second-half minutes — two penalties, two open-play strikes — turning humiliation into a 5–3 classic still ranked among the greatest comebacks in World Cup history. He finished the tournament with nine goals, the Golden Boot, and Portugal's best-ever finish: third place."
+    },
+    {
+      "id": "red-and-green",
+      "label": "FLAG ON THE CHEST",
+      "story": "Portugal's home shirt has stayed red with green trim for nearly a century, a direct lift from the national flag adopted in 1911. The exact shade has drifted between burgundy and scarlet depending on the decade and kit maker, and shorts have swapped between red and green, but the color pairing has never changed. Away kits roam further — white, navy, even all-black — but at home, red and green are non-negotiable."
+    }
+  ],
+  "kits": {
+    "1966": {
+      "result": "3rd Place",
+      "headline": "Eusébio's Four-Goal Miracle",
+      "homeColors": "red shirt, green shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Hungary",
+          "score": "3–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bulgaria",
+          "score": "3–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "3–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "North Korea",
+          "score": "5–3",
+          "result": "W"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "England",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "3rd Place",
+          "opponent": "Soviet Union",
+          "score": "2–1",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "EUSÉBIO'S FOUR-GOAL MIRACLE",
+              "story": "Eusébio announced himself as one of the greats, torching Hungary, Bulgaria, and Brazil in the group stage before his signature moment: four goals against North Korea after Portugal fell behind 3–0 in 25 minutes. England ended the run 2–1 in the semi-final, but a 2–1 win over the Soviet Union sealed third place — still Portugal's best finish."
+            }
+          ]
+        }
+      }
+    },
+    "1986": {
+      "result": "Group Stage",
+      "headline": "One Win, No Sequel",
+      "homeColors": "red shirt, green shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "1–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "ONE WIN, NO SEQUEL",
+              "story": "Carlos Manuel's goal beat England 1–0 in Monterrey, a shock result that should have launched a run. Instead, defeat to Poland and a 3–1 collapse against Morocco sent Portugal home after the group stage, undone as much by a bitter pay dispute among the squad — dubbed the 'Saltillo Affair' — as by anything that happened on the pitch."
+            }
+          ]
+        }
+      }
+    },
+    "2002": {
+      "result": "Group Stage",
+      "headline": "Golden Generation's Rude Exit",
+      "homeColors": "red shirt, green shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "2–3",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "4–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "0–1",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "GOLDEN GENERATION'S RUDE EXIT",
+              "story": "Portugal's celebrated generation of Figo, Rui Costa, and Pauleta arrived as dark horses and left after the group stage. A 3–2 loss to the United States set the tone; Pauleta's hat-trick demolished Poland 4–0, but a 1–0 defeat to co-hosts South Korea confirmed a shock early flight home for a team many expected to challenge for the title."
+            }
+          ]
+        }
+      }
+    },
+    "2006": {
+      "result": "4th Place",
+      "headline": "Penalties, Then Fourth Place",
+      "homeColors": "red shirt, green shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Angola",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Iran",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Netherlands",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "England",
+          "score": "0–0 (3–1 pens)",
+          "result": "D"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "France",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "3rd Place",
+          "opponent": "Germany",
+          "score": "1–3",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": "https://commons.wikimedia.org/wiki/File:WM06_Portugal-France_Penalty.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "Portugal vs France, 2006 semi-final — CC BY 2.0 / Wikimedia Commons"
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "PENALTIES, THEN FOURTH PLACE",
+              "story": "Portugal ground through the group, then beat the Netherlands in the brutal 'Battle of Nuremberg' and outlasted England on penalties in the quarter-final after Wayne Rooney's red card. Zinedine Zidane's spot-kick ended the run in the semi-final, and Germany beat a deflated Portugal 3–1 in the third-place game — Luís Figo's final match in a Portugal shirt."
+            }
+          ]
+        }
+      }
+    },
+    "2010": {
+      "result": "Round of 16",
+      "headline": "Seven Goals, Then Silence",
+      "homeColors": "red shirt, green shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Ivory Coast",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "North Korea",
+          "score": "7–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Spain",
+          "score": "0–1",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "SEVEN GOALS, THEN SILENCE",
+              "story": "Portugal needed a statement and got one, thrashing North Korea 7–0 with Ronaldo, Simão, and Tiago among the scorers — still the country's biggest World Cup win. Scoreless draws with Ivory Coast and Brazil were forgettable, and a David Villa goal sent Spain, the eventual champions, past Portugal in the round of 16."
+            }
+          ]
+        }
+      }
+    },
+    "2014": {
+      "result": "Group Stage",
+      "headline": "Ronaldo Alone Against Germany",
+      "homeColors": "red shirt, green shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "0–4",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "2–2",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ghana",
+          "score": "2–1",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "RONALDO ALONE AGAINST GERMANY",
+              "story": "A knee injury left Cristiano Ronaldo a shadow of himself as Germany humiliated Portugal 4–0 in the opener, Thomas Müller scoring a hat-trick. Nani and Silvestre Varela salvaged a wild 2–2 draw with the United States, and Ronaldo's late assist beat Ghana 2–1, but the damage from Salvador had already sealed the group-stage exit."
+            }
+          ]
+        }
+      }
+    },
+    "2018": {
+      "result": "Round of 16",
+      "headline": "Ronaldo's Hat-Trick Overture",
+      "homeColors": "red shirt, green shorts",
+      "awayColors": "white shirt with green compass-point print, white shorts",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "3–3",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Iran",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Uruguay",
+          "score": "1–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "RONALDO'S HAT-TRICK OVERTURE",
+              "story": "Cristiano Ronaldo scored a stunning hat-trick, including a stoppage-time free-kick, to salvage a 3–3 draw with Spain on the tournament's opening day. Portugal held on through Morocco and Iran to reach the knockout stage, but Edinson Cavani's brace sent Uruguay through 2–1 in the round of 16, ending Ronaldo's fourth World Cup."
+            }
+          ]
+        }
+      }
+    },
+    "2022": {
+      "result": "Quarter-final",
+      "headline": "Switzerland Demolished, Then Morocco",
+      "homeColors": "red shirt with diagonal green flag graphic, green shorts",
+      "awayColors": "off-white shirt with navy and red block design",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Ghana",
+          "score": "3–2",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Switzerland",
+          "score": "6–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Morocco",
+          "score": "0–1",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "SWITZERLAND DEMOLISHED, THEN MOROCCO",
+              "story": "Gonçalo Ramos, not Cristiano Ronaldo, started the round of 16 and scored a hat-trick in a 6–1 rout of Switzerland — the boldest team selection of the tournament. But Morocco's Youssef En-Nesyri headed in the only goal of the quarter-final, ending Ronaldo's night as a substitute and Portugal's tournament in tears."
+            }
+          ]
+        }
+      }
+    }
+  }
 };

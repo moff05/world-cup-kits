@@ -1,0 +1,148 @@
+{
+  "id": "bulgaria",
+  "name": "Bulgaria",
+  "flagCode": "bg",
+  "confederation": "UEFA",
+  "worldCups": [1962, 1966, 1970, 1974, 1986, 1994, 1998],
+  "bestResult": "4th Place (1994)",
+
+  "stats": {
+    "matches": 26,
+    "wins": 3,
+    "draws": 8,
+    "losses": 15,
+    "goalsFor": 22,
+    "goalsAgainst": 53
+  },
+
+  "facts": [
+    {
+      "id": "trikolyorite",
+      "label": "BORN FROM THE FLAG",
+      "story": "Bulgaria's white shirt, green shorts, and red socks trace directly to the national flag, giving the team its second nickname — Trikolyorite, the Tricolors — alongside 'The Lions,' a nod to the beasts guarding the national coat of arms. The federation ran its own kit production until 1974, when Adidas took over: a partnership that lasted twenty years, through the golden generation's 1994 run, before Puma became supplier in 1995, with the tricolor identity carried into the new era."
+    },
+    {
+      "id": "five-cups-zero-wins",
+      "label": "FIVE CUPS, ZERO WINS",
+      "story": "Bulgaria reached five World Cups — 1962, 1966, 1970, 1974, and 1986 — without winning a single match, drawing six and losing ten across sixteen games. The breakthrough finally came in 1994, sparked by Emil Kostadinov's stoppage-time strike in Paris that eliminated France from qualifying. Once at the tournament, Bulgaria beat Greece and Argentina before knocking out Germany, turning two decades of World Cup futility into a run to the semi-finals."
+    }
+  ],
+
+  "kits": {
+    "1962": {
+      "result": "Group Stage",
+      "headline": "No Wins in Chile",
+      "annotations": [],
+      "homeColors": "white shirt, green shorts, red socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Argentina", "score": "0–1", "result": "L" },
+        { "round": "Group Stage", "opponent": "Hungary", "score": "1–6", "result": "L" },
+        { "round": "Group Stage", "opponent": "England", "score": "0–0", "result": "D" }
+      ]
+    },
+    "1966": {
+      "result": "Group Stage",
+      "headline": "Three Games, Three Losses",
+      "annotations": [],
+      "homeColors": "white shirt, green shorts, red socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Brazil", "score": "0–2", "result": "L" },
+        { "round": "Group Stage", "opponent": "Portugal", "score": "0–3", "result": "L" },
+        { "round": "Group Stage", "opponent": "Hungary", "score": "1–3", "result": "L" }
+      ]
+    },
+    "1970": {
+      "result": "Group Stage",
+      "headline": "Winless Again in León",
+      "annotations": [],
+      "homeColors": "white shirt, green shorts, red socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Peru", "score": "2–3", "result": "L" },
+        { "round": "Group Stage", "opponent": "West Germany", "score": "2–5", "result": "L" },
+        { "round": "Group Stage", "opponent": "Morocco", "score": "1–1", "result": "D" }
+      ]
+    },
+    "1974": {
+      "result": "Group Stage",
+      "headline": "Two Draws, One Exit",
+      "annotations": [],
+      "homeColors": "white shirt, green shorts, red socks",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Sweden", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Uruguay", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "Netherlands", "score": "1–4", "result": "L" }
+      ]
+    },
+    "1986": {
+      "result": "Round of 16",
+      "headline": "Advancing Without a Win",
+      "annotations": [
+        {
+          "id": "no-wins-still-through",
+          "label": "THROUGH WITHOUT A WIN",
+          "story": "Two draws and a defeat to Argentina left Bulgaria third in their group without a single win, but a favorable record among third-placed teams pushed them into the knockout round anyway. Bulgaria and Uruguay became the first nations in World Cup history to reach the second round without winning a group match."
+        }
+      ],
+      "homeColors": "white shirt, green shorts, red socks (Adidas)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Italy", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "South Korea", "score": "1–1", "result": "D" },
+        { "round": "Group Stage", "opponent": "Argentina", "score": "0–2", "result": "L" },
+        { "round": "Round of 16", "opponent": "Mexico", "score": "0–2", "result": "L" }
+      ]
+    },
+    "1994": {
+      "result": "4th Place",
+      "headline": "Golden Generation's Historic Run",
+      "annotations": [
+        {
+          "id": "letchkov-header-stuns-germany",
+          "label": "LETCHKOV'S HEADER STUNS GERMANY",
+          "story": "Down 1–0 to reigning champions Germany after a Lothar Matthäus penalty, Hristo Stoichkov leveled with a 75th-minute free kick before Yordan Letchkov rose for a diving header three minutes later to complete the upset. Sofia's streets filled with celebrating fans that night — the biggest win in Bulgarian football history."
+        }
+      ],
+      "homeColors": "white shirt with green diagonal side stripes, green shorts, red trim (Adidas)",
+      "awayColors": "red shirt (Adidas)",
+      "image": "https://commons.wikimedia.org/wiki/File:World_Cup_1994_-_Bulgaria_v_Germany_-_Stoichkov_has_scored_in_75th_minute.jpg",
+      "imageCredit": { "player": "Hristo Stoichkov", "game": "Bulgaria vs Germany, 1994 World Cup quarter-final — Wikimedia Commons" },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Nigeria", "score": "0–3", "result": "L" },
+        { "round": "Group Stage", "opponent": "Greece", "score": "4–0", "result": "W" },
+        { "round": "Group Stage", "opponent": "Argentina", "score": "2–0", "result": "W" },
+        { "round": "Round of 16", "opponent": "Mexico", "score": "1–1 (a.e.t.) (3–1 pens)", "result": "D" },
+        { "round": "Quarter-final", "opponent": "Germany", "score": "2–1", "result": "W" },
+        { "round": "Semi-final", "opponent": "Italy", "score": "1–2", "result": "L" },
+        { "round": "3rd Place", "opponent": "Sweden", "score": "0–4", "result": "L" }
+      ]
+    },
+    "1998": {
+      "result": "Group Stage",
+      "headline": "Second Straight Loss to Nigeria",
+      "annotations": [],
+      "homeColors": "white shirt, green shorts, red socks (Puma)",
+      "awayColors": null,
+      "image": null,
+      "imageCredit": { "player": null, "game": null },
+      "matches": [
+        { "round": "Group Stage", "opponent": "Paraguay", "score": "0–0", "result": "D" },
+        { "round": "Group Stage", "opponent": "Nigeria", "score": "0–1", "result": "L" },
+        { "round": "Group Stage", "opponent": "Spain", "score": "1–6", "result": "L" }
+      ]
+    }
+  }
+}

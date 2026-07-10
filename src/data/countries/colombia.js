@@ -9,23 +9,301 @@ export const colombia = {
     1994,
     1998,
     2014,
-    2018,
-    2026
+    2018
+  ],
+  "bestResult": "Quarter-finalists (2014)",
+  "stats": {
+    "matches": 22,
+    "wins": 9,
+    "draws": 3,
+    "losses": 10,
+    "goalsFor": 32,
+    "goalsAgainst": 30
+  },
+  "facts": [
+    {
+      "id": "los-cafeteros-yellow",
+      "label": "THE COFFEE GROWERS' YELLOW",
+      "story": "Colombia's yellow shirt is inseparable from its nickname, Los Cafeteros — the Coffee Growers — a nod to the country's signature export and the golden hills of its coffee region. The color has anchored the kit through every supplier change, from Adidas to Umbro to Reebok to Lotto, interrupted only once, when the team wore all-white for the 2016 Copa América Centenario before reverting to yellow and navy for good."
+    },
+    {
+      "id": "first-red-kit-2014",
+      "label": "THE FIRST RED KIT",
+      "story": "For decades Colombia's alternate color was simply navy blue, until Adidas introduced a bright red away kit for the 2014 World Cup in Brazil. James Rodríguez and company barely needed it during that tournament's group stage, but the shirt became inseparable from Colombia's best-ever World Cup run — a quarter-final finish that made the red kit an instant fan favorite despite its brief history."
+    }
   ],
   "kits": {
-    "2026": {
-      "headline": "Mariposa de Oro",
+    "1962": {
+      "result": "Group Stage",
+      "headline": "Yashin Beaten, Still Eliminated",
+      "homeColors": "yellow shirt, blue shorts, red socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Soviet Union",
+          "score": "4–4",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Yugoslavia",
+          "score": "0–5",
+          "result": "L"
+        }
+      ],
       "kits": {
         "home": {
           "image": null,
-          "imageCredit": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
           "annotations": [
             {
-              "id": "butterfly",
-              "x": 48,
-              "y": 42,
-              "label": "The Butterfly Print",
-              "story": "Colombia has more butterfly species than any country on Earth — over 3,500. Adidas wove a subtle butterfly motif across the entire fabric of the home shirt. It's invisible from the stands but transforms the yellow into something ecological rather than just national."
+              "id": "story",
+              "label": "YASHIN BEATEN, STILL ELIMINATED",
+              "story": "In one of the biggest shocks of the 1962 tournament, Colombia clawed back from three goals down to draw 4–4 with reigning European champions Soviet Union, Marcos Coll scoring an Olympic goal — direct from a corner — past the legendary Lev Yashin. A loss to Uruguay and a 5–0 defeat by Yugoslavia sent Colombia home after their World Cup debut anyway."
+            }
+          ]
+        }
+      }
+    },
+    "1990": {
+      "result": "Round of 16",
+      "headline": "Higuita's Gamble Costs Colombia",
+      "homeColors": "yellow shirt with navy trim, navy shorts",
+      "awayColors": "navy shirt",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "United Arab Emirates",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Yugoslavia",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Cameroon",
+          "score": "1–2 (a.e.t.)",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "HIGUITA'S GAMBLE COSTS COLOMBIA",
+              "story": "Freddy Rincón's late equalizer against West Germany sent Colombia through to the knockouts for the first time, but eccentric goalkeeper René Higuita's love of dribbling backfired in the Round of 16: Roger Milla robbed him near the box and scored twice in extra time, sending Cameroon through 2–1."
+            }
+          ]
+        }
+      }
+    },
+    "1994": {
+      "result": "Group Stage",
+      "headline": "Escobar's Own Goal, Then Tragedy",
+      "homeColors": "yellow shirt, navy shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Romania",
+          "score": "1–3",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "2–0",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "ESCOBAR'S OWN GOAL, THEN TRAGEDY",
+              "story": "Billed as dark-horse title contenders after a 5–0 demolition of Argentina in qualifying, Colombia collapsed instead — Andrés Escobar's own goal sank them against the United States, and early elimination followed. Ten days later, Escobar was shot dead in Medellín, a tragedy that overshadowed the entire tournament."
+            }
+          ]
+        }
+      }
+    },
+    "1998": {
+      "result": "Group Stage",
+      "headline": "Third Straight Group Exit",
+      "homeColors": "yellow shirt, navy shorts",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Romania",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Tunisia",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "THIRD STRAIGHT GROUP EXIT",
+              "story": "Léider Preciado's late strike beat Tunisia, but losses to Romania and England either side of it meant Colombia finished bottom of their group for a third World Cup running, extending a pattern of first-round exits stretching back to their debut."
+            }
+          ]
+        }
+      }
+    },
+    "2014": {
+      "result": "Quarter-final",
+      "headline": "James Arrives, Debut Quarter-Final",
+      "homeColors": "yellow shirt, navy shorts (Adidas)",
+      "awayColors": "red shirt, navy shorts — Colombia's first-ever red kit (Adidas)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Greece",
+          "score": "3–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ivory Coast",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "4–1",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Uruguay",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Brazil",
+          "score": "1–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "JAMES ARRIVES, DEBUT QUARTER-FINAL",
+              "story": "James Rodríguez scored in every match and won the Golden Boot, highlighted by a chest-and-volley strike against Uruguay that later won the Puskás Award. Colombia reached the quarter-finals for the first time in history before Brazil's Thiago Silva and David Luiz ended the run 2–1 in Fortaleza."
+            }
+          ]
+        }
+      }
+    },
+    "2018": {
+      "result": "Round of 16",
+      "headline": "Mina's Header, Penalty Heartbreak",
+      "homeColors": "yellow shirt, navy shorts (Adidas)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "3–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Senegal",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "England",
+          "score": "1–1 (a.e.t.) (3–4 pens)",
+          "result": "D"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "MINA'S HEADER, PENALTY HEARTBREAK",
+              "story": "Carlos Sánchez's third-minute red card and penalty gift put Colombia behind Japan before they recovered to beat Poland and Senegal and reach the knockouts. Yerry Mina's stoppage-time header forced extra time against England, but Eric Dier converted the decisive penalty as Colombia lost their first World Cup shootout."
             }
           ]
         }

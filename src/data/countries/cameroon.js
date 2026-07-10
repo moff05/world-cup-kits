@@ -1,10 +1,387 @@
 export const cameroon = {
-  id: "cameroon",
-  name: "Cameroon",
-  flagCode: "cm",
-  confederation: "CAF",
-  worldCups: [1982,1990,1994,1998,2002,2010,2014,2022],
-  bestResult: "Quarter-final",
-  facts: [],
-  kits: {},
+  "id": "cameroon",
+  "name": "Cameroon",
+  "flagCode": "cm",
+  "confederation": "CAF",
+  "worldCups": [
+    1982,
+    1990,
+    1994,
+    1998,
+    2002,
+    2010,
+    2014,
+    2022
+  ],
+  "bestResult": "Quarter-finalists (1990)",
+  "stats": {
+    "matches": 26,
+    "wins": 5,
+    "draws": 8,
+    "losses": 13,
+    "goalsFor": 22,
+    "goalsAgainst": 47
+  },
+  "facts": [
+    {
+      "id": "the-sleeveless-lions",
+      "label": "THE SLEEVELESS LIONS",
+      "story": "Puma dressed Cameroon in a bold sleeveless shirt for the 2002 Africa Cup of Nations, which they won for a fourth time. FIFA ruled the design illegal for the World Cup that followed months later, so black sleeves were stitched onto the green shirts to make them legal. Two years after that, Puma tried a one-piece kit; FIFA fined Cameroon and docked six qualifying points before a court fight forced a return to two-piece kits, and the points were eventually restored."
+    },
+    {
+      "id": "colors-of-the-flag",
+      "label": "COLORS OF THE FLAG",
+      "story": "Cameroon's green shirts, red shorts, and yellow socks are no accident — they're lifted straight from the national flag, a rare case of a kit doubling as a flag on the pitch. That look was already fixed by the time Roger Milla turned it into theater, dancing at the corner flag after scoring against Argentina and Romania in 1990, at age 38, turning a World Cup celebration into one of the tournament's most replayed images."
+    }
+  ],
+  "kits": {
+    "1982": {
+      "result": "Group Stage",
+      "headline": "Three Draws, No Way Through",
+      "homeColors": "green shirt, red shorts, yellow socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Peru",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "1–1",
+          "result": "D"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "THREE DRAWS, NO WAY THROUGH",
+              "story": "Cameroon's World Cup debut produced scoreless stalemates against Peru and Poland before Grégoire M'Bida finally broke through against Italy, hooking home the country's first-ever World Cup goal a minute after conceding. Three draws were somehow not enough — Cameroon went out on goals scored, undefeated and eliminated."
+            }
+          ]
+        }
+      }
+    },
+    "1990": {
+      "result": "Quarter-final",
+      "headline": "Milla's Dance, Argentina Stunned",
+      "homeColors": "green shirt, red shorts, yellow socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Romania",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Soviet Union",
+          "score": "0–4",
+          "result": "L"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Colombia",
+          "score": "2–1 (a.e.t.)",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "England",
+          "score": "2–3 (a.e.t.)",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "MILLA'S DANCE, ARGENTINA STUNNED",
+              "story": "Opening the tournament as rank outsiders, Cameroon shocked defending champions Argentina 1–0 on François Omam-Biyik's looping header, then 38-year-old Roger Milla came off the bench to score against Romania and again in a wild extra-time win over Colombia. England finally ended the run 3–2 in the quarter-finals, but Africa had its first World Cup semi-final near-miss."
+            }
+          ]
+        }
+      }
+    },
+    "1994": {
+      "result": "Group Stage",
+      "headline": "Milla's Record, Then a Rout",
+      "homeColors": "green shirt, red shorts, yellow socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "2–2",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–3",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Russia",
+          "score": "1–6",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "MILLA'S RECORD, THEN A ROUT",
+              "story": "At 42, Roger Milla became the oldest scorer in World Cup history with a goal against Russia, but it barely mattered — Cameroon shipped six goals in that match and three more against Brazil, finishing without a win. A draw with Sweden was the campaign's only point, a dismal follow-up to the heroics of four years earlier."
+            }
+          ]
+        }
+      }
+    },
+    "1998": {
+      "result": "Group Stage",
+      "headline": "Two Draws, No Wins",
+      "homeColors": "green shirt, red shorts, yellow socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Austria",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "0–3",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "1–1",
+          "result": "D"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "TWO DRAWS, NO WINS",
+              "story": "Pierre Njanka's late strike salvaged a draw with Austria and Patrick M'Boma leveled against Chile, but a 3–0 loss to Italy in between left Cameroon winless and out after the group stage, a quiet finish for the reigning African champions."
+            }
+          ]
+        }
+      }
+    },
+    "2002": {
+      "result": "Group Stage",
+      "headline": "Sleeves Added, Still Eliminated",
+      "homeColors": "green shirt with black sleeves added to satisfy FIFA rules, red shorts, yellow socks (Puma)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Republic of Ireland",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "0–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "SLEEVES ADDED, STILL ELIMINATED",
+              "story": "Fresh off winning the Africa Cup of Nations in a sleeveless shirt FIFA had just outlawed, Cameroon wore the same design with black sleeves stitched on and beat Saudi Arabia, but a draw with Ireland and a loss to eventual finalists Germany sent them out in the group stage."
+            }
+          ]
+        }
+      }
+    },
+    "2010": {
+      "result": "Group Stage",
+      "headline": "First Team Eliminated",
+      "homeColors": "green shirt, red shorts, yellow socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Denmark",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "1–2",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "FIRST TEAM ELIMINATED",
+              "story": "Samuel Eto'o scored in back-to-back losses to Denmark and the Netherlands, but Cameroon's group-stage collapse — capped by an opening defeat to Japan — made them the first team eliminated from the tournament, a bitter finish for African football's most decorated program."
+            }
+          ]
+        }
+      }
+    },
+    "2014": {
+      "result": "Group Stage",
+      "headline": "Bonus Dispute, Group Exit",
+      "homeColors": "green shirt, red shorts, yellow socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Croatia",
+          "score": "0–4",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "1–4",
+          "result": "L"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "BONUS DISPUTE, GROUP EXIT",
+              "story": "A dispute over unpaid bonuses nearly derailed the campaign before it started, and results followed suit: Mexico and Croatia both beat Cameroon comfortably, and a 4–1 loss to Brazil in which Joël Matip's late goal was a lone footnote closed out a group-stage exit with nothing to show for it."
+            }
+          ]
+        }
+      }
+    },
+    "2022": {
+      "result": "Group Stage",
+      "headline": "First African Win Over Brazil",
+      "homeColors": "green shirt, red shorts, yellow socks (Puma)",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Serbia",
+          "score": "3–3",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "1–0",
+          "result": "W"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "story",
+              "label": "FIRST AFRICAN WIN OVER BRAZIL",
+              "story": "Vincent Aboubakar's stoppage-time header beat Brazil 1–0, making Cameroon the first African team ever to defeat the five-time champions at a World Cup — then got him sent off for peeling off his shirt in celebration. A wild 3–3 draw with Serbia and a loss to Switzerland meant the historic win came too late to advance."
+            }
+          ]
+        }
+      }
+    }
+  }
 };

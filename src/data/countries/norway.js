@@ -1,10 +1,162 @@
 export const norway = {
-  id: "norway",
-  name: "Norway",
-  flagCode: "no",
-  confederation: "UEFA",
-  worldCups: [1938,1994,1998],
-  bestResult: "Round of 16",
-  facts: [],
-  kits: {},
+  "id": "norway",
+  "name": "Norway",
+  "flagCode": "no",
+  "confederation": "UEFA",
+  "worldCups": [
+    1938,
+    1994,
+    1998
+  ],
+  "bestResult": "Round of 16 (1938, 1998)",
+  "stats": {
+    "matches": 8,
+    "wins": 2,
+    "draws": 3,
+    "losses": 3,
+    "goalsFor": 7,
+    "goalsAgainst": 8
+  },
+  "facts": [
+    {
+      "id": "reeps-disciple",
+      "label": "THE DATA-DRIVEN COMEBACK",
+      "story": "Norway went 56 years between World Cups, missing every tournament from 1938 to 1990. Manager Egil Olsen ended the drought by building his side on the goal-scoring research of English statistician Charles Reep, favoring long direct passes, a compact defense and rapid counter-attacks over patient buildup. The unglamorous approach carried unfancied Norway to back-to-back World Cups in 1994 and 1998 and briefly to second in FIFA's world rankings."
+    },
+    {
+      "id": "speckled-shirt-1998",
+      "label": "THE SPECKLED SHIRT THAT BEAT BRAZIL",
+      "story": "Norway's traditional look is a plain red shirt, but at France '98 Umbro dressed the team in an away kit scattered with a blue-and-white speckled pattern unlike anything else at the tournament. Norway wore it to force a stoppage-time penalty against Brazil and beat the reigning champions 2–1, and the shirt has stayed a cult favorite among collectors ever since, tied permanently to that single result."
+    }
+  ],
+  "kits": {
+    "1938": {
+      "result": "Round of 16",
+      "headline": "Extra-Time Exit to Italy",
+      "homeColors": "red shirt, white shorts, blue socks",
+      "awayColors": null,
+      "matches": [
+        {
+          "round": "Round of 16",
+          "opponent": "Italy",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Brustad"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "brustad-vs-eventual-champions",
+              "label": "ONE GOAL, NO SECOND CHANCE",
+              "story": "In the tournament's single-elimination first round, Arne Brustad's goal forced extra time against Italy in Marseille, but the eventual champions found two more to win 2–1. It was Norway's only World Cup match for the next 56 years."
+            }
+          ]
+        }
+      }
+    },
+    "1994": {
+      "result": "Group Stage",
+      "headline": "Four Teams Level, Norway Out",
+      "homeColors": "red shirt with white and blue Adidas trim, white shorts",
+      "awayColors": "white shirt with red and blue Adidas trim",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Rekdal"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Republic of Ireland",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "four-way-tie-goals-scored",
+              "label": "OUT ON A TECHNICALITY",
+              "story": "Norway beat Mexico, lost to Italy, and drew with the Republic of Ireland — and finished with the exact same points and goal difference as all three other teams in the group. Norway went out purely on having scored the fewest goals, one of the tightest group-stage eliminations in World Cup history."
+            }
+          ]
+        }
+      }
+    },
+    "1998": {
+      "result": "Round of 16",
+      "headline": "Rekdal's Penalty Shocks Brazil",
+      "homeColors": "red shirt (Umbro), white shorts",
+      "awayColors": "white shirt with blue-and-white speckled pattern (Umbro)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Chippo OG, Eggen"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "H. Flo"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "T.A. Flo, Rekdal"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Italy",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "rekdal-penalty-brazil",
+              "label": "A PENALTY FOR THE AGES",
+              "story": "Trailing Brazil and needing a win to advance, Norway got two second-half goals from Tore André Flo and a stoppage-time penalty from Kjetil Rekdal to complete a 2–1 comeback over the reigning champions in Marseille, sending Norway through to the round of 16 instead of Brazil's group rivals."
+            }
+          ]
+        }
+      }
+    }
+  }
 };
