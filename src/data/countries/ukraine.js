@@ -46,14 +46,14 @@ export const ukraine = {
           "opponent": "Saudi Arabia",
           "score": "4–0",
           "result": "W",
-          "scorers": "Rusol 4'', Rebrov 36'', Shevchenko 46'', Kalynychenko 84''"
+          "scorers": "Rusol 4', Rebrov 36', Shevchenko 46', Kalynychenko 84'"
         },
         {
           "round": "Group Stage",
           "opponent": "Tunisia",
           "score": "1–0",
           "result": "W",
-          "scorers": "Shevchenko 70''"
+          "scorers": "Shevchenko 70'"
         },
         {
           "round": "Round of 16",
@@ -63,7 +63,7 @@ export const ukraine = {
           "scorers": null
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Italy",
           "score": "0–3",
           "result": "L",
