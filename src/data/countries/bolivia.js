@@ -118,7 +118,7 @@ export const bolivia = {
           "opponent": "Spain",
           "score": "1–3",
           "result": "L",
-          "scorers": "Sánchez 67''"
+          "scorers": "Sánchez 67'"
         }
       ],
       "kits": {
