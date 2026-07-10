@@ -55,31 +55,36 @@ export const argentina = {
           "round": "Group Stage",
           "opponent": "France",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Monti 81''"
         },
         {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "6–3",
-          "result": "W"
+          "result": "W",
+          "scorers": "Stábile 8'', Zumelzú 12'', Stábile 17'', Varallo 53'', Zumelzú 55'', Stábile 80''"
         },
         {
           "round": "Group Stage",
           "opponent": "Chile",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Stábile 12'', Stábile 13'', Evaristo 51''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "United States",
           "score": "6–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Monti 20'', Scopelli 56'', Stábile 69'', Peucelle 80'', Peucelle 85'', Stábile 87''"
         },
         {
           "round": "Final",
           "opponent": "Uruguay",
           "score": "2–4",
-          "result": "L"
+          "result": "L",
+          "scorers": "Peucelle 20'', Stábile 37''"
         }
       ],
       "kits": {
@@ -109,7 +114,8 @@ export const argentina = {
           "round": "Round of 16",
           "opponent": "Sweden",
           "score": "2–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Belis 4'', Galateo 48''"
         }
       ],
       "kits": {
@@ -139,19 +145,22 @@ export const argentina = {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Corbatta 3''"
         },
         {
           "round": "Group Stage",
           "opponent": "Northern Ireland",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Corbatta 37'', Menéndez 56'', Avio 60''"
         },
         {
           "round": "Group Stage",
           "opponent": "Czechoslovakia",
           "score": "1–6",
-          "result": "L"
+          "result": "L",
+          "scorers": "Corbatta 65''"
         }
       ],
       "kits": {
@@ -181,19 +190,22 @@ export const argentina = {
           "round": "Group Stage",
           "opponent": "Bulgaria",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Facundo 4''"
         },
         {
           "round": "Group Stage",
           "opponent": "England",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Sanfilippo 81''"
         },
         {
           "round": "Group Stage",
           "opponent": "Hungary",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         }
       ],
       "kits": {
@@ -223,25 +235,29 @@ export const argentina = {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Artime 65'', Artime 77''"
         },
         {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Switzerland",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Artime 52'', Onega 79''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "England",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -271,37 +287,43 @@ export const argentina = {
           "round": "Group Stage",
           "opponent": "Poland",
           "score": "2–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Heredia 60'', Babington 66''"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Houseman 20''"
         },
         {
           "round": "Group Stage",
           "opponent": "Haiti",
           "score": "4–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Yazalde 15'', Houseman 18'', Ayala 55'', Yazalde 68''"
         },
         {
           "round": "2nd Round",
           "opponent": "Netherlands",
           "score": "0–4",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "2nd Round",
           "opponent": "Brazil",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Brindisi 35''"
         },
         {
           "round": "2nd Round",
           "opponent": "East Germany",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Houseman 20''"
         }
       ],
       "kits": {
@@ -331,43 +353,50 @@ export const argentina = {
           "round": "Group Stage",
           "opponent": "Hungary",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Luque 14'', Bertoni 83''"
         },
         {
           "round": "Group Stage",
           "opponent": "France",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Passarella 45'', Luque 73''"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "2nd Round",
           "opponent": "Poland",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Kempes 16'', Kempes 71''"
         },
         {
           "round": "2nd Round",
           "opponent": "Brazil",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "2nd Round",
           "opponent": "Peru",
           "score": "6–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Kempes 21'', Tarantini 43'', Kempes 49'', Luque 50'', Houseman 67'', Luque 72''"
         },
         {
           "round": "Final",
           "opponent": "Netherlands",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Kempes 38'', Kempes 105'', Bertoni 115''"
         }
       ],
       "kits": {
@@ -397,31 +426,36 @@ export const argentina = {
           "round": "Group Stage",
           "opponent": "Belgium",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Hungary",
           "score": "4–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Bertoni 26'', Maradona 28'', Maradona 57'', Ardiles 60''"
         },
         {
           "round": "Group Stage",
           "opponent": "El Salvador",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Passarella 22'', Bertoni 54''"
         },
         {
           "round": "2nd Round",
           "opponent": "Italy",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Passarella 83''"
         },
         {
           "round": "2nd Round",
           "opponent": "Brazil",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Díaz 89''"
         }
       ],
       "kits": {
@@ -451,43 +485,50 @@ export const argentina = {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Valdano 6'', Ruggeri 18'', Valdano 46''"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Maradona 34''"
         },
         {
           "round": "Group Stage",
           "opponent": "Bulgaria",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Valdano 4'', Burruchaga 77''"
         },
         {
           "round": "Round of 16",
           "opponent": "Uruguay",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Pasculli 42''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "England",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Maradona 51'', Maradona 55''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Belgium",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Maradona 51'', Maradona 63''"
         },
         {
           "round": "Final",
           "opponent": "West Germany",
           "score": "3–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Brown 23'', Valdano 56'', Burruchaga 84''"
         }
       ],
       "kits": {
@@ -517,43 +558,50 @@ export const argentina = {
           "round": "Group Stage",
           "opponent": "Cameroon",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Soviet Union",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Troglio 27'', Burruchaga 79''"
         },
         {
           "round": "Group Stage",
           "opponent": "Romania",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Monzón 62''"
         },
         {
           "round": "Round of 16",
           "opponent": "Brazil",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Caniggia 81''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Yugoslavia",
           "score": "0–0 (3–2 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Italy",
           "score": "1–1 (4–3 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": "Caniggia 67''"
         },
         {
           "round": "Final",
           "opponent": "West Germany",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -583,25 +631,29 @@ export const argentina = {
           "round": "Group Stage",
           "opponent": "Greece",
           "score": "4–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Batistuta 2'', Batistuta 44'', Maradona 60'', Batistuta 90''"
         },
         {
           "round": "Group Stage",
           "opponent": "Nigeria",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Caniggia 21'', Caniggia 28''"
         },
         {
           "round": "Group Stage",
           "opponent": "Bulgaria",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Round of 16",
           "opponent": "Romania",
           "score": "2–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Batistuta 16'', Balbo 75''"
         }
       ],
       "kits": {
@@ -631,31 +683,36 @@ export const argentina = {
           "round": "Group Stage",
           "opponent": "Japan",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Batistuta 28''"
         },
         {
           "round": "Group Stage",
           "opponent": "Jamaica",
           "score": "5–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Ortega 31'', Ortega 55'', Batistuta 73'', Batistuta 78'', Batistuta 83''"
         },
         {
           "round": "Group Stage",
           "opponent": "Croatia",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Pineda 36''"
         },
         {
           "round": "Round of 16",
           "opponent": "England",
           "score": "2–2 (4–3 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": "Batistuta 5'', Zanetti 45'+1''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Netherlands",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "López 17''"
         }
       ],
       "kits": {
@@ -685,19 +742,22 @@ export const argentina = {
           "round": "Group Stage",
           "opponent": "Nigeria",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Batistuta 63''"
         },
         {
           "round": "Group Stage",
           "opponent": "England",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Sweden",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Crespo 88''"
         }
       ],
       "kits": {
@@ -727,31 +787,36 @@ export const argentina = {
           "round": "Group Stage",
           "opponent": "Ivory Coast",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Crespo 24'', Saviola 38''"
         },
         {
           "round": "Group Stage",
           "opponent": "Serbia and Montenegro",
           "score": "6–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Rodríguez 6'', Cambiasso 31'', Rodríguez 41'', Crespo 78'', Tevez 84'', Messi 88''"
         },
         {
           "round": "Group Stage",
           "opponent": "Netherlands",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Round of 16",
           "opponent": "Mexico",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Crespo 10'', Rodríguez 98''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Germany",
           "score": "1–1 (2–4 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": "Ayala 49''"
         }
       ],
       "kits": {
@@ -781,31 +846,36 @@ export const argentina = {
           "round": "Group Stage",
           "opponent": "Nigeria",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Heinze 6''"
         },
         {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "4–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Park OG 17'', Higuaín 33'', Higuaín 76'', Higuaín 80''"
         },
         {
           "round": "Group Stage",
           "opponent": "Greece",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Demichelis 77'', Palermo 89''"
         },
         {
           "round": "Round of 16",
           "opponent": "Mexico",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Tevez 26'', Higuaín 33'', Tevez 52''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Germany",
           "score": "0–4",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -835,43 +905,50 @@ export const argentina = {
           "round": "Group Stage",
           "opponent": "Bosnia and Herzegovina",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Kolašinac OG 3'', Messi 65''"
         },
         {
           "round": "Group Stage",
           "opponent": "Iran",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Messi 90'+1''"
         },
         {
           "round": "Group Stage",
           "opponent": "Nigeria",
           "score": "3–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Messi 3'', Messi 45'+1'', Rojo 50''"
         },
         {
           "round": "Round of 16",
           "opponent": "Switzerland",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Di María 118''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Belgium",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Higuaín 8''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Netherlands",
           "score": "0–0 (4–2 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Final",
           "opponent": "Germany",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -901,25 +978,29 @@ export const argentina = {
           "round": "Group Stage",
           "opponent": "Iceland",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Agüero 19''"
         },
         {
           "round": "Group Stage",
           "opponent": "Croatia",
           "score": "0–3",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Nigeria",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Messi 14'', Rojo 86''"
         },
         {
           "round": "Round of 16",
           "opponent": "France",
           "score": "3–4",
-          "result": "L"
+          "result": "L",
+          "scorers": "Di María 41'', Mercado 48'', Agüero 90'+3''"
         }
       ],
       "kits": {
