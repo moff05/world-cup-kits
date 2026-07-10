@@ -55,7 +55,7 @@ export const mexico = {
           "opponent": "France",
           "score": "1–4",
           "result": "L",
-          "scorers": "Carreño 70''"
+          "scorers": "Carreño 70'"
         },
         {
           "round": "Group Stage",
@@ -69,7 +69,7 @@ export const mexico = {
           "opponent": "Argentina",
           "score": "3–6",
           "result": "L",
-          "scorers": "Rosas 42'', Rosas 65'', Gayón 75''"
+          "scorers": "Rosas 42', Rosas 65', Gayón 75'"
         }
       ],
       "kits": {
@@ -107,14 +107,14 @@ export const mexico = {
           "opponent": "Yugoslavia",
           "score": "1–4",
           "result": "L",
-          "scorers": "Ortiz 89''"
+          "scorers": "Ortiz 89'"
         },
         {
           "round": "Group Stage",
           "opponent": "Switzerland",
           "score": "1–2",
           "result": "L",
-          "scorers": "Casarín 89''"
+          "scorers": "Casarín 89'"
         }
       ],
       "kits": {
@@ -152,7 +152,7 @@ export const mexico = {
           "opponent": "France",
           "score": "2–3",
           "result": "L",
-          "scorers": "Lamadrid 54'', Balcázar 85''"
+          "scorers": "Lamadrid 54', Balcázar 85'"
         }
       ],
       "kits": {
@@ -190,7 +190,7 @@ export const mexico = {
           "opponent": "Wales",
           "score": "1–1",
           "result": "D",
-          "scorers": "Belmonte 89''"
+          "scorers": "Belmonte 89'"
         },
         {
           "round": "Group Stage",
@@ -242,7 +242,7 @@ export const mexico = {
           "opponent": "Czechoslovakia",
           "score": "3–1",
           "result": "W",
-          "scorers": "Díaz 12'', del Águila 29'', Hernández 90''"
+          "scorers": "Díaz 12', del Águila 29', Hernández 90'"
         }
       ],
       "kits": {
@@ -273,7 +273,7 @@ export const mexico = {
           "opponent": "France",
           "score": "1–1",
           "result": "D",
-          "scorers": "Borja 48''"
+          "scorers": "Borja 48'"
         },
         {
           "round": "Group Stage",
@@ -325,21 +325,21 @@ export const mexico = {
           "opponent": "El Salvador",
           "score": "4–0",
           "result": "W",
-          "scorers": "Valdivia 45'', Valdivia 46'', Fragoso 58'', Basaguren 83''"
+          "scorers": "Valdivia 45', Valdivia 46', Fragoso 58', Basaguren 83'"
         },
         {
           "round": "Group Stage",
           "opponent": "Belgium",
           "score": "1–0",
           "result": "W",
-          "scorers": "Peña 14''"
+          "scorers": "Peña 14'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Italy",
           "score": "1–4",
           "result": "L",
-          "scorers": "González 13''"
+          "scorers": "González 13'"
         }
       ],
       "kits": {
@@ -370,7 +370,7 @@ export const mexico = {
           "opponent": "Tunisia",
           "score": "1–3",
           "result": "L",
-          "scorers": "Vázquez Ayala 45''"
+          "scorers": "Vázquez Ayala 45'"
         },
         {
           "round": "Group Stage",
@@ -384,7 +384,7 @@ export const mexico = {
           "opponent": "Poland",
           "score": "1–3",
           "result": "L",
-          "scorers": "Rangel 52''"
+          "scorers": "Rangel 52'"
         }
       ],
       "kits": {
@@ -415,31 +415,31 @@ export const mexico = {
           "opponent": "Belgium",
           "score": "2–1",
           "result": "W",
-          "scorers": "Quirarte 23'', Sánchez 39''"
+          "scorers": "Quirarte 23', Sánchez 39'"
         },
         {
           "round": "Group Stage",
           "opponent": "Paraguay",
           "score": "1–1",
           "result": "D",
-          "scorers": "Flores 3''"
+          "scorers": "Flores 3'"
         },
         {
           "round": "Group Stage",
           "opponent": "Iraq",
           "score": "1–0",
           "result": "W",
-          "scorers": "Quirarte 54''"
+          "scorers": "Quirarte 54'"
         },
         {
           "round": "Round of 16",
           "opponent": "Bulgaria",
           "score": "2–0",
           "result": "W",
-          "scorers": "Negrete 34'', Servín 61''"
+          "scorers": "Negrete 34', Servín 61'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "West Germany",
           "score": "0–0 (1–4 pens)",
           "result": "D",
@@ -481,21 +481,21 @@ export const mexico = {
           "opponent": "Republic of Ireland",
           "score": "2–1",
           "result": "W",
-          "scorers": "García Postigo 42'', García Postigo 65''"
+          "scorers": "García Postigo 42', García Postigo 65'"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "1–1",
           "result": "D",
-          "scorers": "Bernal 57''"
+          "scorers": "Bernal 57'"
         },
         {
           "round": "Round of 16",
           "opponent": "Bulgaria",
           "score": "1–1 (1–3 pens)",
           "result": "D",
-          "scorers": "García Aspe 18''"
+          "scorers": "García Aspe 18'"
         }
       ],
       "kits": {
@@ -526,28 +526,28 @@ export const mexico = {
           "opponent": "South Korea",
           "score": "3–1",
           "result": "W",
-          "scorers": "Peláez 50'', Hernández 75'', Hernández 84''"
+          "scorers": "Peláez 50', Hernández 75', Hernández 84'"
         },
         {
           "round": "Group Stage",
           "opponent": "Belgium",
           "score": "2–2",
           "result": "D",
-          "scorers": "García Aspe 55'', Blanco 62''"
+          "scorers": "García Aspe 55', Blanco 62'"
         },
         {
           "round": "Group Stage",
           "opponent": "Netherlands",
           "score": "2–2",
           "result": "D",
-          "scorers": "Peláez 75'', Hernández 90'+4''"
+          "scorers": "Peláez 75', Hernández 90'+4'"
         },
         {
           "round": "Round of 16",
           "opponent": "Germany",
           "score": "1–2",
           "result": "L",
-          "scorers": "Hernández 47''"
+          "scorers": "Hernández 47'"
         }
       ],
       "kits": {
@@ -578,21 +578,21 @@ export const mexico = {
           "opponent": "Croatia",
           "score": "1–0",
           "result": "W",
-          "scorers": "Blanco 60''"
+          "scorers": "Blanco 60'"
         },
         {
           "round": "Group Stage",
           "opponent": "Ecuador",
           "score": "2–1",
           "result": "W",
-          "scorers": "Borgetti 28'', Torrado 57''"
+          "scorers": "Borgetti 28', Torrado 57'"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "1–1",
           "result": "D",
-          "scorers": "Borgetti 34''"
+          "scorers": "Borgetti 34'"
         },
         {
           "round": "Round of 16",
@@ -630,7 +630,7 @@ export const mexico = {
           "opponent": "Iran",
           "score": "3–1",
           "result": "W",
-          "scorers": "Bravo 28'', Bravo 76'', Sinha 79''"
+          "scorers": "Bravo 28', Bravo 76', Sinha 79'"
         },
         {
           "round": "Group Stage",
@@ -644,14 +644,14 @@ export const mexico = {
           "opponent": "Portugal",
           "score": "1–2",
           "result": "L",
-          "scorers": "Fonseca 29''"
+          "scorers": "Fonseca 29'"
         },
         {
           "round": "Round of 16",
           "opponent": "Argentina",
           "score": "1–2",
           "result": "L",
-          "scorers": "Márquez 6''"
+          "scorers": "Márquez 6'"
         }
       ],
       "kits": {
@@ -682,14 +682,14 @@ export const mexico = {
           "opponent": "South Africa",
           "score": "1–1",
           "result": "D",
-          "scorers": "Márquez 79''"
+          "scorers": "Márquez 79'"
         },
         {
           "round": "Group Stage",
           "opponent": "France",
           "score": "2–0",
           "result": "W",
-          "scorers": "Hernández 64'', Blanco 79''"
+          "scorers": "Hernández 64', Blanco 79'"
         },
         {
           "round": "Group Stage",
@@ -703,7 +703,7 @@ export const mexico = {
           "opponent": "Argentina",
           "score": "1–3",
           "result": "L",
-          "scorers": "Hernández 71''"
+          "scorers": "Hernández 71'"
         }
       ],
       "kits": {
@@ -734,7 +734,7 @@ export const mexico = {
           "opponent": "Cameroon",
           "score": "1–0",
           "result": "W",
-          "scorers": "Peralta 61''"
+          "scorers": "Peralta 61'"
         },
         {
           "round": "Group Stage",
@@ -748,14 +748,14 @@ export const mexico = {
           "opponent": "Croatia",
           "score": "3–1",
           "result": "W",
-          "scorers": "Márquez 72'', Guardado 75'', Hernández 82''"
+          "scorers": "Márquez 72', Guardado 75', Hernández 82'"
         },
         {
           "round": "Round of 16",
           "opponent": "Netherlands",
           "score": "1–2",
           "result": "L",
-          "scorers": "dos Santos 48''"
+          "scorers": "dos Santos 48'"
         }
       ],
       "kits": {
@@ -786,14 +786,14 @@ export const mexico = {
           "opponent": "Germany",
           "score": "1–0",
           "result": "W",
-          "scorers": "Lozano 35''"
+          "scorers": "Lozano 35'"
         },
         {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "2–1",
           "result": "W",
-          "scorers": "Vela 26'', Hernández 66''"
+          "scorers": "Vela 26', Hernández 66'"
         },
         {
           "round": "Group Stage",
