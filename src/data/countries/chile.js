@@ -46,19 +46,22 @@ export const chile = {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "3–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Vidal 3'', Rosas OG 52'', Vidal 65''"
         },
         {
           "round": "Group Stage",
           "opponent": "France",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Subiabre 67''"
         },
         {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Subiabre 15''"
         }
       ],
       "kits": {
@@ -88,19 +91,22 @@ export const chile = {
           "round": "Group Stage",
           "opponent": "England",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "United States",
           "score": "5–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Robledo 16'', Cremaschi 32'', Prieto 54'', Cremaschi 60'', Riera 82''"
         }
       ],
       "kits": {
@@ -130,37 +136,43 @@ export const chile = {
           "round": "Group Stage",
           "opponent": "Switzerland",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Sánchez 44'', Ramírez 51'', Sánchez 55''"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Ramírez 73'', Toro 87''"
         },
         {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Soviet Union",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Sánchez 11'', Rojas 29''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Brazil",
           "score": "2–4",
-          "result": "L"
+          "result": "L",
+          "scorers": "Toro 42'', Sánchez 61''"
         },
         {
-          "round": "3rd Place",
+          "round": "third-place match",
           "opponent": "Yugoslavia",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Rojas 90''"
         }
       ],
       "kits": {
@@ -190,19 +202,22 @@ export const chile = {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "North Korea",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Marcos 26''"
         },
         {
           "round": "Group Stage",
           "opponent": "Soviet Union",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Marcos 32''"
         }
       ],
       "kits": {
@@ -232,19 +247,22 @@ export const chile = {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "East Germany",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Ahumada 69''"
         },
         {
           "round": "Group Stage",
           "opponent": "Australia",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         }
       ],
       "kits": {
@@ -274,19 +292,22 @@ export const chile = {
           "round": "Group Stage",
           "opponent": "Austria",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "1–4",
-          "result": "L"
+          "result": "L",
+          "scorers": "Moscoso 90''"
         },
         {
           "round": "Group Stage",
           "opponent": "Algeria",
           "score": "2–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Neira 59'', Letelier 73''"
         }
       ],
       "kits": {
@@ -316,25 +337,29 @@ export const chile = {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "2–2",
-          "result": "D"
+          "result": "D",
+          "scorers": "Salas 45'+3'', Salas 50''"
         },
         {
           "round": "Group Stage",
           "opponent": "Austria",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Salas 70''"
         },
         {
           "round": "Group Stage",
           "opponent": "Cameroon",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Sierra 20''"
         },
         {
           "round": "Round of 16",
           "opponent": "Brazil",
           "score": "1–4",
-          "result": "L"
+          "result": "L",
+          "scorers": "Salas 70''"
         }
       ],
       "kits": {
@@ -364,25 +389,29 @@ export const chile = {
           "round": "Group Stage",
           "opponent": "Honduras",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Beausejour 34''"
         },
         {
           "round": "Group Stage",
           "opponent": "Switzerland",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "González 75''"
         },
         {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Millar 47''"
         },
         {
           "round": "Round of 16",
           "opponent": "Brazil",
           "score": "0–3",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -412,25 +441,29 @@ export const chile = {
           "round": "Group Stage",
           "opponent": "Australia",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Sánchez 12'', Valdivia 14'', Beausejour 90'+2''"
         },
         {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Vargas 20'', Aránguiz 43''"
         },
         {
           "round": "Group Stage",
           "opponent": "Netherlands",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Round of 16",
           "opponent": "Brazil",
           "score": "1–1 (2–3 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": "Sánchez 32''"
         }
       ],
       "kits": {
