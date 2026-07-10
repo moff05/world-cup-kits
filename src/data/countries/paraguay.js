@@ -53,7 +53,7 @@ export const paraguay = {
           "opponent": "Belgium",
           "score": "1–0",
           "result": "W",
-          "scorers": "Vargas Peña 40''"
+          "scorers": "Vargas Peña 40'"
         }
       ],
       "kits": {
@@ -84,7 +84,7 @@ export const paraguay = {
           "opponent": "Sweden",
           "score": "2–2",
           "result": "D",
-          "scorers": "López 35'', Fretes 74''"
+          "scorers": "López 35', Fretes 74'"
         },
         {
           "round": "Group Stage",
@@ -122,21 +122,21 @@ export const paraguay = {
           "opponent": "France",
           "score": "3–7",
           "result": "L",
-          "scorers": "Amarilla 20'', Amarilla 44'', Romero 50''"
+          "scorers": "Amarilla 20', Amarilla 44', Romero 50'"
         },
         {
           "round": "Group Stage",
           "opponent": "Scotland",
           "score": "3–2",
           "result": "W",
-          "scorers": "Agüero 4'', Ré 45'', Parodi 73''"
+          "scorers": "Agüero 4', Ré 45', Parodi 73'"
         },
         {
           "round": "Group Stage",
           "opponent": "Yugoslavia",
           "score": "3–3",
           "result": "D",
-          "scorers": "Parodi 20'', Agüero 52'', Romero 80''"
+          "scorers": "Parodi 20', Agüero 52', Romero 80'"
         }
       ],
       "kits": {
@@ -167,21 +167,21 @@ export const paraguay = {
           "opponent": "Iraq",
           "score": "1–0",
           "result": "W",
-          "scorers": "Romero 35''"
+          "scorers": "Romero 35'"
         },
         {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "1–1",
           "result": "D",
-          "scorers": "Romero 85''"
+          "scorers": "Romero 85'"
         },
         {
           "round": "Group Stage",
           "opponent": "Belgium",
           "score": "2–2",
           "result": "D",
-          "scorers": "Cabañas 50'', Cabañas 76''"
+          "scorers": "Cabañas 50', Cabañas 76'"
         },
         {
           "round": "Round of 16",
@@ -233,7 +233,7 @@ export const paraguay = {
           "opponent": "Nigeria",
           "score": "3–1",
           "result": "W",
-          "scorers": "Ayala 1'', Benítez 58'', Cardozo 86''"
+          "scorers": "Ayala 1', Benítez 58', Cardozo 86'"
         },
         {
           "round": "Round of 16",
@@ -271,21 +271,21 @@ export const paraguay = {
           "opponent": "South Africa",
           "score": "2–2",
           "result": "D",
-          "scorers": "Santa Cruz 39'', Arce 55''"
+          "scorers": "Santa Cruz 39', Arce 55'"
         },
         {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "1–3",
           "result": "L",
-          "scorers": "Puyol OG 10''"
+          "scorers": "Puyol OG 10'"
         },
         {
           "round": "Group Stage",
           "opponent": "Slovenia",
           "score": "3–1",
           "result": "W",
-          "scorers": "Cuevas 65'', Campos 73'', Cuevas 84''"
+          "scorers": "Cuevas 65', Campos 73', Cuevas 84'"
         },
         {
           "round": "Round of 16",
@@ -337,7 +337,7 @@ export const paraguay = {
           "opponent": "Trinidad and Tobago",
           "score": "2–0",
           "result": "W",
-          "scorers": "Sancho OG 25'', Cuevas 86''"
+          "scorers": "Sancho OG 25', Cuevas 86'"
         }
       ],
       "kits": {
@@ -368,14 +368,14 @@ export const paraguay = {
           "opponent": "Italy",
           "score": "1–1",
           "result": "D",
-          "scorers": "Alcaraz 39''"
+          "scorers": "Alcaraz 39'"
         },
         {
           "round": "Group Stage",
           "opponent": "Slovakia",
           "score": "2–0",
           "result": "W",
-          "scorers": "Vera 27'', Riveros 86''"
+          "scorers": "Vera 27', Riveros 86'"
         },
         {
           "round": "Group Stage",
@@ -392,7 +392,7 @@ export const paraguay = {
           "scorers": null
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Spain",
           "score": "0–1",
           "result": "L",
