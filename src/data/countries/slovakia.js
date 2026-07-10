@@ -74,20 +74,17 @@ export const slovakia = {
             {
               "id": "new-zealand-deny-the-lead",
               "label": "NEW ZEALAND DENY THE LEAD",
-              "story": "Vittek's first-ever World Cup goal for Slovakia arrived in the 50th minute against New Zealand, putting the Slovaks in front in Rustenburg. But the All Whites — already famous underdogs — refused to fold, and Winston Reid's header three minutes into stoppage time snatched a 1–1 draw that shaped the entire group.",
-              "story_wordcount_note": null
+              "story": "Vittek's first-ever World Cup goal for Slovakia arrived in the 50th minute against New Zealand, putting the Slovaks in front in Rustenburg. But the All Whites — already famous underdogs — refused to fold, and Winston Reid's header three minutes into stoppage time snatched a 1–1 draw that shaped the entire group."
             },
             {
               "id": "toppling-the-champions",
               "label": "TOPPLING THE CHAMPIONS",
-              "story": "Vittek struck twice and substitute Kamil Kopúnek added a stunning 89th-minute strike as Slovakia stunned defending champions Italy 3–2 at Ellis Park, eliminating the Azzurri at the group stage for the first time since 1974. It remains the signature result in Slovak football history.",
-              "story_wordcount_note": null
+              "story": "Vittek struck twice and substitute Kamil Kopúnek added a stunning 89th-minute strike as Slovakia stunned defending champions Italy 3–2 at Ellis Park, eliminating the Azzurri at the group stage for the first time since 1974. It remains the signature result in Slovak football history."
             },
             {
               "id": "vitteks-consolation-penalty",
               "label": "VITTEK'S CONSOLATION PENALTY",
-              "story": "Trailing 2–0 deep into stoppage time against the Netherlands, Slovakia won a penalty when goalkeeper Maarten Stekelenburg tripped Róbert Vittek. Vittek converted in the 94th minute for his fourth goal of the tournament — a late strike that closed the book on Slovakia's only World Cup appearance.",
-              "story_wordcount_note": null
+              "story": "Trailing 2–0 deep into stoppage time against the Netherlands, Slovakia won a penalty when goalkeeper Maarten Stekelenburg tripped Róbert Vittek. Vittek converted in the 94th minute for his fourth goal of the tournament — a late strike that closed the book on Slovakia's only World Cup appearance."
             }
           ]
         }
