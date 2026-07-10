@@ -1,10 +1,111 @@
 export const ukraine = {
-  id: "ukraine",
-  name: "Ukraine",
-  flagCode: "ua",
-  confederation: "UEFA",
-  worldCups: [2006,2022],
-  bestResult: "Quarter-final",
-  facts: [],
-  kits: {},
+  "id": "ukraine",
+  "name": "Ukraine",
+  "flagCode": "ua",
+  "confederation": "UEFA",
+  "worldCups": [
+    2006
+  ],
+  "bestResult": "Quarter-finalists (2006)",
+  "stats": {
+    "matches": 5,
+    "wins": 2,
+    "draws": 1,
+    "losses": 2,
+    "goalsFor": 5,
+    "goalsAgainst": 7
+  },
+  "facts": [
+    {
+      "id": "first-flag-first-cup",
+      "label": "A NATION'S FIRST FLAG",
+      "story": "When Ukraine walked out in Germany in 2006, it wasn't just their first World Cup — it was their first appearance at any major tournament as a fully independent nation. Captain Andriy Shevchenko, the reigning Ballon d'Or winner, led a squad whose federation had only been recognized by FIFA in 1992; before that, players from Ukraine had worn the crests of the Soviet Union and a stopgap post-Soviet 'CIS' team instead."
+    },
+    {
+      "id": "yellow-shirts-blue-shorts",
+      "label": "THE COLORS OF THE FLAG",
+      "story": "Ukraine's Lotto-made 2006 kit — a bright yellow shirt with blue trim over blue shorts — mirrored the national flag almost exactly, a look first introduced in the buildup to Euro 1996. It was also one of the earliest World Cup jerseys to carry the full Tryzub trident crest, replacing an earlier, more stylized badge fans had nicknamed the 'pineapple.'"
+    }
+  ],
+  "kits": {
+    "2006": {
+      "result": "Quarter-final",
+      "headline": "Quarter-Finals on Debut",
+      "homeColors": "yellow shirt with blue trim on the shoulders and sides, blue shorts (Lotto)",
+      "awayColors": "blue away shirt (Lotto)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "0–4",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "score": "4–0",
+          "result": "W",
+          "scorers": "Rusol 4', Rebrov 36', Shevchenko 46', Kalynychenko 84'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Tunisia",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Shevchenko 70' (pen)"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Switzerland",
+          "score": "0–0 (3–0 pens)",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Italy",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "spain-opens-with-a-rout",
+              "label": "SPAIN OPENS WITH A ROUT",
+              "story": "David Villa scored twice as Spain routed Ukraine 4–0 in their opening match, a chastening start to the country's first-ever World Cup as an independent nation and a result that left Oleg Blokhin's side needing an immediate response."
+            },
+            {
+              "id": "four-goals-one-statement",
+              "label": "FOUR GOALS, ONE STATEMENT",
+              "story": "Andriy Rusol's fluke opener off a corner set the tone as Ukraine demolished Saudi Arabia 4–0. Serhii Rebrov added a rasping long-range strike, Andriy Shevchenko headed in a third, and Maksym Kalynychenko wrapped it up late — Ukraine's first-ever World Cup win."
+            },
+            {
+              "id": "shevchenkos-penalty-sends-them-through",
+              "label": "SHEVCHENKO'S PENALTY SENDS THEM THROUGH",
+              "story": "A single Andriy Shevchenko penalty, won after he was tripped by Karim Hagui, beat Tunisia 1–0 and sent Ukraine into the knockout stage of their debut World Cup as runners-up of Group H behind Spain."
+            },
+            {
+              "id": "three-misses-one-historic-win",
+              "label": "THREE MISSES, ONE HISTORIC WIN",
+              "story": "Goalless after 120 scoreless minutes against Switzerland, Ukraine's round of 16 tie went to penalties — and the Swiss missed all three of their attempts. Ukraine converted three straight to win the shootout 3–0, reaching a first-ever World Cup quarter-final."
+            },
+            {
+              "id": "italy-ends-the-dream",
+              "label": "ITALY ENDS THE DREAM",
+              "story": "Eventual champions Italy proved too strong in the quarter-final, winning 3–0 in Hamburg to end Ukraine's remarkable debut run. It remains the furthest Ukraine has ever advanced at a World Cup."
+            }
+          ]
+        }
+      }
+    }
+  }
 };
