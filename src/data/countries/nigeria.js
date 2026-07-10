@@ -43,25 +43,29 @@ export const nigeria = {
           "round": "Group Stage",
           "opponent": "Bulgaria",
           "score": "3–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Yekini 21'', Amokachi 43'', Amunike 55''"
         },
         {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Siasia 8''"
         },
         {
           "round": "Group Stage",
           "opponent": "Greece",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "George 45'+2'', Amokachi 90'+5''"
         },
         {
           "round": "Round of 16",
           "opponent": "Italy",
-          "score": "1–2 (a.e.t.)",
-          "result": "L"
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Amunike 25''"
         }
       ],
       "kits": {
@@ -91,25 +95,29 @@ export const nigeria = {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "3–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Adepoju 24'', Zubizarreta OG 73'', Oliseh 78''"
         },
         {
           "round": "Group Stage",
           "opponent": "Bulgaria",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Ikpeba 28''"
         },
         {
           "round": "Group Stage",
           "opponent": "Paraguay",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Oruma 11''"
         },
         {
           "round": "Round of 16",
           "opponent": "Denmark",
           "score": "1–4",
-          "result": "L"
+          "result": "L",
+          "scorers": "Babangida 77''"
         }
       ],
       "kits": {
@@ -139,19 +147,22 @@ export const nigeria = {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Sweden",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Aghahowa 27''"
         },
         {
           "round": "Group Stage",
           "opponent": "England",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         }
       ],
       "kits": {
@@ -175,19 +186,22 @@ export const nigeria = {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Greece",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Uche 16''"
         },
         {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "2–2",
-          "result": "D"
+          "result": "D",
+          "scorers": "Uche 12'', Yakubu 69''"
         }
       ],
       "kits": {
@@ -217,25 +231,29 @@ export const nigeria = {
           "round": "Group Stage",
           "opponent": "Iran",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Bosnia and Herzegovina",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Odemwingie 29''"
         },
         {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "2–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Musa 4'', Musa 47''"
         },
         {
           "round": "Round of 16",
           "opponent": "France",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -265,19 +283,22 @@ export const nigeria = {
           "round": "Group Stage",
           "opponent": "Croatia",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Iceland",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Musa 49'', Musa 75''"
         },
         {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Moses 51''"
         }
       ],
       "kits": {
