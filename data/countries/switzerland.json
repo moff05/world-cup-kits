@@ -56,14 +56,14 @@
           "opponent": "Netherlands",
           "score": "3–2",
           "result": "W",
-          "scorers": "Kielholz 7'', Kielholz 43'', Abegglen 66''"
+          "scorers": "Kielholz 7', Kielholz 43', Abegglen 66'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Czechoslovakia",
           "score": "2–3",
           "result": "L",
-          "scorers": "Kielholz 18'', Jäggi 78''"
+          "scorers": "Kielholz 18', Jäggi 78'"
         }
       ]
     },
@@ -84,17 +84,17 @@
           "opponent": "Germany",
           "score": "1–1",
           "result": "D",
-          "scorers": "Abegglen 43''"
+          "scorers": "Abegglen 43'"
         },
         {
           "round": "Round of 16",
           "opponent": "Germany",
           "score": "4–2",
           "result": "W",
-          "scorers": "Walaschek 42'', Bickel 64'', Abegglen 75'', Abegglen 78''"
+          "scorers": "Walaschek 42', Bickel 64', Abegglen 75', Abegglen 78'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Hungary",
           "score": "0–2",
           "result": "L",
@@ -126,14 +126,14 @@
           "opponent": "Brazil",
           "score": "2–2",
           "result": "D",
-          "scorers": "Fatton 17'', Fatton 88''"
+          "scorers": "Fatton 17', Fatton 88'"
         },
         {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "2–1",
           "result": "W",
-          "scorers": "Bader 10'', Antenen 44''"
+          "scorers": "Bader 10', Antenen 44'"
         }
       ]
     },
@@ -154,7 +154,7 @@
           "opponent": "Italy",
           "score": "2–1",
           "result": "W",
-          "scorers": "Ballaman 18'', Hügi 78''"
+          "scorers": "Ballaman 18', Hügi 78'"
         },
         {
           "round": "Group Stage",
@@ -168,14 +168,14 @@
           "opponent": "Italy",
           "score": "4–1",
           "result": "W",
-          "scorers": "Hügi 14'', Ballaman 48'', Hügi 85'', Fatton 90''"
+          "scorers": "Hügi 14', Ballaman 48', Hügi 85', Fatton 90'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Austria",
           "score": "5–7",
           "result": "L",
-          "scorers": "Ballaman 16'', Hügi 17'', Hügi 19'', Ballaman 39'', Hügi 60''"
+          "scorers": "Ballaman 16', Hügi 17', Hügi 19', Ballaman 39', Hügi 60'"
         }
       ]
     },
@@ -196,14 +196,14 @@
           "opponent": "Chile",
           "score": "1–3",
           "result": "L",
-          "scorers": "Wüthrich 6''"
+          "scorers": "Wüthrich 6'"
         },
         {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "1–2",
           "result": "L",
-          "scorers": "Schneiter 73''"
+          "scorers": "Schneiter 73'"
         },
         {
           "round": "Group Stage",
@@ -238,7 +238,7 @@
           "opponent": "Spain",
           "score": "1–2",
           "result": "L",
-          "scorers": "Quentin 31''"
+          "scorers": "Quentin 31'"
         },
         {
           "round": "Group Stage",
@@ -266,14 +266,14 @@
           "opponent": "United States",
           "score": "1–1",
           "result": "D",
-          "scorers": "Bregy 39''"
+          "scorers": "Bregy 39'"
         },
         {
           "round": "Group Stage",
           "opponent": "Romania",
           "score": "4–1",
           "result": "W",
-          "scorers": "Sutter 16'', Chapuisat 52'', Knup 65'', Knup 72''"
+          "scorers": "Sutter 16', Chapuisat 52', Knup 65', Knup 72'"
         },
         {
           "round": "Group Stage",
@@ -315,14 +315,14 @@
           "opponent": "Togo",
           "score": "2–0",
           "result": "W",
-          "scorers": "Frei 16'', Barnetta 88''"
+          "scorers": "Frei 16', Barnetta 88'"
         },
         {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "2–0",
           "result": "W",
-          "scorers": "Senderos 23'', Frei 77''"
+          "scorers": "Senderos 23', Frei 77'"
         },
         {
           "round": "Round of 16",
@@ -350,7 +350,7 @@
           "opponent": "Spain",
           "score": "1–0",
           "result": "W",
-          "scorers": "Fernandes 52''"
+          "scorers": "Fernandes 52'"
         },
         {
           "round": "Group Stage",
@@ -385,21 +385,21 @@
           "opponent": "Ecuador",
           "score": "2–1",
           "result": "W",
-          "scorers": "Mehmedi 48'', Seferovic 90'+3''"
+          "scorers": "Mehmedi 48', Seferovic 90'+3'"
         },
         {
           "round": "Group Stage",
           "opponent": "France",
           "score": "2–5",
           "result": "L",
-          "scorers": "Džemaili 81'', Xhaka 87''"
+          "scorers": "Džemaili 81', Xhaka 87'"
         },
         {
           "round": "Group Stage",
           "opponent": "Honduras",
           "score": "3–0",
           "result": "W",
-          "scorers": "Shaqiri 6'', Shaqiri 31'', Shaqiri 71''"
+          "scorers": "Shaqiri 6', Shaqiri 31', Shaqiri 71'"
         },
         {
           "round": "Round of 16",
@@ -427,21 +427,21 @@
           "opponent": "Brazil",
           "score": "1–1",
           "result": "D",
-          "scorers": "Zuber 50''"
+          "scorers": "Zuber 50'"
         },
         {
           "round": "Group Stage",
           "opponent": "Serbia",
           "score": "2–1",
           "result": "W",
-          "scorers": "Xhaka 52'', Shaqiri 90''"
+          "scorers": "Xhaka 52', Shaqiri 90'"
         },
         {
           "round": "Group Stage",
           "opponent": "Costa Rica",
           "score": "2–2",
           "result": "D",
-          "scorers": "Džemaili 31'', Drmić 88''"
+          "scorers": "Džemaili 31', Drmić 88'"
         },
         {
           "round": "Round of 16",

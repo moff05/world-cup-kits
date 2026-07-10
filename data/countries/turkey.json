@@ -62,21 +62,21 @@
           "opponent": "West Germany",
           "score": "1–4",
           "result": "L",
-          "scorers": "Mamat 2''"
+          "scorers": "Mamat 2'"
         },
         {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "7–0",
           "result": "W",
-          "scorers": "Mamat 10'', Küçükandonyadis 24'', Mamat 30'', Sargun 37'', Sargun 64'', Sargun 70'', Keskin 76''"
+          "scorers": "Mamat 10', Küçükandonyadis 24', Mamat 30', Sargun 37', Sargun 64', Sargun 70', Keskin 76'"
         },
         {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "2–7",
           "result": "L",
-          "scorers": "Ertan 21'', Küçükandonyadis 82''"
+          "scorers": "Ertan 21', Küçükandonyadis 82'"
         }
       ]
     },
@@ -113,38 +113,38 @@
           "opponent": "Brazil",
           "score": "1–2",
           "result": "L",
-          "scorers": "Şaş 45'+2''"
+          "scorers": "Şaş 45'+2'"
         },
         {
           "round": "Group Stage",
           "opponent": "Costa Rica",
           "score": "1–1",
           "result": "D",
-          "scorers": "Belözoğlu 56''"
+          "scorers": "Belözoğlu 56'"
         },
         {
           "round": "Group Stage",
           "opponent": "China",
           "score": "3–0",
           "result": "W",
-          "scorers": "Şaş 6'', Korkmaz 9'', Davala 85''"
+          "scorers": "Şaş 6', Korkmaz 9', Davala 85'"
         },
         {
           "round": "Round of 16",
           "opponent": "Japan",
           "score": "1–0",
           "result": "W",
-          "scorers": "Davala 12''"
+          "scorers": "Davala 12'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Senegal",
           "score": "1–0",
           "result": "W",
-          "scorers": "Mansız 94''"
+          "scorers": "Mansız 94'"
         },
         {
-          "round": "semi-finals",
+          "round": "Semi-final",
           "opponent": "Brazil",
           "score": "0–1",
           "result": "L",
@@ -155,7 +155,7 @@
           "opponent": "South Korea",
           "score": "3–2",
           "result": "W",
-          "scorers": "Şükür 1'', Mansız 13'', Mansız 32''"
+          "scorers": "Şükür 1', Mansız 13', Mansız 32'"
         }
       ]
     }

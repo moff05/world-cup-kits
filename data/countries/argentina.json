@@ -62,35 +62,35 @@
           "opponent": "France",
           "score": "1–0",
           "result": "W",
-          "scorers": "Monti 81''"
+          "scorers": "Monti 81'"
         },
         {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "6–3",
           "result": "W",
-          "scorers": "Stábile 8'', Zumelzú 12'', Stábile 17'', Varallo 53'', Zumelzú 55'', Stábile 80''"
+          "scorers": "Stábile 8', Zumelzú 12', Stábile 17', Varallo 53', Zumelzú 55', Stábile 80'"
         },
         {
           "round": "Group Stage",
           "opponent": "Chile",
           "score": "3–1",
           "result": "W",
-          "scorers": "Stábile 12'', Stábile 13'', Evaristo 51''"
+          "scorers": "Stábile 12', Stábile 13', Evaristo 51'"
         },
         {
-          "round": "semi-finals",
+          "round": "Semi-final",
           "opponent": "United States",
           "score": "6–1",
           "result": "W",
-          "scorers": "Monti 20'', Scopelli 56'', Stábile 69'', Peucelle 80'', Peucelle 85'', Stábile 87''"
+          "scorers": "Monti 20', Scopelli 56', Stábile 69', Peucelle 80', Peucelle 85', Stábile 87'"
         },
         {
           "round": "Final",
           "opponent": "Uruguay",
           "score": "2–4",
           "result": "L",
-          "scorers": "Peucelle 20'', Stábile 37''"
+          "scorers": "Peucelle 20', Stábile 37'"
         }
       ]
     },
@@ -111,7 +111,7 @@
           "opponent": "Sweden",
           "score": "2–3",
           "result": "L",
-          "scorers": "Belis 4'', Galateo 48''"
+          "scorers": "Belis 4', Galateo 48'"
         }
       ]
     },
@@ -132,21 +132,21 @@
           "opponent": "West Germany",
           "score": "1–3",
           "result": "L",
-          "scorers": "Corbatta 3''"
+          "scorers": "Corbatta 3'"
         },
         {
           "round": "Group Stage",
           "opponent": "Northern Ireland",
           "score": "3–1",
           "result": "W",
-          "scorers": "Corbatta 37'', Menéndez 56'', Avio 60''"
+          "scorers": "Corbatta 37', Menéndez 56', Avio 60'"
         },
         {
           "round": "Group Stage",
           "opponent": "Czechoslovakia",
           "score": "1–6",
           "result": "L",
-          "scorers": "Corbatta 65''"
+          "scorers": "Corbatta 65'"
         }
       ]
     },
@@ -167,14 +167,14 @@
           "opponent": "Bulgaria",
           "score": "1–0",
           "result": "W",
-          "scorers": "Facundo 4''"
+          "scorers": "Facundo 4'"
         },
         {
           "round": "Group Stage",
           "opponent": "England",
           "score": "1–3",
           "result": "L",
-          "scorers": "Sanfilippo 81''"
+          "scorers": "Sanfilippo 81'"
         },
         {
           "round": "Group Stage",
@@ -202,7 +202,7 @@
           "opponent": "Spain",
           "score": "2–1",
           "result": "W",
-          "scorers": "Artime 65'', Artime 77''"
+          "scorers": "Artime 65', Artime 77'"
         },
         {
           "round": "Group Stage",
@@ -216,10 +216,10 @@
           "opponent": "Switzerland",
           "score": "2–0",
           "result": "W",
-          "scorers": "Artime 52'', Onega 79''"
+          "scorers": "Artime 52', Onega 79'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "England",
           "score": "0–1",
           "result": "L",
@@ -244,21 +244,21 @@
           "opponent": "Poland",
           "score": "2–3",
           "result": "L",
-          "scorers": "Heredia 60'', Babington 66''"
+          "scorers": "Heredia 60', Babington 66'"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "1–1",
           "result": "D",
-          "scorers": "Houseman 20''"
+          "scorers": "Houseman 20'"
         },
         {
           "round": "Group Stage",
           "opponent": "Haiti",
           "score": "4–1",
           "result": "W",
-          "scorers": "Yazalde 15'', Houseman 18'', Ayala 55'', Yazalde 68''"
+          "scorers": "Yazalde 15', Houseman 18', Ayala 55', Yazalde 68'"
         },
         {
           "round": "2nd Round",
@@ -272,14 +272,14 @@
           "opponent": "Brazil",
           "score": "1–2",
           "result": "L",
-          "scorers": "Brindisi 35''"
+          "scorers": "Brindisi 35'"
         },
         {
           "round": "2nd Round",
           "opponent": "East Germany",
           "score": "1–1",
           "result": "D",
-          "scorers": "Houseman 20''"
+          "scorers": "Houseman 20'"
         }
       ]
     },
@@ -300,14 +300,14 @@
           "opponent": "Hungary",
           "score": "2–1",
           "result": "W",
-          "scorers": "Luque 14'', Bertoni 83''"
+          "scorers": "Luque 14', Bertoni 83'"
         },
         {
           "round": "Group Stage",
           "opponent": "France",
           "score": "2–1",
           "result": "W",
-          "scorers": "Passarella 45'', Luque 73''"
+          "scorers": "Passarella 45', Luque 73'"
         },
         {
           "round": "Group Stage",
@@ -321,7 +321,7 @@
           "opponent": "Poland",
           "score": "2–0",
           "result": "W",
-          "scorers": "Kempes 16'', Kempes 71''"
+          "scorers": "Kempes 16', Kempes 71'"
         },
         {
           "round": "2nd Round",
@@ -335,14 +335,14 @@
           "opponent": "Peru",
           "score": "6–0",
           "result": "W",
-          "scorers": "Kempes 21'', Tarantini 43'', Kempes 49'', Luque 50'', Houseman 67'', Luque 72''"
+          "scorers": "Kempes 21', Tarantini 43', Kempes 49', Luque 50', Houseman 67', Luque 72'"
         },
         {
           "round": "Final",
           "opponent": "Netherlands",
           "score": "3–1",
           "result": "W",
-          "scorers": "Kempes 38'', Kempes 105'', Bertoni 115''"
+          "scorers": "Kempes 38', Kempes 105', Bertoni 115'"
         }
       ]
     },
@@ -370,28 +370,28 @@
           "opponent": "Hungary",
           "score": "4–1",
           "result": "W",
-          "scorers": "Bertoni 26'', Maradona 28'', Maradona 57'', Ardiles 60''"
+          "scorers": "Bertoni 26', Maradona 28', Maradona 57', Ardiles 60'"
         },
         {
           "round": "Group Stage",
           "opponent": "El Salvador",
           "score": "2–0",
           "result": "W",
-          "scorers": "Passarella 22'', Bertoni 54''"
+          "scorers": "Passarella 22', Bertoni 54'"
         },
         {
           "round": "2nd Round",
           "opponent": "Italy",
           "score": "1–2",
           "result": "L",
-          "scorers": "Passarella 83''"
+          "scorers": "Passarella 83'"
         },
         {
           "round": "2nd Round",
           "opponent": "Brazil",
           "score": "1–3",
           "result": "L",
-          "scorers": "Díaz 89''"
+          "scorers": "Díaz 89'"
         }
       ]
     },
@@ -412,49 +412,49 @@
           "opponent": "South Korea",
           "score": "3–1",
           "result": "W",
-          "scorers": "Valdano 6'', Ruggeri 18'', Valdano 46''"
+          "scorers": "Valdano 6', Ruggeri 18', Valdano 46'"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "1–1",
           "result": "D",
-          "scorers": "Maradona 34''"
+          "scorers": "Maradona 34'"
         },
         {
           "round": "Group Stage",
           "opponent": "Bulgaria",
           "score": "2–0",
           "result": "W",
-          "scorers": "Valdano 4'', Burruchaga 77''"
+          "scorers": "Valdano 4', Burruchaga 77'"
         },
         {
           "round": "Round of 16",
           "opponent": "Uruguay",
           "score": "1–0",
           "result": "W",
-          "scorers": "Pasculli 42''"
+          "scorers": "Pasculli 42'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "England",
           "score": "2–1",
           "result": "W",
-          "scorers": "Maradona 51'', Maradona 55''"
+          "scorers": "Maradona 51', Maradona 55'"
         },
         {
-          "round": "semi-finals",
+          "round": "Semi-final",
           "opponent": "Belgium",
           "score": "2–0",
           "result": "W",
-          "scorers": "Maradona 51'', Maradona 63''"
+          "scorers": "Maradona 51', Maradona 63'"
         },
         {
           "round": "Final",
           "opponent": "West Germany",
           "score": "3–2",
           "result": "W",
-          "scorers": "Brown 23'', Valdano 56'', Burruchaga 84''"
+          "scorers": "Brown 23', Valdano 56', Burruchaga 84'"
         }
       ]
     },
@@ -482,35 +482,35 @@
           "opponent": "Soviet Union",
           "score": "2–0",
           "result": "W",
-          "scorers": "Troglio 27'', Burruchaga 79''"
+          "scorers": "Troglio 27', Burruchaga 79'"
         },
         {
           "round": "Group Stage",
           "opponent": "Romania",
           "score": "1–1",
           "result": "D",
-          "scorers": "Monzón 62''"
+          "scorers": "Monzón 62'"
         },
         {
           "round": "Round of 16",
           "opponent": "Brazil",
           "score": "1–0",
           "result": "W",
-          "scorers": "Caniggia 81''"
+          "scorers": "Caniggia 81'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Yugoslavia",
           "score": "0–0 (3–2 pens)",
           "result": "D",
           "scorers": null
         },
         {
-          "round": "semi-finals",
+          "round": "Semi-final",
           "opponent": "Italy",
           "score": "1–1 (4–3 pens)",
           "result": "D",
-          "scorers": "Caniggia 67''"
+          "scorers": "Caniggia 67'"
         },
         {
           "round": "Final",
@@ -538,14 +538,14 @@
           "opponent": "Greece",
           "score": "4–0",
           "result": "W",
-          "scorers": "Batistuta 2'', Batistuta 44'', Maradona 60'', Batistuta 90''"
+          "scorers": "Batistuta 2', Batistuta 44', Maradona 60', Batistuta 90'"
         },
         {
           "round": "Group Stage",
           "opponent": "Nigeria",
           "score": "2–1",
           "result": "W",
-          "scorers": "Caniggia 21'', Caniggia 28''"
+          "scorers": "Caniggia 21', Caniggia 28'"
         },
         {
           "round": "Group Stage",
@@ -559,7 +559,7 @@
           "opponent": "Romania",
           "score": "2–3",
           "result": "L",
-          "scorers": "Batistuta 16'', Balbo 75''"
+          "scorers": "Batistuta 16', Balbo 75'"
         }
       ]
     },
@@ -580,35 +580,35 @@
           "opponent": "Japan",
           "score": "1–0",
           "result": "W",
-          "scorers": "Batistuta 28''"
+          "scorers": "Batistuta 28'"
         },
         {
           "round": "Group Stage",
           "opponent": "Jamaica",
           "score": "5–0",
           "result": "W",
-          "scorers": "Ortega 31'', Ortega 55'', Batistuta 73'', Batistuta 78'', Batistuta 83''"
+          "scorers": "Ortega 31', Ortega 55', Batistuta 73', Batistuta 78', Batistuta 83'"
         },
         {
           "round": "Group Stage",
           "opponent": "Croatia",
           "score": "1–0",
           "result": "W",
-          "scorers": "Pineda 36''"
+          "scorers": "Pineda 36'"
         },
         {
           "round": "Round of 16",
           "opponent": "England",
           "score": "2–2 (4–3 pens)",
           "result": "D",
-          "scorers": "Batistuta 5'', Zanetti 45'+1''"
+          "scorers": "Batistuta 5', Zanetti 45'+1'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Netherlands",
           "score": "1–2",
           "result": "L",
-          "scorers": "López 17''"
+          "scorers": "López 17'"
         }
       ]
     },
@@ -629,7 +629,7 @@
           "opponent": "Nigeria",
           "score": "1–0",
           "result": "W",
-          "scorers": "Batistuta 63''"
+          "scorers": "Batistuta 63'"
         },
         {
           "round": "Group Stage",
@@ -643,7 +643,7 @@
           "opponent": "Sweden",
           "score": "1–1",
           "result": "D",
-          "scorers": "Crespo 88''"
+          "scorers": "Crespo 88'"
         }
       ]
     },
@@ -664,14 +664,14 @@
           "opponent": "Ivory Coast",
           "score": "2–1",
           "result": "W",
-          "scorers": "Crespo 24'', Saviola 38''"
+          "scorers": "Crespo 24', Saviola 38'"
         },
         {
           "round": "Group Stage",
           "opponent": "Serbia and Montenegro",
           "score": "6–0",
           "result": "W",
-          "scorers": "Rodríguez 6'', Cambiasso 31'', Rodríguez 41'', Crespo 78'', Tevez 84'', Messi 88''"
+          "scorers": "Rodríguez 6', Cambiasso 31', Rodríguez 41', Crespo 78', Tevez 84', Messi 88'"
         },
         {
           "round": "Group Stage",
@@ -685,14 +685,14 @@
           "opponent": "Mexico",
           "score": "2–1",
           "result": "W",
-          "scorers": "Crespo 10'', Rodríguez 98''"
+          "scorers": "Crespo 10', Rodríguez 98'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Germany",
           "score": "1–1 (2–4 pens)",
           "result": "D",
-          "scorers": "Ayala 49''"
+          "scorers": "Ayala 49'"
         }
       ]
     },
@@ -713,31 +713,31 @@
           "opponent": "Nigeria",
           "score": "1–0",
           "result": "W",
-          "scorers": "Heinze 6''"
+          "scorers": "Heinze 6'"
         },
         {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "4–1",
           "result": "W",
-          "scorers": "Park OG 17'', Higuaín 33'', Higuaín 76'', Higuaín 80''"
+          "scorers": "Park OG 17', Higuaín 33', Higuaín 76', Higuaín 80'"
         },
         {
           "round": "Group Stage",
           "opponent": "Greece",
           "score": "2–0",
           "result": "W",
-          "scorers": "Demichelis 77'', Palermo 89''"
+          "scorers": "Demichelis 77', Palermo 89'"
         },
         {
           "round": "Round of 16",
           "opponent": "Mexico",
           "score": "3–1",
           "result": "W",
-          "scorers": "Tevez 26'', Higuaín 33'', Tevez 52''"
+          "scorers": "Tevez 26', Higuaín 33', Tevez 52'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Germany",
           "score": "0–4",
           "result": "L",
@@ -762,38 +762,38 @@
           "opponent": "Bosnia and Herzegovina",
           "score": "2–1",
           "result": "W",
-          "scorers": "Kolašinac OG 3'', Messi 65''"
+          "scorers": "Kolašinac OG 3', Messi 65'"
         },
         {
           "round": "Group Stage",
           "opponent": "Iran",
           "score": "1–0",
           "result": "W",
-          "scorers": "Messi 90'+1''"
+          "scorers": "Messi 90'+1'"
         },
         {
           "round": "Group Stage",
           "opponent": "Nigeria",
           "score": "3–2",
           "result": "W",
-          "scorers": "Messi 3'', Messi 45'+1'', Rojo 50''"
+          "scorers": "Messi 3', Messi 45'+1', Rojo 50'"
         },
         {
           "round": "Round of 16",
           "opponent": "Switzerland",
           "score": "1–0",
           "result": "W",
-          "scorers": "Di María 118''"
+          "scorers": "Di María 118'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Belgium",
           "score": "1–0",
           "result": "W",
-          "scorers": "Higuaín 8''"
+          "scorers": "Higuaín 8'"
         },
         {
-          "round": "semi-finals",
+          "round": "Semi-final",
           "opponent": "Netherlands",
           "score": "0–0 (4–2 pens)",
           "result": "D",
@@ -825,7 +825,7 @@
           "opponent": "Iceland",
           "score": "1–1",
           "result": "D",
-          "scorers": "Agüero 19''"
+          "scorers": "Agüero 19'"
         },
         {
           "round": "Group Stage",
@@ -839,14 +839,14 @@
           "opponent": "Nigeria",
           "score": "2–1",
           "result": "W",
-          "scorers": "Messi 14'', Rojo 86''"
+          "scorers": "Messi 14', Rojo 86'"
         },
         {
           "round": "Round of 16",
           "opponent": "France",
           "score": "3–4",
           "result": "L",
-          "scorers": "Di María 41'', Mercado 48'', Agüero 90'+3''"
+          "scorers": "Di María 41', Mercado 48', Agüero 90'+3'"
         }
       ]
     },
