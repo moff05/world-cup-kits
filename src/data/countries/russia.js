@@ -48,31 +48,36 @@ export const russia = {
           "round": "Group Stage",
           "opponent": "England",
           "score": "2–2",
-          "result": "D"
+          "result": "D",
+          "scorers": "Simonyan 13'', Ivanov 56''"
         },
         {
           "round": "Group Stage",
           "opponent": "Austria",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Ilyin 15'', Ivanov 62''"
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "England",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Ilyin 69''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Sweden",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -102,25 +107,29 @@ export const russia = {
           "round": "Group Stage",
           "opponent": "Yugoslavia",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Ivanov 51'', Ponedelnik 83''"
         },
         {
           "round": "Group Stage",
           "opponent": "Colombia",
           "score": "4–4",
-          "result": "D"
+          "result": "D",
+          "scorers": "Ivanov 8'', Chislenko 10'', Ivanov 11'', Ponedelnik 56''"
         },
         {
           "round": "Group Stage",
           "opponent": "Uruguay",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Mamykin 38'', Ivanov 89''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Chile",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Chislenko 26''"
         }
       ],
       "kits": {
@@ -150,37 +159,43 @@ export const russia = {
           "round": "Group Stage",
           "opponent": "North Korea",
           "score": "3–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Malofeyev 31'', Banishevskiy 33'', Malofeyev 88''"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Chislenko 57''"
         },
         {
           "round": "Group Stage",
           "opponent": "Chile",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Porkujan 28'', Porkujan 85''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Hungary",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Chislenko 5'', Porkujan 46''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "West Germany",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Porkujan 88''"
         },
         {
-          "round": "3rd Place",
+          "round": "third-place match",
           "opponent": "Portugal",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Malofeyev 43''"
         }
       ],
       "kits": {
@@ -210,25 +225,29 @@ export const russia = {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Belgium",
           "score": "4–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Byshovets 14'', Asatiani 57'', Byshovets 63'', Khmelnitsky 76''"
         },
         {
           "round": "Group Stage",
           "opponent": "El Salvador",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Byshovets 51'', Byshovets 74''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Uruguay",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -258,31 +277,36 @@ export const russia = {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Bal 34''"
         },
         {
           "round": "Group Stage",
           "opponent": "New Zealand",
           "score": "3–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Gavrilov 24'', Blokhin 48'', Baltacha 68''"
         },
         {
           "round": "Group Stage",
           "opponent": "Scotland",
           "score": "2–2",
-          "result": "D"
+          "result": "D",
+          "scorers": "Chivadze 59'', Shengelia 84''"
         },
         {
           "round": "2nd Round",
           "opponent": "Belgium",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Hovhannisyan 48''"
         },
         {
           "round": "2nd Round",
           "opponent": "Poland",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         }
       ],
       "kits": {
@@ -312,25 +336,29 @@ export const russia = {
           "round": "Group Stage",
           "opponent": "Hungary",
           "score": "6–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Yakovenko 2'', Aleinikov 4'', Belanov 24'', Yaremchuk 66'', Dajka OG 73'', Rodionov 80''"
         },
         {
           "round": "Group Stage",
           "opponent": "France",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Rats 53''"
         },
         {
           "round": "Group Stage",
           "opponent": "Canada",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Blokhin 58'', Zavarov 74''"
         },
         {
           "round": "Round of 16",
           "opponent": "Belgium",
           "score": "3–4",
-          "result": "L"
+          "result": "L",
+          "scorers": "Belanov 27'', Belanov 70'', Belanov 111''"
         }
       ],
       "kits": {
@@ -358,21 +386,24 @@ export const russia = {
       "matches": [
         {
           "round": "Group Stage",
+          "opponent": "Romania",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
           "opponent": "Argentina",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Cameroon",
           "score": "4–0",
-          "result": "W"
-        },
-        {
-          "round": "Group Stage",
-          "opponent": "Romania",
-          "score": "0–2",
-          "result": "L"
+          "result": "W",
+          "scorers": "Protasov 20'', Zygmantovich 29'', Zavarov 52'', Dobrovolski 63''"
         }
       ],
       "kits": {
@@ -402,19 +433,22 @@ export const russia = {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Sweden",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Salenko 4''"
         },
         {
           "round": "Group Stage",
           "opponent": "Cameroon",
           "score": "6–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Salenko 15'', Salenko 41'', Salenko 44'', Salenko 72'', Salenko 75'', Radchenko 81''"
         }
       ],
       "kits": {
@@ -444,19 +478,22 @@ export const russia = {
           "round": "Group Stage",
           "opponent": "Tunisia",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Titov 59'', Karpin 64''"
         },
         {
           "round": "Group Stage",
           "opponent": "Japan",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Belgium",
           "score": "2–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Beschastnykh 52'', Sychev 88''"
         }
       ],
       "kits": {
@@ -486,19 +523,22 @@ export const russia = {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Kerzhakov 74''"
         },
         {
           "round": "Group Stage",
           "opponent": "Belgium",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Algeria",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Kokorin 6''"
         }
       ],
       "kits": {
@@ -528,31 +568,36 @@ export const russia = {
           "round": "Group Stage",
           "opponent": "Saudi Arabia",
           "score": "5–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Gazinsky 12'', Cheryshev 43'', Dzyuba 71'', Cheryshev 90'+1'', Golovin 90'+4''"
         },
         {
           "round": "Group Stage",
           "opponent": "Egypt",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Fathy OG 47'', Cheryshev 59'', Dzyuba 62''"
         },
         {
           "round": "Group Stage",
           "opponent": "Uruguay",
           "score": "0–3",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Round of 16",
           "opponent": "Spain",
           "score": "1–1 (4–3 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": "Dzyuba 41''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Croatia",
           "score": "2–2 (3–4 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": "Cheryshev 31'', Fernandes 115''"
         }
       ],
       "kits": {
