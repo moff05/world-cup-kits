@@ -83,7 +83,7 @@ export const australia = {
           "opponent": "Japan",
           "score": "3–1",
           "result": "W",
-          "scorers": "Cahill 84'', Cahill 89'', Aloisi 90'+2''"
+          "scorers": "Cahill 84', Cahill 89', Aloisi 90'+2'"
         },
         {
           "round": "Group Stage",
@@ -97,7 +97,7 @@ export const australia = {
           "opponent": "Croatia",
           "score": "2–2",
           "result": "D",
-          "scorers": "Moore 38'', Kewell 79''"
+          "scorers": "Moore 38', Kewell 79'"
         },
         {
           "round": "Round of 16",
@@ -147,14 +147,14 @@ export const australia = {
           "opponent": "Ghana",
           "score": "1–1",
           "result": "D",
-          "scorers": "Holman 11''"
+          "scorers": "Holman 11'"
         },
         {
           "round": "Group Stage",
           "opponent": "Serbia",
           "score": "2–1",
           "result": "W",
-          "scorers": "Cahill 69'', Holman 73''"
+          "scorers": "Cahill 69', Holman 73'"
         }
       ],
       "kits": {
@@ -185,14 +185,14 @@ export const australia = {
           "opponent": "Chile",
           "score": "1–3",
           "result": "L",
-          "scorers": "Cahill 35''"
+          "scorers": "Cahill 35'"
         },
         {
           "round": "Group Stage",
           "opponent": "Netherlands",
           "score": "2–3",
           "result": "L",
-          "scorers": "Cahill 21'', Jedinak 54''"
+          "scorers": "Cahill 21', Jedinak 54'"
         },
         {
           "round": "Group Stage",
@@ -230,14 +230,14 @@ export const australia = {
           "opponent": "France",
           "score": "1–2",
           "result": "L",
-          "scorers": "Jedinak 62''"
+          "scorers": "Jedinak 62'"
         },
         {
           "round": "Group Stage",
           "opponent": "Denmark",
           "score": "1–1",
           "result": "D",
-          "scorers": "Jedinak 38''"
+          "scorers": "Jedinak 38'"
         },
         {
           "round": "Group Stage",
