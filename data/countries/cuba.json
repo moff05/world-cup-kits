@@ -1,4 +1,4 @@
-export const cuba = {
+{
   "id": "cuba",
   "name": "Cuba",
   "flagCode": "cu",
@@ -31,8 +31,30 @@ export const cuba = {
     "1938": {
       "result": "Quarter-final",
       "headline": "Amateurs Stun Europe Twice",
+      "annotations": [
+        {
+          "id": "tunas-forces-a-replay",
+          "label": "TUÑAS SAVES THE DAY",
+          "story": "Cuba twice fought back from behind against Romania in Toulouse. Héctor Socorro leveled it at 1–1, Tomás Fernández put Cuba ahead late, and after Romania equalized again in extra time, Juan Tuñas struck with three minutes left to force a 3–3 draw and a replay."
+        },
+        {
+          "id": "socorro-and-oliveira-seal-it",
+          "label": "THE REPLAY WIN",
+          "story": "Four days later at the same Toulouse stadium, Romania led at the break again. But Cuba erupted early in the second half — Socorro equalized, then Carlos Oliveira struck the winner six minutes later — sending the debutants through 2–1 and into the quarter-finals."
+        },
+        {
+          "id": "sweden-runs-riot",
+          "label": "THE CRASH BACK TO EARTH",
+          "story": "Exhausted from two matches with Romania in five days, Cuba was overrun by Sweden's Tore Keller and Gustav Wetterström, who both scored hat-tricks in an 8–0 rout — still Cuba's heaviest defeat in team history. Tomás Fernández even missed a penalty as the rout wore on."
+        }
+      ],
       "homeColors": null,
       "awayColors": null,
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
         {
           "round": "Round of 16",
@@ -55,33 +77,7 @@ export const cuba = {
           "result": "L",
           "scorers": null
         }
-      ],
-      "kits": {
-        "home": {
-          "image": null,
-          "imageCredit": {
-            "player": null,
-            "game": null
-          },
-          "annotations": [
-            {
-              "id": "tunas-forces-a-replay",
-              "label": "TUÑAS SAVES THE DAY",
-              "story": "Cuba twice fought back from behind against Romania in Toulouse. Héctor Socorro leveled it at 1–1, Tomás Fernández put Cuba ahead late, and after Romania equalized again in extra time, Juan Tuñas struck with three minutes left to force a 3–3 draw and a replay."
-            },
-            {
-              "id": "socorro-and-oliveira-seal-it",
-              "label": "THE REPLAY WIN",
-              "story": "Four days later at the same Toulouse stadium, Romania led at the break again. But Cuba erupted early in the second half — Socorro equalized, then Carlos Oliveira struck the winner six minutes later — sending the debutants through 2–1 and into the quarter-finals."
-            },
-            {
-              "id": "sweden-runs-riot",
-              "label": "THE CRASH BACK TO EARTH",
-              "story": "Exhausted from two matches with Romania in five days, Cuba was overrun by Sweden's Tore Keller and Gustav Wetterström, who both scored hat-tricks in an 8–0 rout — still Cuba's heaviest defeat in team history. Tomás Fernández even missed a penalty as the rout wore on."
-            }
-          ]
-        }
-      }
+      ]
     }
   }
-};
+}
