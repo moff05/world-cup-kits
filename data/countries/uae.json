@@ -1,4 +1,4 @@
-export const uae = {
+{
   "id": "uae",
   "name": "United Arab Emirates",
   "flagCode": "ae",
@@ -31,8 +31,25 @@ export const uae = {
     "1990": {
       "result": "Group Stage",
       "headline": "One And Only Dance",
+      "annotations": [
+        {
+          "id": "mubaraks-consolation",
+          "label": "THE FIRST-EVER GOAL",
+          "story": "Trailing West Germany 2-0, Khalid Ismail Mubarak scored in the 46th minute on a quick counter-attack, the first goal the UAE had ever scored at a World Cup. West Germany finished the job, winning 5-1, but the goal remains a landmark for Emirati football."
+        },
+        {
+          "id": "jumaas-late-strike",
+          "label": "A CONSOLATION AGAINST YUGOSLAVIA",
+          "story": "In their final group match, already eliminated, the UAE fell behind early to Yugoslavia before Ali Thani Juma'a pulled one back in the 22nd minute. Yugoslavia pulled away to win 4-1, closing out a winless debut in which the UAE conceded 11 goals across three matches."
+        }
+      ],
       "homeColors": "white shirt with red trim",
       "awayColors": "red shirt with white trim",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -55,28 +72,7 @@ export const uae = {
           "result": "L",
           "scorers": "Juma'a 22'"
         }
-      ],
-      "kits": {
-        "home": {
-          "image": null,
-          "imageCredit": {
-            "player": null,
-            "game": null
-          },
-          "annotations": [
-            {
-              "id": "mubaraks-consolation",
-              "label": "THE FIRST-EVER GOAL",
-              "story": "Trailing West Germany 2-0, Khalid Ismail Mubarak scored in the 46th minute on a quick counter-attack, the first goal the UAE had ever scored at a World Cup. West Germany finished the job, winning 5-1, but the goal remains a landmark for Emirati football."
-            },
-            {
-              "id": "jumaas-late-strike",
-              "label": "A CONSOLATION AGAINST YUGOSLAVIA",
-              "story": "In their final group match, already eliminated, the UAE fell behind early to Yugoslavia before Ali Thani Juma'a pulled one back in the 22nd minute. Yugoslavia pulled away to win 4-1, closing out a winless debut in which the UAE conceded 11 goals across three matches."
-            }
-          ]
-        }
-      }
+      ]
     }
   }
-};
+}
