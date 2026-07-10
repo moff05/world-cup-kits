@@ -67,8 +67,7 @@ export const china = {
             {
               "id": "a-respectable-opener",
               "label": "A RESPECTABLE OPENER",
-              "story": "China's World Cup history began in Gwangju with genuine resistance — they matched Costa Rica for long stretches before Ronald Gomez broke through in the 61st minute and Mauricio Wright doubled it four minutes later. The 0–2 scoreline was the closest China came to an upset in three matches.",
-              "opponentNote": null
+              "story": "China's World Cup history began in Gwangju with genuine resistance — they matched Costa Rica for long stretches before Ronald Gomez broke through in the 61st minute and Mauricio Wright doubled it four minutes later. The 0–2 scoreline was the closest China came to an upset in three matches."
             },
             {
               "id": "brazils-first-half-storm",
