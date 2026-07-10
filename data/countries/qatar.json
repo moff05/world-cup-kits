@@ -1,4 +1,4 @@
-export const qatar = {
+{
   "id": "qatar",
   "name": "Qatar",
   "flagCode": "qa",
@@ -31,8 +31,30 @@ export const qatar = {
     "2022": {
       "result": "Group Stage",
       "headline": "Hosts, Winless, History-Making",
+      "annotations": [
+        {
+          "id": "valencia-punishes-the-opener",
+          "label": "A HOST'S NIGHTMARE START",
+          "story": "At Al Bayt Stadium on the tournament's opening night, Ecuador captain Enner Valencia converted a 16th-minute penalty after Qatar keeper Saad Al-Sheeb brought him down, then headed in a second in the 31st. Qatar became the first host nation in World Cup history to lose its opener."
+        },
+        {
+          "id": "eliminated-in-two",
+          "label": "GONE BY MATCH TWO",
+          "story": "A 3-1 defeat to Senegal at Al Thumama Stadium confirmed Qatar's exit with a full group game still to play — the fastest elimination of any host nation. Muntari's 78th-minute header was the lone bright spot in a tournament defined by historic firsts, all of them unwanted."
+        },
+        {
+          "id": "zero-points-record",
+          "label": "THE WINLESS RECORD",
+          "story": "A goalless 0-2 loss to the Netherlands at Al Bayt Stadium closed out Qatar's campaign with three defeats from three, one goal scored, and zero points — the first host nation in tournament history to finish a World Cup without a single point on the board."
+        }
+      ],
       "homeColors": "Desert Maroon shirt with white triangular sleeve-cuff trim echoing the Qatari flag (Nike)",
       "awayColors": "white shirt with a beige/gold circular pearl-string graphic overlay, a nod to Qatar's pearl-diving heritage (Nike)",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -55,33 +77,7 @@ export const qatar = {
           "result": "L",
           "scorers": null
         }
-      ],
-      "kits": {
-        "home": {
-          "image": null,
-          "imageCredit": {
-            "player": null,
-            "game": null
-          },
-          "annotations": [
-            {
-              "id": "valencia-punishes-the-opener",
-              "label": "A HOST'S NIGHTMARE START",
-              "story": "At Al Bayt Stadium on the tournament's opening night, Ecuador captain Enner Valencia converted a 16th-minute penalty after Qatar keeper Saad Al-Sheeb brought him down, then headed in a second in the 31st. Qatar became the first host nation in World Cup history to lose its opener."
-            },
-            {
-              "id": "eliminated-in-two",
-              "label": "GONE BY MATCH TWO",
-              "story": "A 3-1 defeat to Senegal at Al Thumama Stadium confirmed Qatar's exit with a full group game still to play — the fastest elimination of any host nation. Muntari's 78th-minute header was the lone bright spot in a tournament defined by historic firsts, all of them unwanted."
-            },
-            {
-              "id": "zero-points-record",
-              "label": "THE WINLESS RECORD",
-              "story": "A goalless 0-2 loss to the Netherlands at Al Bayt Stadium closed out Qatar's campaign with three defeats from three, one goal scored, and zero points — the first host nation in tournament history to finish a World Cup without a single point on the board."
-            }
-          ]
-        }
-      }
+      ]
     }
   }
-};
+}
