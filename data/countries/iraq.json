@@ -1,4 +1,4 @@
-export const iraq = {
+{
   "id": "iraq",
   "name": "Iraq",
   "flagCode": "iq",
@@ -31,8 +31,25 @@ export const iraq = {
     "1986": {
       "result": "Group Stage",
       "headline": "Ten Men, One Goal",
+      "annotations": [
+        {
+          "id": "radhi-breaks-the-duck",
+          "label": "IRAQ'S FIRST EVER GOAL",
+          "story": "Playing a man down against Belgium in Toluca, Ahmed Radhi struck in the 59th minute for Iraq's first goal in World Cup history. Belgium still won 2-1, completing Iraq's group-stage exit, but the goal stood as the country's lone highlight from its tournament debut."
+        },
+        {
+          "id": "disallowed-against-paraguay",
+          "label": "A CONTROVERSIAL OPENER",
+          "story": "In their opening match, Iraq played Paraguay close and had what they believed was a legitimate goal ruled out by the referee. Paraguay won 1-0 on Julio César Romero's 35th-minute strike, denying Iraq a point in their very first World Cup appearance."
+        }
+      ],
       "homeColors": "yellow shirt with black trim on the collar, shoulder stripes and sleeve cuffs (Adidas)",
       "awayColors": "light blue shirt with white V-neck collar and Adidas three stripes on the shoulders",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -55,28 +72,7 @@ export const iraq = {
           "result": "L",
           "scorers": null
         }
-      ],
-      "kits": {
-        "home": {
-          "image": null,
-          "imageCredit": {
-            "player": null,
-            "game": null
-          },
-          "annotations": [
-            {
-              "id": "radhi-breaks-the-duck",
-              "label": "IRAQ'S FIRST EVER GOAL",
-              "story": "Playing a man down against Belgium in Toluca, Ahmed Radhi struck in the 59th minute for Iraq's first goal in World Cup history. Belgium still won 2-1, completing Iraq's group-stage exit, but the goal stood as the country's lone highlight from its tournament debut."
-            },
-            {
-              "id": "disallowed-against-paraguay",
-              "label": "A CONTROVERSIAL OPENER",
-              "story": "In their opening match, Iraq played Paraguay close and had what they believed was a legitimate goal ruled out by the referee. Paraguay won 1-0 on Julio César Romero's 35th-minute strike, denying Iraq a point in their very first World Cup appearance."
-            }
-          ]
-        }
-      }
+      ]
     }
   }
-};
+}
