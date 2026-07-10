@@ -76,20 +76,19 @@ function scheduleDeployment() {
   deployTimer = setTimeout(() => {
     const names = pendingCountries.splice(0).join(", ");
     try {
-      console.log(`\n⟳  Pushing & deploying (${names})…`);
+      console.log(`\n⟳  Pushing (${names})…`);
       execSync("git push", { cwd: __dirname, stdio: "pipe" });
-      execSync("vercel deploy --prod", { cwd: __dirname, stdio: "inherit" });
-      console.log("✓  Production deploy complete\n");
+      console.log("✓  Pushed — Vercel will deploy automatically\n");
     } catch (err) {
-      console.error(`✗  Deploy failed: ${err.message}`);
+      console.error(`✗  Push failed: ${err.message}`);
     }
   }, 30_000);
 }
 
 function commitAndScheduleDeploy(countryName) {
   try {
-    execSync("git add src/data/", { cwd: __dirname, stdio: "pipe" });
-    const dirty = execSync("git status --porcelain src/data/", { cwd: __dirname, stdio: "pipe" })
+    execSync("git add src/data/ data/countries/ queue.json", { cwd: __dirname, stdio: "pipe" });
+    const dirty = execSync("git status --porcelain src/data/ data/countries/ queue.json", { cwd: __dirname, stdio: "pipe" })
       .toString().trim();
     if (!dirty) return;
     execSync(`git commit -m "data: ${countryName}"`, { cwd: __dirname, stdio: "pipe" });
