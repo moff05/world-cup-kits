@@ -44,7 +44,7 @@ export const morocco = {
           "opponent": "West Germany",
           "score": "1–2",
           "result": "L",
-          "scorers": "Jarir 21''"
+          "scorers": "Jarir 21'"
         },
         {
           "round": "Group Stage",
@@ -58,7 +58,7 @@ export const morocco = {
           "opponent": "Bulgaria",
           "score": "1–1",
           "result": "D",
-          "scorers": "Ghazouani 61''"
+          "scorers": "Ghazouani 61'"
         }
       ],
       "kits": {
@@ -103,7 +103,7 @@ export const morocco = {
           "opponent": "Portugal",
           "score": "3–1",
           "result": "W",
-          "scorers": "Khairi 19'', Khairi 26'', Merry 62''"
+          "scorers": "Khairi 19', Khairi 26', Merry 62'"
         },
         {
           "round": "Round of 16",
@@ -153,14 +153,14 @@ export const morocco = {
           "opponent": "Saudi Arabia",
           "score": "1–2",
           "result": "L",
-          "scorers": "Chaouch 26''"
+          "scorers": "Chaouch 26'"
         },
         {
           "round": "Group Stage",
           "opponent": "Netherlands",
           "score": "1–2",
           "result": "L",
-          "scorers": "Nader 47''"
+          "scorers": "Nader 47'"
         }
       ],
       "kits": {
@@ -185,7 +185,7 @@ export const morocco = {
           "opponent": "Norway",
           "score": "2–2",
           "result": "D",
-          "scorers": "Hadji 37'', Hadda 60''"
+          "scorers": "Hadji 37', Hadda 60'"
         },
         {
           "round": "Group Stage",
@@ -199,7 +199,7 @@ export const morocco = {
           "opponent": "Scotland",
           "score": "3–0",
           "result": "W",
-          "scorers": "Bassir 23'', Hadda 46'', Bassir 85''"
+          "scorers": "Bassir 23', Hadda 46', Bassir 85'"
         }
       ],
       "kits": {
@@ -244,7 +244,7 @@ export const morocco = {
           "opponent": "Spain",
           "score": "2–2",
           "result": "D",
-          "scorers": "Boutaïb 14'', En-Nesyri 81''"
+          "scorers": "Boutaïb 14', En-Nesyri 81'"
         }
       ],
       "kits": {
