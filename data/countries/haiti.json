@@ -1,4 +1,4 @@
-export const haiti = {
+{
   "id": "haiti",
   "name": "Haiti",
   "flagCode": "ht",
@@ -31,8 +31,30 @@ export const haiti = {
     "1974": {
       "result": "Group Stage",
       "headline": "Sanon Stuns Dino Zoff",
+      "annotations": [
+        {
+          "id": "sanon-breaks-zoffs-streak",
+          "label": "BREAKING THE UNBEATEN STREAK",
+          "story": "In just their second-ever World Cup match, Haiti stunned Italy when Emmanuel Sanon rounded goalkeeper Dino Zoff in the 46th minute — ending Zoff's 1,142-minute shutout streak, a World Cup record. Haiti led 1–0 before Italy responded with two quick goals and won 3–1, but the moment made Sanon a national hero."
+        },
+        {
+          "id": "poland-rout",
+          "label": "OVERWHELMED BY POLAND",
+          "story": "Three days after their heroics against Italy, Haiti was routed 7–0 by an unstoppable Poland side that would go on to finish third in the tournament. It remains the heaviest defeat in Haitian World Cup history and a stark reminder of the gap between debutants and the era's best."
+        },
+        {
+          "id": "sanon-strikes-again",
+          "label": "SANON'S SECOND MASTERPIECE",
+          "story": "Already eliminated, Haiti gave Argentina a scare when Emmanuel Sanon struck again in the 63rd minute, becoming the only Haitian to ever score twice at a World Cup. Argentina answered with four goals of their own, winning 4–1, but Sanon closed his country's debut exactly how he'd opened it — as its brightest star."
+        }
+      ],
       "homeColors": "red shirt with black trim, echoing the red-and-black national flag adopted under the Duvalier government",
       "awayColors": null,
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -55,33 +77,7 @@ export const haiti = {
           "result": "L",
           "scorers": "Sanon 63'"
         }
-      ],
-      "kits": {
-        "home": {
-          "image": null,
-          "imageCredit": {
-            "player": null,
-            "game": null
-          },
-          "annotations": [
-            {
-              "id": "sanon-breaks-zoffs-streak",
-              "label": "BREAKING THE UNBEATEN STREAK",
-              "story": "In just their second-ever World Cup match, Haiti stunned Italy when Emmanuel Sanon rounded goalkeeper Dino Zoff in the 46th minute — ending Zoff's 1,142-minute shutout streak, a World Cup record. Haiti led 1–0 before Italy responded with two quick goals and won 3–1, but the moment made Sanon a national hero."
-            },
-            {
-              "id": "poland-rout",
-              "label": "OVERWHELMED BY POLAND",
-              "story": "Three days after their heroics against Italy, Haiti was routed 7–0 by an unstoppable Poland side that would go on to finish third in the tournament. It remains the heaviest defeat in Haitian World Cup history and a stark reminder of the gap between debutants and the era's best."
-            },
-            {
-              "id": "sanon-strikes-again",
-              "label": "SANON'S SECOND MASTERPIECE",
-              "story": "Already eliminated, Haiti gave Argentina a scare when Emmanuel Sanon struck again in the 63rd minute, becoming the only Haitian to ever score twice at a World Cup. Argentina answered with four goals of their own, winning 4–1, but Sanon closed his country's debut exactly how he'd opened it — as its brightest star."
-            }
-          ]
-        }
-      }
+      ]
     }
   }
-};
+}
