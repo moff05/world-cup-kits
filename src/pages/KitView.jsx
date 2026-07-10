@@ -14,6 +14,20 @@ function opponentFlagCode(opponent) {
   return FLAG_OVERRIDES[opponent] || NAME_TO_FLAG[opponent] || null;
 }
 
+function abbrevRound(round) {
+  if (!round) return "";
+  const r = round.toLowerCase();
+  if (r === "final") return "F";
+  if (r.includes("semi")) return "SF";
+  if (r.includes("quarter")) return "QF";
+  if (r === "round of 16") return "R16";
+  if (r === "round of 32") return "R32";
+  if (r === "3rd place") return "3rd";
+  if (r === "2nd round") return "2R";
+  if (r.includes("group")) return "GS";
+  return round.substring(0, 3).toUpperCase();
+}
+
 function StoryText({ text, countryId, kitYears }) {
   const parts = [];
   const yearRegex = /\b(1[89]\d{2}|20\d{2})\b/g;
@@ -231,6 +245,7 @@ export default function KitView() {
                     <td className="match-opponent">
                       <div className="match-opponent-inner">
                         <span className="match-opponent-name">
+                          <span className="match-round-badge">{abbrevRound(m.round)}</span>
                           {flagCode && (
                             <img src={`https://flagcdn.com/w40/${flagCode}.png`} alt="" className="match-flag" />
                           )}

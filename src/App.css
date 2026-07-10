@@ -944,6 +944,7 @@ a { color: inherit; text-decoration: none; }
 .match-row:last-child td { border-bottom: none; }
 
 .match-round    { color: var(--text-muted); font-size: 12px; width: 150px; flex-shrink: 0; text-transform: uppercase; letter-spacing: 0.04em; }
+.match-round-badge { display: none; font-size: 10px; font-weight: 700; color: var(--text-muted); letter-spacing: 0.06em; text-transform: uppercase; min-width: 24px; }
 .match-opponent { color: var(--text-dim); }
 .match-opponent-inner { display: flex; flex-direction: column; gap: 3px; }
 .match-opponent-name { display: flex; align-items: center; gap: 7px; }
@@ -995,8 +996,9 @@ a { color: inherit; text-decoration: none; }
   .year-row-toggle-label { display: none; }
   .year-row-ghost { font-size: 38px; }
 
-  /* Match table: drop round column, tighten score */
+  /* Match table: drop round column, show badge inline, tighten score */
   .match-round { display: none; }
+  .match-round-badge { display: inline; }
   .match-score { min-width: 56px; font-size: 13px; }
   .match-row td { padding: 6px 6px; font-size: 13px; }
 

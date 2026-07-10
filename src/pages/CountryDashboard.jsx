@@ -49,6 +49,20 @@ function opponentFlagCode(name) {
   return found?.flagCode ?? null;
 }
 
+function abbrevRound(round) {
+  if (!round) return "";
+  const r = round.toLowerCase();
+  if (r === "final") return "F";
+  if (r.includes("semi")) return "SF";
+  if (r.includes("quarter")) return "QF";
+  if (r === "round of 16") return "R16";
+  if (r === "round of 32") return "R32";
+  if (r === "3rd place") return "3rd";
+  if (r === "2nd round") return "2R";
+  if (r.includes("group")) return "GS";
+  return round.substring(0, 3).toUpperCase();
+}
+
 
 const ALL_WORLD_CUPS = [
   1930, 1934, 1938, 1950, 1954, 1958, 1962, 1966,
@@ -249,6 +263,7 @@ export default function CountryDashboard() {
                               <td className="match-opponent">
                                 <div className="match-opponent-inner">
                                   <span className="match-opponent-name">
+                                    <span className="match-round-badge">{abbrevRound(m.round)}</span>
                                     {flagCode && (
                                       <img
                                         src={`https://flagcdn.com/w40/${flagCode}.png`}
