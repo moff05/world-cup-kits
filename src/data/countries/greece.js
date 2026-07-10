@@ -103,7 +103,7 @@ export const greece = {
           "opponent": "Nigeria",
           "score": "2–1",
           "result": "W",
-          "scorers": "Dimitrios Salpingidis 44', Vasilis Torosidis 71'"
+          "scorers": "Salpingidis 44'', Torosidis 71''"
         },
         {
           "round": "Group Stage",
@@ -165,14 +165,14 @@ export const greece = {
           "opponent": "Ivory Coast",
           "score": "2–1",
           "result": "W",
-          "scorers": "Andreas Samaris 42', Georgios Samaras 90+3' (pen)"
+          "scorers": "Samaris 42'', Samaras 90'+3''"
         },
         {
           "round": "Round of 16",
           "opponent": "Costa Rica",
           "score": "1–1 (3–5 pens)",
           "result": "D",
-          "scorers": "Sokratis Papastathopoulos 90+1'"
+          "scorers": "Papastathopoulos 90'+1''"
         }
       ],
       "kits": {
