@@ -45,7 +45,7 @@ export const newZealand = {
           "opponent": "Scotland",
           "score": "2–5",
           "result": "L",
-          "scorers": "Sumner 54', Wooddin 65'"
+          "scorers": "Sumner 54'', Wooddin 64''"
         },
         {
           "round": "Group Stage",
@@ -95,14 +95,14 @@ export const newZealand = {
           "opponent": "Slovakia",
           "score": "1–1",
           "result": "D",
-          "scorers": "Reid 90+3'"
+          "scorers": "Reid 90'+3''"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "1–1",
           "result": "D",
-          "scorers": "Smeltz 7'"
+          "scorers": "Smeltz 7''"
         },
         {
           "round": "Group Stage",
