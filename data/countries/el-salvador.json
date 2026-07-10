@@ -3,9 +3,11 @@
   "name": "El Salvador",
   "flagCode": "sv",
   "confederation": "CONCACAF",
-  "worldCups": [1970, 1982],
+  "worldCups": [
+    1970,
+    1982
+  ],
   "bestResult": "Group Stage (2 appearances)",
-
   "stats": {
     "matches": 6,
     "wins": 0,
@@ -14,7 +16,6 @@
     "goalsFor": 1,
     "goalsAgainst": 22
   },
-
   "facts": [
     {
       "id": "the-match-that-sparked-a-war",
@@ -27,7 +28,6 @@
       "story": "In El Salvador's 10–1 defeat to Hungary in 1982 — still the biggest blowout in World Cup history — Luis Ramírez Zapata found the net in the 64th minute. It remains the only goal El Salvador has ever scored across six World Cup matches spanning two tournaments. Ramírez later said teammates warned him not to celebrate, fearing it might provoke Hungary into running up the score further. Hungary added two more goals anyway."
     }
   ],
-
   "kits": {
     "1970": {
       "result": "Group Stage",
@@ -47,11 +47,32 @@
       "homeColors": "blue shirt with white trim and blue shorts",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Belgium", "score": "0–3", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Mexico", "score": "0–4", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Soviet Union", "score": "0–2", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "0–4",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Soviet Union",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1982": {
@@ -72,11 +93,32 @@
       "homeColors": "white shirt with blue trim (Adidas)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Hungary", "score": "1–10", "result": "L", "scorers": "Ramírez 64'" },
-        { "round": "Group Stage", "opponent": "Belgium", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Argentina", "score": "0–2", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Hungary",
+          "score": "1–10",
+          "result": "L",
+          "scorers": "Ramírez Zapata 64''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
       ]
     }
   }

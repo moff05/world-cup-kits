@@ -3,9 +3,12 @@
   "name": "Ivory Coast",
   "flagCode": "ci",
   "confederation": "CAF",
-  "worldCups": [2006, 2010, 2014],
+  "worldCups": [
+    2006,
+    2010,
+    2014
+  ],
   "bestResult": "Group Stage (3 appearances)",
-
   "stats": {
     "matches": 9,
     "wins": 3,
@@ -14,7 +17,6 @@
     "goalsFor": 13,
     "goalsAgainst": 14
   },
-
   "facts": [
     {
       "id": "les-elephants-nickname",
@@ -27,7 +29,6 @@
       "story": "Minutes after Ivory Coast beat Sudan in October 2005 to clinch its first-ever World Cup berth, captain Didier Drogba grabbed a microphone in the dressing room and addressed a country three years into civil war, begging combatants on both sides to lay down their weapons. The plea didn't end the fighting instantly, but it helped push the government and rebel New Forces back toward peace talks that led to a ceasefire."
     }
   ],
-
   "kits": {
     "2006": {
       "result": "Group Stage",
@@ -47,11 +48,32 @@
       "homeColors": "orange shirt with green trim on the crew-neck collar and sleeve cuffs, and a subtle tonal elephant graphic across the front (Puma)",
       "awayColors": "white shirt with a subtle elephant graphic across the torso, green collar and cuffs, and orange accents in the crest and Puma logo (Puma)",
       "image": "https://commons.wikimedia.org/wiki/File:Ivory_Coast_penalty.jpg",
-      "imageCredit": { "player": null, "game": "Penalty kick, Ivory Coast v Serbia and Montenegro, 2006 FIFA World Cup group stage — photo by Björn Laczay, CC BY 2.0, via Wikimedia Commons" },
+      "imageCredit": {
+        "player": null,
+        "game": "Penalty kick, Ivory Coast v Serbia and Montenegro, 2006 FIFA World Cup group stage — photo by Björn Laczay, CC BY 2.0, via Wikimedia Commons"
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Argentina", "score": "1–2", "result": "L", "scorers": "Drogba 82'" },
-        { "round": "Group Stage", "opponent": "Netherlands", "score": "1–2", "result": "L", "scorers": "Bakari Koné 38'" },
-        { "round": "Group Stage", "opponent": "Serbia and Montenegro", "score": "3–2", "result": "W", "scorers": "Dindane 37' (pen), 67', Bonaventure Kalou 86' (pen)" }
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Drogba 82''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Koné 38''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Serbia and Montenegro",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Dindane 37'', Dindane 67'', Kalou 86''"
+        }
       ]
     },
     "2010": {
@@ -72,11 +94,32 @@
       "homeColors": "all-orange shirt with green trim (Puma)",
       "awayColors": "green shirt with white horizontal stripes edged in thin gold, and a diagonal white-and-green panel crossing the chest (Puma)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Portugal", "score": "0–0", "result": "D", "scorers": null },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "1–3", "result": "L", "scorers": "Drogba 79'" },
-        { "round": "Group Stage", "opponent": "North Korea", "score": "3–0", "result": "W", "scorers": "Yaya Touré 14', Romaric 20', Salomon Kalou 82'" }
+        {
+          "round": "Group Stage",
+          "opponent": "Portugal",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Drogba 79''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "North Korea",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Touré 14'', Romaric 20'', Kalou 82''"
+        }
       ]
     },
     "2014": {
@@ -97,11 +140,32 @@
       "homeColors": "orange shirt with a cave-painting-style elephant motif printed across the sleeves (Puma)",
       "awayColors": "all-green shirt sharing the same cave-painting elephant design as the home kit (Puma)",
       "image": "https://commons.wikimedia.org/wiki/File:Colombia_and_Ivory_Coast_match_at_the_FIFA_World_Cup_2014-06-19_(15).jpg",
-      "imageCredit": { "player": null, "game": "Colombia v Ivory Coast, 2014 FIFA World Cup group stage — freely licensed photo via Wikimedia Commons" },
+      "imageCredit": {
+        "player": null,
+        "game": "Colombia v Ivory Coast, 2014 FIFA World Cup group stage — freely licensed photo via Wikimedia Commons"
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Japan", "score": "2–1", "result": "W", "scorers": "Bony 64', Gervinho 66'" },
-        { "round": "Group Stage", "opponent": "Colombia", "score": "1–2", "result": "L", "scorers": "Gervinho 73'" },
-        { "round": "Group Stage", "opponent": "Greece", "score": "1–2", "result": "L", "scorers": "Bony 74'" }
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Bony 64'', Gervinho 66''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Colombia",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Gervinho 73''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Greece",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Bony 74''"
+        }
       ]
     }
   }

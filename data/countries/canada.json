@@ -3,9 +3,11 @@
   "name": "Canada",
   "flagCode": "ca",
   "confederation": "CONCACAF",
-  "worldCups": [1986, 2022],
+  "worldCups": [
+    1986,
+    2022
+  ],
   "bestResult": "Round of 16 (2022)",
-
   "stats": {
     "matches": 6,
     "wins": 0,
@@ -14,7 +16,6 @@
     "goalsFor": 2,
     "goalsAgainst": 12
   },
-
   "facts": [
     {
       "id": "the-36-year-wait",
@@ -27,7 +28,6 @@
       "story": "Two minutes into Canada's group match against Croatia in 2022, Alphonso Davies drilled home the earliest goal of the entire tournament — and the first World Cup goal in Canadian history. It came far too early to matter in the final score: Croatia answered with four unanswered goals to eliminate a Canadian side that had waited 36 years for this stage."
     }
   ],
-
   "kits": {
     "1986": {
       "result": "Group Stage",
@@ -47,11 +47,32 @@
       "homeColors": "red shirt with thin pinstripes and white shorts (Adidas)",
       "awayColors": "white shirt with red trim (Adidas)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "France", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Hungary", "score": "0–2", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Soviet Union", "score": "0–2", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Hungary",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Soviet Union",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2022": {
@@ -77,11 +98,32 @@
       "homeColors": "red shirt with maple leaf-inspired pattern (Nike)",
       "awayColors": "white shirt with red trim (Nike)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Belgium", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Croatia", "score": "1–4", "result": "L", "scorers": "Davies 2'" },
-        { "round": "Group Stage", "opponent": "Morocco", "score": "1–2", "result": "L", "scorers": "Aguerd o.g. 40'" }
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Croatia",
+          "score": "1–4",
+          "result": "L",
+          "scorers": "Davies 2'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Aguerd o.g. 40'"
+        }
       ]
     }
   }

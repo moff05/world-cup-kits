@@ -3,9 +3,13 @@
   "name": "Ecuador",
   "flagCode": "ec",
   "confederation": "CONMEBOL",
-  "worldCups": [2002, 2006, 2014, 2022],
+  "worldCups": [
+    2002,
+    2006,
+    2014,
+    2022
+  ],
   "bestResult": "Round of 16 (2006)",
-
   "stats": {
     "matches": 13,
     "wins": 5,
@@ -14,7 +18,6 @@
     "goalsFor": 14,
     "goalsAgainst": 14
   },
-
   "facts": [
     {
       "id": "the-quito-altitude-fortress",
@@ -27,7 +30,6 @@
       "story": "Enner Valencia scored Ecuador's opening goal in two separate World Cups, twelve years apart — against Switzerland in 2014, then twice against host Qatar in 2022. His 16th-minute penalty in that opener was the first goal of the entire 2022 tournament, and the first World Cup opening-match goal in history scored from the spot. His header 15 minutes later made it 2-0. Those six career goals make him Ecuador's all-time World Cup top scorer."
     }
   ],
-
   "kits": {
     "2002": {
       "result": "Group Stage",
@@ -47,11 +49,32 @@
       "homeColors": "yellow shirt, blue shorts, red socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Italy", "score": "0–2", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Mexico", "score": "1–2", "result": "L", "scorers": "Delgado 5'" },
-        { "round": "Group Stage", "opponent": "Croatia", "score": "1–0", "result": "W", "scorers": "Méndez 48'" }
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Delgado 5''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Croatia",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Méndez 48''"
+        }
       ]
     },
     "2006": {
@@ -72,12 +95,39 @@
       "homeColors": "yellow shirt with blue trim, blue shorts, red socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Poland", "score": "2–0", "result": "W", "scorers": "Tenorio 24', Delgado 80'" },
-        { "round": "Group Stage", "opponent": "Costa Rica", "score": "3–0", "result": "W", "scorers": "Tenorio 8', Delgado 54', Kaviedes 90+2'" },
-        { "round": "Group Stage", "opponent": "Germany", "score": "0–3", "result": "L", "scorers": null },
-        { "round": "Round of 16", "opponent": "England", "score": "0–1", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Tenorio 24'', Delgado 80''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Costa Rica",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Tenorio 8'', Delgado 54'', Kaviedes 90'+2''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "England",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2014": {
@@ -98,11 +148,32 @@
       "homeColors": "yellow shirt with blue sleeves, blue shorts, red socks (Marathon)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Switzerland", "score": "1–2", "result": "L", "scorers": "Valencia 22'" },
-        { "round": "Group Stage", "opponent": "Honduras", "score": "2–1", "result": "W", "scorers": "Valencia 34', Valencia 65'" },
-        { "round": "Group Stage", "opponent": "France", "score": "0–0", "result": "D", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Valencia 22''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Honduras",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Valencia 34'', Valencia 65''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        }
       ]
     },
     "2022": {
@@ -123,11 +194,32 @@
       "homeColors": "yellow shirt with blue geometric pattern, blue shorts, red socks (Marathon)",
       "awayColors": "blue shirt, blue shorts, blue socks (Marathon)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Qatar", "score": "2–0", "result": "W", "scorers": "Valencia 16' (pen.), Valencia 31'" },
-        { "round": "Group Stage", "opponent": "Netherlands", "score": "1–1", "result": "D", "scorers": "Valencia 49'" },
-        { "round": "Group Stage", "opponent": "Senegal", "score": "1–2", "result": "L", "scorers": "Caicedo 67'" }
+        {
+          "round": "Group Stage",
+          "opponent": "Qatar",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Valencia 16' (pen.), Valencia 31'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Valencia 49'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Senegal",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Caicedo 67'"
+        }
       ]
     }
   }

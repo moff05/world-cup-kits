@@ -3,9 +3,15 @@
   "name": "Morocco",
   "flagCode": "ma",
   "confederation": "CAF",
-  "worldCups": [1970, 1986, 1994, 1998, 2018, 2022],
+  "worldCups": [
+    1970,
+    1986,
+    1994,
+    1998,
+    2018,
+    2022
+  ],
   "bestResult": "Fourth Place (2022)",
-
   "stats": {
     "matches": 23,
     "wins": 5,
@@ -14,7 +20,6 @@
     "goalsFor": 20,
     "goalsAgainst": 27
   },
-
   "facts": [
     {
       "id": "colors-of-the-flag",
@@ -27,7 +32,6 @@
       "story": "For the 2022 World Cup, Puma built Morocco's white away shirt around zellige, the hand-cut geometric tilework that decorates fountains, riads and mosques across the country and is studied as much for its mathematics as its beauty. The design turned centuries-old craftsmanship into interlocking stars and polygons across the chest, a deliberate break from generic templates. Worn during the run to the semi-final, it became one of the most photographed shirts of the tournament and sold out at retailers worldwide within days."
     }
   ],
-
   "kits": {
     "1970": {
       "result": "Group Stage",
@@ -42,11 +46,32 @@
       "homeColors": "red shirt, green shorts, red socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "West Germany", "score": "1–2", "result": "L", "scorers": "Jarir 21'" },
-        { "round": "Group Stage", "opponent": "Peru", "score": "0–3", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Bulgaria", "score": "1–1", "result": "D", "scorers": "Ghazouani" }
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Jarir 21''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Peru",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bulgaria",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Ghazouani 61''"
+        }
       ]
     },
     "1986": {
@@ -67,12 +92,39 @@
       "homeColors": "red shirt with green collar and shoulder trim, green shorts, red socks (Adidas)",
       "awayColors": "green shirt with red collar and shoulder stripes, white shorts (Adidas)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Poland", "score": "0–0", "result": "D", "scorers": null },
-        { "round": "Group Stage", "opponent": "England", "score": "0–0", "result": "D", "scorers": null },
-        { "round": "Group Stage", "opponent": "Portugal", "score": "3–1", "result": "W", "scorers": "Khairi (2), Merry" },
-        { "round": "Round of 16", "opponent": "West Germany", "score": "0–1", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Portugal",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Khairi 19'', Khairi 26'', Merry 62''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "West Germany",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1994": {
@@ -82,11 +134,32 @@
       "homeColors": "red shirt, white shorts, red socks (Lotto)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Belgium", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Saudi Arabia", "score": "1–2", "result": "L", "scorers": "Chaouch" },
-        { "round": "Group Stage", "opponent": "Netherlands", "score": "1–2", "result": "L", "scorers": "Nader" }
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Chaouch 26''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Nader 47''"
+        }
       ]
     },
     "1998": {
@@ -102,11 +175,32 @@
       "homeColors": "red shirt, green shorts, red socks (Puma)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Norway", "score": "2–2", "result": "D", "scorers": "Hadji, Hadda" },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "0–3", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Scotland", "score": "3–0", "result": "W", "scorers": "Bassir (2), Hadda" }
+        {
+          "round": "Group Stage",
+          "opponent": "Norway",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Hadji 37'', Hadda 60''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Bassir 23'', Hadda 46'', Bassir 85''"
+        }
       ]
     },
     "2018": {
@@ -122,11 +216,32 @@
       "homeColors": "red shirt, green shorts, red socks (Adidas)",
       "awayColors": "white shirt, white shorts (Adidas)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Iran", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Portugal", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Spain", "score": "2–2", "result": "D", "scorers": "Boutaïb, En-Nesyri" }
+        {
+          "round": "Group Stage",
+          "opponent": "Iran",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Portugal",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Boutaïb 14'', En-Nesyri 81''"
+        }
       ]
     },
     "2022": {
@@ -147,15 +262,60 @@
       "homeColors": "red shirt with green sleeve trim and star crest, black shorts, red socks (Puma)",
       "awayColors": "white shirt with green zellige-pattern geometric graphics, white shorts (Puma)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Croatia", "score": "0–0", "result": "D", "scorers": null },
-        { "round": "Group Stage", "opponent": "Belgium", "score": "2–0", "result": "W", "scorers": "Saïss, Aboukhlal" },
-        { "round": "Group Stage", "opponent": "Canada", "score": "2–1", "result": "W", "scorers": "En-Nesyri, Ziyech" },
-        { "round": "Round of 16", "opponent": "Spain", "score": "0–0 (3–0 pens)", "result": "D", "scorers": null },
-        { "round": "Quarter-final", "opponent": "Portugal", "score": "1–0", "result": "W", "scorers": "En-Nesyri 42'" },
-        { "round": "Semi-final", "opponent": "France", "score": "0–2", "result": "L", "scorers": null },
-        { "round": "3rd Place", "opponent": "Croatia", "score": "1–2", "result": "L", "scorers": "Dari" }
+        {
+          "round": "Group Stage",
+          "opponent": "Croatia",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Saïss, Aboukhlal"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Canada",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "En-Nesyri, Ziyech"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Spain",
+          "score": "0–0 (3–0 pens)",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Portugal",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "En-Nesyri 42'"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "France",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "3rd Place",
+          "opponent": "Croatia",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Dari"
+        }
       ]
     }
   }

@@ -3,9 +3,11 @@
   "name": "New Zealand",
   "flagCode": "nz",
   "confederation": "OFC",
-  "worldCups": [1982, 2010],
+  "worldCups": [
+    1982,
+    2010
+  ],
   "bestResult": "Group Stage (2 appearances)",
-
   "stats": {
     "matches": 6,
     "wins": 0,
@@ -14,7 +16,6 @@
     "goalsFor": 4,
     "goalsAgainst": 14
   },
-
   "facts": [
     {
       "id": "the-all-whites-are-born",
@@ -32,7 +33,6 @@
       "story": "In their 2010 World Cup opener, New Zealand trailed Slovakia 1-0 deep into stoppage time when Shane Smeltz's cross found defender Winston Reid, who glanced a header past the goalkeeper in the third minute of injury time. The goal secured New Zealand's first-ever World Cup point and set the tone for a tournament in which the All Whites became the only team to leave South Africa unbeaten."
     }
   ],
-
   "kits": {
     "1982": {
       "result": "Group Stage",
@@ -52,11 +52,32 @@
       "homeColors": "white shirt with black V-neck collar, black cuffs, and three black shoulder stripes (adidas)",
       "awayColors": "teal shirt with black V-neck collar, black cuffs, and two black shoulder stripes (adidas)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Scotland", "score": "2–5", "result": "L", "scorers": "Sumner 54', Wooddin 65'" },
-        { "round": "Group Stage", "opponent": "Soviet Union", "score": "0–3", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "0–4", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "2–5",
+          "result": "L",
+          "scorers": "Sumner 54'', Wooddin 64''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Soviet Union",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–4",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2010": {
@@ -82,11 +103,32 @@
       "homeColors": "white shirt with black Nike swoosh, silver fern crest, and grey-striped cuffs (Nike)",
       "awayColors": "black shirt with white Nike swoosh, white fern crest, and white sleeve stripes (Nike)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Slovakia", "score": "1–1", "result": "D", "scorers": "Reid 90+3'" },
-        { "round": "Group Stage", "opponent": "Italy", "score": "1–1", "result": "D", "scorers": "Smeltz 7'" },
-        { "round": "Group Stage", "opponent": "Paraguay", "score": "0–0", "result": "D", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Slovakia",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Reid 90'+3''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Smeltz 7''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Paraguay",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        }
       ]
     }
   }

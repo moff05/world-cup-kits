@@ -3,9 +3,10 @@
   "name": "Ukraine",
   "flagCode": "ua",
   "confederation": "UEFA",
-  "worldCups": [2006],
+  "worldCups": [
+    2006
+  ],
   "bestResult": "Quarter-finalists (2006)",
-
   "stats": {
     "matches": 5,
     "wins": 2,
@@ -14,7 +15,6 @@
     "goalsFor": 5,
     "goalsAgainst": 7
   },
-
   "facts": [
     {
       "id": "first-flag-first-cup",
@@ -27,7 +27,6 @@
       "story": "Ukraine's Lotto-made 2006 kit — a bright yellow shirt with blue trim over blue shorts — mirrored the national flag almost exactly, a look first introduced in the buildup to Euro 1996. It was also one of the earliest World Cup jerseys to carry the full Tryzub trident crest, replacing an earlier, more stylized badge fans had nicknamed the 'pineapple.'"
     }
   ],
-
   "kits": {
     "2006": {
       "result": "Quarter-final",
@@ -62,13 +61,46 @@
       "homeColors": "yellow shirt with blue trim on the shoulders and sides, blue shorts (Lotto)",
       "awayColors": "blue away shirt (Lotto)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Spain", "score": "0–4", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Saudi Arabia", "score": "4–0", "result": "W", "scorers": "Rusol 4', Rebrov 36', Shevchenko 46', Kalynychenko 84'" },
-        { "round": "Group Stage", "opponent": "Tunisia", "score": "1–0", "result": "W", "scorers": "Shevchenko 70' (pen)" },
-        { "round": "Round of 16", "opponent": "Switzerland", "score": "0–0 (3–0 pens)", "result": "D", "scorers": null },
-        { "round": "Quarter-final", "opponent": "Italy", "score": "0–3", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "0–4",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "score": "4–0",
+          "result": "W",
+          "scorers": "Rusol 4'', Rebrov 36'', Shevchenko 46'', Kalynychenko 84''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Tunisia",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Shevchenko 70''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Switzerland",
+          "score": "0–0 (3–0 pens)",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Italy",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
       ]
     }
   }

@@ -3,9 +3,12 @@
   "name": "Bolivia",
   "flagCode": "bo",
   "confederation": "CONMEBOL",
-  "worldCups": [1930, 1950, 1994],
+  "worldCups": [
+    1930,
+    1950,
+    1994
+  ],
   "bestResult": "Group Stage (3 appearances)",
-
   "stats": {
     "matches": 6,
     "wins": 0,
@@ -14,7 +17,6 @@
     "goalsFor": 1,
     "goalsAgainst": 20
   },
-
   "facts": [
     {
       "id": "borrowed-blue",
@@ -27,7 +29,6 @@
       "story": "Bolivia's shirt didn't start green. The earliest national team wore plain white, then switched in 1946 to black-and-white stripes echoing the colors of Cochabamba, a footballing stronghold. Only later did the team settle into the all-green look that earned it the nickname La Verde, the identity it carried into its lone goal-scoring moment at a World Cup — Erwin Sánchez's strike against Spain in 1994."
     }
   ],
-
   "kits": {
     "1930": {
       "result": "Group Stage",
@@ -42,10 +43,25 @@
       "homeColors": "white shirt (kit clash forced Bolivia to wear borrowed Uruguay blue vs Brazil)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Yugoslavia", "score": "0–4", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "0–4", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Yugoslavia",
+          "score": "0–4",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–4",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1950": {
@@ -55,9 +71,18 @@
       "homeColors": "white shirt",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Uruguay", "score": "0–8", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "0–8",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1994": {
@@ -73,11 +98,32 @@
       "homeColors": "green shirt with white and yellow trim (Umbro)",
       "awayColors": "white shirt with green trim (Umbro)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Germany", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "South Korea", "score": "0–0", "result": "D", "scorers": null },
-        { "round": "Group Stage", "opponent": "Spain", "score": "1–3", "result": "L", "scorers": "E. Sánchez" }
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Sánchez 67''"
+        }
       ]
     }
   }

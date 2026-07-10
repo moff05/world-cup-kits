@@ -3,9 +3,17 @@
   "name": "Paraguay",
   "flagCode": "py",
   "confederation": "CONMEBOL",
-  "worldCups": [1930, 1950, 1958, 1986, 1998, 2002, 2006, 2010],
+  "worldCups": [
+    1930,
+    1950,
+    1958,
+    1986,
+    1998,
+    2002,
+    2006,
+    2010
+  ],
   "bestResult": "Quarter-finalists (2010)",
-
   "stats": {
     "matches": 27,
     "wins": 7,
@@ -14,7 +22,6 @@
     "goalsFor": 30,
     "goalsAgainst": 38
   },
-
   "facts": [
     {
       "id": "la-albirroja",
@@ -27,7 +34,6 @@
       "story": "Rolando Chilavert wore Paraguay's colors at the 1986 World Cup; his younger brother José Luis became one of the sport's strangest legends — a goalkeeper who scored 67 career goals off penalties and thundering free kicks. At the 1998 World Cup, José Luis became the first keeper ever to take a direct free kick in the finals, rattling the crossbar against Bulgaria, then captained Paraguay again in 2002 — proof a goalkeeper could double as a team's most dangerous attacker."
     }
   ],
-
   "kits": {
     "1930": {
       "result": "Group Stage",
@@ -36,10 +42,25 @@
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "United States", "score": "0–3", "result": "L" },
-        { "round": "Group Stage", "opponent": "Belgium", "score": "1–0", "result": "W" }
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Vargas Peña 40''"
+        }
       ]
     },
     "1950": {
@@ -49,10 +70,25 @@
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Sweden", "score": "2–2", "result": "D" },
-        { "round": "Group Stage", "opponent": "Italy", "score": "0–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "López 35'', Fretes 74''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1958": {
@@ -62,11 +98,32 @@
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "France", "score": "3–7", "result": "L" },
-        { "round": "Group Stage", "opponent": "Scotland", "score": "3–2", "result": "W" },
-        { "round": "Group Stage", "opponent": "Yugoslavia", "score": "3–3", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "3–7",
+          "result": "L",
+          "scorers": "Amarilla 20'', Amarilla 44'', Romero 50''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Agüero 4'', Ré 45'', Parodi 73''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Yugoslavia",
+          "score": "3–3",
+          "result": "D",
+          "scorers": "Parodi 20'', Agüero 52'', Romero 80''"
+        }
       ]
     },
     "1986": {
@@ -76,12 +133,39 @@
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Iraq", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Mexico", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Belgium", "score": "2–2", "result": "D" },
-        { "round": "Round of 16", "opponent": "England", "score": "0–3", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Iraq",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Romero 35''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Romero 85''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Cabañas 50'', Cabañas 76''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "England",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1998": {
@@ -91,12 +175,39 @@
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Bulgaria", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Spain", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Nigeria", "score": "3–1", "result": "W" },
-        { "round": "Round of 16", "opponent": "France", "score": "0–1", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Bulgaria",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Nigeria",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Ayala 1'', Benítez 58'', Cardozo 86''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "France",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2002": {
@@ -106,12 +217,39 @@
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "South Africa", "score": "2–2", "result": "D" },
-        { "round": "Group Stage", "opponent": "Spain", "score": "1–3", "result": "L" },
-        { "round": "Group Stage", "opponent": "Slovenia", "score": "3–1", "result": "W" },
-        { "round": "Round of 16", "opponent": "Germany", "score": "0–1", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "South Africa",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Santa Cruz 39'', Arce 55''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Puyol OG 10''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Slovenia",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Cuevas 65'', Campos 73'', Cuevas 84''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Germany",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2006": {
@@ -121,11 +259,32 @@
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "England", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Sweden", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Trinidad and Tobago", "score": "2–0", "result": "W" }
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Trinidad and Tobago",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Sancho OG 25'', Cuevas 86''"
+        }
       ]
     },
     "2010": {
@@ -135,13 +294,46 @@
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
       "image": "https://commons.wikimedia.org/wiki/File:Paraguay_vs._Italy_-_FIFA_World_Cup_2010_(National_anthems).jpg",
-      "imageCredit": { "player": null, "game": "Paraguay vs. Italy, 2010 Group Stage — Wikimedia Commons (freely licensed)" },
+      "imageCredit": {
+        "player": null,
+        "game": "Paraguay vs. Italy, 2010 Group Stage — Wikimedia Commons (freely licensed)"
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Italy", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Slovakia", "score": "2–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "New Zealand", "score": "0–0", "result": "D" },
-        { "round": "Round of 16", "opponent": "Japan", "score": "0–0 (5–3 pens)", "result": "D" },
-        { "round": "Quarter-final", "opponent": "Spain", "score": "0–1", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Alcaraz 39''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Slovakia",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Vera 27'', Riveros 86''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "New Zealand",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Japan",
+          "score": "0–0 (5–3 pens)",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Spain",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     }
   }

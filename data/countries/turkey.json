@@ -3,9 +3,11 @@
   "name": "Turkey",
   "flagCode": "tr",
   "confederation": "UEFA",
-  "worldCups": [1954, 2002],
+  "worldCups": [
+    1954,
+    2002
+  ],
   "bestResult": "3rd Place (2002)",
-
   "stats": {
     "matches": 10,
     "wins": 5,
@@ -14,7 +16,6 @@
     "goalsFor": 20,
     "goalsAgainst": 17
   },
-
   "facts": [
     {
       "id": "sukurs-record-strike",
@@ -27,7 +28,6 @@
       "story": "Turkey's very first World Cup appearance almost didn't happen through football at all. In a 1954 qualifying play-off against Spain, Turkey lost the first leg 4–1, then stunned Spain 1–0 in the return. A neutral decider finished 2–2, and with no penalty shootouts yet in use, officials drew lots to break the deadlock. Turkey's name came out, sending them to Switzerland instead of Spain."
     }
   ],
-
   "kits": {
     "1954": {
       "result": "Group Stage",
@@ -52,11 +52,32 @@
       "homeColors": "red shirt with white shorts and socks — Turkey's traditional home colors",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "West Germany", "score": "1–4", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "South Korea", "score": "7–0", "result": "W", "scorers": null },
-        { "round": "Group Stage Play-off", "opponent": "West Germany", "score": "2–7", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "1–4",
+          "result": "L",
+          "scorers": "Mamat 2''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "7–0",
+          "result": "W",
+          "scorers": "Mamat 10'', Küçükandonyadis 24'', Mamat 30'', Sargun 37'', Sargun 64'', Sargun 70'', Keskin 76''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "2–7",
+          "result": "L",
+          "scorers": "Ertan 21'', Küçükandonyadis 82''"
+        }
       ]
     },
     "2002": {
@@ -82,15 +103,60 @@
       "homeColors": "red shirt with white shorts (Adidas, 1983–2002 era)",
       "awayColors": "white shirt with red trim (Adidas, 1983–2002 era)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Brazil", "score": "1–2", "result": "L", "scorers": "Şaş 45+2'" },
-        { "round": "Group Stage", "opponent": "Costa Rica", "score": "1–1", "result": "D", "scorers": "Belözoğlu 56'" },
-        { "round": "Group Stage", "opponent": "China", "score": "3–0", "result": "W", "scorers": null },
-        { "round": "Round of 16", "opponent": "Japan", "score": "1–0", "result": "W", "scorers": "Davala 12'" },
-        { "round": "Quarter-final", "opponent": "Senegal", "score": "1–0 (a.e.t.)", "result": "W", "scorers": "Mansız 94'" },
-        { "round": "Semi-final", "opponent": "Brazil", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "3rd Place", "opponent": "South Korea", "score": "3–2", "result": "W", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Şaş 45'+2''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Costa Rica",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Belözoğlu 56''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "China",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Şaş 6'', Korkmaz 9'', Davala 85''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Japan",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Davala 12''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Senegal",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Mansız 94''"
+        },
+        {
+          "round": "semi-finals",
+          "opponent": "Brazil",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "third-place match",
+          "opponent": "South Korea",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Şükür 1'', Mansız 13'', Mansız 32''"
+        }
       ]
     }
   }

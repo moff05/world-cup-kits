@@ -3,9 +3,15 @@
   "name": "Australia",
   "flagCode": "au",
   "confederation": "AFC",
-  "worldCups": [1974, 2006, 2010, 2014, 2018, 2022],
+  "worldCups": [
+    1974,
+    2006,
+    2010,
+    2014,
+    2018,
+    2022
+  ],
   "bestResult": "Round of 16 (2 appearances)",
-
   "stats": {
     "matches": 20,
     "wins": 4,
@@ -14,7 +20,6 @@
     "goalsFor": 17,
     "goalsAgainst": 37
   },
-
   "facts": [
     {
       "id": "born-a-socceroo",
@@ -27,7 +32,6 @@
       "story": "Australia's 1974 squad was entirely amateur — office workers and tradesmen moonlighting as footballers — and went home from West Germany without a single goal in three matches. The Socceroos didn't return to the World Cup for 32 years. In Kaiserslautern in 2006, trailing Japan 1-0 with 20 minutes left, substitute Tim Cahill scored twice in five second-half minutes, and John Aloisi added a third in stoppage time. The 3-1 comeback delivered Australia's first-ever World Cup win, on their second attempt."
     }
   ],
-
   "kits": {
     "1974": {
       "result": "Group Stage",
@@ -36,11 +40,32 @@
       "homeColors": "gold shirt, green shorts, white socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "East Germany", "score": "0–2", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "West Germany", "score": "0–3", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Chile", "score": "0–0", "result": "D", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "East Germany",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        }
       ]
     },
     "2006": {
@@ -61,12 +86,39 @@
       "homeColors": "gold shirt with green trim, green shorts, gold socks (Nike)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Japan", "score": "3–1", "result": "W", "scorers": "Cahill 84', Cahill 89', Aloisi 90+2'" },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "0–2", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Croatia", "score": "2–2", "result": "D", "scorers": "Moore 38' (pen.), Kewell 79'" },
-        { "round": "Round of 16", "opponent": "Italy", "score": "0–1", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Cahill 84'', Cahill 89'', Aloisi 90'+2''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Croatia",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Moore 38'', Kewell 79''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Italy",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2010": {
@@ -82,11 +134,32 @@
       "homeColors": "gold shirt, navy shorts, gold socks (Nike)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Germany", "score": "0–4", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Ghana", "score": "1–1", "result": "D", "scorers": "Holman 11'" },
-        { "round": "Group Stage", "opponent": "Serbia", "score": "2–1", "result": "W", "scorers": "Cahill 69', Holman 73'" }
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "0–4",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ghana",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Holman 11''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Serbia",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Cahill 69'', Holman 73''"
+        }
       ]
     },
     "2014": {
@@ -102,11 +175,32 @@
       "homeColors": "gold shirt with green sleeves, navy shorts, gold socks (Nike)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Chile", "score": "1–3", "result": "L", "scorers": "Cahill 35'" },
-        { "round": "Group Stage", "opponent": "Netherlands", "score": "2–3", "result": "L", "scorers": "Cahill 21', Jedinak 54' (pen.)" },
-        { "round": "Group Stage", "opponent": "Spain", "score": "0–3", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Cahill 35''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Cahill 21'', Jedinak 54''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2018": {
@@ -122,11 +216,32 @@
       "homeColors": "gold shirt, green shorts, gold socks (Nike)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "France", "score": "1–2", "result": "L", "scorers": "Jedinak 62' (pen.)" },
-        { "round": "Group Stage", "opponent": "Denmark", "score": "1–1", "result": "D", "scorers": "Jedinak 35' (pen.)" },
-        { "round": "Group Stage", "opponent": "Peru", "score": "0–2", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Jedinak 62''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Denmark",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Jedinak 38''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Peru",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2022": {
@@ -152,12 +267,39 @@
       "homeColors": "gold shirt with a stitched Golden Wattle pattern, green shorts, gold socks (Nike)",
       "awayColors": "obsidian dark shirt with green accents (Nike)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "France", "score": "1–4", "result": "L", "scorers": "Goodwin 9'" },
-        { "round": "Group Stage", "opponent": "Tunisia", "score": "1–0", "result": "W", "scorers": "Duke 23'" },
-        { "round": "Group Stage", "opponent": "Denmark", "score": "1–0", "result": "W", "scorers": "Leckie 60'" },
-        { "round": "Round of 16", "opponent": "Argentina", "score": "1–2", "result": "L", "scorers": "Enzo Fernández OG 77'" }
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "1–4",
+          "result": "L",
+          "scorers": "Goodwin 9'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Tunisia",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Duke 23'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Denmark",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Leckie 60'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Argentina",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Enzo Fernández OG 77'"
+        }
       ]
     }
   }

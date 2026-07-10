@@ -3,9 +3,15 @@
   "name": "Nigeria",
   "flagCode": "ng",
   "confederation": "CAF",
-  "worldCups": [1994, 1998, 2002, 2010, 2014, 2018],
+  "worldCups": [
+    1994,
+    1998,
+    2002,
+    2010,
+    2014,
+    2018
+  ],
   "bestResult": "Round of 16 (1994, 2014)",
-
   "stats": {
     "matches": 21,
     "wins": 6,
@@ -14,7 +20,6 @@
     "goalsFor": 23,
     "goalsAgainst": 30
   },
-
   "facts": [
     {
       "id": "red-devils-to-green-white",
@@ -27,7 +32,6 @@
       "story": "Nike's design for the 2018 World Cup revived the black-and-white feathered sleeve pattern from Nigeria's very first tournament kit in 1994, wrapping it around a neon-green torso inspired by Yoruba adire tie-dye textiles. The Nigerian Football Federation logged three million pre-orders before release, and when the kit finally went on sale, it reportedly sold out within minutes — later voted the tournament's best jersey by GQ and Sky Sports."
     }
   ],
-
   "kits": {
     "1994": {
       "result": "Round of 16",
@@ -42,12 +46,39 @@
       "homeColors": "green shirt with black-and-white eagle-wing sleeve pattern, white shorts, green socks (Adidas)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Bulgaria", "score": "3–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Argentina", "score": "1–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Greece", "score": "2–0", "result": "W" },
-        { "round": "Round of 16", "opponent": "Italy", "score": "1–2 (a.e.t.)", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Bulgaria",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Yekini 21'', Amokachi 43'', Amunike 55''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Siasia 8''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Greece",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "George 45'+2'', Amokachi 90'+5''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Italy",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Amunike 25''"
+        }
       ]
     },
     "1998": {
@@ -63,12 +94,39 @@
       "homeColors": "green shirt, white shorts, green socks (Nike)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Spain", "score": "3–2", "result": "W" },
-        { "round": "Group Stage", "opponent": "Bulgaria", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Paraguay", "score": "1–3", "result": "L" },
-        { "round": "Round of 16", "opponent": "Denmark", "score": "1–4", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Adepoju 24'', Zubizarreta OG 73'', Oliseh 78''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bulgaria",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Ikpeba 28''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Paraguay",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Oruma 11''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Denmark",
+          "score": "1–4",
+          "result": "L",
+          "scorers": "Babangida 77''"
+        }
       ]
     },
     "2002": {
@@ -78,11 +136,32 @@
       "homeColors": "pastel green shirt, white shorts (Nike)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Argentina", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Sweden", "score": "1–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "England", "score": "0–0", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Aghahowa 27''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        }
       ]
     },
     "2010": {
@@ -98,11 +177,32 @@
       "homeColors": "green shirt, white shorts, green socks (Adidas)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Argentina", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Greece", "score": "1–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "South Korea", "score": "2–2", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Greece",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Uche 16''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Uche 12'', Yakubu 69''"
+        }
       ]
     },
     "2014": {
@@ -118,12 +218,39 @@
       "homeColors": "green shirt, white shorts, green socks (Adidas)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Iran", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Bosnia and Herzegovina", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Argentina", "score": "2–3", "result": "L" },
-        { "round": "Round of 16", "opponent": "France", "score": "0–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Iran",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Odemwingie 29''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Musa 4'', Musa 47''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "France",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2018": {
@@ -139,11 +266,32 @@
       "homeColors": "green shirt with black-and-white feathered chevron pattern, white shorts (Nike)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Croatia", "score": "0–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Iceland", "score": "2–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Argentina", "score": "1–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Croatia",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Iceland",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Musa 49'', Musa 75''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Moses 51''"
+        }
       ]
     }
   }

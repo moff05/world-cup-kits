@@ -3,9 +3,16 @@
   "name": "Bulgaria",
   "flagCode": "bg",
   "confederation": "UEFA",
-  "worldCups": [1962, 1966, 1970, 1974, 1986, 1994, 1998],
+  "worldCups": [
+    1962,
+    1966,
+    1970,
+    1974,
+    1986,
+    1994,
+    1998
+  ],
   "bestResult": "4th Place (1994)",
-
   "stats": {
     "matches": 26,
     "wins": 3,
@@ -14,7 +21,6 @@
     "goalsFor": 22,
     "goalsAgainst": 53
   },
-
   "facts": [
     {
       "id": "trikolyorite",
@@ -27,7 +33,6 @@
       "story": "Bulgaria reached five World Cups — 1962, 1966, 1970, 1974, and 1986 — without winning a single match, drawing six and losing ten across sixteen games. The breakthrough finally came in 1994, sparked by Emil Kostadinov's stoppage-time strike in Paris that eliminated France from qualifying. Once at the tournament, Bulgaria beat Greece and Argentina before knocking out Germany, turning two decades of World Cup futility into a run to the semi-finals."
     }
   ],
-
   "kits": {
     "1962": {
       "result": "Group Stage",
@@ -36,11 +41,32 @@
       "homeColors": "white shirt, green shorts, red socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Argentina", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Hungary", "score": "1–6", "result": "L" },
-        { "round": "Group Stage", "opponent": "England", "score": "0–0", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Hungary",
+          "score": "1–6",
+          "result": "L",
+          "scorers": "Sokolov 64''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        }
       ]
     },
     "1966": {
@@ -50,11 +76,32 @@
       "homeColors": "white shirt, green shorts, red socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Brazil", "score": "0–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Portugal", "score": "0–3", "result": "L" },
-        { "round": "Group Stage", "opponent": "Hungary", "score": "1–3", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Portugal",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Hungary",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Asparuhov 15''"
+        }
       ]
     },
     "1970": {
@@ -64,11 +111,32 @@
       "homeColors": "white shirt, green shorts, red socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Peru", "score": "2–3", "result": "L" },
-        { "round": "Group Stage", "opponent": "West Germany", "score": "2–5", "result": "L" },
-        { "round": "Group Stage", "opponent": "Morocco", "score": "1–1", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Peru",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Dermendzhiev 13'', Bonev 49''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "2–5",
+          "result": "L",
+          "scorers": "Nikodimov 12'', Kolev 89''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Zhechev 40''"
+        }
       ]
     },
     "1974": {
@@ -78,11 +146,32 @@
       "homeColors": "white shirt, green shorts, red socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Sweden", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Uruguay", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Netherlands", "score": "1–4", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Bonev 75''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "1–4",
+          "result": "L",
+          "scorers": "Krol OG 78''"
+        }
       ]
     },
     "1986": {
@@ -98,12 +187,39 @@
       "homeColors": "white shirt, green shorts, red socks (Adidas)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Italy", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "South Korea", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Argentina", "score": "0–2", "result": "L" },
-        { "round": "Round of 16", "opponent": "Mexico", "score": "0–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Sirakov 85''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Getov 11''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Mexico",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1994": {
@@ -119,15 +235,60 @@
       "homeColors": "white shirt with green diagonal side stripes, green shorts, red trim (Adidas)",
       "awayColors": "red shirt (Adidas)",
       "image": "https://commons.wikimedia.org/wiki/File:World_Cup_1994_-_Bulgaria_v_Germany_-_Stoichkov_has_scored_in_75th_minute.jpg",
-      "imageCredit": { "player": "Hristo Stoichkov", "game": "Bulgaria vs Germany, 1994 World Cup quarter-final — Wikimedia Commons" },
+      "imageCredit": {
+        "player": "Hristo Stoichkov",
+        "game": "Bulgaria vs Germany, 1994 World Cup quarter-final — Wikimedia Commons"
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Nigeria", "score": "0–3", "result": "L" },
-        { "round": "Group Stage", "opponent": "Greece", "score": "4–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Argentina", "score": "2–0", "result": "W" },
-        { "round": "Round of 16", "opponent": "Mexico", "score": "1–1 (a.e.t.) (3–1 pens)", "result": "D" },
-        { "round": "Quarter-final", "opponent": "Germany", "score": "2–1", "result": "W" },
-        { "round": "Semi-final", "opponent": "Italy", "score": "1–2", "result": "L" },
-        { "round": "3rd Place", "opponent": "Sweden", "score": "0–4", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Nigeria",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Greece",
+          "score": "4–0",
+          "result": "W",
+          "scorers": "Stoichkov 5'', Stoichkov 55'', Letchkov 65'', Borimirov 90''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Stoichkov 61'', Sirakov 90'+3''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Mexico",
+          "score": "1–1 (3–1 pens)",
+          "result": "D",
+          "scorers": "Stoichkov 6''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Germany",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Stoichkov 75'', Letchkov 78''"
+        },
+        {
+          "round": "semi-finals",
+          "opponent": "Italy",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Stoichkov 44''"
+        },
+        {
+          "round": "third-place match",
+          "opponent": "Sweden",
+          "score": "0–4",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1998": {
@@ -137,11 +298,32 @@
       "homeColors": "white shirt, green shorts, red socks (Puma)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Paraguay", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Nigeria", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Spain", "score": "1–6", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Paraguay",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Nigeria",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–6",
+          "result": "L",
+          "scorers": "Kostadinov 58''"
+        }
       ]
     }
   }

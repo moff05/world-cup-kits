@@ -3,9 +3,16 @@
   "name": "Austria",
   "flagCode": "at",
   "confederation": "UEFA",
-  "worldCups": [1934, 1954, 1958, 1978, 1982, 1990, 1998],
+  "worldCups": [
+    1934,
+    1954,
+    1958,
+    1978,
+    1982,
+    1990,
+    1998
+  ],
   "bestResult": "3rd Place (1954)",
-
   "stats": {
     "matches": 29,
     "wins": 12,
@@ -14,7 +21,6 @@
     "goalsFor": 43,
     "goalsAgainst": 47
   },
-
   "facts": [
     {
       "id": "the-wunderteam",
@@ -27,7 +33,6 @@
       "story": "For nearly a century, Austria's white shirt and black shorts traced back to the colors of the Teutonic Order, with the flag's red reserved for the away kit. That changed in 2004, when Austrian great Hans Krankl — the hero of Córdoba — pushed for red to become the primary color instead, arguing the national team should wear the flag's red-white-red on center stage rather than in the shadows."
     }
   ],
-
   "kits": {
     "1934": {
       "result": "4th Place",
@@ -42,12 +47,39 @@
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Round of 16", "opponent": "France", "score": "3–2 (a.e.t.)", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Hungary", "score": "2–1", "result": "W" },
-        { "round": "Semi-final", "opponent": "Italy", "score": "0–1", "result": "L" },
-        { "round": "3rd Place", "opponent": "Germany", "score": "2–3", "result": "L" }
+        {
+          "round": "Round of 16",
+          "opponent": "France",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Sindelar 44'', Schall 93'', Bican 109''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Hungary",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Horvath 8'', Zischek 51''"
+        },
+        {
+          "round": "semi-finals",
+          "opponent": "Italy",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "third-place match",
+          "opponent": "Germany",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Horvath 28'', Sesta 54''"
+        }
       ]
     },
     "1954": {
@@ -63,13 +95,46 @@
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Scotland", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Czechoslovakia", "score": "5–0", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Switzerland", "score": "7–5", "result": "W" },
-        { "round": "Semi-final", "opponent": "West Germany", "score": "1–6", "result": "L" },
-        { "round": "3rd Place", "opponent": "Uruguay", "score": "3–1", "result": "W" }
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Probst 33''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Czechoslovakia",
+          "score": "5–0",
+          "result": "W",
+          "scorers": "Stojaspal 3'', Probst 4'', Probst 21'', Probst 24'', Stojaspal 65''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Switzerland",
+          "score": "7–5",
+          "result": "W",
+          "scorers": "Wagner 25'', Körner 26'', Wagner 27'', Ocwirk 32'', Körner 34'', Wagner 53'', Probst 76''"
+        },
+        {
+          "round": "semi-finals",
+          "opponent": "West Germany",
+          "score": "1–6",
+          "result": "L",
+          "scorers": "Probst 51''"
+        },
+        {
+          "round": "third-place match",
+          "opponent": "Uruguay",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Stojaspal 16'', Cruz OG 59'', Ocwirk 89''"
+        }
       ]
     },
     "1958": {
@@ -79,11 +144,32 @@
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Brazil", "score": "0–3", "result": "L" },
-        { "round": "Group Stage", "opponent": "Soviet Union", "score": "0–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "England", "score": "2–2", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Soviet Union",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Koller 15'', Körner 71''"
+        }
       ]
     },
     "1978": {
@@ -99,14 +185,53 @@
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Spain", "score": "2–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Sweden", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "0–1", "result": "L" },
-        { "round": "2nd Round", "opponent": "Netherlands", "score": "1–5", "result": "L" },
-        { "round": "2nd Round", "opponent": "Italy", "score": "0–1", "result": "L" },
-        { "round": "2nd Round", "opponent": "West Germany", "score": "3–2", "result": "W" }
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Schachner 10'', Krankl 76''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Krankl 42''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Netherlands",
+          "score": "1–5",
+          "result": "L",
+          "scorers": "Obermayer 80''"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Italy",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "West Germany",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Vogts OG 59'', Krankl 66'', Krankl 87''"
+        }
       ]
     },
     "1982": {
@@ -122,13 +247,46 @@
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Chile", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Algeria", "score": "2–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "West Germany", "score": "0–1", "result": "L" },
-        { "round": "2nd Round", "opponent": "France", "score": "0–1", "result": "L" },
-        { "round": "2nd Round", "opponent": "Northern Ireland", "score": "2–2", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Schachner 22''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Algeria",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Schachner 55'', Krankl 67''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "France",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Northern Ireland",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Pezzey 50'', Hintermaier 68''"
+        }
       ]
     },
     "1990": {
@@ -138,11 +296,32 @@
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Italy", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Czechoslovakia", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "United States", "score": "2–1", "result": "W" }
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Czechoslovakia",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Ogris 49'', Rodax 63''"
+        }
       ]
     },
     "1998": {
@@ -152,11 +331,32 @@
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Cameroon", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Chile", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Italy", "score": "1–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Cameroon",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Polster 90'+1''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Vastić 90'+2''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Herzog 90'+2''"
+        }
       ]
     }
   }

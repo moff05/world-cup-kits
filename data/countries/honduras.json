@@ -3,9 +3,12 @@
   "name": "Honduras",
   "flagCode": "hn",
   "confederation": "CONCACAF",
-  "worldCups": [1982, 2010, 2014],
+  "worldCups": [
+    1982,
+    2010,
+    2014
+  ],
   "bestResult": "Group Stage (3 appearances)",
-
   "stats": {
     "matches": 9,
     "wins": 0,
@@ -14,7 +17,6 @@
     "goalsFor": 3,
     "goalsAgainst": 14
   },
-
   "facts": [
     {
       "id": "the-catrachos",
@@ -27,7 +29,6 @@
       "story": "Honduras's strangest World Cup story never happened at a World Cup. Qualifying for Mexico 1970, Honduras and El Salvador split two increasingly hostile legs before a decisive playoff in Mexico City, a series so charged with nationalist tension that it helped spark the four-day Football War between the two countries weeks later. El Salvador won the playoff 3-2 and advanced; Honduras went home, a reminder that this small qualifying region has always carried outsized stakes."
     }
   ],
-
   "kits": {
     "1982": {
       "result": "Group Stage",
@@ -47,11 +48,32 @@
       "homeColors": "white shirt with a blue crew-neck collar and blue Adidas three stripes on the shoulders, blue crest reading HONDURAS (Adidas)",
       "awayColors": "blue and white vertical stripes with a white collar and blue Adidas three stripes (Adidas)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Spain", "score": "1–1", "result": "D", "scorers": "Zelaya 8'" },
-        { "round": "Group Stage", "opponent": "Northern Ireland", "score": "1–1", "result": "D", "scorers": "Laing 60'" },
-        { "round": "Group Stage", "opponent": "Yugoslavia", "score": "0–1", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Zelaya 8''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Northern Ireland",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Laing 60''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Yugoslavia",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2010": {
@@ -67,11 +89,32 @@
       "homeColors": "white shirt with a blue horizontal band fading across the chest, blue V-neck collar and sleeve cuffs (Joma)",
       "awayColors": "blue shirt with white stripes (Joma)",
       "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Spain_Honduras.jpg",
-      "imageCredit": { "player": null, "game": "Spain vs Honduras, 2010 World Cup Group H (Wikimedia Commons)" },
+      "imageCredit": {
+        "player": null,
+        "game": "Spain vs Honduras, 2010 World Cup Group H (Wikimedia Commons)"
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Chile", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Spain", "score": "0–2", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Switzerland", "score": "0–0", "result": "D", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        }
       ]
     },
     "2014": {
@@ -92,11 +135,32 @@
       "homeColors": "white shirt with light blue trim on the collar and sleeve cuffs, flag-inspired white-and-blue design (Joma)",
       "awayColors": "blue shirt with white and sky-blue design elements, mirroring the home kit (Joma)",
       "image": "https://commons.wikimedia.org/wiki/File:Honduras_and_Ecuador_match_at_the_FIFA_World_Cup_2014-06-20_(14283334658).jpg",
-      "imageCredit": { "player": null, "game": "Honduras vs Ecuador, 2014 World Cup Group E (Wikimedia Commons)" },
+      "imageCredit": {
+        "player": null,
+        "game": "Honduras vs Ecuador, 2014 World Cup Group E (Wikimedia Commons)"
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "France", "score": "0–3", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Ecuador", "score": "1–2", "result": "L", "scorers": "Costly 31'" },
-        { "round": "Group Stage", "opponent": "Switzerland", "score": "0–3", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ecuador",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Costly 31''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
       ]
     }
   }

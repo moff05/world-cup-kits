@@ -3,9 +3,25 @@
   "name": "England",
   "flagCode": "gb-eng",
   "confederation": "UEFA",
-  "worldCups": [1950, 1954, 1958, 1962, 1966, 1970, 1982, 1986, 1990, 1998, 2002, 2006, 2010, 2014, 2018, 2022],
+  "worldCups": [
+    1950,
+    1954,
+    1958,
+    1962,
+    1966,
+    1970,
+    1982,
+    1986,
+    1990,
+    1998,
+    2002,
+    2006,
+    2010,
+    2014,
+    2018,
+    2022
+  ],
   "bestResult": "World Champions (1966)",
-
   "stats": {
     "matches": 74,
     "wins": 32,
@@ -14,7 +30,6 @@
     "goalsFor": 104,
     "goalsAgainst": 68
   },
-
   "facts": [
     {
       "id": "ten-roses-no-answer",
@@ -27,7 +42,6 @@
       "story": "England's crest went decades unmarked by their sole triumph. Only in 2003, 37 years after Bobby Moore lifted the trophy, did the FA stitch a single gold star onto the shirt, tucked onto the left sleeve of the home kit, easy to miss. A year later it moved to pride of place above the badge itself, debuting first on the away shirt before becoming permanent. One star, one tournament, one country still chasing a second."
     }
   ],
-
   "kits": {
     "1950": {
       "result": "Group Stage",
@@ -36,11 +50,32 @@
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Chile", "score": "2–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "United States", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Spain", "score": "0–1", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Mortensen 39'', Mannion 51''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1954": {
@@ -50,11 +85,32 @@
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Belgium", "score": "4–4", "result": "D" },
-        { "round": "Group Stage", "opponent": "Switzerland", "score": "2–0", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Uruguay", "score": "2–4", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "4–4",
+          "result": "D",
+          "scorers": "Broadis 26'', Lofthouse 36'', Broadis 63'', Lofthouse 91''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Mullen 43'', Wilshaw 69''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Uruguay",
+          "score": "2–4",
+          "result": "L",
+          "scorers": "Lofthouse 16'', Finney 67''"
+        }
       ]
     },
     "1958": {
@@ -64,12 +120,39 @@
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Soviet Union", "score": "2–2", "result": "D" },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Austria", "score": "2–2", "result": "D" },
-        { "round": "Group Stage", "opponent": "Soviet Union", "score": "0–1", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Soviet Union",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Kevan 66'', Finney 85''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Austria",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Haynes 56'', Kevan 74''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Soviet Union",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1962": {
@@ -79,12 +162,39 @@
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Hungary", "score": "1–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Argentina", "score": "3–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Bulgaria", "score": "0–0", "result": "D" },
-        { "round": "Quarter-final", "opponent": "Brazil", "score": "1–3", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Hungary",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Flowers 60''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Flowers 17'', Charlton 42'', Greaves 67''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bulgaria",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Brazil",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Hitchens 38''"
+        }
       ]
     },
     "1966": {
@@ -94,14 +204,53 @@
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": "red shirt, white shorts, red socks (worn in the final)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Uruguay", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Mexico", "score": "2–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "France", "score": "2–0", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Argentina", "score": "1–0", "result": "W" },
-        { "round": "Semi-final", "opponent": "Portugal", "score": "2–1", "result": "W" },
-        { "round": "Final", "opponent": "West Germany", "score": "4–2", "result": "W" }
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Charlton 37'', Hunt 75''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Hunt 38'', Hunt 75''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Argentina",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Hurst 78''"
+        },
+        {
+          "round": "semi-finals",
+          "opponent": "Portugal",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Charlton 30'', Charlton 80''"
+        },
+        {
+          "round": "Final",
+          "opponent": "West Germany",
+          "score": "4–2",
+          "result": "W",
+          "scorers": "Hurst 18'', Peters 78'', Hurst 101'', Hurst 120''"
+        }
       ]
     },
     "1970": {
@@ -111,12 +260,39 @@
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Romania", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Czechoslovakia", "score": "1–0", "result": "W" },
-        { "round": "Quarter-final", "opponent": "West Germany", "score": "2–3", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Romania",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Hurst 65''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Czechoslovakia",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Clarke 50''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "West Germany",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Mullery 31'', Peters 49''"
+        }
       ]
     },
     "1982": {
@@ -126,13 +302,46 @@
       "homeColors": "white shirt with red and blue sleeve trim, navy blue shorts, white socks",
       "awayColors": "red shirt with blue trim",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "France", "score": "3–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Czechoslovakia", "score": "2–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Kuwait", "score": "1–0", "result": "W" },
-        { "round": "2nd Round", "opponent": "West Germany", "score": "0–0", "result": "D" },
-        { "round": "2nd Round", "opponent": "Spain", "score": "0–0", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Robson 1'', Robson 67'', Mariner 83''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Czechoslovakia",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Francis 62'', Barmoš OG 66''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Kuwait",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Francis 27''"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "West Germany",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Spain",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        }
       ]
     },
     "1986": {
@@ -142,13 +351,46 @@
       "homeColors": "white shirt with grey pinstripe trim, navy blue shorts, white socks",
       "awayColors": "red shirt, white shorts",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Portugal", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Morocco", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Poland", "score": "3–0", "result": "W" },
-        { "round": "Round of 16", "opponent": "Paraguay", "score": "3–0", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Argentina", "score": "1–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Portugal",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Lineker 9'', Lineker 14'', Lineker 34''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Paraguay",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Lineker 31'', Beardsley 56'', Lineker 73''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Argentina",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Lineker 81''"
+        }
       ]
     },
     "1990": {
@@ -158,15 +400,60 @@
       "homeColors": "white shirt with shadow pinstripe pattern, navy blue shorts, white socks",
       "awayColors": "red shirt, white shorts",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Republic of Ireland", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Netherlands", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Egypt", "score": "1–0", "result": "W" },
-        { "round": "Round of 16", "opponent": "Belgium", "score": "1–0", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Cameroon", "score": "3–2", "result": "W" },
-        { "round": "Semi-final", "opponent": "West Germany", "score": "1–1 (3–4 pens)", "result": "D" },
-        { "round": "3rd Place", "opponent": "Italy", "score": "1–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Republic of Ireland",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Lineker 9''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Egypt",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Wright 58''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Belgium",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Platt 119''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Cameroon",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Platt 25'', Lineker 83'', Lineker 105''"
+        },
+        {
+          "round": "semi-finals",
+          "opponent": "West Germany",
+          "score": "1–1 (3–4 pens)",
+          "result": "D",
+          "scorers": "Lineker 80''"
+        },
+        {
+          "round": "third-place match",
+          "opponent": "Italy",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Platt 81''"
+        }
       ]
     },
     "1998": {
@@ -176,12 +463,39 @@
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": "red shirt, white shorts",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Tunisia", "score": "2–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Romania", "score": "1–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Colombia", "score": "2–0", "result": "W" },
-        { "round": "Round of 16", "opponent": "Argentina", "score": "2–2 (3–4 pens)", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Tunisia",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Shearer 42'', Scholes 89''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Romania",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Owen 81''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Colombia",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Anderton 20'', Beckham 29''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Argentina",
+          "score": "2–2 (3–4 pens)",
+          "result": "D",
+          "scorers": "Shearer 9'', Owen 16''"
+        }
       ]
     },
     "2002": {
@@ -191,13 +505,46 @@
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": "red shirt, navy blue shorts",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Sweden", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Argentina", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Nigeria", "score": "0–0", "result": "D" },
-        { "round": "Round of 16", "opponent": "Denmark", "score": "3–0", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Brazil", "score": "1–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Campbell 24''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Beckham 44''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Nigeria",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Denmark",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Ferdinand 5'', Owen 22'', Heskey 44''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Brazil",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Owen 23''"
+        }
       ]
     },
     "2006": {
@@ -207,13 +554,46 @@
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": "red shirt, white shorts",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Paraguay", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Trinidad and Tobago", "score": "2–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Sweden", "score": "2–2", "result": "D" },
-        { "round": "Round of 16", "opponent": "Ecuador", "score": "1–0", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Portugal", "score": "0–0 (1–3 pens)", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Paraguay",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Gamarra OG 3''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Trinidad and Tobago",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Crouch 83'', Gerrard 90'+1''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Cole 34'', Gerrard 85''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Ecuador",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Beckham 60''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Portugal",
+          "score": "0–0 (1–3 pens)",
+          "result": "D",
+          "scorers": null
+        }
       ]
     },
     "2010": {
@@ -223,12 +603,39 @@
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": "red shirt, red shorts",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "United States", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Algeria", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Slovenia", "score": "1–0", "result": "W" },
-        { "round": "Round of 16", "opponent": "Germany", "score": "1–4", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Gerrard 4''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Algeria",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Slovenia",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Defoe 23''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Germany",
+          "score": "1–4",
+          "result": "L",
+          "scorers": "Upson 37''"
+        }
       ]
     },
     "2014": {
@@ -238,11 +645,32 @@
       "homeColors": "white shirt with silver trim, navy blue shorts, white socks",
       "awayColors": "red shirt",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Italy", "score": "1–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Uruguay", "score": "1–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Costa Rica", "score": "0–0", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Sturridge 37''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Rooney 75''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Costa Rica",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        }
       ]
     },
     "2018": {
@@ -252,15 +680,60 @@
       "homeColors": "white shirt with red trim, navy blue shorts, white socks",
       "awayColors": "red shirt, white shorts, red socks",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Tunisia", "score": "2–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Panama", "score": "6–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Belgium", "score": "0–1", "result": "L" },
-        { "round": "Round of 16", "opponent": "Colombia", "score": "1–1 (4–3 pens)", "result": "D" },
-        { "round": "Quarter-final", "opponent": "Sweden", "score": "2–0", "result": "W" },
-        { "round": "Semi-final", "opponent": "Croatia", "score": "1–2", "result": "L" },
-        { "round": "3rd Place", "opponent": "Belgium", "score": "0–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Tunisia",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Kane 11'', Kane 90'+1''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Panama",
+          "score": "6–1",
+          "result": "W",
+          "scorers": "Stones 8'', Kane 22'', Lingard 36'', Stones 40'', Kane 45'+1'', Kane 62''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Colombia",
+          "score": "1–1 (4–3 pens)",
+          "result": "D",
+          "scorers": "Kane 57''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Sweden",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Maguire 30'', Alli 59''"
+        },
+        {
+          "round": "semi-finals",
+          "opponent": "Croatia",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Trippier 5''"
+        },
+        {
+          "round": "third-place match",
+          "opponent": "Belgium",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2022": {
@@ -270,13 +743,41 @@
       "homeColors": "white shirt with blue gradient trim, navy blue shorts, white socks",
       "awayColors": "red shirt, navy blue shorts",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Iran", "score": "6–2", "result": "W" },
-        { "round": "Group Stage", "opponent": "United States", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Wales", "score": "3–0", "result": "W" },
-        { "round": "Round of 16", "opponent": "Senegal", "score": "3–0", "result": "W" },
-        { "round": "Quarter-final", "opponent": "France", "score": "1–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Iran",
+          "score": "6–2",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "0–0",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Wales",
+          "score": "3–0",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Senegal",
+          "score": "3–0",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "France",
+          "score": "1–2",
+          "result": "L"
+        }
       ]
     }
   }

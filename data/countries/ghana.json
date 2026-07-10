@@ -3,9 +3,13 @@
   "name": "Ghana",
   "flagCode": "gh",
   "confederation": "CAF",
-  "worldCups": [2006, 2010, 2014, 2022],
+  "worldCups": [
+    2006,
+    2010,
+    2014,
+    2022
+  ],
   "bestResult": "Quarter-finalists (2010)",
-
   "stats": {
     "matches": 15,
     "wins": 5,
@@ -14,7 +18,6 @@
     "goalsFor": 18,
     "goalsAgainst": 23
   },
-
   "facts": [
     {
       "id": "black-star-name",
@@ -27,7 +30,6 @@
       "story": "Ghana didn't always dress in the gold, green and red now synonymous with the Black Stars — early kits were plain white at home and yellow away. From 1990 the team switched to the Pan-African palette drawn straight from its crest and flag, a look it wore through the 2006 World Cup breakthrough. An all-black second kit followed in 2008, giving Ghana two identities: the traditional colors of the flag, and the shadow kit that became a fan favorite in its own right."
     }
   ],
-
   "kits": {
     "2006": {
       "result": "Round of 16",
@@ -42,12 +44,39 @@
       "homeColors": "white shirt with red, gold and green trim, drawn from the Ghana flag (Puma)",
       "awayColors": "red shirt with black and gold trim (Puma)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Italy", "score": "0–2", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Czech Republic", "score": "2–0", "result": "W", "scorers": "Gyan 2', Muntari 82'" },
-        { "round": "Group Stage", "opponent": "United States", "score": "2–1", "result": "W", "scorers": "Draman 22', Appiah 45+2' (pen)" },
-        { "round": "Round of 16", "opponent": "Brazil", "score": "0–3", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Czech Republic",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Gyan 2'', Muntari 82''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Draman 22'', Appiah 45'+2''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Brazil",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2010": {
@@ -68,13 +97,46 @@
       "homeColors": "white shirt with gold and red trim (Puma)",
       "awayColors": "black shirt with gold trim, introduced in 2008 (Puma)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Serbia", "score": "1–0", "result": "W", "scorers": "Gyan 85' (pen)" },
-        { "round": "Group Stage", "opponent": "Australia", "score": "1–1", "result": "D", "scorers": "Gyan 25' (pen)" },
-        { "round": "Group Stage", "opponent": "Germany", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "Round of 16", "opponent": "United States", "score": "2–1 (a.e.t.)", "result": "W", "scorers": "Boateng 5', Gyan 93'" },
-        { "round": "Quarter-final", "opponent": "Uruguay", "score": "1–1 (4–2 pens)", "result": "D", "scorers": "Muntari 45'" }
+        {
+          "round": "Group Stage",
+          "opponent": "Serbia",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Gyan 85''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Australia",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Gyan 25''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "United States",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Boateng 5'', Gyan 93''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Uruguay",
+          "score": "1–1 (2–4 pens)",
+          "result": "D",
+          "scorers": "Muntari 45'+2''"
+        }
       ]
     },
     "2014": {
@@ -90,11 +152,32 @@
       "homeColors": "white shirt with a red, gold and green sash — voted one of the tournament's best kits (Puma)",
       "awayColors": "black shirt with gold trim (Puma)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "United States", "score": "1–2", "result": "L", "scorers": "Ayew 82'" },
-        { "round": "Group Stage", "opponent": "Germany", "score": "2–2", "result": "D", "scorers": "Ayew 54', Gyan 63'" },
-        { "round": "Group Stage", "opponent": "Portugal", "score": "1–2", "result": "L", "scorers": "Gyan 57'" }
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Ayew 82''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Ayew 54'', Gyan 63''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Portugal",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Gyan 57''"
+        }
       ]
     },
     "2022": {
@@ -110,11 +193,32 @@
       "homeColors": "white shirt with red, gold and green trim (Puma)",
       "awayColors": "black shirt with gold trim (Puma)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Portugal", "score": "2–3", "result": "L", "scorers": "Ayew 73', Bukari 89'" },
-        { "round": "Group Stage", "opponent": "South Korea", "score": "3–2", "result": "W", "scorers": "Salisu 24', Kudus 34', 68'" },
-        { "round": "Group Stage", "opponent": "Uruguay", "score": "0–2", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Portugal",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Ayew 73', Bukari 89'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Salisu 24', Kudus 34', 68'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
       ]
     }
   }

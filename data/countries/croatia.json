@@ -3,9 +3,15 @@
   "name": "Croatia",
   "flagCode": "hr",
   "confederation": "UEFA",
-  "worldCups": [1998, 2002, 2006, 2014, 2018, 2022],
+  "worldCups": [
+    1998,
+    2002,
+    2006,
+    2014,
+    2018,
+    2022
+  ],
   "bestResult": "Runners-up (2018)",
-
   "stats": {
     "matches": 30,
     "wins": 13,
@@ -14,7 +20,6 @@
     "goalsFor": 43,
     "goalsAgainst": 33
   },
-
   "facts": [
     {
       "id": "sahovnica-checkerboard",
@@ -27,7 +32,6 @@
       "story": "With barely 3.8 million people, Croatia is the second-smallest nation by population, after Uruguay, ever to reach a World Cup final, and the second-smallest by land area, after the Netherlands. They've done it while medaling twice: third place in 1998 behind Davor Šuker's six goals, then the 2018 final itself, where Luka Modrić's Golden Ball capped a run through three straight penalty-shootout survivals. No team that small has come nearly as close, this often."
     }
   ],
-
   "kits": {
     "1998": {
       "result": "3rd Place",
@@ -42,15 +46,60 @@
       "homeColors": "red-and-white checkerboard shirt (šahovnica pattern), white shorts, blue socks (Lotto)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Jamaica", "score": "3–1", "result": "W", "scorers": "Stanić 27', Prosinečki 53', Šuker 69'" },
-        { "round": "Group Stage", "opponent": "Japan", "score": "1–0", "result": "W", "scorers": "Šuker 77'" },
-        { "round": "Group Stage", "opponent": "Argentina", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "Round of 16", "opponent": "Romania", "score": "1–0", "result": "W", "scorers": "Šuker 45+1' (pen.)" },
-        { "round": "Quarter-final", "opponent": "Germany", "score": "3–0", "result": "W", "scorers": "Jarni 45+3', Vlaović 80', Šuker 85'" },
-        { "round": "Semi-final", "opponent": "France", "score": "1–2", "result": "L", "scorers": "Šuker 46'" },
-        { "round": "3rd Place", "opponent": "Netherlands", "score": "2–1", "result": "W", "scorers": "Prosinečki 14', Šuker 36'" }
+        {
+          "round": "Group Stage",
+          "opponent": "Jamaica",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Stanić 27'', Prosinečki 53'', Šuker 69''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Šuker 77''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Romania",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Šuker 45'+2''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Germany",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Jarni 45'+3'', Vlaović 80'', Šuker 85''"
+        },
+        {
+          "round": "semi-finals",
+          "opponent": "France",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Šuker 46''"
+        },
+        {
+          "round": "third-place match",
+          "opponent": "Netherlands",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Prosinečki 14'', Šuker 36''"
+        }
       ]
     },
     "2002": {
@@ -60,11 +109,32 @@
       "homeColors": "red-and-white checkerboard shirt, white shorts, blue socks (Nike)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Mexico", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Italy", "score": "2–1", "result": "W", "scorers": "Olić 73', Rapaić 76'" },
-        { "round": "Group Stage", "opponent": "Ecuador", "score": "0–1", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Olić 73'', Rapaić 76''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ecuador",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2006": {
@@ -80,11 +150,32 @@
       "homeColors": "red-and-white checkerboard shirt, white shorts, blue socks (Nike)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Brazil", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Japan", "score": "0–0", "result": "D", "scorers": null },
-        { "round": "Group Stage", "opponent": "Australia", "score": "2–2", "result": "D", "scorers": "Srna 2', N. Kovač 58'" }
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Australia",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Srna 2'', Kovač 56''"
+        }
       ]
     },
     "2014": {
@@ -94,11 +185,32 @@
       "homeColors": "red-and-white checkerboard shirt, white shorts, blue socks (Nike)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Brazil", "score": "1–3", "result": "L", "scorers": "Marcelo OG 11'" },
-        { "round": "Group Stage", "opponent": "Cameroon", "score": "4–0", "result": "W", "scorers": "Olić, Perišić, Mandžukić (2)" },
-        { "round": "Group Stage", "opponent": "Mexico", "score": "1–3", "result": "L", "scorers": "Perišić 87'" }
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Marcelo OG 12''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Cameroon",
+          "score": "4–0",
+          "result": "W",
+          "scorers": "Olić 11'', Perišić 48'', Mandžukić 61'', Mandžukić 73''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Perišić 87''"
+        }
       ]
     },
     "2018": {
@@ -119,15 +231,60 @@
       "homeColors": "red-and-white checkerboard shirt with v-collar, white shorts, blue socks (Nike)",
       "awayColors": "dark navy-and-black checkerboard shirt (Nike)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Nigeria", "score": "2–0", "result": "W", "scorers": "Etebo OG, Modrić (pen.)" },
-        { "round": "Group Stage", "opponent": "Argentina", "score": "3–0", "result": "W", "scorers": "Rebić, Modrić, Rakitić" },
-        { "round": "Group Stage", "opponent": "Iceland", "score": "2–1", "result": "W", "scorers": "Badelj, Perišić" },
-        { "round": "Round of 16", "opponent": "Denmark", "score": "1–1 (3–2 pens)", "result": "D", "scorers": "Mandžukić 4'" },
-        { "round": "Quarter-final", "opponent": "Russia", "score": "2–2 (4–3 pens)", "result": "D", "scorers": "Kramarić, Vida" },
-        { "round": "Semi-final", "opponent": "England", "score": "2–1", "result": "W", "scorers": "Perišić 68', Mandžukić 109'" },
-        { "round": "Final", "opponent": "France", "score": "2–4", "result": "L", "scorers": "Perišić 28', Mandžukić 69'" }
+        {
+          "round": "Group Stage",
+          "opponent": "Nigeria",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Etebo OG 32'', Modrić 71''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Rebić 53'', Modrić 80'', Rakitić 90'+1''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Iceland",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Badelj 53'', Perišić 90''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Denmark",
+          "score": "1–1 (3–2 pens)",
+          "result": "D",
+          "scorers": "Mandžukić 4''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Russia",
+          "score": "2–2 (4–3 pens)",
+          "result": "D",
+          "scorers": "Kramarić 39'', Vida 101''"
+        },
+        {
+          "round": "semi-finals",
+          "opponent": "England",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Perišić 68'', Mandžukić 109''"
+        },
+        {
+          "round": "Final",
+          "opponent": "France",
+          "score": "2–4",
+          "result": "L",
+          "scorers": "Perišić 28'', Mandžukić 69''"
+        }
       ]
     },
     "2022": {
@@ -143,15 +300,60 @@
       "homeColors": "red-and-white checkerboard shirt, tidier and slightly smaller check pattern, white shorts, blue socks (Nike)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Morocco", "score": "0–0", "result": "D", "scorers": null },
-        { "round": "Group Stage", "opponent": "Canada", "score": "4–1", "result": "W", "scorers": "Kramarić (2), Livaja, Majer" },
-        { "round": "Group Stage", "opponent": "Belgium", "score": "0–0", "result": "D", "scorers": null },
-        { "round": "Round of 16", "opponent": "Japan", "score": "1–1 (3–1 pens)", "result": "D", "scorers": "Perišić 55'" },
-        { "round": "Quarter-final", "opponent": "Brazil", "score": "1–1 (4–2 pens)", "result": "D", "scorers": "Petković 117'" },
-        { "round": "Semi-final", "opponent": "Argentina", "score": "0–3", "result": "L", "scorers": null },
-        { "round": "3rd Place", "opponent": "Morocco", "score": "2–1", "result": "W", "scorers": "Gvardiol, Oršić" }
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Canada",
+          "score": "4–1",
+          "result": "W",
+          "scorers": "Kramarić (2), Livaja, Majer"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Japan",
+          "score": "1–1 (3–1 pens)",
+          "result": "D",
+          "scorers": "Perišić 55'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Brazil",
+          "score": "1–1 (4–2 pens)",
+          "result": "D",
+          "scorers": "Petković 117'"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Argentina",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "3rd Place",
+          "opponent": "Morocco",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Gvardiol, Oršić"
+        }
       ]
     }
   }

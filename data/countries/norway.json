@@ -3,9 +3,12 @@
   "name": "Norway",
   "flagCode": "no",
   "confederation": "UEFA",
-  "worldCups": [1938, 1994, 1998],
+  "worldCups": [
+    1938,
+    1994,
+    1998
+  ],
   "bestResult": "Round of 16 (1938, 1998)",
-
   "stats": {
     "matches": 8,
     "wins": 2,
@@ -14,7 +17,6 @@
     "goalsFor": 7,
     "goalsAgainst": 8
   },
-
   "facts": [
     {
       "id": "reeps-disciple",
@@ -27,7 +29,6 @@
       "story": "Norway's traditional look is a plain red shirt, but at France '98 Umbro dressed the team in an away kit scattered with a blue-and-white speckled pattern unlike anything else at the tournament. Norway wore it to force a stoppage-time penalty against Brazil and beat the reigning champions 2–1, and the shirt has stayed a cult favorite among collectors ever since, tied permanently to that single result."
     }
   ],
-
   "kits": {
     "1938": {
       "result": "Round of 16",
@@ -42,9 +43,18 @@
       "homeColors": "red shirt, white shorts, blue socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Round of 16", "opponent": "Italy", "score": "1–2", "result": "L", "scorers": "Brustad" }
+        {
+          "round": "Round of 16",
+          "opponent": "Italy",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Brustad 83''"
+        }
       ]
     },
     "1994": {
@@ -60,11 +70,32 @@
       "homeColors": "red shirt with white and blue Adidas trim, white shorts",
       "awayColors": "white shirt with red and blue Adidas trim",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Mexico", "score": "1–0", "result": "W", "scorers": "Rekdal" },
-        { "round": "Group Stage", "opponent": "Italy", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Republic of Ireland", "score": "0–0", "result": "D", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Rekdal 84''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Republic of Ireland",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        }
       ]
     },
     "1998": {
@@ -80,12 +111,39 @@
       "homeColors": "red shirt (Umbro), white shorts",
       "awayColors": "white shirt with blue-and-white speckled pattern (Umbro)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Morocco", "score": "2–2", "result": "D", "scorers": "Chippo OG, Eggen" },
-        { "round": "Group Stage", "opponent": "Scotland", "score": "1–1", "result": "D", "scorers": "H. Flo" },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "2–1", "result": "W", "scorers": "T.A. Flo, Rekdal" },
-        { "round": "Round of 16", "opponent": "Italy", "score": "0–1", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Chippo OG 45'+1'', Eggen 61''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Flo 46''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Flo 83'', Rekdal 89''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Italy",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     }
   }

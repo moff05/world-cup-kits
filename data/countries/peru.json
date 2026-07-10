@@ -3,9 +3,14 @@
   "name": "Peru",
   "flagCode": "pe",
   "confederation": "CONMEBOL",
-  "worldCups": [1930, 1970, 1978, 1982, 2018],
+  "worldCups": [
+    1930,
+    1970,
+    1978,
+    1982,
+    2018
+  ],
   "bestResult": "Quarter-finals (1970)",
-
   "stats": {
     "matches": 18,
     "wins": 5,
@@ -14,7 +19,6 @@
     "goalsFor": 21,
     "goalsAgainst": 33
   },
-
   "facts": [
     {
       "id": "the-blanquirroja-sash",
@@ -27,7 +31,6 @@
       "story": "Needing a four-goal win over Peru to leapfrog Brazil into the 1978 final, Argentina's military government hosted Peru's squad, shipped 35,000 tons of grain to Lima, and unfroze $50 million in Peruvian assets that same week. General Jorge Videla visited Peru's locker room before kickoff. Argentina won 6-0 and reached the final; decades later, a former Peruvian senator alleged the deal also included quietly imprisoning Peruvian dissidents. Nothing was ever proven."
     }
   ],
-
   "kits": {
     "1930": {
       "result": "Group Stage",
@@ -42,10 +45,25 @@
       "homeColors": "white shirt with red collar, white shorts, black socks — a one-off design since rivals Paraguay had already registered Peru's usual red-and-white stripes",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Romania", "score": "1–3", "result": "L", "scorers": "Souza 75'" },
-        { "round": "Group Stage", "opponent": "Uruguay", "score": "0–1", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Romania",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Souza Ferreira 75''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1970": {
@@ -61,12 +79,39 @@
       "homeColors": "white shirt with diagonal red sash, white shorts, white socks (adidas)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Bulgaria", "score": "3–2", "result": "W", "scorers": "Gallardo 50', Chumpitaz 55', Cubillas 73'" },
-        { "round": "Group Stage", "opponent": "Morocco", "score": "3–0", "result": "W", "scorers": "Cubillas 65', Challe 67', Cubillas 75'" },
-        { "round": "Group Stage", "opponent": "West Germany", "score": "1–3", "result": "L", "scorers": "Cubillas 44'" },
-        { "round": "Quarter-final", "opponent": "Brazil", "score": "2–4", "result": "L", "scorers": "Gallardo 28', Cubillas 70'" }
+        {
+          "round": "Group Stage",
+          "opponent": "Bulgaria",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Gallardo 50'', Chumpitaz 55'', Cubillas 73''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Cubillas 65'', Challe 67'', Cubillas 75''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Cubillas 44''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Brazil",
+          "score": "2–4",
+          "result": "L",
+          "scorers": "Gallardo 28'', Cubillas 70''"
+        }
       ]
     },
     "1978": {
@@ -87,14 +132,53 @@
       "homeColors": "white shirt with diagonal red sash, white shorts, white socks (adidas) — later voted the best World Cup jersey of all time by ESPN",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Scotland", "score": "3–1", "result": "W", "scorers": "Cueto 43', Cubillas 70', Cubillas 76'" },
-        { "round": "Group Stage", "opponent": "Netherlands", "score": "0–0", "result": "D", "scorers": null },
-        { "round": "Group Stage", "opponent": "Iran", "score": "4–1", "result": "W", "scorers": "Velásquez 2', Cubillas 36' (pen.), Cubillas 39' (pen.), Cubillas 79'" },
-        { "round": "2nd Round", "opponent": "Brazil", "score": "0–3", "result": "L", "scorers": null },
-        { "round": "2nd Round", "opponent": "Poland", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "2nd Round", "opponent": "Argentina", "score": "0–6", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Cueto 43'', Cubillas 71'', Cubillas 77''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Iran",
+          "score": "4–1",
+          "result": "W",
+          "scorers": "Velásquez 2'', Cubillas 36'', Cubillas 39'', Cubillas 79''"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Brazil",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Poland",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Argentina",
+          "score": "0–6",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1982": {
@@ -110,11 +194,32 @@
       "homeColors": "white shirt with diagonal red sash, white shorts, white socks (adidas)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Cameroon", "score": "0–0", "result": "D", "scorers": null },
-        { "round": "Group Stage", "opponent": "Italy", "score": "1–1", "result": "D", "scorers": "Díaz 83'" },
-        { "round": "Group Stage", "opponent": "Poland", "score": "1–5", "result": "L", "scorers": "La Rosa 83'" }
+        {
+          "round": "Group Stage",
+          "opponent": "Cameroon",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Díaz 83''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "1–5",
+          "result": "L",
+          "scorers": "La Rosa 83''"
+        }
       ]
     },
     "2018": {
@@ -130,11 +235,32 @@
       "homeColors": "white shirt with diagonal red sash, white shorts, white socks (Umbro)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Denmark", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "France", "score": "0–1", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Australia", "score": "2–0", "result": "W", "scorers": "Carrillo 18', Guerrero 50'" }
+        {
+          "round": "Group Stage",
+          "opponent": "Denmark",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Australia",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Carrillo 18'', Guerrero 50''"
+        }
       ]
     }
   }

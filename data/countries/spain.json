@@ -3,9 +3,25 @@
   "name": "Spain",
   "flagCode": "es",
   "confederation": "UEFA",
-  "worldCups": [1934, 1950, 1962, 1966, 1978, 1982, 1986, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022],
+  "worldCups": [
+    1934,
+    1950,
+    1962,
+    1966,
+    1978,
+    1982,
+    1986,
+    1990,
+    1994,
+    1998,
+    2002,
+    2006,
+    2010,
+    2014,
+    2018,
+    2022
+  ],
   "bestResult": "World Champions (2010)",
-
   "stats": {
     "matches": 67,
     "wins": 31,
@@ -14,7 +30,6 @@
     "goalsFor": 108,
     "goalsAgainst": 75
   },
-
   "facts": [
     {
       "id": "la-furia-espanola",
@@ -27,7 +42,6 @@
       "story": "Ahead of their 2014 opener against the Netherlands, FIFA ruled that Spain's registered red home and black away kits were both too dark to satisfy the tournament's light-versus-dark clash rules. Adidas rushed out an emergency all-white third shirt with red accents just for that match, making Spain the first team ever to wear three different kits across a single World Cup. They lost the game 5–1 anyway, and the white kit never reappeared."
     }
   ],
-
   "kits": {
     "1934": {
       "result": "Quarter-final",
@@ -36,11 +50,32 @@
       "homeColors": "red shirt, blue shorts, black socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Round of 16", "opponent": "Brazil", "score": "3–1", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Italy", "score": "1–1", "result": "D" },
-        { "round": "Quarter-final Replay", "opponent": "Italy", "score": "0–1", "result": "L" }
+        {
+          "round": "Round of 16",
+          "opponent": "Brazil",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Iraragorri 18'', Iraragorri 25'', Lángara 29''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Italy",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Regueiro 30''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Italy",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1950": {
@@ -50,14 +85,53 @@
       "homeColors": "red shirt, blue shorts, black socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "United States", "score": "3–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Chile", "score": "2–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "England", "score": "1–0", "result": "W" },
-        { "round": "Final Round", "opponent": "Uruguay", "score": "2–2", "result": "D" },
-        { "round": "Final Round", "opponent": "Brazil", "score": "1–6", "result": "L" },
-        { "round": "Final Round", "opponent": "Sweden", "score": "1–3", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Igoa 81'', Basora 83'', Zarra 89''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Basora 17'', Zarra 30''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Zarra 48''"
+        },
+        {
+          "round": "final round",
+          "opponent": "Uruguay",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Basora 37'', Basora 39''"
+        },
+        {
+          "round": "final round",
+          "opponent": "Brazil",
+          "score": "1–6",
+          "result": "L",
+          "scorers": "Igoa 71''"
+        },
+        {
+          "round": "final round",
+          "opponent": "Sweden",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Zarra 82''"
+        }
       ]
     },
     "1962": {
@@ -67,11 +141,32 @@
       "homeColors": "red shirt, blue shorts, black socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Czechoslovakia", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Mexico", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "1–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Czechoslovakia",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Peiró 90''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Adelardo 35''"
+        }
       ]
     },
     "1966": {
@@ -81,11 +176,32 @@
       "homeColors": "red shirt, blue shorts, black socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Argentina", "score": "1–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Switzerland", "score": "2–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "West Germany", "score": "1–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Pirri 71''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Sanchís 57'', Amancio 75''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Fusté 23''"
+        }
       ]
     },
     "1978": {
@@ -95,11 +211,32 @@
       "homeColors": "red shirt, blue shorts, black socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Austria", "score": "1–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Sweden", "score": "1–0", "result": "W" }
+        {
+          "round": "Group Stage",
+          "opponent": "Austria",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Dani 21''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Asensi 75''"
+        }
       ]
     },
     "1982": {
@@ -109,13 +246,46 @@
       "homeColors": "red shirt with white trim, blue shorts, black socks (Adidas debut kit)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Honduras", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Yugoslavia", "score": "2–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Northern Ireland", "score": "0–1", "result": "L" },
-        { "round": "2nd Round", "opponent": "West Germany", "score": "1–2", "result": "L" },
-        { "round": "2nd Round", "opponent": "England", "score": "0–0", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Honduras",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Ufarte 65''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Yugoslavia",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Juanito 14'', Saura 66''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Northern Ireland",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "West Germany",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Zamora 82''"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "England",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        }
       ]
     },
     "1986": {
@@ -125,13 +295,46 @@
       "homeColors": "red shirt, blue shorts, black socks (Le Coq Sportif)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Brazil", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Northern Ireland", "score": "2–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Algeria", "score": "3–0", "result": "W" },
-        { "round": "Round of 16", "opponent": "Denmark", "score": "5–1", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Belgium", "score": "1–1 (4–5 pens)", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Northern Ireland",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Butragueño 1'', Salinas 18''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Algeria",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Calderé 15'', Calderé 68'', Eloy 70''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Denmark",
+          "score": "5–1",
+          "result": "W",
+          "scorers": "Butragueño 43'', Butragueño 56'', Goikoetxea 68'', Butragueño 80'', Butragueño 88''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Belgium",
+          "score": "1–1 (4–5 pens)",
+          "result": "D",
+          "scorers": "Señor 85''"
+        }
       ]
     },
     "1990": {
@@ -141,12 +344,39 @@
       "homeColors": "red shirt, blue shorts, black socks (Le Coq Sportif)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Uruguay", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "South Korea", "score": "3–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Belgium", "score": "2–1", "result": "W" },
-        { "round": "Round of 16", "opponent": "Yugoslavia", "score": "1–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Míchel 23'', Míchel 61'', Míchel 81''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Míchel 26'', Górriz 38''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Yugoslavia",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Salinas 84''"
+        }
       ]
     },
     "1994": {
@@ -156,13 +386,46 @@
       "homeColors": "red shirt, blue shorts, socks shifting from black to blue (Adidas)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "South Korea", "score": "2–2", "result": "D" },
-        { "round": "Group Stage", "opponent": "Germany", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Bolivia", "score": "3–1", "result": "W" },
-        { "round": "Round of 16", "opponent": "Switzerland", "score": "3–0", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Italy", "score": "1–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Salinas 51'', Goikoetxea 55''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Goikoetxea 14''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bolivia",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Guardiola 19'', Caminero 66'', Caminero 70''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Switzerland",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Hierro 15'', Enrique 74'', Begiristain 86''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Italy",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Caminero 58''"
+        }
       ]
     },
     "1998": {
@@ -172,11 +435,32 @@
       "homeColors": "red shirt, navy shorts, blue socks (Adidas)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Nigeria", "score": "2–3", "result": "L" },
-        { "round": "Group Stage", "opponent": "Paraguay", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Bulgaria", "score": "6–1", "result": "W" }
+        {
+          "round": "Group Stage",
+          "opponent": "Nigeria",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Hierro 21'', Raúl 47''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Paraguay",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bulgaria",
+          "score": "6–1",
+          "result": "W",
+          "scorers": "Hierro 6'', Enrique 18'', Morientes 55'', Morientes 81'', Bachev OG 88'', Kiko 90'+4''"
+        }
       ]
     },
     "2002": {
@@ -186,13 +470,46 @@
       "homeColors": "red shirt, navy shorts, blue socks (Adidas)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Slovenia", "score": "3–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Paraguay", "score": "3–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "South Africa", "score": "3–2", "result": "W" },
-        { "round": "Round of 16", "opponent": "Republic of Ireland", "score": "1–1 (3–2 pens)", "result": "D" },
-        { "round": "Quarter-final", "opponent": "South Korea", "score": "0–0 (3–5 pens)", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Slovenia",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Raúl 44'', Valerón 74'', Hierro 87''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Paraguay",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Morientes 53'', Morientes 69'', Hierro 83''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Africa",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Raúl 4'', Mendieta 45'+1'', Raúl 56''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Republic of Ireland",
+          "score": "1–1 (3–2 pens)",
+          "result": "D",
+          "scorers": "Morientes 8''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "South Korea",
+          "score": "0–0 (3–5 pens)",
+          "result": "D",
+          "scorers": null
+        }
       ]
     },
     "2006": {
@@ -202,12 +519,39 @@
       "homeColors": "red shirt, navy shorts, black socks (Adidas)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Ukraine", "score": "4–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Tunisia", "score": "3–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Saudi Arabia", "score": "1–0", "result": "W" },
-        { "round": "Round of 16", "opponent": "France", "score": "1–3", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Ukraine",
+          "score": "4–0",
+          "result": "W",
+          "scorers": "Alonso 13'', Villa 17'', Villa 48'', Torres 81''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Tunisia",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Raúl 71'', Torres 76'', Torres 90'+1''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Juanito 36''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "France",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Villa 28''"
+        }
       ]
     },
     "2010": {
@@ -217,15 +561,60 @@
       "homeColors": "red shirt with gold trim, navy shorts, black socks (Adidas)",
       "awayColors": "navy shirt with red-and-yellow flag-striped trim on the collar and shoulders, navy shorts (Adidas) — worn in the final",
       "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Germany_vs_Spain_semi-final.jpg",
-      "imageCredit": { "player": null, "game": "Spain vs Germany, 2010 Semi-final — CC BY-SA 3.0 / Wikimedia Commons" },
+      "imageCredit": {
+        "player": null,
+        "game": "Spain vs Germany, 2010 Semi-final — CC BY-SA 3.0 / Wikimedia Commons"
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Switzerland", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Honduras", "score": "2–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Chile", "score": "2–1", "result": "W" },
-        { "round": "Round of 16", "opponent": "Portugal", "score": "1–0", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Paraguay", "score": "1–0", "result": "W" },
-        { "round": "Semi-final", "opponent": "Germany", "score": "1–0", "result": "W" },
-        { "round": "Final", "opponent": "Netherlands", "score": "1–0", "result": "W" }
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Honduras",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Villa 17'', Villa 51''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Villa 24'', Iniesta 37''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Portugal",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Villa 63''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Paraguay",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Villa 83''"
+        },
+        {
+          "round": "semi-finals",
+          "opponent": "Germany",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Puyol 73''"
+        },
+        {
+          "round": "Final",
+          "opponent": "Netherlands",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Iniesta 116''"
+        }
       ]
     },
     "2014": {
@@ -235,11 +624,32 @@
       "homeColors": "red shirt, navy shorts, black socks (Adidas)",
       "awayColors": "black shirt with red trim (Adidas); emergency all-white third kit with red accents worn vs Netherlands after FIFA ruled the registered kits too dark",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Netherlands", "score": "1–5", "result": "L" },
-        { "round": "Group Stage", "opponent": "Chile", "score": "0–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Australia", "score": "3–0", "result": "W" }
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "1–5",
+          "result": "L",
+          "scorers": "Alonso 27''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Australia",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Villa 36'', Torres 69'', Mata 82''"
+        }
       ]
     },
     "2018": {
@@ -249,12 +659,39 @@
       "homeColors": "red shirt, navy shorts, black socks (Adidas)",
       "awayColors": "pale 'Halo Blue' shirt with red trim and an 1980s-inspired geometric pattern (Adidas)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Portugal", "score": "3–3", "result": "D" },
-        { "round": "Group Stage", "opponent": "Iran", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Morocco", "score": "2–2", "result": "D" },
-        { "round": "Round of 16", "opponent": "Russia", "score": "1–1 (3–5 pens)", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Portugal",
+          "score": "3–3",
+          "result": "D",
+          "scorers": "Costa 24'', Costa 55'', Nacho 58''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Iran",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Costa 54''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Isco 19'', Aspas 90'+1''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Russia",
+          "score": "1–1 (3–4 pens)",
+          "result": "D",
+          "scorers": "Ignashevich OG 12''"
+        }
       ]
     },
     "2022": {
@@ -264,12 +701,35 @@
       "homeColors": "red shirt with white and gold geometric pattern, navy shorts (Adidas)",
       "awayColors": "sky-blue shirt with an art-deco pattern inspired by Spain's 1982 World Cup logo, royal blue trim (Adidas)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Costa Rica", "score": "7–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Germany", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Japan", "score": "1–2", "result": "L" },
-        { "round": "Round of 16", "opponent": "Morocco", "score": "0–0 (0–3 pens)", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Costa Rica",
+          "score": "7–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "1–2",
+          "result": "L"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Morocco",
+          "score": "0–0 (0–3 pens)",
+          "result": "D"
+        }
       ]
     }
   }

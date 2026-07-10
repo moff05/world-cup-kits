@@ -3,9 +3,10 @@
   "name": "Slovakia",
   "flagCode": "sk",
   "confederation": "UEFA",
-  "worldCups": [2010],
+  "worldCups": [
+    2010
+  ],
   "bestResult": "Round of 16 (2010)",
-
   "stats": {
     "matches": 4,
     "wins": 1,
@@ -14,7 +15,6 @@
     "goalsFor": 5,
     "goalsAgainst": 7
   },
-
   "facts": [
     {
       "id": "the-upset-over-italy",
@@ -27,7 +27,6 @@
       "story": "Every single one of Slovakia's five goals at the 2010 World Cup came from the boot of one man: Róbert Vittek. He scored against New Zealand, twice against Italy, and converted a stoppage-time penalty against the Netherlands, finishing the tournament with four goals — just one behind Golden Boot winner Thomas Müller. No teammate managed to get on the scoresheet at all."
     }
   ],
-
   "kits": {
     "2010": {
       "result": "Round of 16",
@@ -52,12 +51,39 @@
       "homeColors": "predominantly white shirt with blue adidas shoulder stripes and blue trim on the collar (Adidas, Campeon 09 template)",
       "awayColors": "blue shirt with a subtle front pattern, white collar and adidas shoulder stripes (Adidas, Condivo template)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "New Zealand", "score": "1–1", "result": "D", "scorers": "Vittek 50'" },
-        { "round": "Group Stage", "opponent": "Paraguay", "score": "0–2", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Italy", "score": "3–2", "result": "W", "scorers": "Vittek 25', 73', Kopúnek 89'" },
-        { "round": "Round of 16", "opponent": "Netherlands", "score": "1–2", "result": "L", "scorers": "Vittek 90+4' (pen.)" }
+        {
+          "round": "Group Stage",
+          "opponent": "New Zealand",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Vittek 50''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Paraguay",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Vittek 25'', Vittek 73'', Kopúnek 89''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Netherlands",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Vittek 90'+4''"
+        }
       ]
     }
   }

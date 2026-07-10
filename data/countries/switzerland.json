@@ -3,9 +3,21 @@
   "name": "Switzerland",
   "flagCode": "ch",
   "confederation": "UEFA",
-  "worldCups": [1934, 1938, 1950, 1954, 1962, 1966, 1994, 2006, 2010, 2014, 2018, 2022],
+  "worldCups": [
+    1934,
+    1938,
+    1950,
+    1954,
+    1962,
+    1966,
+    1994,
+    2006,
+    2010,
+    2014,
+    2018,
+    2022
+  ],
   "bestResult": "Quarter-finalists (1934, 1938, 1954)",
-
   "stats": {
     "matches": 41,
     "wins": 14,
@@ -14,7 +26,6 @@
     "goalsFor": 55,
     "goalsAgainst": 73
   },
-
   "facts": [
     {
       "id": "highest-scoring-game",
@@ -27,7 +38,6 @@
       "story": "At the 2006 World Cup in Germany, Switzerland became the first team in tournament history to be eliminated without conceding a single goal in regulation play. They shut out France, Togo, and South Korea to top their group, then held Ukraine scoreless through 120 minutes in the Round of 16 — only to lose the shootout 3–0, missing every one of their penalties. Switzerland went home a statistical anomaly: unbeaten, unscored-upon, and out in the first knockout round."
     }
   ],
-
   "kits": {
     "1934": {
       "result": "Quarter-final",
@@ -36,10 +46,25 @@
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Round of 16", "opponent": "Netherlands", "score": "3–2", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Czechoslovakia", "score": "2–3", "result": "L" }
+        {
+          "round": "Round of 16",
+          "opponent": "Netherlands",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Kielholz 7'', Kielholz 43'', Abegglen 66''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Czechoslovakia",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Kielholz 18'', Jäggi 78''"
+        }
       ]
     },
     "1938": {
@@ -49,11 +74,32 @@
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Round of 16", "opponent": "Germany", "score": "1–1", "result": "D" },
-        { "round": "Round of 16", "opponent": "Germany", "score": "4–2", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Hungary", "score": "0–2", "result": "L" }
+        {
+          "round": "Round of 16",
+          "opponent": "Germany",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Abegglen 43''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Germany",
+          "score": "4–2",
+          "result": "W",
+          "scorers": "Walaschek 42'', Bickel 64'', Abegglen 75'', Abegglen 78''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Hungary",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1950": {
@@ -63,11 +109,32 @@
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Yugoslavia", "score": "0–3", "result": "L" },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "2–2", "result": "D" },
-        { "round": "Group Stage", "opponent": "Mexico", "score": "2–1", "result": "W" }
+        {
+          "round": "Group Stage",
+          "opponent": "Yugoslavia",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Fatton 17'', Fatton 88''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Bader 10'', Antenen 44''"
+        }
       ]
     },
     "1954": {
@@ -77,12 +144,39 @@
       "homeColors": "red shirt, white shorts, red socks (hosts' kit, unbranded)",
       "awayColors": "white shirt, red shorts, white socks",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Italy", "score": "2–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "England", "score": "0–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Italy", "score": "4–1", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Austria", "score": "5–7", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Ballaman 18'', Hügi 78''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "4–1",
+          "result": "W",
+          "scorers": "Hügi 14'', Ballaman 48'', Hügi 85'', Fatton 90''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Austria",
+          "score": "5–7",
+          "result": "L",
+          "scorers": "Ballaman 16'', Hügi 17'', Hügi 19'', Ballaman 39'', Hügi 60''"
+        }
       ]
     },
     "1962": {
@@ -92,11 +186,32 @@
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": "white shirt, red shorts, white socks",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Chile", "score": "1–3", "result": "L" },
-        { "round": "Group Stage", "opponent": "West Germany", "score": "1–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Italy", "score": "0–3", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Wüthrich 6''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Schneiter 73''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1966": {
@@ -106,11 +221,32 @@
       "homeColors": "red shirt, white shorts, red socks (Tusa)",
       "awayColors": "white shirt, red shorts, white socks",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "West Germany", "score": "0–5", "result": "L" },
-        { "round": "Group Stage", "opponent": "Spain", "score": "1–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Argentina", "score": "0–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "West Germany",
+          "score": "0–5",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Quentin 31''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1994": {
@@ -120,12 +256,39 @@
       "homeColors": "red shirt, white shorts, red socks (Lotto)",
       "awayColors": "white shirt, red shorts, white socks",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "United States", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Romania", "score": "4–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Colombia", "score": "0–2", "result": "L" },
-        { "round": "Round of 16", "opponent": "Spain", "score": "0–3", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Bregy 39''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Romania",
+          "score": "4–1",
+          "result": "W",
+          "scorers": "Sutter 16'', Chapuisat 52'', Knup 65'', Knup 72''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Colombia",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Spain",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2006": {
@@ -135,12 +298,39 @@
       "homeColors": "red shirt, white shorts, red socks (Puma)",
       "awayColors": "white shirt, red shorts, white socks",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "France", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Togo", "score": "2–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "South Korea", "score": "2–0", "result": "W" },
-        { "round": "Round of 16", "opponent": "Ukraine", "score": "0–0 (0–3 pens)", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Togo",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Frei 16'', Barnetta 88''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Senderos 23'', Frei 77''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Ukraine",
+          "score": "0–0 (0–3 pens)",
+          "result": "D",
+          "scorers": null
+        }
       ]
     },
     "2010": {
@@ -150,11 +340,32 @@
       "homeColors": "red shirt, white shorts, red socks (Puma)",
       "awayColors": "white shirt, red shorts, white socks",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Spain", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Chile", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Honduras", "score": "0–0", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Fernandes 52''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Honduras",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        }
       ]
     },
     "2014": {
@@ -164,12 +375,39 @@
       "homeColors": "red shirt, white shorts, red socks (Puma)",
       "awayColors": "white shirt, red shorts, white socks",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Ecuador", "score": "2–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "France", "score": "2–5", "result": "L" },
-        { "round": "Group Stage", "opponent": "Honduras", "score": "3–0", "result": "W" },
-        { "round": "Round of 16", "opponent": "Argentina", "score": "0–1", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Ecuador",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Mehmedi 48'', Seferovic 90'+3''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "2–5",
+          "result": "L",
+          "scorers": "Džemaili 81'', Xhaka 87''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Honduras",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Shaqiri 6'', Shaqiri 31'', Shaqiri 71''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Argentina",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2018": {
@@ -179,12 +417,39 @@
       "homeColors": "red shirt, white shorts, red socks (Puma)",
       "awayColors": "white shirt, red shorts, white socks",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Brazil", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Serbia", "score": "2–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Costa Rica", "score": "2–2", "result": "D" },
-        { "round": "Round of 16", "opponent": "Sweden", "score": "0–1", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Zuber 50''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Serbia",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Xhaka 52'', Shaqiri 90''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Costa Rica",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Džemaili 31'', Drmić 88''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Sweden",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2022": {
@@ -194,12 +459,35 @@
       "homeColors": "red shirt, white shorts, red socks (Puma)",
       "awayColors": "white shirt, red shorts, white socks",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Cameroon", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Serbia", "score": "3–2", "result": "W" },
-        { "round": "Round of 16", "opponent": "Portugal", "score": "1–6", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Cameroon",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Serbia",
+          "score": "3–2",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Portugal",
+          "score": "1–6",
+          "result": "L"
+        }
       ]
     }
   }

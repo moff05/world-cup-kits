@@ -3,9 +3,17 @@
   "name": "Cameroon",
   "flagCode": "cm",
   "confederation": "CAF",
-  "worldCups": [1982, 1990, 1994, 1998, 2002, 2010, 2014, 2022],
+  "worldCups": [
+    1982,
+    1990,
+    1994,
+    1998,
+    2002,
+    2010,
+    2014,
+    2022
+  ],
   "bestResult": "Quarter-finalists (1990)",
-
   "stats": {
     "matches": 26,
     "wins": 5,
@@ -14,7 +22,6 @@
     "goalsFor": 22,
     "goalsAgainst": 47
   },
-
   "facts": [
     {
       "id": "the-sleeveless-lions",
@@ -27,7 +34,6 @@
       "story": "Cameroon's green shirts, red shorts, and yellow socks are no accident — they're lifted straight from the national flag, a rare case of a kit doubling as a flag on the pitch. That look was already fixed by the time Roger Milla turned it into theater, dancing at the corner flag after scoring against Argentina and Romania in 1990, at age 38, turning a World Cup celebration into one of the tournament's most replayed images."
     }
   ],
-
   "kits": {
     "1982": {
       "result": "Group Stage",
@@ -36,11 +42,32 @@
       "homeColors": "green shirt, red shorts, yellow socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Peru", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Poland", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Italy", "score": "1–1", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Peru",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "M'Bida 61''"
+        }
       ]
     },
     "1990": {
@@ -50,13 +77,46 @@
       "homeColors": "green shirt, red shorts, yellow socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Argentina", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Romania", "score": "2–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Soviet Union", "score": "0–4", "result": "L" },
-        { "round": "Round of 16", "opponent": "Colombia", "score": "2–1 (a.e.t.)", "result": "W" },
-        { "round": "Quarter-final", "opponent": "England", "score": "2–3 (a.e.t.)", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Omam-Biyik 67''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Romania",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Milla 76'', Milla 86''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Soviet Union",
+          "score": "0–4",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Colombia",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Milla 106'', Milla 108''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "England",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Kundé 61'', Ekéké 65''"
+        }
       ]
     },
     "1994": {
@@ -66,11 +126,32 @@
       "homeColors": "green shirt, red shorts, yellow socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Sweden", "score": "2–2", "result": "D" },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "0–3", "result": "L" },
-        { "round": "Group Stage", "opponent": "Russia", "score": "1–6", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Embé 31'', Omam-Biyik 47''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Russia",
+          "score": "1–6",
+          "result": "L",
+          "scorers": "Milla 46''"
+        }
       ]
     },
     "1998": {
@@ -80,11 +161,32 @@
       "homeColors": "green shirt, red shorts, yellow socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Austria", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Italy", "score": "0–3", "result": "L" },
-        { "round": "Group Stage", "opponent": "Chile", "score": "1–1", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Austria",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Njanka 77''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Chile",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "M'Boma 56''"
+        }
       ]
     },
     "2002": {
@@ -94,11 +196,32 @@
       "homeColors": "green shirt with black sleeves added to satisfy FIFA rules, red shorts, yellow socks (Puma)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Republic of Ireland", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Saudi Arabia", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Germany", "score": "0–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Republic of Ireland",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "M'Boma 39''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Eto'o 66''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2010": {
@@ -108,11 +231,32 @@
       "homeColors": "green shirt, red shorts, yellow socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Japan", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Denmark", "score": "1–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Netherlands", "score": "1–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Denmark",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Eto'o 10''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Eto'o 65''"
+        }
       ]
     },
     "2014": {
@@ -122,11 +266,32 @@
       "homeColors": "green shirt, red shorts, yellow socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Mexico", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Croatia", "score": "0–4", "result": "L" },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "1–4", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Croatia",
+          "score": "0–4",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "1–4",
+          "result": "L",
+          "scorers": "Matip 26''"
+        }
       ]
     },
     "2022": {
@@ -136,11 +301,29 @@
       "homeColors": "green shirt, red shorts, yellow socks (Puma)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Switzerland", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Serbia", "score": "3–3", "result": "D" },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "1–0", "result": "W" }
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Serbia",
+          "score": "3–3",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "1–0",
+          "result": "W"
+        }
       ]
     }
   }

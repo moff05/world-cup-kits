@@ -42,7 +42,7 @@ export const algeria = {
           "opponent": "West Germany",
           "score": "2–1",
           "result": "W",
-          "scorers": "Madjer 54', Belloumi 68'"
+          "scorers": "Madjer 54'', Belloumi 68''"
         },
         {
           "round": "Group Stage",
@@ -56,7 +56,7 @@ export const algeria = {
           "opponent": "Chile",
           "score": "3–2",
           "result": "W",
-          "scorers": "Assad 2, Bensaoula"
+          "scorers": "Assad 7'', Assad 31'', Bensaoula 35''"
         }
       ],
       "kits": {
@@ -87,7 +87,7 @@ export const algeria = {
           "opponent": "Northern Ireland",
           "score": "1–1",
           "result": "D",
-          "scorers": "Zidane"
+          "scorers": "Zidane 59''"
         },
         {
           "round": "Group Stage",
@@ -165,28 +165,28 @@ export const algeria = {
           "opponent": "Belgium",
           "score": "1–2",
           "result": "L",
-          "scorers": "Feghouli 25' (pen)"
+          "scorers": "Feghouli 25''"
         },
         {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "4–2",
           "result": "W",
-          "scorers": "Slimani 26', Halliche 28', Djabou 38', Brahimi 62'"
+          "scorers": "Slimani 26'', Halliche 28'', Djabou 38'', Brahimi 62''"
         },
         {
           "round": "Group Stage",
           "opponent": "Russia",
           "score": "1–1",
           "result": "D",
-          "scorers": "Slimani 60'"
+          "scorers": "Slimani 60''"
         },
         {
           "round": "Round of 16",
           "opponent": "Germany",
-          "score": "1–2 (a.e.t.)",
+          "score": "1–2",
           "result": "L",
-          "scorers": "Djabou 120+1'"
+          "scorers": "Djabou 120'+1''"
         }
       ],
       "kits": {

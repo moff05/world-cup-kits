@@ -3,9 +3,12 @@
   "name": "Republic of Ireland",
   "flagCode": "ie",
   "confederation": "UEFA",
-  "worldCups": [1990, 1994, 2002],
+  "worldCups": [
+    1990,
+    1994,
+    2002
+  ],
   "bestResult": "Quarter-finalists (1990)",
-
   "stats": {
     "matches": 13,
     "wins": 2,
@@ -14,7 +17,6 @@
     "goalsFor": 10,
     "goalsAgainst": 10
   },
-
   "facts": [
     {
       "id": "st-patricks-blue",
@@ -27,7 +29,6 @@
       "story": "Ireland's kit supplier changed hands in the middle of the road to a World Cup. After 15 years with Adidas, a relationship struck when Jack Charlton took charge in 1986, the FAI switched to Umbro partway through qualifying for 2002. Players who'd spent a campaign in Adidas Equipment stripes finished it in Umbro green, then wore the new kit all the way to Suwon and a round-of-16 shootout with Spain."
     }
   ],
-
   "kits": {
     "1990": {
       "result": "Quarter-final",
@@ -42,13 +43,46 @@
       "homeColors": "emerald green shirt with white and orange wrap-over V-neck trim (Adidas), white shorts, green socks",
       "awayColors": "white shirt with green trim (Adidas)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "England", "score": "1–1", "result": "D", "scorers": "Sheedy 73'" },
-        { "round": "Group Stage", "opponent": "Netherlands", "score": "1–1", "result": "D", "scorers": "Quinn 71'" },
-        { "round": "Group Stage", "opponent": "Egypt", "score": "0–0", "result": "D", "scorers": null },
-        { "round": "Round of 16", "opponent": "Romania", "score": "0–0 (5–4 pens)", "result": "D", "scorers": null },
-        { "round": "Quarter-final", "opponent": "Italy", "score": "0–1", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Sheedy 73''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Egypt",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Quinn 71''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Romania",
+          "score": "0–0 (5–4 pens)",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Italy",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1994": {
@@ -64,12 +98,39 @@
       "homeColors": "green shirt with bold contrasting 'Adidas Equipment' panels, white shorts, green socks",
       "awayColors": "white shirt with green and orange Adidas Equipment trim",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Italy", "score": "1–0", "result": "W", "scorers": "Houghton 11'" },
-        { "round": "Group Stage", "opponent": "Mexico", "score": "1–2", "result": "L", "scorers": "Aldridge 84'" },
-        { "round": "Group Stage", "opponent": "Norway", "score": "0–0", "result": "D", "scorers": null },
-        { "round": "Round of 16", "opponent": "Netherlands", "score": "0–2", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Houghton 11''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Aldridge 84''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Norway",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Netherlands",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2002": {
@@ -85,12 +146,39 @@
       "homeColors": "green shirt with white trim (Umbro), white shorts, green socks",
       "awayColors": "white shirt with green trim (Umbro)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Cameroon", "score": "1–1", "result": "D", "scorers": "Holland 52'" },
-        { "round": "Group Stage", "opponent": "Germany", "score": "1–1", "result": "D", "scorers": "Keane 90+2'" },
-        { "round": "Group Stage", "opponent": "Saudi Arabia", "score": "3–0", "result": "W", "scorers": "Keane 7', Breen 61', Duff 87'" },
-        { "round": "Round of 16", "opponent": "Spain", "score": "1–1 (2–3 pens)", "result": "D", "scorers": "Keane 90' (pen.)" }
+        {
+          "round": "Group Stage",
+          "opponent": "Cameroon",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Holland 52''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Keane 90'+2''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Keane 7'', Breen 61'', Duff 87''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Spain",
+          "score": "1–1 (2–3 pens)",
+          "result": "D",
+          "scorers": "Keane 90''"
+        }
       ]
     }
   }

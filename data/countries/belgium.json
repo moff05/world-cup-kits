@@ -3,9 +3,23 @@
   "name": "Belgium",
   "flagCode": "be",
   "confederation": "UEFA",
-  "worldCups": [1930, 1934, 1938, 1954, 1970, 1982, 1986, 1990, 1994, 1998, 2002, 2014, 2018, 2022],
+  "worldCups": [
+    1930,
+    1934,
+    1938,
+    1954,
+    1970,
+    1982,
+    1986,
+    1990,
+    1994,
+    1998,
+    2002,
+    2014,
+    2018,
+    2022
+  ],
   "bestResult": "Third Place (2018)",
-
   "stats": {
     "matches": 51,
     "wins": 21,
@@ -14,7 +28,6 @@
     "goalsFor": 69,
     "goalsAgainst": 74
   },
-
   "facts": [
     {
       "id": "red-devils-origin",
@@ -27,7 +40,6 @@
       "story": "For most of the 1970s, Belgium abandoned red altogether. An all-white kit that had started as an away option became their regular home strip from 1970 through 1979. Wearing white, Belgium won their first-ever World Cup match, 3–0 over El Salvador in 1970, and made their first European Championship appearance in 1972 — briefly earning the nickname 'White Devils' before red reclaimed the shirt."
     }
   ],
-
   "kits": {
     "1930": {
       "result": "Group Stage",
@@ -36,10 +48,25 @@
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "United States", "score": "0–3", "result": "L" },
-        { "round": "Group Stage", "opponent": "Paraguay", "score": "0–1", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Paraguay",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1934": {
@@ -49,9 +76,18 @@
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Round of 16", "opponent": "Germany", "score": "2–5", "result": "L" }
+        {
+          "round": "Round of 16",
+          "opponent": "Germany",
+          "score": "2–5",
+          "result": "L",
+          "scorers": "Voorhoof 29'', Voorhoof 43''"
+        }
       ]
     },
     "1938": {
@@ -61,9 +97,18 @@
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Round of 16", "opponent": "France", "score": "1–3", "result": "L" }
+        {
+          "round": "Round of 16",
+          "opponent": "France",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Isemborghs 38''"
+        }
       ]
     },
     "1954": {
@@ -73,10 +118,25 @@
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "England", "score": "4–4", "result": "D" },
-        { "round": "Group Stage", "opponent": "Italy", "score": "1–4", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "4–4",
+          "result": "D",
+          "scorers": "Anoul 5'', Coppens 67'', Anoul 71'', Dickinson OG 94''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Italy",
+          "score": "1–4",
+          "result": "L",
+          "scorers": "Anoul 81''"
+        }
       ]
     },
     "1970": {
@@ -86,11 +146,32 @@
       "homeColors": "white shirt, white shorts, white socks (the all-white 'White Devils' kit, worn as home strip 1970–1979)",
       "awayColors": "red shirt, white shorts",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "El Salvador", "score": "3–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Soviet Union", "score": "1–4", "result": "L" },
-        { "round": "Group Stage", "opponent": "Mexico", "score": "0–1", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "El Salvador",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Van Moer 12'', Van Moer 54'', Lambert 76''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Soviet Union",
+          "score": "1–4",
+          "result": "L",
+          "scorers": "Lambert 86''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1982": {
@@ -100,13 +181,46 @@
       "homeColors": "red shirt, white shorts, red socks (Adidas)",
       "awayColors": "white shirt, red shorts",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Argentina", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "El Salvador", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Hungary", "score": "1–1", "result": "D" },
-        { "round": "2nd Round", "opponent": "Poland", "score": "0–3", "result": "L" },
-        { "round": "2nd Round", "opponent": "Soviet Union", "score": "0–1", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Vandenbergh 62''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "El Salvador",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Coeck 19''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Hungary",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Czerniatynski 76''"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Poland",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Soviet Union",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1986": {
@@ -116,15 +230,60 @@
       "homeColors": "red shirt, white shorts, red socks (Adidas, three-stripe trim)",
       "awayColors": "white shirt, red shorts",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Mexico", "score": "1–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Iraq", "score": "2–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Paraguay", "score": "2–2", "result": "D" },
-        { "round": "Round of 16", "opponent": "Soviet Union", "score": "4–3", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Spain", "score": "1–1 (5–4 pens)", "result": "D" },
-        { "round": "Semi-final", "opponent": "Argentina", "score": "0–2", "result": "L" },
-        { "round": "3rd Place", "opponent": "France", "score": "2–4", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Vandenbergh 45''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Iraq",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Scifo 16'', Claesen 21''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Paraguay",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Vercauteren 30'', Veyt 59''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Soviet Union",
+          "score": "4–3",
+          "result": "W",
+          "scorers": "Scifo 56'', Ceulemans 77'', Demol 102'', Claesen 110''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Spain",
+          "score": "1–1 (5–4 pens)",
+          "result": "D",
+          "scorers": "Ceulemans 35''"
+        },
+        {
+          "round": "semi-finals",
+          "opponent": "Argentina",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "third-place match",
+          "opponent": "France",
+          "score": "2–4",
+          "result": "L",
+          "scorers": "Ceulemans 11'', Claesen 73''"
+        }
       ]
     },
     "1990": {
@@ -134,12 +293,39 @@
       "homeColors": "red shirt, white shorts, white socks (Adidas)",
       "awayColors": "white shirt, red shorts",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "South Korea", "score": "2–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Uruguay", "score": "3–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Spain", "score": "1–2", "result": "L" },
-        { "round": "Round of 16", "opponent": "England", "score": "0–1", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Degryse 53'', De Wolf 64''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Clijsters 15'', Scifo 24'', Ceulemans 47''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Vervoort 29''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "England",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1994": {
@@ -149,12 +335,39 @@
       "homeColors": "red shirt, white shorts, red socks (Diadora)",
       "awayColors": "white shirt, red shorts",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Morocco", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Netherlands", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Saudi Arabia", "score": "0–1", "result": "L" },
-        { "round": "Round of 16", "opponent": "Germany", "score": "2–3", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Degryse 11''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Albert 65''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Germany",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Grün 8'', Albert 90''"
+        }
       ]
     },
     "1998": {
@@ -164,11 +377,32 @@
       "homeColors": "red shirt, white shorts, red socks (Diadora)",
       "awayColors": "white shirt, black shorts",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Netherlands", "score": "0–0", "result": "D" },
-        { "round": "Group Stage", "opponent": "Mexico", "score": "2–2", "result": "D" },
-        { "round": "Group Stage", "opponent": "South Korea", "score": "1–1", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Wilmots 42'', Wilmots 47''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Nilis 7''"
+        }
       ]
     },
     "2002": {
@@ -178,12 +412,39 @@
       "homeColors": "red shirt, white shorts, red socks (Nike)",
       "awayColors": "white shirt, red shorts",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Japan", "score": "2–2", "result": "D" },
-        { "round": "Group Stage", "opponent": "Tunisia", "score": "1–1", "result": "D" },
-        { "round": "Group Stage", "opponent": "Russia", "score": "3–2", "result": "W" },
-        { "round": "Round of 16", "opponent": "Brazil", "score": "0–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Wilmots 57'', Van der Heyden 75''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Tunisia",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Wilmots 13''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Russia",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Walem 7'', Sonck 78'', Wilmots 82''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Brazil",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2014": {
@@ -193,13 +454,46 @@
       "homeColors": "red shirt, white shorts, red socks (Burrda)",
       "awayColors": "white shirt, red shorts",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Algeria", "score": "2–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Russia", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "South Korea", "score": "1–0", "result": "W" },
-        { "round": "Round of 16", "opponent": "United States", "score": "2–1", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Argentina", "score": "0–1", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Algeria",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Fellaini 70'', Mertens 80''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Russia",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Origi 88''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Vertonghen 78''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "United States",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "De Bruyne 93'', Lukaku 105''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Argentina",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2018": {
@@ -209,15 +503,60 @@
       "homeColors": "red shirt with diamond-pattern flag graphic on the chest, white shorts, red socks (Adidas, inspired by the Euro 1994 kit)",
       "awayColors": "yellow shirt with red and black trim (Belgium's first-ever yellow kit, inspired by their 1984 goalkeeper jersey)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Panama", "score": "3–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Tunisia", "score": "5–2", "result": "W" },
-        { "round": "Group Stage", "opponent": "England", "score": "1–0", "result": "W" },
-        { "round": "Round of 16", "opponent": "Japan", "score": "3–2", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Brazil", "score": "2–1", "result": "W" },
-        { "round": "Semi-final", "opponent": "France", "score": "0–1", "result": "L" },
-        { "round": "3rd Place", "opponent": "England", "score": "2–0", "result": "W" }
+        {
+          "round": "Group Stage",
+          "opponent": "Panama",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Mertens 47'', Lukaku 69'', Lukaku 75''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Tunisia",
+          "score": "5–2",
+          "result": "W",
+          "scorers": "Hazard 6'', Lukaku 16'', Lukaku 45'+3'', Hazard 51'', Batshuayi 90''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Januzaj 51''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Japan",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Vertonghen 69'', Fellaini 74'', Chadli 90'+4''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Brazil",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Fernandinho OG 13'', De Bruyne 31''"
+        },
+        {
+          "round": "semi-finals",
+          "opponent": "France",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "third-place match",
+          "opponent": "England",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Meunier 4'', Hazard 82''"
+        }
       ]
     },
     "2022": {
@@ -227,11 +566,29 @@
       "homeColors": "red shirt, black shorts, red socks (Adidas)",
       "awayColors": "black shirt with red and yellow trim",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Canada", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Morocco", "score": "0–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Croatia", "score": "0–0", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Canada",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "0–2",
+          "result": "L"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Croatia",
+          "score": "0–0",
+          "result": "D"
+        }
       ]
     }
   }

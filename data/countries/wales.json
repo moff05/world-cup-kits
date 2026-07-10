@@ -3,9 +3,11 @@
   "name": "Wales",
   "flagCode": "gb-wls",
   "confederation": "UEFA",
-  "worldCups": [1958, 2022],
+  "worldCups": [
+    1958,
+    2022
+  ],
   "bestResult": "Quarter-finalists (1958)",
-
   "stats": {
     "matches": 8,
     "wins": 1,
@@ -14,7 +16,6 @@
     "goalsFor": 5,
     "goalsAgainst": 10
   },
-
   "facts": [
     {
       "id": "murphy-dodges-munich",
@@ -27,7 +28,6 @@
       "story": "In the Wales v Brazil quarter-final in Gothenburg, neither side could break through for almost three-quarters of the match. Then a 17-year-old making just his fourth World Cup appearance, Pelé, flicked the ball past defender Mel Charles and toe-poked it home for the only goal of the game — his first-ever World Cup goal. He went on to score five more in the tournament, including two in the final, as Brazil won its first World Cup at Wales' expense."
     }
   ],
-
   "kits": {
     "1958": {
       "result": "Quarter-final",
@@ -52,13 +52,46 @@
       "homeColors": "red shirt with white shorts, reintroduced for the 1958 tournament",
       "awayColors": "yellow and green change kit, used for the first time at a World Cup",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Hungary", "score": "1–1", "result": "D", "scorers": "Charles 27'" },
-        { "round": "Group Stage", "opponent": "Mexico", "score": "1–1", "result": "D", "scorers": "Allchurch 30'" },
-        { "round": "Group Stage", "opponent": "Sweden", "score": "0–0", "result": "D", "scorers": null },
-        { "round": "Group Stage Play-off", "opponent": "Hungary", "score": "2–1", "result": "W", "scorers": "Allchurch 55', Medwin 76'" },
-        { "round": "Quarter-final", "opponent": "Brazil", "score": "0–1", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Hungary",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Charles 27''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Allchurch 32''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Hungary",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Allchurch 55'', Medwin 76''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Brazil",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2022": {
@@ -79,11 +112,32 @@
       "homeColors": "red shirt with white three stripes on the shoulders, green and white collar trim, inspired by the Welsh dragon (Adidas)",
       "awayColors": "white shirt with red and green zig-zag pattern on the collar and rear panels, red shorts (Adidas)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "United States", "score": "1–1", "result": "D", "scorers": "Bale 82' (pen)" },
-        { "round": "Group Stage", "opponent": "Iran", "score": "0–2", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "England", "score": "0–3", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Bale 82' (pen)"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Iran",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
       ]
     }
   }

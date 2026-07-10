@@ -3,9 +3,16 @@
   "name": "Romania",
   "flagCode": "ro",
   "confederation": "UEFA",
-  "worldCups": [1930, 1934, 1938, 1970, 1990, 1994, 1998],
+  "worldCups": [
+    1930,
+    1934,
+    1938,
+    1970,
+    1990,
+    1994,
+    1998
+  ],
   "bestResult": "Quarter-finalists (1994)",
-
   "stats": {
     "matches": 21,
     "wins": 8,
@@ -14,7 +21,6 @@
     "goalsFor": 30,
     "goalsAgainst": 32
   },
-
   "facts": [
     {
       "id": "the-tricolorii",
@@ -27,7 +33,6 @@
       "story": "Two days before the 1998 World Cup opener, Romania's players dared coach Anghel Iordănescu to shave his head if the team advanced through the group. He agreed — on the condition they'd dye their hair blond in return. After beating Colombia and England, all 23 players and their newly bald coach walked out against Tunisia as platinum blonds, a stunt still replayed on Romanian television every World Cup."
     }
   ],
-
   "kits": {
     "1930": {
       "result": "Group Stage",
@@ -36,10 +41,25 @@
       "homeColors": "red shirt, blue shorts, black socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Peru", "score": "3–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Uruguay", "score": "0–4", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Peru",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Deşu 1'', Stanciu 79'', Kovács 89''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "0–4",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "1934": {
@@ -49,9 +69,18 @@
       "homeColors": "red shirt, blue shorts",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Round of 16", "opponent": "Czechoslovakia", "score": "1–2", "result": "L" }
+        {
+          "round": "Round of 16",
+          "opponent": "Czechoslovakia",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Dobay 11''"
+        }
       ]
     },
     "1938": {
@@ -61,10 +90,25 @@
       "homeColors": "red shirt, blue shorts",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Round of 16", "opponent": "Cuba", "score": "3–3 (a.e.t.)", "result": "D" },
-        { "round": "Round of 16", "opponent": "Cuba", "score": "1–2", "result": "L" }
+        {
+          "round": "Round of 16",
+          "opponent": "Cuba",
+          "score": "3–3",
+          "result": "D",
+          "scorers": "Bindea 35'', Baratky 88'', Dobay 105''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Cuba",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Dobay 35''"
+        }
       ]
     },
     "1970": {
@@ -74,11 +118,32 @@
       "homeColors": "yellow shirt, blue shorts",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "England", "score": "0–1", "result": "L" },
-        { "round": "Group Stage", "opponent": "Czechoslovakia", "score": "2–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Brazil", "score": "2–3", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Czechoslovakia",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Neagu 52'', Dumitrache 75''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Dumitrache 34'', Dembrovschi 84''"
+        }
       ]
     },
     "1990": {
@@ -94,12 +159,39 @@
       "homeColors": "yellow shirt, blue shorts, red socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Soviet Union", "score": "2–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "Cameroon", "score": "1–2", "result": "L" },
-        { "round": "Group Stage", "opponent": "Argentina", "score": "1–1", "result": "D" },
-        { "round": "Round of 16", "opponent": "Republic of Ireland", "score": "0–0 (a.e.t.) (4–5 pens)", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Soviet Union",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Lăcătuș 41'', Lăcătuș 55''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Cameroon",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Balint 88''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Balint 68''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Republic of Ireland",
+          "score": "0–0 (4–5 pens)",
+          "result": "D",
+          "scorers": null
+        }
       ]
     },
     "1994": {
@@ -115,13 +207,46 @@
       "homeColors": "yellow shirt with blue and red chevron pattern, blue shorts (Adidas)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Colombia", "score": "3–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Switzerland", "score": "1–4", "result": "L" },
-        { "round": "Group Stage", "opponent": "United States", "score": "1–0", "result": "W" },
-        { "round": "Round of 16", "opponent": "Argentina", "score": "3–2", "result": "W" },
-        { "round": "Quarter-final", "opponent": "Sweden", "score": "2–2 (a.e.t.) (4–5 pens)", "result": "D" }
+        {
+          "round": "Group Stage",
+          "opponent": "Colombia",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Răducioiu 15'', Hagi 34'', Răducioiu 89''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "1–4",
+          "result": "L",
+          "scorers": "Hagi 35''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Petrescu 18''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Argentina",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Dumitrescu 11'', Dumitrescu 18'', Hagi 58''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Sweden",
+          "score": "2–2 (4–5 pens)",
+          "result": "D",
+          "scorers": "Răducioiu 88'', Răducioiu 101''"
+        }
       ]
     },
     "1998": {
@@ -137,12 +262,39 @@
       "homeColors": "yellow shirt, blue shorts (Adidas)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Colombia", "score": "1–0", "result": "W" },
-        { "round": "Group Stage", "opponent": "England", "score": "2–1", "result": "W" },
-        { "round": "Group Stage", "opponent": "Tunisia", "score": "1–1", "result": "D" },
-        { "round": "Round of 16", "opponent": "Croatia", "score": "0–1", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Colombia",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Ilie 45'+1''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Moldovan 46'', Petrescu 90''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Tunisia",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Moldovan 71''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Croatia",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     }
   }

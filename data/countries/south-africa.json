@@ -3,9 +3,12 @@
   "name": "South Africa",
   "flagCode": "za",
   "confederation": "CAF",
-  "worldCups": [1998, 2002, 2010],
+  "worldCups": [
+    1998,
+    2002,
+    2010
+  ],
   "bestResult": "Group Stage (3 appearances)",
-
   "stats": {
     "matches": 9,
     "wins": 2,
@@ -14,7 +17,6 @@
     "goalsFor": 11,
     "goalsAgainst": 16
   },
-
   "facts": [
     {
       "id": "mccarthy-first-ever-goal",
@@ -27,7 +29,6 @@
       "story": "On 11 June 2010, in the opening match of the first World Cup held on African soil, Siphiwe Tshabalala curled a rehearsed left-footed strike into the top corner against Mexico, then launched into a choreographed touchline dance with his teammates that became almost as famous as the goal itself — later shortlisted for the Puskás Award. Despite the electric start, South Africa became the first host nation in World Cup history to be eliminated in the group stage."
     }
   ],
-
   "kits": {
     "1998": {
       "result": "Group Stage",
@@ -47,11 +48,32 @@
       "homeColors": "yellow shirt with bold geometric colour-blocking (Kappa)",
       "awayColors": "green shirt with yellow trim (Kappa)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "France", "score": "0–3", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Denmark", "score": "1–1", "result": "D", "scorers": "McCarthy 51'" },
-        { "round": "Group Stage", "opponent": "Saudi Arabia", "score": "2–2", "result": "D", "scorers": "Bartlett 20', 90+5' (pen)" }
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Denmark",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "McCarthy 51''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Bartlett 18'', Bartlett 90'+3''"
+        }
       ]
     },
     "2002": {
@@ -72,11 +94,32 @@
       "homeColors": "yellow shirt with green V-neck collar, shoulder stripes and sleeve cuffs, dark green mesh side panels (Adidas)",
       "awayColors": null,
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Paraguay", "score": "2–2", "result": "D", "scorers": "Mokoena 63', Fortune 90+1' (pen)" },
-        { "round": "Group Stage", "opponent": "Slovenia", "score": "1–0", "result": "W", "scorers": "Nomvethe 4'" },
-        { "round": "Group Stage", "opponent": "Spain", "score": "2–3", "result": "L", "scorers": "McCarthy 31', Radebe 53'" }
+        {
+          "round": "Group Stage",
+          "opponent": "Paraguay",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Mokoena 63'', Fortune 90'+1''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Slovenia",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Nomvethe 4''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "McCarthy 31'', Radebe 53''"
+        }
       ]
     },
     "2010": {
@@ -97,11 +140,32 @@
       "homeColors": "sunshine yellow shirt with twilight green trim on the collar and sleeves, eleven threads woven in to symbolize unity (Adidas)",
       "awayColors": "green shirt with yellow trim (Adidas)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Mexico", "score": "1–1", "result": "D", "scorers": "Tshabalala 55'" },
-        { "round": "Group Stage", "opponent": "Uruguay", "score": "0–3", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "France", "score": "2–1", "result": "W", "scorers": "Khumalo 20', Mphela 37'" }
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Tshabalala 55''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Khumalo 20'', Mphela 37''"
+        }
       ]
     }
   }

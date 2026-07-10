@@ -3,9 +3,12 @@
   "name": "Senegal",
   "flagCode": "sn",
   "confederation": "CAF",
-  "worldCups": [2002, 2018, 2022],
+  "worldCups": [
+    2002,
+    2018,
+    2022
+  ],
   "bestResult": "Quarter-finalists (2002)",
-
   "stats": {
     "matches": 12,
     "wins": 5,
@@ -14,7 +17,6 @@
     "goalsFor": 16,
     "goalsAgainst": 17
   },
-
   "facts": [
     {
       "id": "lions-of-teranga",
@@ -27,7 +29,6 @@
       "story": "On 31 May 2002, in the World Cup's opening match, a team making its tournament debut beat the nation that had ruled Senegal as a colony until 1960 — and the opponent happened to be the reigning World Champions. Papa Bouba Diop scrambled home the only goal in the 30th minute after a mix-up between Fabien Barthez and Emmanuel Petit, then took off his shirt and laid it on the grass for his teammates to dance around. France left the tournament three games later without having scored a single goal."
     }
   ],
-
   "kits": {
     "2002": {
       "result": "Quarter-final",
@@ -57,13 +58,46 @@
       "homeColors": "white shirt with green, yellow and red trim drawn from the national flag (Le Coq Sportif)",
       "awayColors": "green shirt with red and yellow sleeve stripes (Le Coq Sportif); worn against Uruguay after FIFA ruled the sky-blue kits too similar",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "France", "score": "1–0", "result": "W", "scorers": "Diop 30'" },
-        { "round": "Group Stage", "opponent": "Denmark", "score": "1–1", "result": "D", "scorers": "Diao 52'" },
-        { "round": "Group Stage", "opponent": "Uruguay", "score": "3–3", "result": "D", "scorers": "Fadiga 20' (pen), Diop 26', 38'" },
-        { "round": "Round of 16", "opponent": "Sweden", "score": "2–1 (a.e.t.)", "result": "W", "scorers": "Camara 37', 104'" },
-        { "round": "Quarter-final", "opponent": "Turkey", "score": "0–1 (a.e.t.)", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Diop 30''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Denmark",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Diao 52''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "3–3",
+          "result": "D",
+          "scorers": "Fadiga 20'', Diop 26'', Diop 38''"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Sweden",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Camara 37'', Camara 104''"
+        },
+        {
+          "round": "quarter-finals",
+          "opponent": "Turkey",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2018": {
@@ -84,11 +118,32 @@
       "homeColors": "white shirt with green collar and sleeve trim, featuring a lion graphic on the chest (Puma)",
       "awayColors": "green shirt with white trim, same lion graphic as the home kit (Puma)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Poland", "score": "2–1", "result": "W", "scorers": "Cionek OG 37', Niang 60'" },
-        { "round": "Group Stage", "opponent": "Japan", "score": "2–2", "result": "D", "scorers": "Mané 11', Wagué 71'" },
-        { "round": "Group Stage", "opponent": "Colombia", "score": "0–1", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Poland",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Cionek OG 37'', Niang 60''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Mané 11'', Wagué 71''"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Colombia",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ]
     },
     "2022": {
@@ -109,12 +164,39 @@
       "homeColors": "white shirt with a green, yellow and red flag-inspired chest chevron, 'Lions de la Teranga' printed across the back (Puma)",
       "awayColors": "green shirt with a dark green central stripe and red crew-neck trim (Puma)",
       "image": null,
-      "imageCredit": { "player": null, "game": null },
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
-        { "round": "Group Stage", "opponent": "Netherlands", "score": "0–2", "result": "L", "scorers": null },
-        { "round": "Group Stage", "opponent": "Qatar", "score": "3–1", "result": "W", "scorers": "Dia 41', Diédhiou 48', Dieng 84'" },
-        { "round": "Group Stage", "opponent": "Ecuador", "score": "2–1", "result": "W", "scorers": "Sarr 44' (pen), Koulibaly 70'" },
-        { "round": "Round of 16", "opponent": "England", "score": "0–3", "result": "L", "scorers": null }
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Qatar",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Dia 41', Diédhiou 48', Dieng 84'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ecuador",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Sarr 44' (pen), Koulibaly 70'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "England",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
       ]
     }
   }
