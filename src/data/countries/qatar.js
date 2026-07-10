@@ -72,7 +72,7 @@ export const qatar = {
             {
               "id": "eliminated-in-two",
               "label": "GONE BY MATCH TWO",
-              "story": "A 3-1 defeat to Senegal at Al Thumama Stadium confirmed Qatar's exit with a full group game still to play — the fastest elimination of any host nation. Muntari's 78th-minute header was the lone bright spot in a tournament defined by historic firsts, all of them unwanted."
+              "story": "A 3–1 defeat to Senegal at Al Thumama Stadium confirmed Qatar's exit with a full group game still to play — the fastest elimination of any host nation. Muntari's 78th-minute header was the lone bright spot in a tournament defined by historic firsts, all of them unwanted."
             },
             {
               "id": "zero-points-record",
