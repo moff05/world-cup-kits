@@ -24,6 +24,29 @@ const FEATURED = [
   { id: "dr-congo",   year: 1974, result: "Group Stage" },
 ];
 
+function FeaturedCard({ id, year, result }) {
+  const country = countries.find((c) => c.id === id);
+  if (!country) return null;
+  const yearData = country.kits?.[year];
+  const headline = yearData?.headline || "";
+  return (
+    <Link to={`/${id}`} className="featured-card" aria-label={`${country.name} ${year}`}>
+      <img
+        src={`https://flagcdn.com/w320/${country.flagCode}.png`}
+        alt=""
+        className="featured-card-bg"
+      />
+      <div className="featured-card-overlay" />
+      <span className="featured-card-result">{result}</span>
+      <div className="featured-card-body">
+        <span className="featured-card-year">{year}</span>
+        <span className="featured-card-country">{country.name}</span>
+        {headline && <span className="featured-card-headline">{headline}</span>}
+      </div>
+    </Link>
+  );
+}
+
 function FeaturedStrip() {
   return (
     <div className="featured-strip">
@@ -31,28 +54,14 @@ function FeaturedStrip() {
         <span className="featured-strip-title">Featured Stories</span>
       </div>
       <div className="featured-strip-scroll">
-        {FEATURED.map(({ id, year, result }) => {
-          const country = countries.find((c) => c.id === id);
-          if (!country) return null;
-          const yearData = country.kits?.[year];
-          const headline = yearData?.headline || "";
-          return (
-            <Link key={`${id}-${year}`} to={`/${id}`} className="featured-card">
-              <img
-                src={`https://flagcdn.com/w320/${country.flagCode}.png`}
-                alt=""
-                className="featured-card-bg"
-              />
-              <div className="featured-card-overlay" />
-              <span className="featured-card-result">{result}</span>
-              <div className="featured-card-body">
-                <span className="featured-card-year">{year}</span>
-                <span className="featured-card-country">{country.name}</span>
-                {headline && <span className="featured-card-headline">{headline}</span>}
-              </div>
-            </Link>
-          );
-        })}
+        <div className="featured-track" aria-hidden="false">
+          {FEATURED.map(({ id, year, result }) => (
+            <FeaturedCard key={`a-${id}-${year}`} id={id} year={year} result={result} />
+          ))}
+          {FEATURED.map(({ id, year, result }) => (
+            <FeaturedCard key={`b-${id}-${year}`} id={id} year={year} result={result} />
+          ))}
+        </div>
       </div>
     </div>
   );
