@@ -1,4 +1,4 @@
-export const indonesia = {
+{
   "id": "indonesia",
   "name": "Indonesia",
   "flagCode": "id",
@@ -31,8 +31,20 @@ export const indonesia = {
     "1938": {
       "result": "Round of 16",
       "headline": "Asia's First World Cup Kit",
+      "annotations": [
+        {
+          "id": "gone-in-thirteen-minutes",
+          "label": "HUNGARY'S HEAD START",
+          "story": "Hungary needed just 13 minutes to seize control of the match at Reims, and the Dutch East Indies — playing on pure amateur grit against a team stacked with professionals — never recovered, going down 0–6 in the only World Cup match the nation has ever played."
+        }
+      ],
       "homeColors": "orange shirt (the Dutch national color), white shorts, light blue socks — no official kit records survive, this is reconstructed from black-and-white match photos",
       "awayColors": null,
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
         {
           "round": "Round of 16",
@@ -41,23 +53,7 @@ export const indonesia = {
           "result": "L",
           "scorers": null
         }
-      ],
-      "kits": {
-        "home": {
-          "image": null,
-          "imageCredit": {
-            "player": null,
-            "game": null
-          },
-          "annotations": [
-            {
-              "id": "gone-in-thirteen-minutes",
-              "label": "HUNGARY'S HEAD START",
-              "story": "Hungary needed just 13 minutes to seize control of the match at Reims, and the Dutch East Indies — playing on pure amateur grit against a team stacked with professionals — never recovered, going down 0–6 in the only World Cup match the nation has ever played."
-            }
-          ]
-        }
-      }
+      ]
     }
   }
-};
+}
