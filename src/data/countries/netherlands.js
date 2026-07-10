@@ -49,7 +49,7 @@ export const netherlands = {
           "opponent": "Switzerland",
           "score": "2–3",
           "result": "L",
-          "scorers": "Smit 29'', Vente 69''"
+          "scorers": "Smit 29', Vente 69'"
         }
       ],
       "kits": {
@@ -111,7 +111,7 @@ export const netherlands = {
           "opponent": "Uruguay",
           "score": "2–0",
           "result": "W",
-          "scorers": "Rep 7'', Rep 86''"
+          "scorers": "Rep 7', Rep 86'"
         },
         {
           "round": "Group Stage",
@@ -125,35 +125,35 @@ export const netherlands = {
           "opponent": "Bulgaria",
           "score": "4–1",
           "result": "W",
-          "scorers": "Neeskens 5'', Neeskens 44'', Rep 71'', de Jong 88''"
+          "scorers": "Neeskens 5', Neeskens 44', Rep 71', de Jong 88'"
         },
         {
           "round": "2nd Round",
           "opponent": "Argentina",
           "score": "4–0",
           "result": "W",
-          "scorers": "Cruyff 11'', Krol 25'', Rep 73'', Cruyff 90''"
+          "scorers": "Cruyff 11', Krol 25', Rep 73', Cruyff 90'"
         },
         {
           "round": "2nd Round",
           "opponent": "East Germany",
           "score": "2–0",
           "result": "W",
-          "scorers": "Neeskens 7'', Rensenbrink 59''"
+          "scorers": "Neeskens 7', Rensenbrink 59'"
         },
         {
           "round": "2nd Round",
           "opponent": "Brazil",
           "score": "2–0",
           "result": "W",
-          "scorers": "Neeskens 50'', Cruyff 65''"
+          "scorers": "Neeskens 50', Cruyff 65'"
         },
         {
           "round": "Final",
           "opponent": "West Germany",
           "score": "1–2",
           "result": "L",
-          "scorers": "Neeskens 2''"
+          "scorers": "Neeskens 2'"
         }
       ],
       "kits": {
@@ -184,7 +184,7 @@ export const netherlands = {
           "opponent": "Iran",
           "score": "3–0",
           "result": "W",
-          "scorers": "Rensenbrink 40'', Rensenbrink 62'', Rensenbrink 78''"
+          "scorers": "Rensenbrink 40', Rensenbrink 62', Rensenbrink 78'"
         },
         {
           "round": "Group Stage",
@@ -198,35 +198,35 @@ export const netherlands = {
           "opponent": "Scotland",
           "score": "2–3",
           "result": "L",
-          "scorers": "Rensenbrink 34'', Rep 71''"
+          "scorers": "Rensenbrink 34', Rep 71'"
         },
         {
           "round": "2nd Round",
           "opponent": "Austria",
           "score": "5–1",
           "result": "W",
-          "scorers": "Brandts 6'', Rensenbrink 35'', Rep 36'', Rep 53'', van de Kerkhof 82''"
+          "scorers": "Brandts 6', Rensenbrink 35', Rep 36', Rep 53', van de Kerkhof 82'"
         },
         {
           "round": "2nd Round",
           "opponent": "West Germany",
           "score": "2–2",
           "result": "D",
-          "scorers": "Haan 27'', van de Kerkhof 82''"
+          "scorers": "Haan 27', van de Kerkhof 82'"
         },
         {
           "round": "2nd Round",
           "opponent": "Italy",
           "score": "2–1",
           "result": "W",
-          "scorers": "Brandts 49'', Haan 76''"
+          "scorers": "Brandts 49', Haan 76'"
         },
         {
           "round": "Final",
           "opponent": "Argentina",
           "score": "1–3",
           "result": "L",
-          "scorers": "Nanninga 82''"
+          "scorers": "Nanninga 82'"
         }
       ],
       "kits": {
@@ -257,7 +257,7 @@ export const netherlands = {
           "opponent": "Egypt",
           "score": "1–1",
           "result": "D",
-          "scorers": "Kieft 58''"
+          "scorers": "Kieft 58'"
         },
         {
           "round": "Group Stage",
@@ -271,14 +271,14 @@ export const netherlands = {
           "opponent": "Republic of Ireland",
           "score": "1–1",
           "result": "D",
-          "scorers": "Gullit 11''"
+          "scorers": "Gullit 11'"
         },
         {
           "round": "Round of 16",
           "opponent": "West Germany",
           "score": "1–2",
           "result": "L",
-          "scorers": "Koeman 89''"
+          "scorers": "Koeman 89'"
         }
       ],
       "kits": {
@@ -309,7 +309,7 @@ export const netherlands = {
           "opponent": "Saudi Arabia",
           "score": "2–1",
           "result": "W",
-          "scorers": "Jonk 50'', Taument 86''"
+          "scorers": "Jonk 50', Taument 86'"
         },
         {
           "round": "Group Stage",
@@ -323,21 +323,21 @@ export const netherlands = {
           "opponent": "Morocco",
           "score": "2–1",
           "result": "W",
-          "scorers": "Bergkamp 43'', Roy 77''"
+          "scorers": "Bergkamp 43', Roy 77'"
         },
         {
           "round": "Round of 16",
           "opponent": "Republic of Ireland",
           "score": "2–0",
           "result": "W",
-          "scorers": "Bergkamp 11'', Jonk 41''"
+          "scorers": "Bergkamp 11', Jonk 41'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Brazil",
           "score": "2–3",
           "result": "L",
-          "scorers": "Bergkamp 64'', Winter 76''"
+          "scorers": "Bergkamp 64', Winter 76'"
         }
       ],
       "kits": {
@@ -375,42 +375,42 @@ export const netherlands = {
           "opponent": "South Korea",
           "score": "5–0",
           "result": "W",
-          "scorers": "Cocu 37'', Overmars 41'', Bergkamp 71'', van Hooijdonk 80'', de Boer 83''"
+          "scorers": "Cocu 37', Overmars 41', Bergkamp 71', van Hooijdonk 80', de Boer 83'"
         },
         {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "2–2",
           "result": "D",
-          "scorers": "Cocu 4'', de Boer 18''"
+          "scorers": "Cocu 4', de Boer 18'"
         },
         {
           "round": "Round of 16",
           "opponent": "Yugoslavia",
           "score": "2–1",
           "result": "W",
-          "scorers": "Bergkamp 38'', Davids 90'+2''"
+          "scorers": "Bergkamp 38', Davids 90'+2'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Argentina",
           "score": "2–1",
           "result": "W",
-          "scorers": "Kluivert 12'', Bergkamp 90''"
+          "scorers": "Kluivert 12', Bergkamp 90'"
         },
         {
-          "round": "semi-finals",
+          "round": "Semi-final",
           "opponent": "Brazil",
           "score": "1–1 (2–4 pens)",
           "result": "D",
-          "scorers": "Kluivert 87''"
+          "scorers": "Kluivert 87'"
         },
         {
           "round": "third-place match",
           "opponent": "Croatia",
           "score": "1–2",
           "result": "L",
-          "scorers": "Zenden 22''"
+          "scorers": "Zenden 22'"
         }
       ],
       "kits": {
@@ -441,14 +441,14 @@ export const netherlands = {
           "opponent": "Serbia and Montenegro",
           "score": "1–0",
           "result": "W",
-          "scorers": "Robben 18''"
+          "scorers": "Robben 18'"
         },
         {
           "round": "Group Stage",
           "opponent": "Ivory Coast",
           "score": "2–1",
           "result": "W",
-          "scorers": "van Persie 23'', van Nistelrooy 27''"
+          "scorers": "van Persie 23', van Nistelrooy 27'"
         },
         {
           "round": "Group Stage",
@@ -493,42 +493,42 @@ export const netherlands = {
           "opponent": "Denmark",
           "score": "2–0",
           "result": "W",
-          "scorers": "Agger OG 46'', Kuyt 85''"
+          "scorers": "Agger OG 46', Kuyt 85'"
         },
         {
           "round": "Group Stage",
           "opponent": "Japan",
           "score": "1–0",
           "result": "W",
-          "scorers": "Sneijder 53''"
+          "scorers": "Sneijder 53'"
         },
         {
           "round": "Group Stage",
           "opponent": "Cameroon",
           "score": "2–1",
           "result": "W",
-          "scorers": "van Persie 36'', Huntelaar 83''"
+          "scorers": "van Persie 36', Huntelaar 83'"
         },
         {
           "round": "Round of 16",
           "opponent": "Slovakia",
           "score": "2–1",
           "result": "W",
-          "scorers": "Robben 18'', Sneijder 84''"
+          "scorers": "Robben 18', Sneijder 84'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Brazil",
           "score": "2–1",
           "result": "W",
-          "scorers": "Sneijder 53'', Sneijder 68''"
+          "scorers": "Sneijder 53', Sneijder 68'"
         },
         {
-          "round": "semi-finals",
+          "round": "Semi-final",
           "opponent": "Uruguay",
           "score": "3–2",
           "result": "W",
-          "scorers": "van Bronckhorst 18'', Sneijder 70'', Robben 73''"
+          "scorers": "van Bronckhorst 18', Sneijder 70', Robben 73'"
         },
         {
           "round": "Final",
@@ -566,38 +566,38 @@ export const netherlands = {
           "opponent": "Spain",
           "score": "5–1",
           "result": "W",
-          "scorers": "van Persie 44'', Robben 53'', de Vrij 64'', van Persie 72'', Robben 80''"
+          "scorers": "van Persie 44', Robben 53', de Vrij 64', van Persie 72', Robben 80'"
         },
         {
           "round": "Group Stage",
           "opponent": "Australia",
           "score": "3–2",
           "result": "W",
-          "scorers": "Robben 20'', van Persie 58'', Depay 68''"
+          "scorers": "Robben 20', van Persie 58', Depay 68'"
         },
         {
           "round": "Group Stage",
           "opponent": "Chile",
           "score": "2–0",
           "result": "W",
-          "scorers": "Fer 77'', Depay 90'+2''"
+          "scorers": "Fer 77', Depay 90'+2'"
         },
         {
           "round": "Round of 16",
           "opponent": "Mexico",
           "score": "2–1",
           "result": "W",
-          "scorers": "Sneijder 88'', Huntelaar 90'+4''"
+          "scorers": "Sneijder 88', Huntelaar 90'+4'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Costa Rica",
           "score": "0–0 (4–3 pens)",
           "result": "D",
           "scorers": null
         },
         {
-          "round": "semi-finals",
+          "round": "Semi-final",
           "opponent": "Argentina",
           "score": "0–0 (2–4 pens)",
           "result": "D",
@@ -608,7 +608,7 @@ export const netherlands = {
           "opponent": "Brazil",
           "score": "3–0",
           "result": "W",
-          "scorers": "van Persie 3'', Blind 17'', Wijnaldum 90'+1''"
+          "scorers": "van Persie 3', Blind 17', Wijnaldum 90'+1'"
         }
       ],
       "kits": {
