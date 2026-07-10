@@ -548,7 +548,7 @@
     "name": "Panama",
     "confederation": "CONCACAF",
     "worldCupsCount": 1,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -556,7 +556,7 @@
     "name": "Angola",
     "confederation": "CAF",
     "worldCupsCount": 1,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -564,7 +564,7 @@
     "name": "Togo",
     "confederation": "CAF",
     "worldCupsCount": 1,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {

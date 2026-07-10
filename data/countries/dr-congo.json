@@ -1,4 +1,4 @@
-export const drCongo = {
+{
   "id": "dr-congo",
   "name": "DR Congo",
   "flagCode": "cd",
@@ -31,8 +31,30 @@ export const drCongo = {
     "1974": {
       "result": "Group Stage",
       "headline": "Leopards' Historic Debut, Infamous Ending",
+      "annotations": [
+        {
+          "id": "scotland-keep-it-close",
+          "label": "A RESPECTABLE OPENER",
+          "story": "Zaire's World Cup debut in Dortmund saw them hold the Scots scoreless deep into the first half before Peter Lorimer and Joe Jordan struck either side of halftime. The 0–2 scoreline flattered nobody — it stood as Zaire's most composed 90 minutes of the tournament, before financial chaos consumed the squad."
+        },
+        {
+          "id": "the-nine-nil-collapse",
+          "label": "NINE GOALS, ONE MUTINY",
+          "story": "Furious over unpaid World Cup bonuses, Zaire's players reportedly threatened to strike before facing Yugoslavia in Gelsenkirchen. Presidential pressure forced them onto the pitch demoralized, and Yugoslavia poured in nine unanswered goals — still among the heaviest defeats in World Cup history, with six scored before halftime alone."
+        },
+        {
+          "id": "ilungas-charge-vs-brazil",
+          "label": "ILUNGA'S CHARGE",
+          "story": "Reportedly warned they'd be barred from home if they lost by four or more, Zaire trailed just 1–0 at half against Brazil. Late in the match, defender Mwepu Ilunga burst from the defensive wall and booted a Brazilian free kick upfield before it was even taken — later revealed as deliberate protest, not comic confusion."
+        }
+      ],
       "homeColors": "green shirt, yellow shorts, green socks — echoing the green-and-gold Zairian flag",
       "awayColors": "yellow shirt, green shorts, yellow socks",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -55,33 +77,7 @@ export const drCongo = {
           "result": "L",
           "scorers": null
         }
-      ],
-      "kits": {
-        "home": {
-          "image": null,
-          "imageCredit": {
-            "player": null,
-            "game": null
-          },
-          "annotations": [
-            {
-              "id": "scotland-keep-it-close",
-              "label": "A RESPECTABLE OPENER",
-              "story": "Zaire's World Cup debut in Dortmund saw them hold the Scots scoreless deep into the first half before Peter Lorimer and Joe Jordan struck either side of halftime. The 0–2 scoreline flattered nobody — it stood as Zaire's most composed 90 minutes of the tournament, before financial chaos consumed the squad."
-            },
-            {
-              "id": "the-nine-nil-collapse",
-              "label": "NINE GOALS, ONE MUTINY",
-              "story": "Furious over unpaid World Cup bonuses, Zaire's players reportedly threatened to strike before facing Yugoslavia in Gelsenkirchen. Presidential pressure forced them onto the pitch demoralized, and Yugoslavia poured in nine unanswered goals — still among the heaviest defeats in World Cup history, with six scored before halftime alone."
-            },
-            {
-              "id": "ilungas-charge-vs-brazil",
-              "label": "ILUNGA'S CHARGE",
-              "story": "Reportedly warned they'd be barred from home if they lost by four or more, Zaire trailed just 1–0 at half against Brazil. Late in the match, defender Mwepu Ilunga burst from the defensive wall and booted a Brazilian free kick upfield before it was even taken — later revealed as deliberate protest, not comic confusion."
-            }
-          ]
-        }
-      }
+      ]
     }
   }
-};
+}
