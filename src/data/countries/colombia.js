@@ -43,19 +43,22 @@ export const colombia = {
           "round": "Group Stage",
           "opponent": "Uruguay",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Zuluaga 19''"
         },
         {
           "round": "Group Stage",
           "opponent": "Soviet Union",
           "score": "4–4",
-          "result": "D"
+          "result": "D",
+          "scorers": "Aceros 21'', Coll 68'', Rada 72'', Klinger 86''"
         },
         {
           "round": "Group Stage",
           "opponent": "Yugoslavia",
           "score": "0–5",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -85,25 +88,29 @@ export const colombia = {
           "round": "Group Stage",
           "opponent": "United Arab Emirates",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Redín 50'', Valderrama 85''"
         },
         {
           "round": "Group Stage",
           "opponent": "Yugoslavia",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Rincón 90'+3''"
         },
         {
           "round": "Round of 16",
           "opponent": "Cameroon",
-          "score": "1–2 (a.e.t.)",
-          "result": "L"
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Redín 115''"
         }
       ],
       "kits": {
@@ -133,19 +140,22 @@ export const colombia = {
           "round": "Group Stage",
           "opponent": "Romania",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Valencia 43''"
         },
         {
           "round": "Group Stage",
           "opponent": "United States",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Valencia 90''"
         },
         {
           "round": "Group Stage",
           "opponent": "Switzerland",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Gaviria 44'', Lozano 90''"
         }
       ],
       "kits": {
@@ -175,19 +185,22 @@ export const colombia = {
           "round": "Group Stage",
           "opponent": "Romania",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Tunisia",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Preciado 82''"
         },
         {
           "round": "Group Stage",
           "opponent": "England",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -217,31 +230,36 @@ export const colombia = {
           "round": "Group Stage",
           "opponent": "Greece",
           "score": "3–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Armero 5'', Gutiérrez 58'', Rodríguez 90'+3''"
         },
         {
           "round": "Group Stage",
           "opponent": "Ivory Coast",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Rodríguez 64'', Quintero 70''"
         },
         {
           "round": "Group Stage",
           "opponent": "Japan",
           "score": "4–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Cuadrado 17'', Martínez 55'', Martínez 82'', Rodríguez 90''"
         },
         {
           "round": "Round of 16",
           "opponent": "Uruguay",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Rodríguez 28'', Rodríguez 50''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Brazil",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Rodríguez 80''"
         }
       ],
       "kits": {
@@ -271,25 +289,29 @@ export const colombia = {
           "round": "Group Stage",
           "opponent": "Japan",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Quintero 39''"
         },
         {
           "round": "Group Stage",
           "opponent": "Poland",
           "score": "3–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Mina 40'', Falcao 70'', Cuadrado 75''"
         },
         {
           "round": "Group Stage",
           "opponent": "Senegal",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Mina 74''"
         },
         {
           "round": "Round of 16",
           "opponent": "England",
-          "score": "1–1 (a.e.t.) (3–4 pens)",
-          "result": "D"
+          "score": "1–1 (3–4 pens)",
+          "result": "D",
+          "scorers": "Mina 90'+3''"
         }
       ],
       "kits": {
