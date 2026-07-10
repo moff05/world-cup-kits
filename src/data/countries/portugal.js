@@ -45,37 +45,43 @@ export const portugal = {
           "round": "Group Stage",
           "opponent": "Hungary",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Augusto 2'', Augusto 67'', Torres 90''"
         },
         {
           "round": "Group Stage",
           "opponent": "Bulgaria",
           "score": "3–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Vutsov OG 7'', Eusébio 38'', Torres 81''"
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Simões 15'', Eusébio 27'', Eusébio 85''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "North Korea",
           "score": "5–3",
-          "result": "W"
+          "result": "W",
+          "scorers": "Eusébio 27'', Eusébio 43'', Eusébio 56'', Eusébio 59'', Augusto 80''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "England",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Eusébio 82''"
         },
         {
-          "round": "3rd Place",
+          "round": "third-place match",
           "opponent": "Soviet Union",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Eusébio 12'', Torres 89''"
         }
       ],
       "kits": {
@@ -105,19 +111,22 @@ export const portugal = {
           "round": "Group Stage",
           "opponent": "England",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Manuel 75''"
         },
         {
           "round": "Group Stage",
           "opponent": "Poland",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Morocco",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Diamantino 80''"
         }
       ],
       "kits": {
@@ -147,19 +156,22 @@ export const portugal = {
           "round": "Group Stage",
           "opponent": "United States",
           "score": "2–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Beto 39'', Agoos OG 71''"
         },
         {
           "round": "Group Stage",
           "opponent": "Poland",
           "score": "4–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Pauleta 14'', Pauleta 65'', Pauleta 77'', Costa 88''"
         },
         {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -189,43 +201,50 @@ export const portugal = {
           "round": "Group Stage",
           "opponent": "Angola",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Pauleta 4''"
         },
         {
           "round": "Group Stage",
           "opponent": "Iran",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Deco 63'', Ronaldo 80''"
         },
         {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Maniche 6'', Simão 24''"
         },
         {
           "round": "Round of 16",
           "opponent": "Netherlands",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Maniche 23''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "England",
           "score": "0–0 (3–1 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "France",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
-          "round": "3rd Place",
+          "round": "third-place match",
           "opponent": "Germany",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Gomes 88''"
         }
       ],
       "kits": {
@@ -255,25 +274,29 @@ export const portugal = {
           "round": "Group Stage",
           "opponent": "Ivory Coast",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "North Korea",
           "score": "7–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Meireles 29'', Simão 53'', Almeida 56'', Tiago 60'', Liédson 81'', Ronaldo 87'', Tiago 89''"
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Round of 16",
           "opponent": "Spain",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -303,19 +326,22 @@ export const portugal = {
           "round": "Group Stage",
           "opponent": "Germany",
           "score": "0–4",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "United States",
           "score": "2–2",
-          "result": "D"
+          "result": "D",
+          "scorers": "Nani 5'', Varela 90'+5''"
         },
         {
           "round": "Group Stage",
           "opponent": "Ghana",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Boye OG 31'', Ronaldo 80''"
         }
       ],
       "kits": {
@@ -345,25 +371,29 @@ export const portugal = {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "3–3",
-          "result": "D"
+          "result": "D",
+          "scorers": "Ronaldo 4'', Ronaldo 44'', Ronaldo 88''"
         },
         {
           "round": "Group Stage",
           "opponent": "Morocco",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Ronaldo 4''"
         },
         {
           "round": "Group Stage",
           "opponent": "Iran",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Quaresma 45''"
         },
         {
           "round": "Round of 16",
           "opponent": "Uruguay",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Pepe 55''"
         }
       ],
       "kits": {
