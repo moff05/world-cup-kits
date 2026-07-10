@@ -1,4 +1,4 @@
-export const iceland = {
+{
   "id": "iceland",
   "name": "Iceland",
   "flagCode": "is",
@@ -31,8 +31,30 @@ export const iceland = {
     "2018": {
       "result": "Group Stage",
       "headline": "Smallest Nation, Biggest Stage",
+      "annotations": [
+        {
+          "id": "finnbogason-first-goal",
+          "label": "FIRST GOAL IN HISTORY",
+          "story": "Four minutes after Sergio Agüero opened the scoring, Alfreð Finnbogason turned in a rebound to level it 1–1 against Argentina — the first goal Iceland had ever scored at a World Cup. It arrived in the team's very first match, on the biggest stage the tiny nation had ever played."
+        },
+        {
+          "id": "halldorsson-saves-messi",
+          "label": "HALLDÓRSSON DENIES MESSI",
+          "story": "In the 63rd minute, Lionel Messi stepped up to a penalty that could have put Argentina ahead. Goalkeeper Hannes Halldórsson, a part-time film director, guessed correctly and parried the shot away, preserving Iceland's 1–1 draw in the most famous save of the tournament's opening week."
+        },
+        {
+          "id": "perisic-ends-the-dream",
+          "label": "PERIŠIĆ ENDS THE DREAM",
+          "story": "Iceland's campaign ended in stoppage time. Milan Badelj's strike and a Gylfi Sigurðsson penalty had made it 1–1, but Ivan Perišić raced through and lashed home a 90th-minute winner for Croatia, closing the book on Iceland's fairy-tale debut with a 1–2 defeat."
+        }
+      ],
       "homeColors": "blue shirt with a white collar and a red-white-blue dotted gradient on the sleeves (Errea)",
       "awayColors": "white shirt with the same dotted sleeve graphic in blue tones (Errea)",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -55,33 +77,7 @@ export const iceland = {
           "result": "L",
           "scorers": "Sigurðsson 76' (pen.)"
         }
-      ],
-      "kits": {
-        "home": {
-          "image": null,
-          "imageCredit": {
-            "player": null,
-            "game": null
-          },
-          "annotations": [
-            {
-              "id": "finnbogason-first-goal",
-              "label": "FIRST GOAL IN HISTORY",
-              "story": "Four minutes after Sergio Agüero opened the scoring, Alfreð Finnbogason turned in a rebound to level it 1–1 against Argentina — the first goal Iceland had ever scored at a World Cup. It arrived in the team's very first match, on the biggest stage the tiny nation had ever played."
-            },
-            {
-              "id": "halldorsson-saves-messi",
-              "label": "HALLDÓRSSON DENIES MESSI",
-              "story": "In the 63rd minute, Lionel Messi stepped up to a penalty that could have put Argentina ahead. Goalkeeper Hannes Halldórsson, a part-time film director, guessed correctly and parried the shot away, preserving Iceland's 1–1 draw in the most famous save of the tournament's opening week."
-            },
-            {
-              "id": "perisic-ends-the-dream",
-              "label": "PERIŠIĆ ENDS THE DREAM",
-              "story": "Iceland's campaign ended in stoppage time. Milan Badelj's strike and a Gylfi Sigurðsson penalty had made it 1–1, but Ivan Perišić raced through and lashed home a 90th-minute winner for Croatia, closing the book on Iceland's fairy-tale debut with a 1–2 defeat."
-            }
-          ]
-        }
-      }
+      ]
     }
   }
-};
+}
