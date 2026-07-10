@@ -41,7 +41,7 @@ export const norway = {
           "opponent": "Italy",
           "score": "1–2",
           "result": "L",
-          "scorers": "Brustad 83''"
+          "scorers": "Brustad 83'"
         }
       ],
       "kits": {
@@ -72,7 +72,7 @@ export const norway = {
           "opponent": "Mexico",
           "score": "1–0",
           "result": "W",
-          "scorers": "Rekdal 84''"
+          "scorers": "Rekdal 84'"
         },
         {
           "round": "Group Stage",
@@ -117,21 +117,21 @@ export const norway = {
           "opponent": "Morocco",
           "score": "2–2",
           "result": "D",
-          "scorers": "Chippo OG 45'+1'', Eggen 61''"
+          "scorers": "Chippo OG 45'+1', Eggen 61'"
         },
         {
           "round": "Group Stage",
           "opponent": "Scotland",
           "score": "1–1",
           "result": "D",
-          "scorers": "Flo 46''"
+          "scorers": "Flo 46'"
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "2–1",
           "result": "W",
-          "scorers": "Flo 83'', Rekdal 89''"
+          "scorers": "Flo 83', Rekdal 89'"
         },
         {
           "round": "Round of 16",
