@@ -35,7 +35,7 @@ export const brazil = {
     "draws": 20,
     "losses": 20,
     "goalsFor": 247,
-    "goalsAgainst": 112,
+    "goalsAgainst": 112
   },
   "facts": [
     {
@@ -54,20 +54,21 @@ export const brazil = {
       "headline": "The Debut That Ended in Groups",
       "result": "Group Stage",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Bolivia",
-                      "score": "4–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Yugoslavia",
-                      "score": "1–2",
-                      "result": "L"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Yugoslavia",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Preguinho 62'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bolivia",
+          "score": "4–0",
+          "result": "W",
+          "scorers": "Moderato 37', Preguinho 57', Moderato 73', Preguinho 83'"
+        }
       ],
-
       "kits": {
         "home": {
           "image": "/kits/brazil/1930-team.jpg",
@@ -100,14 +101,14 @@ export const brazil = {
       "headline": "One Match. One Defeat. Home.",
       "result": "Round of 16",
       "matches": [
-              {
-                      "round": "Round of 16",
-                      "opponent": "Spain",
-                      "score": "1–3",
-                      "result": "L"
-              }
+        {
+          "round": "Round of 16",
+          "opponent": "Spain",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Leônidas 55'"
+        }
       ],
-
       "kits": {
         "home": {
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sele%C3%A7%C3%A3o_Brasileira_embarcando_para_a_Copa_do_Mundo_de_1934.tif/lossy-page1-3840px-Sele%C3%A7%C3%A3o_Brasileira_embarcando_para_a_Copa_do_Mundo_de_1934.tif.jpg",
@@ -139,38 +140,42 @@ export const brazil = {
       "headline": "Leônidas and the Blunder That Cost a Final",
       "result": "3rd Place",
       "matches": [
-              {
-                      "round": "Round of 16",
-                      "opponent": "Poland",
-                      "score": "6–5 (aet)",
-                      "result": "W"
-              },
-              {
-                      "round": "Quarter-final",
-                      "opponent": "Czechoslovakia",
-                      "score": "1–1 (aet)",
-                      "result": "D"
-              },
-              {
-                      "round": "QF Replay",
-                      "opponent": "Czechoslovakia",
-                      "score": "2–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Semi-final",
-                      "opponent": "Italy",
-                      "score": "1–2",
-                      "result": "L"
-              },
-              {
-                      "round": "3rd Place",
-                      "opponent": "Sweden",
-                      "score": "4–2",
-                      "result": "W"
-              }
+        {
+          "round": "Round of 16",
+          "opponent": "Poland",
+          "score": "6–5",
+          "result": "W",
+          "scorers": "Leônidas 18', Romeu 25', Perácio 44', Perácio 71', Leônidas 93', Leônidas 104'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Czechoslovakia",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Leônidas 30'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Czechoslovakia",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Leônidas 57', Roberto 62'"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Italy",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Romeu 87'"
+        },
+        {
+          "round": "third-place match",
+          "opponent": "Sweden",
+          "score": "4–2",
+          "result": "W",
+          "scorers": "Romeu 44', Leônidas 63', Leônidas 74', Perácio 80'"
+        }
       ],
-
       "kits": {
         "home": {
           "image": "/kits/brazil/1938-poland.jpg",
@@ -203,44 +208,49 @@ export const brazil = {
       "headline": "The White That Was Never Worn Again",
       "result": "Runners-up",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Mexico",
-                      "score": "4–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Switzerland",
-                      "score": "2–2",
-                      "result": "D"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Yugoslavia",
-                      "score": "2–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Final Pool",
-                      "opponent": "Sweden",
-                      "score": "7–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Final Pool",
-                      "opponent": "Spain",
-                      "score": "6–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Final Pool",
-                      "opponent": "Uruguay",
-                      "score": "1–2",
-                      "result": "L"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "4–0",
+          "result": "W",
+          "scorers": "Ademir 30', Jair 65', Baltazar 71', Ademir 79'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Alfredo 3', Baltazar 32'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Yugoslavia",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Ademir 4', Zizinho 69'"
+        },
+        {
+          "round": "final round",
+          "opponent": "Sweden",
+          "score": "7–1",
+          "result": "W",
+          "scorers": "Ademir 17', Ademir 36', Chico 39', Ademir 52', Ademir 58', Maneca 85', Chico 88'"
+        },
+        {
+          "round": "final round",
+          "opponent": "Spain",
+          "score": "6–1",
+          "result": "W",
+          "scorers": "Ademir 15', Jair 21', Chico 31', Chico 55', Ademir 57', Zizinho 67'"
+        },
+        {
+          "round": "final round",
+          "opponent": "Uruguay",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Friaça 47'"
+        }
       ],
-
       "kits": {
         "home": {
           "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Gol_ghiggia_vs_brasil.jpg",
@@ -272,26 +282,28 @@ export const brazil = {
       "headline": "Yellow for the First Time. The Battle of Bern.",
       "result": "Quarter-final",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Mexico",
-                      "score": "5–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Yugoslavia",
-                      "score": "1–1",
-                      "result": "D"
-              },
-              {
-                      "round": "Quarter-final",
-                      "opponent": "Hungary",
-                      "score": "2–4",
-                      "result": "L"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "5–0",
+          "result": "W",
+          "scorers": "Baltazar 23', Didi 30', Pinga 34', Pinga 43', Julinho 69'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Yugoslavia",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Didi 69'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Hungary",
+          "score": "2–4",
+          "result": "L",
+          "scorers": "Santos 18', Julinho 65'"
+        }
       ],
-
       "kits": {
         "home": {
           "image": "/kits/brazil/1954-hungary.jpg",
@@ -324,44 +336,49 @@ export const brazil = {
       "headline": "Pelé Was 17. Brazil Was Unstoppable.",
       "result": "Champions",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Austria",
-                      "score": "3–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "England",
-                      "score": "0–0",
-                      "result": "D"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Soviet Union",
-                      "score": "2–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Quarter-final",
-                      "opponent": "Wales",
-                      "score": "1–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Semi-final",
-                      "opponent": "France",
-                      "score": "5–2",
-                      "result": "W"
-              },
-              {
-                      "round": "Final",
-                      "opponent": "Sweden",
-                      "score": "5–2",
-                      "result": "W"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Austria",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Altafini 37', Santos 50', Altafini 85'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Soviet Union",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Vavá 3', Vavá 77'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Wales",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Pelé 66'"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "France",
+          "score": "5–2",
+          "result": "W",
+          "scorers": "Vavá 2', Didi 39', Pelé 52', Pelé 64', Pelé 75'"
+        },
+        {
+          "round": "Final",
+          "opponent": "Sweden",
+          "score": "5–2",
+          "result": "W",
+          "scorers": "Vavá 9', Vavá 32', Pelé 55', Zagallo 68', Pelé 90'"
+        }
       ],
-
       "kits": {
         "home": {
           "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pel%C3%A9_goal_1958_WC_final.jpg",
@@ -393,44 +410,49 @@ export const brazil = {
       "headline": "Garrincha's World Cup",
       "result": "Champions",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Mexico",
-                      "score": "2–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Czechoslovakia",
-                      "score": "0–0",
-                      "result": "D"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Spain",
-                      "score": "2–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Quarter-final",
-                      "opponent": "England",
-                      "score": "3–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Semi-final",
-                      "opponent": "Chile",
-                      "score": "4–2",
-                      "result": "W"
-              },
-              {
-                      "round": "Final",
-                      "opponent": "Czechoslovakia",
-                      "score": "3–1",
-                      "result": "W"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Zagallo 56', Pelé 73'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Czechoslovakia",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Amarildo 72', Amarildo 86'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "England",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Garrincha 31', Vavá 53', Garrincha 59'"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Chile",
+          "score": "4–2",
+          "result": "W",
+          "scorers": "Garrincha 9', Garrincha 32', Vavá 47', Vavá 78'"
+        },
+        {
+          "round": "Final",
+          "opponent": "Czechoslovakia",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Amarildo 17', Zito 69', Vavá 78'"
+        }
       ],
-
       "kits": {
         "home": {
           "image": "/kits/brazil/1962-squad.jpg",
@@ -463,26 +485,28 @@ export const brazil = {
       "headline": "Pelé Kicked Out of His Last World Cup",
       "result": "Group Stage",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Bulgaria",
-                      "score": "2–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Hungary",
-                      "score": "1–3",
-                      "result": "L"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Portugal",
-                      "score": "1–3",
-                      "result": "L"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Bulgaria",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Pelé 15', Garrincha 63'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Hungary",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Tostão 14'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Portugal",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Rildo 73'"
+        }
       ],
-
       "kits": {
         "home": {
           "image": "/kits/brazil/1966-jacket.jpg",
@@ -515,50 +539,49 @@ export const brazil = {
       "headline": "The Kit That Became a Religion",
       "result": "Champions",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Czechoslovakia",
-                      "score": "4–1",
-                      "result": "W",
-                      "scorers": "Rivelino 24', Pelé 59', Jairzinho 71', Jairzinho 81'"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "England",
-                      "score": "1–0",
-                      "result": "W",
-                      "scorers": "Jairzinho 59'"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Romania",
-                      "score": "3–2",
-                      "result": "W",
-                      "scorers": "Pelé 19', Pelé 67', Jairzinho 58'"
-              },
-              {
-                      "round": "Quarter-final",
-                      "opponent": "Peru",
-                      "score": "4–2",
-                      "result": "W",
-                      "scorers": "Rivelino 11', Tostão 15', Jairzinho 52', Tostão 58'"
-              },
-              {
-                      "round": "Semi-final",
-                      "opponent": "Uruguay",
-                      "score": "3–1",
-                      "result": "W",
-                      "scorers": "Clodoaldo 44', Jairzinho 76', Rivelino 89'"
-              },
-              {
-                      "round": "Final",
-                      "opponent": "Italy",
-                      "score": "4–1",
-                      "result": "W",
-                      "scorers": "Pelé 18', Gerson 66', Jairzinho 71', Carlos Alberto 86'"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Czechoslovakia",
+          "score": "4–1",
+          "result": "W",
+          "scorers": "Rivellino 24', Pelé 59', Jairzinho 61', Jairzinho 83'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Jairzinho 59'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Romania",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Pelé 19', Jairzinho 22', Pelé 67'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Peru",
+          "score": "4–2",
+          "result": "W",
+          "scorers": "Rivellino 11', Tostão 15', Tostão 52', Jairzinho 75'"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Uruguay",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Clodoaldo 44', Jairzinho 76', Rivellino 89'"
+        },
+        {
+          "round": "Final",
+          "opponent": "Italy",
+          "score": "4–1",
+          "result": "W",
+          "scorers": "Pelé 18', Gérson 66', Jairzinho 71', Alberto 86'"
+        }
       ],
-
       "kits": {
         "home": {
           "image": "/kits/brazil/1970-home.jpg",
@@ -591,50 +614,56 @@ export const brazil = {
       "headline": "The Post-1970 Hangover",
       "result": "4th Place",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Yugoslavia",
-                      "score": "0–0",
-                      "result": "D"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Scotland",
-                      "score": "0–0",
-                      "result": "D"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Zaire",
-                      "score": "3–0",
-                      "result": "W"
-              },
-              {
-                      "round": "2nd Round",
-                      "opponent": "East Germany",
-                      "score": "1–0",
-                      "result": "W"
-              },
-              {
-                      "round": "2nd Round",
-                      "opponent": "Argentina",
-                      "score": "2–1",
-                      "result": "W"
-              },
-              {
-                      "round": "2nd Round",
-                      "opponent": "Netherlands",
-                      "score": "0–2",
-                      "result": "L"
-              },
-              {
-                      "round": "3rd Place",
-                      "opponent": "Poland",
-                      "score": "0–1",
-                      "result": "L"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Yugoslavia",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Zaire",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Jairzinho 12', Rivellino 66', Valdomiro 79'"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "East Germany",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Rivellino 60'"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Argentina",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Rivellino 32', Jairzinho 49'"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Netherlands",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "third-place match",
+          "opponent": "Poland",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ],
-
       "kits": {
         "home": {
           "image": "/kits/brazil/1974-ddr.jpg",
@@ -667,50 +696,56 @@ export const brazil = {
       "headline": "Argentina's Junta. Goal Difference. Third.",
       "result": "3rd Place",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Sweden",
-                      "score": "1–1",
-                      "result": "D"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Spain",
-                      "score": "0–0",
-                      "result": "D"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Austria",
-                      "score": "1–0",
-                      "result": "W"
-              },
-              {
-                      "round": "2nd Round",
-                      "opponent": "Peru",
-                      "score": "3–0",
-                      "result": "W"
-              },
-              {
-                      "round": "2nd Round",
-                      "opponent": "Argentina",
-                      "score": "0–0",
-                      "result": "D"
-              },
-              {
-                      "round": "2nd Round",
-                      "opponent": "Poland",
-                      "score": "3–1",
-                      "result": "W"
-              },
-              {
-                      "round": "3rd Place",
-                      "opponent": "Italy",
-                      "score": "2–1",
-                      "result": "W"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Reinaldo 45'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Austria",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Dinamite 40'"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Peru",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Dirceu 15', Dirceu 27', Zico 72'"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Argentina",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Poland",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Nelinho 13', Dinamite 58', Dinamite 63'"
+        },
+        {
+          "round": "third-place match",
+          "opponent": "Italy",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Nelinho 64', Dirceu 71'"
+        }
       ],
-
       "kits": {
         "home": {
           "image": "/kits/brazil/1978-peru.jpg",
@@ -743,38 +778,42 @@ export const brazil = {
       "headline": "The Greatest Team to Never Win",
       "result": "2nd Round",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Soviet Union",
-                      "score": "2–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Scotland",
-                      "score": "4–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "New Zealand",
-                      "score": "4–0",
-                      "result": "W"
-              },
-              {
-                      "round": "2nd Round",
-                      "opponent": "Argentina",
-                      "score": "3–1",
-                      "result": "W"
-              },
-              {
-                      "round": "2nd Round",
-                      "opponent": "Italy",
-                      "score": "2–3",
-                      "result": "L"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Soviet Union",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Sócrates 75', Éder 88'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "4–1",
+          "result": "W",
+          "scorers": "Zico 33', Oscar 48', Éder 63', Falcão 87'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "New Zealand",
+          "score": "4–0",
+          "result": "W",
+          "scorers": "Zico 28', Zico 31', Falcão 64', Serginho 70'"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Argentina",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Zico 11', Serginho 66', Júnior 75'"
+        },
+        {
+          "round": "2nd Round",
+          "opponent": "Italy",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Sócrates 12', Falcão 68'"
+        }
       ],
-
       "kits": {
         "home": {
           "image": "/kits/brazil/1982-nz.jpg",
@@ -807,38 +846,42 @@ export const brazil = {
       "headline": "Sócrates' Miss. France's Victory.",
       "result": "Quarter-final",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Spain",
-                      "score": "1–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Algeria",
-                      "score": "1–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Northern Ireland",
-                      "score": "3–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Round of 16",
-                      "opponent": "Poland",
-                      "score": "4–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Quarter-final",
-                      "opponent": "France",
-                      "score": "1–1 (3–4 pens)",
-                      "result": "D"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Sócrates 62'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Algeria",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Careca 66'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Northern Ireland",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Careca 15', Josimar 42', Careca 87'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Poland",
+          "score": "4–0",
+          "result": "W",
+          "scorers": "Sócrates 30', Josimar 55', Edinho 79', Careca 83'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "France",
+          "score": "1–1 (3–4 pens)",
+          "result": "D",
+          "scorers": "Careca 17'"
+        }
       ],
-
       "kits": {
         "home": {
           "image": null,
@@ -867,32 +910,35 @@ export const brazil = {
       "headline": "Maradona's Pass. Caniggia's Goal. Out.",
       "result": "Round of 16",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Sweden",
-                      "score": "2–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Costa Rica",
-                      "score": "1–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Scotland",
-                      "score": "1–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Round of 16",
-                      "opponent": "Argentina",
-                      "score": "0–1",
-                      "result": "L"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Careca 40', Careca 63'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Costa Rica",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Müller 33'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Müller 81'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Argentina",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ],
-
       "kits": {
         "home": {
           "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Torino%2C_Stadio_%27Delle_Alpi%27%2C_Mondiali_1990%2C_Brasile-Svezia_2-1.jpg",
@@ -924,50 +970,56 @@ export const brazil = {
       "headline": "24 Years. Romário. Bebeto. Four Stars.",
       "result": "Champions",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Russia",
-                      "score": "2–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Cameroon",
-                      "score": "3–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Sweden",
-                      "score": "1–1",
-                      "result": "D"
-              },
-              {
-                      "round": "Round of 16",
-                      "opponent": "United States",
-                      "score": "1–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Quarter-final",
-                      "opponent": "Netherlands",
-                      "score": "3–2",
-                      "result": "W"
-              },
-              {
-                      "round": "Semi-final",
-                      "opponent": "Sweden",
-                      "score": "1–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Final",
-                      "opponent": "Italy",
-                      "score": "0–0 (3–2 pens)",
-                      "result": "D"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Russia",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Romário 26', Raí 52'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Cameroon",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Romário 39', Santos 66', Bebeto 73'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Romário 47'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "United States",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Bebeto 72'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Netherlands",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Romário 53', Bebeto 63', Branco 81'"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Sweden",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Romário 80'"
+        },
+        {
+          "round": "Final",
+          "opponent": "Italy",
+          "score": "0–0 (3–2 pens)",
+          "result": "D",
+          "scorers": null
+        }
       ],
-
       "kits": {
         "home": {
           "image": "/kits/brazil/1994-taffarel-front.jpg",
@@ -1000,50 +1052,56 @@ export const brazil = {
       "headline": "Ronaldo's Seizure. France's Night.",
       "result": "Runners-up",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Scotland",
-                      "score": "2–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Morocco",
-                      "score": "3–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Norway",
-                      "score": "1–2",
-                      "result": "L"
-              },
-              {
-                      "round": "Round of 16",
-                      "opponent": "Chile",
-                      "score": "4–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Quarter-final",
-                      "opponent": "Denmark",
-                      "score": "3–2",
-                      "result": "W"
-              },
-              {
-                      "round": "Semi-final",
-                      "opponent": "Netherlands",
-                      "score": "1–1 (4–2 pens)",
-                      "result": "D"
-              },
-              {
-                      "round": "Final",
-                      "opponent": "France",
-                      "score": "0–3",
-                      "result": "L"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Sampaio 5', Boyd OG 74'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Ronaldo 9', Rivaldo 45'+2', Bebeto 50'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Norway",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Bebeto 78'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Chile",
+          "score": "4–1",
+          "result": "W",
+          "scorers": "Sampaio 11', Sampaio 26', Ronaldo 45'+3', Ronaldo 72'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Denmark",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Bebeto 10', Rivaldo 25', Rivaldo 59'"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Netherlands",
+          "score": "1–1 (4–2 pens)",
+          "result": "D",
+          "scorers": "Ronaldo 46'"
+        },
+        {
+          "round": "Final",
+          "opponent": "France",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
       ],
-
       "kits": {
         "home": {
           "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tribune_pr%C3%A9sidentielle_finale_France_Br%C3%A9sil_football_12_juillet_1998.jpg",
@@ -1075,50 +1133,56 @@ export const brazil = {
       "headline": "Ronaldo's Comeback. Five Stars.",
       "result": "Champions",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Turkey",
-                      "score": "2–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "China",
-                      "score": "4–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Costa Rica",
-                      "score": "5–2",
-                      "result": "W"
-              },
-              {
-                      "round": "Round of 16",
-                      "opponent": "Belgium",
-                      "score": "2–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Quarter-final",
-                      "opponent": "England",
-                      "score": "2–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Semi-final",
-                      "opponent": "Turkey",
-                      "score": "1–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Final",
-                      "opponent": "Germany",
-                      "score": "2–0",
-                      "result": "W"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Turkey",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Ronaldo 50', Rivaldo 87'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "China",
+          "score": "4–0",
+          "result": "W",
+          "scorers": "Carlos 15', Rivaldo 32', Ronaldinho 45', Ronaldo 55'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Costa Rica",
+          "score": "5–2",
+          "result": "W",
+          "scorers": "Ronaldo 10', Ronaldo 13', Edmílson 38', Rivaldo 62', Júnior 64'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Belgium",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Rivaldo 67', Ronaldo 87'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "England",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Rivaldo 45'+2', Ronaldinho 50'"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Turkey",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Ronaldo 49'"
+        },
+        {
+          "round": "Final",
+          "opponent": "Germany",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Ronaldo 67', Ronaldo 79'"
+        }
       ],
-
       "kits": {
         "home": {
           "image": "/kits/brazil/2002-ronaldo.jpg",
@@ -1150,38 +1214,42 @@ export const brazil = {
       "headline": "Ronaldo's Record. Zidane's Exit.",
       "result": "Quarter-final",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Croatia",
-                      "score": "1–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Australia",
-                      "score": "2–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Japan",
-                      "score": "4–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Round of 16",
-                      "opponent": "Ghana",
-                      "score": "3–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Quarter-final",
-                      "opponent": "France",
-                      "score": "0–1",
-                      "result": "L"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Croatia",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Kaká 44'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Australia",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Adriano 49', Fred 90'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "4–1",
+          "result": "W",
+          "scorers": "Ronaldo 45'+1', Pernambucano 53', Gilberto 59', Ronaldo 81'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Ghana",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Ronaldo 5', Adriano 45'+1', Zé Roberto 84'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "France",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
       ],
-
       "kits": {
         "home": {
           "image": "/kits/brazil/2006-ghana.jpg",
@@ -1214,38 +1282,42 @@ export const brazil = {
       "headline": "Africa's First. Holland's Counter.",
       "result": "Quarter-final",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "North Korea",
-                      "score": "2–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Ivory Coast",
-                      "score": "3–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Portugal",
-                      "score": "0–0",
-                      "result": "D"
-              },
-              {
-                      "round": "Round of 16",
-                      "opponent": "Chile",
-                      "score": "3–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Quarter-final",
-                      "opponent": "Netherlands",
-                      "score": "1–2",
-                      "result": "L"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "North Korea",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Maicon 55', Elano 72'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ivory Coast",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Fabiano 25', Fabiano 50', Elano 62'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Portugal",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Chile",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Juan 35', Fabiano 38', Robinho 59'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Netherlands",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Robinho 10'"
+        }
       ],
-
       "kits": {
         "home": {
           "image": "/kits/brazil/2010-robinho.jpg",
@@ -1277,50 +1349,56 @@ export const brazil = {
       "headline": "7-1. At Home.",
       "result": "4th Place",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Croatia",
-                      "score": "3–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Mexico",
-                      "score": "0–0",
-                      "result": "D"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Cameroon",
-                      "score": "4–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Round of 16",
-                      "opponent": "Chile",
-                      "score": "1–1 (3–2 pens)",
-                      "result": "D"
-              },
-              {
-                      "round": "Quarter-final",
-                      "opponent": "Colombia",
-                      "score": "2–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Semi-final",
-                      "opponent": "Germany",
-                      "score": "1–7",
-                      "result": "L"
-              },
-              {
-                      "round": "3rd Place",
-                      "opponent": "Netherlands",
-                      "score": "0–3",
-                      "result": "L"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Croatia",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Neymar 29', Neymar 71', Oscar 90'+1'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Cameroon",
+          "score": "4–1",
+          "result": "W",
+          "scorers": "Neymar 17', Neymar 35', Fred 49', Fernandinho 84'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Chile",
+          "score": "1–1 (3–2 pens)",
+          "result": "D",
+          "scorers": "Luiz 18'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Colombia",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Silva 7', Luiz 69'"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Germany",
+          "score": "1–7",
+          "result": "L",
+          "scorers": "Oscar 90'"
+        },
+        {
+          "round": "third-place match",
+          "opponent": "Netherlands",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
       ],
-
       "kits": {
         "home": {
           "image": "/kits/brazil/2014-croatia.jpg",
@@ -1352,38 +1430,42 @@ export const brazil = {
       "headline": "Neymar's Russia. Belgium's Ambush.",
       "result": "Quarter-final",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Switzerland",
-                      "score": "1–1",
-                      "result": "D"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Costa Rica",
-                      "score": "2–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Serbia",
-                      "score": "2–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Round of 16",
-                      "opponent": "Mexico",
-                      "score": "2–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Quarter-final",
-                      "opponent": "Belgium",
-                      "score": "1–2",
-                      "result": "L"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Coutinho 20'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Costa Rica",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Coutinho 90'+1', Neymar 90'+7'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Serbia",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Paulinho 36', Silva 68'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Mexico",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Neymar 51', Firmino 88'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Belgium",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Augusto 76'"
+        }
       ],
-
       "kits": {
         "home": {
           "image": "/kits/brazil/2018-museum.jpg",
@@ -1415,38 +1497,37 @@ export const brazil = {
       "headline": "The Bicycle Kick. Croatia's Penalties.",
       "result": "Quarter-final",
       "matches": [
-              {
-                      "round": "Group Stage",
-                      "opponent": "Serbia",
-                      "score": "2–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Switzerland",
-                      "score": "1–0",
-                      "result": "W"
-              },
-              {
-                      "round": "Group Stage",
-                      "opponent": "Cameroon",
-                      "score": "0–1",
-                      "result": "L"
-              },
-              {
-                      "round": "Round of 16",
-                      "opponent": "South Korea",
-                      "score": "4–1",
-                      "result": "W"
-              },
-              {
-                      "round": "Quarter-final",
-                      "opponent": "Croatia",
-                      "score": "1–1 (2–4 pens)",
-                      "result": "D"
-              }
+        {
+          "round": "Group Stage",
+          "opponent": "Serbia",
+          "score": "2–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "1–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Cameroon",
+          "score": "0–1",
+          "result": "L"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "South Korea",
+          "score": "4–1",
+          "result": "W"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Croatia",
+          "score": "1–1 (2–4 pens)",
+          "result": "D"
+        }
       ],
-
       "kits": {
         "home": {
           "image": "/kits/brazil/2022-richarlison.jpg",
@@ -1478,11 +1559,36 @@ export const brazil = {
       "headline": "Haaland's Night. Out in the Round of 16.",
       "result": "Round of 16",
       "matches": [
-        { "round": "Group Stage",  "opponent": "Morocco",  "score": "1–1", "result": "D" },
-        { "round": "Group Stage",  "opponent": "Haiti",    "score": "3–0", "result": "W" },
-        { "round": "Group Stage",  "opponent": "Scotland", "score": "3–0", "result": "W" },
-        { "round": "Round of 32", "opponent": "Japan",    "score": "2–1", "result": "W" },
-        { "round": "Round of 16", "opponent": "Norway",   "score": "1–2", "result": "L" }
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "1–1",
+          "result": "D"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Haiti",
+          "score": "3–0",
+          "result": "W"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "3–0",
+          "result": "W"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Japan",
+          "score": "2–1",
+          "result": "W"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Norway",
+          "score": "1–2",
+          "result": "L"
+        }
       ],
       "kits": {
         "home": {
