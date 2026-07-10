@@ -1,4 +1,4 @@
-export const trinidadAndTobago = {
+{
   "id": "trinidad-and-tobago",
   "name": "Trinidad & Tobago",
   "flagCode": "tt",
@@ -31,8 +31,30 @@ export const trinidadAndTobago = {
     "2006": {
       "result": "Group Stage",
       "headline": "Ten Men Hold The Line",
+      "annotations": [
+        {
+          "id": "dortmund-shutout",
+          "label": "A HISTORIC CLEAN SHEET",
+          "story": "Down to ten men within seconds of the restart after Avery John's red card, Trinidad and Tobago somehow shut out a talented Swedish side 0–0 in Dortmund. Captain Dwight Yorke marshaled the defense and was named Man of the Match in the country's first-ever World Cup appearance."
+        },
+        {
+          "id": "crouch-gerrard-break-hearts",
+          "label": "LATE GOALS SINK THE WARRIORS",
+          "story": "Trinidad and Tobago held England scoreless deep into the second half in Nuremberg before Peter Crouch's header and a deflected Steven Gerrard strike in the final ten minutes secured a 2–0 win for the eventual quarter-finalists, ending the Soca Warriors' dream of a shock result."
+        },
+        {
+          "id": "paraguay-ends-the-run",
+          "label": "A QUIET GOODBYE",
+          "story": "An early own goal from Brent Sancho put Trinidad and Tobago behind against Paraguay, and Nelson Cuevas added a late second in a 2–0 defeat. It confirmed a group-stage exit and made Trinidad and Tobago the only team at the entire 2006 World Cup not to score a single goal."
+        }
+      ],
       "homeColors": null,
       "awayColors": null,
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -55,33 +77,7 @@ export const trinidadAndTobago = {
           "result": "L",
           "scorers": null
         }
-      ],
-      "kits": {
-        "home": {
-          "image": null,
-          "imageCredit": {
-            "player": null,
-            "game": null
-          },
-          "annotations": [
-            {
-              "id": "dortmund-shutout",
-              "label": "A HISTORIC CLEAN SHEET",
-              "story": "Down to ten men within seconds of the restart after Avery John's red card, Trinidad and Tobago somehow shut out a talented Swedish side 0–0 in Dortmund. Captain Dwight Yorke marshaled the defense and was named Man of the Match in the country's first-ever World Cup appearance."
-            },
-            {
-              "id": "crouch-gerrard-break-hearts",
-              "label": "LATE GOALS SINK THE WARRIORS",
-              "story": "Trinidad and Tobago held England scoreless deep into the second half in Nuremberg before Peter Crouch's header and a deflected Steven Gerrard strike in the final ten minutes secured a 2–0 win for the eventual quarter-finalists, ending the Soca Warriors' dream of a shock result."
-            },
-            {
-              "id": "paraguay-ends-the-run",
-              "label": "A QUIET GOODBYE",
-              "story": "An early own goal from Brent Sancho put Trinidad and Tobago behind against Paraguay, and Nelson Cuevas added a late second in a 2–0 defeat. It confirmed a group-stage exit and made Trinidad and Tobago the only team at the entire 2006 World Cup not to score a single goal."
-            }
-          ]
-        }
-      }
+      ]
     }
   }
-};
+}
