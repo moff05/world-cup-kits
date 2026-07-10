@@ -40,14 +40,14 @@ export const wales = {
           "opponent": "Hungary",
           "score": "1–1",
           "result": "D",
-          "scorers": "Charles 27''"
+          "scorers": "Charles 27'"
         },
         {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "1–1",
           "result": "D",
-          "scorers": "Allchurch 32''"
+          "scorers": "Allchurch 32'"
         },
         {
           "round": "Group Stage",
@@ -61,10 +61,10 @@ export const wales = {
           "opponent": "Hungary",
           "score": "2–1",
           "result": "W",
-          "scorers": "Allchurch 55'', Medwin 76''"
+          "scorers": "Allchurch 55', Medwin 76'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Brazil",
           "score": "0–1",
           "result": "L",
