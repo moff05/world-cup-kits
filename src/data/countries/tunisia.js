@@ -44,7 +44,7 @@ export const tunisia = {
           "opponent": "Mexico",
           "score": "3–1",
           "result": "W",
-          "scorers": "Kaabi 55'', Ghommidh 79'', Dhouib 87''"
+          "scorers": "Kaabi 55', Ghommidh 79', Dhouib 87'"
         },
         {
           "round": "Group Stage",
@@ -108,7 +108,7 @@ export const tunisia = {
           "opponent": "Romania",
           "score": "1–1",
           "result": "D",
-          "scorers": "Souayah 12''"
+          "scorers": "Souayah 12'"
         }
       ],
       "kits": {
@@ -146,7 +146,7 @@ export const tunisia = {
           "opponent": "Belgium",
           "score": "1–1",
           "result": "D",
-          "scorers": "Bouzaiene 17''"
+          "scorers": "Bouzaiene 17'"
         },
         {
           "round": "Group Stage",
@@ -184,14 +184,14 @@ export const tunisia = {
           "opponent": "Saudi Arabia",
           "score": "2–2",
           "result": "D",
-          "scorers": "Jaziri 23'', Jaïdi 90'+2''"
+          "scorers": "Jaziri 23', Jaïdi 90'+2'"
         },
         {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "1–3",
           "result": "L",
-          "scorers": "Mnari 8''"
+          "scorers": "Mnari 8'"
         },
         {
           "round": "Group Stage",
@@ -234,21 +234,21 @@ export const tunisia = {
           "opponent": "England",
           "score": "1–2",
           "result": "L",
-          "scorers": "Sassi 35''"
+          "scorers": "Sassi 35'"
         },
         {
           "round": "Group Stage",
           "opponent": "Belgium",
           "score": "2–5",
           "result": "L",
-          "scorers": "Bronn 18'', Khazri 90'+3''"
+          "scorers": "Bronn 18', Khazri 90'+3'"
         },
         {
           "round": "Group Stage",
           "opponent": "Panama",
           "score": "2–1",
           "result": "W",
-          "scorers": "Ben Youssef 51'', Khazri 66''"
+          "scorers": "Ben Youssef 51', Khazri 66'"
         }
       ],
       "kits": {
