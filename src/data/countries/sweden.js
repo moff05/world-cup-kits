@@ -50,14 +50,14 @@ export const sweden = {
           "opponent": "Argentina",
           "score": "3–2",
           "result": "W",
-          "scorers": "Jonasson 9'', Jonasson 67'', Kroon 79''"
+          "scorers": "Jonasson 9', Jonasson 67', Kroon 79'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Germany",
           "score": "1–2",
           "result": "L",
-          "scorers": "Dunker 82''"
+          "scorers": "Dunker 82'"
         }
       ],
       "kits": {
@@ -84,25 +84,25 @@ export const sweden = {
       "awayColors": null,
       "matches": [
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Cuba",
           "score": "8–0",
           "result": "W",
-          "scorers": "Andersson 9'', Wetterström 22'', Wetterström 37'', Wetterström 44'', Keller 80'', Andersson 81'', Nyberg 84'', Andersson 89''"
+          "scorers": "Andersson 9', Wetterström 22', Wetterström 37', Wetterström 44', Keller 80', Andersson 81', Nyberg 84', Andersson 89'"
         },
         {
-          "round": "semi-finals",
+          "round": "Semi-final",
           "opponent": "Hungary",
           "score": "1–5",
           "result": "L",
-          "scorers": "Nyberg 1''"
+          "scorers": "Nyberg 1'"
         },
         {
           "round": "third-place match",
           "opponent": "Brazil",
           "score": "2–4",
           "result": "L",
-          "scorers": "Jonasson 28'', Nyberg 38''"
+          "scorers": "Jonasson 28', Nyberg 38'"
         }
       ],
       "kits": {
@@ -133,35 +133,35 @@ export const sweden = {
           "opponent": "Italy",
           "score": "3–2",
           "result": "W",
-          "scorers": "Jeppson 25'', Andersson 33'', Jeppson 68''"
+          "scorers": "Jeppson 25', Andersson 33', Jeppson 68'"
         },
         {
           "round": "Group Stage",
           "opponent": "Paraguay",
           "score": "2–2",
           "result": "D",
-          "scorers": "Sundqvist 17'', Palmér 26''"
+          "scorers": "Sundqvist 17', Palmér 26'"
         },
         {
           "round": "final round",
           "opponent": "Brazil",
           "score": "1–7",
           "result": "L",
-          "scorers": "Andersson 67''"
+          "scorers": "Andersson 67'"
         },
         {
           "round": "final round",
           "opponent": "Uruguay",
           "score": "2–3",
           "result": "L",
-          "scorers": "Palmér 5'', Sundqvist 40''"
+          "scorers": "Palmér 5', Sundqvist 40'"
         },
         {
           "round": "final round",
           "opponent": "Spain",
           "score": "3–1",
           "result": "W",
-          "scorers": "Sundqvist 15'', Mellberg 33'', Palmér 80''"
+          "scorers": "Sundqvist 15', Mellberg 33', Palmér 80'"
         }
       ],
       "kits": {
@@ -192,14 +192,14 @@ export const sweden = {
           "opponent": "Mexico",
           "score": "3–0",
           "result": "W",
-          "scorers": "Simonsson 17'', Liedholm 57'', Simonsson 64''"
+          "scorers": "Simonsson 17', Liedholm 57', Simonsson 64'"
         },
         {
           "round": "Group Stage",
           "opponent": "Hungary",
           "score": "2–1",
           "result": "W",
-          "scorers": "Hamrin 34'', Hamrin 55''"
+          "scorers": "Hamrin 34', Hamrin 55'"
         },
         {
           "round": "Group Stage",
@@ -209,25 +209,25 @@ export const sweden = {
           "scorers": null
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Soviet Union",
           "score": "2–0",
           "result": "W",
-          "scorers": "Hamrin 49'', Simonsson 88''"
+          "scorers": "Hamrin 49', Simonsson 88'"
         },
         {
-          "round": "semi-finals",
+          "round": "Semi-final",
           "opponent": "West Germany",
           "score": "3–1",
           "result": "W",
-          "scorers": "Skoglund 32'', Gren 81'', Hamrin 88''"
+          "scorers": "Skoglund 32', Gren 81', Hamrin 88'"
         },
         {
           "round": "Final",
           "opponent": "Brazil",
           "score": "2–5",
           "result": "L",
-          "scorers": "Liedholm 4'', Simonsson 80''"
+          "scorers": "Liedholm 4', Simonsson 80'"
         }
       ],
       "kits": {
@@ -265,14 +265,14 @@ export const sweden = {
           "opponent": "Israel",
           "score": "1–1",
           "result": "D",
-          "scorers": "Turesson 53''"
+          "scorers": "Turesson 53'"
         },
         {
           "round": "Group Stage",
           "opponent": "Uruguay",
           "score": "1–0",
           "result": "W",
-          "scorers": "Grahn 90''"
+          "scorers": "Grahn 90'"
         }
       ],
       "kits": {
@@ -317,7 +317,7 @@ export const sweden = {
           "opponent": "Uruguay",
           "score": "3–0",
           "result": "W",
-          "scorers": "Edström 46'', Sandberg 74'', Edström 77''"
+          "scorers": "Edström 46', Sandberg 74', Edström 77'"
         },
         {
           "round": "2nd Round",
@@ -331,14 +331,14 @@ export const sweden = {
           "opponent": "West Germany",
           "score": "2–4",
           "result": "L",
-          "scorers": "Edström 24'', Sandberg 53''"
+          "scorers": "Edström 24', Sandberg 53'"
         },
         {
           "round": "2nd Round",
           "opponent": "Yugoslavia",
           "score": "2–1",
           "result": "W",
-          "scorers": "Edström 29'', Torstensson 85''"
+          "scorers": "Edström 29', Torstensson 85'"
         }
       ],
       "kits": {
@@ -369,7 +369,7 @@ export const sweden = {
           "opponent": "Brazil",
           "score": "1–1",
           "result": "D",
-          "scorers": "Sjöberg 37''"
+          "scorers": "Sjöberg 37'"
         },
         {
           "round": "Group Stage",
@@ -414,21 +414,21 @@ export const sweden = {
           "opponent": "Brazil",
           "score": "1–2",
           "result": "L",
-          "scorers": "Brolin 79''"
+          "scorers": "Brolin 79'"
         },
         {
           "round": "Group Stage",
           "opponent": "Scotland",
           "score": "1–2",
           "result": "L",
-          "scorers": "Strömberg 86''"
+          "scorers": "Strömberg 86'"
         },
         {
           "round": "Group Stage",
           "opponent": "Costa Rica",
           "score": "1–2",
           "result": "L",
-          "scorers": "Ekström 32''"
+          "scorers": "Ekström 32'"
         }
       ],
       "kits": {
@@ -459,38 +459,38 @@ export const sweden = {
           "opponent": "Cameroon",
           "score": "2–2",
           "result": "D",
-          "scorers": "Ljung 8'', Dahlin 75''"
+          "scorers": "Ljung 8', Dahlin 75'"
         },
         {
           "round": "Group Stage",
           "opponent": "Russia",
           "score": "3–1",
           "result": "W",
-          "scorers": "Brolin 39'', Dahlin 60'', Dahlin 82''"
+          "scorers": "Brolin 39', Dahlin 60', Dahlin 82'"
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "1–1",
           "result": "D",
-          "scorers": "Andersson 23''"
+          "scorers": "Andersson 23'"
         },
         {
           "round": "Round of 16",
           "opponent": "Saudi Arabia",
           "score": "3–1",
           "result": "W",
-          "scorers": "Dahlin 6'', Andersson 51'', Andersson 88''"
+          "scorers": "Dahlin 6', Andersson 51', Andersson 88'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Romania",
           "score": "2–2 (5–4 pens)",
           "result": "D",
-          "scorers": "Brolin 78'', Andersson 115''"
+          "scorers": "Brolin 78', Andersson 115'"
         },
         {
-          "round": "semi-finals",
+          "round": "Semi-final",
           "opponent": "Brazil",
           "score": "0–1",
           "result": "L",
@@ -501,7 +501,7 @@ export const sweden = {
           "opponent": "Bulgaria",
           "score": "4–0",
           "result": "W",
-          "scorers": "Brolin 8'', Mild 30'', Larsson 37'', Andersson 39''"
+          "scorers": "Brolin 8', Mild 30', Larsson 37', Andersson 39'"
         }
       ],
       "kits": {
@@ -532,28 +532,28 @@ export const sweden = {
           "opponent": "England",
           "score": "1–1",
           "result": "D",
-          "scorers": "Alexandersson 59''"
+          "scorers": "Alexandersson 59'"
         },
         {
           "round": "Group Stage",
           "opponent": "Nigeria",
           "score": "2–1",
           "result": "W",
-          "scorers": "Larsson 35'', Larsson 63''"
+          "scorers": "Larsson 35', Larsson 63'"
         },
         {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "1–1",
           "result": "D",
-          "scorers": "Svensson 59''"
+          "scorers": "Svensson 59'"
         },
         {
           "round": "Round of 16",
           "opponent": "Senegal",
           "score": "1–2",
           "result": "L",
-          "scorers": "Larsson 11''"
+          "scorers": "Larsson 11'"
         }
       ],
       "kits": {
@@ -591,14 +591,14 @@ export const sweden = {
           "opponent": "Paraguay",
           "score": "1–0",
           "result": "W",
-          "scorers": "Ljungberg 89''"
+          "scorers": "Ljungberg 89'"
         },
         {
           "round": "Group Stage",
           "opponent": "England",
           "score": "2–2",
           "result": "D",
-          "scorers": "Allbäck 51'', Larsson 90''"
+          "scorers": "Allbäck 51', Larsson 90'"
         },
         {
           "round": "Round of 16",
@@ -636,31 +636,31 @@ export const sweden = {
           "opponent": "South Korea",
           "score": "1–0",
           "result": "W",
-          "scorers": "Granqvist 65''"
+          "scorers": "Granqvist 65'"
         },
         {
           "round": "Group Stage",
           "opponent": "Germany",
           "score": "1–2",
           "result": "L",
-          "scorers": "Toivonen 32''"
+          "scorers": "Toivonen 32'"
         },
         {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "3–0",
           "result": "W",
-          "scorers": "Augustinsson 50'', Granqvist 62'', Álvarez OG 74''"
+          "scorers": "Augustinsson 50', Granqvist 62', Álvarez OG 74'"
         },
         {
           "round": "Round of 16",
           "opponent": "Switzerland",
           "score": "1–0",
           "result": "W",
-          "scorers": "Forsberg 66''"
+          "scorers": "Forsberg 66'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "England",
           "score": "0–2",
           "result": "L",
