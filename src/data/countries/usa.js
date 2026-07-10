@@ -49,21 +49,21 @@ export const usa = {
           "opponent": "Belgium",
           "score": "3–0",
           "result": "W",
-          "scorers": "McGhee 23'', Florie 45'', Patenaude 69''"
+          "scorers": "McGhee 23', Florie 45', Patenaude 69'"
         },
         {
           "round": "Group Stage",
           "opponent": "Paraguay",
           "score": "3–0",
           "result": "W",
-          "scorers": "Patenaude 10'', Patenaude 15'', Patenaude 50''"
+          "scorers": "Patenaude 10', Patenaude 15', Patenaude 50'"
         },
         {
-          "round": "semi-finals",
+          "round": "Semi-final",
           "opponent": "Argentina",
           "score": "1–6",
           "result": "L",
-          "scorers": "Brown 89''"
+          "scorers": "Brown 89'"
         }
       ],
       "kits": {
@@ -94,7 +94,7 @@ export const usa = {
           "opponent": "Italy",
           "score": "1–7",
           "result": "L",
-          "scorers": "Donelli 57''"
+          "scorers": "Donelli 57'"
         }
       ],
       "kits": {
@@ -125,21 +125,21 @@ export const usa = {
           "opponent": "Spain",
           "score": "1–3",
           "result": "L",
-          "scorers": "Pariani 17''"
+          "scorers": "Pariani 17'"
         },
         {
           "round": "Group Stage",
           "opponent": "England",
           "score": "1–0",
           "result": "W",
-          "scorers": "Gaetjens 38''"
+          "scorers": "Gaetjens 38'"
         },
         {
           "round": "Group Stage",
           "opponent": "Chile",
           "score": "2–5",
           "result": "L",
-          "scorers": "Wallace 47'', Maca 48''"
+          "scorers": "Wallace 47', Maca 48'"
         }
       ],
       "kits": {
@@ -170,7 +170,7 @@ export const usa = {
           "opponent": "Czechoslovakia",
           "score": "1–5",
           "result": "L",
-          "scorers": "Caligiuri 60''"
+          "scorers": "Caligiuri 60'"
         },
         {
           "round": "Group Stage",
@@ -184,7 +184,7 @@ export const usa = {
           "opponent": "Austria",
           "score": "1–2",
           "result": "L",
-          "scorers": "Murray 83''"
+          "scorers": "Murray 83'"
         }
       ],
       "kits": {
@@ -215,14 +215,14 @@ export const usa = {
           "opponent": "Switzerland",
           "score": "1–1",
           "result": "D",
-          "scorers": "Wynalda 44''"
+          "scorers": "Wynalda 44'"
         },
         {
           "round": "Group Stage",
           "opponent": "Colombia",
           "score": "2–1",
           "result": "W",
-          "scorers": "Escobar OG 35'', Stewart 52''"
+          "scorers": "Escobar OG 35', Stewart 52'"
         },
         {
           "round": "Group Stage",
@@ -274,7 +274,7 @@ export const usa = {
           "opponent": "Iran",
           "score": "1–2",
           "result": "L",
-          "scorers": "McBride 87''"
+          "scorers": "McBride 87'"
         },
         {
           "round": "Group Stage",
@@ -312,31 +312,31 @@ export const usa = {
           "opponent": "Portugal",
           "score": "3–2",
           "result": "W",
-          "scorers": "O'Brien 4'', Costa OG 29'', McBride 36''"
+          "scorers": "O'Brien 4', Costa OG 29', McBride 36'"
         },
         {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "1–1",
           "result": "D",
-          "scorers": "Mathis 24''"
+          "scorers": "Mathis 24'"
         },
         {
           "round": "Group Stage",
           "opponent": "Poland",
           "score": "1–3",
           "result": "L",
-          "scorers": "Donovan 83''"
+          "scorers": "Donovan 83'"
         },
         {
           "round": "Round of 16",
           "opponent": "Mexico",
           "score": "2–0",
           "result": "W",
-          "scorers": "McBride 8'', Donovan 65''"
+          "scorers": "McBride 8', Donovan 65'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Germany",
           "score": "0–1",
           "result": "L",
@@ -378,14 +378,14 @@ export const usa = {
           "opponent": "Italy",
           "score": "1–1",
           "result": "D",
-          "scorers": "Zaccardo OG 27''"
+          "scorers": "Zaccardo OG 27'"
         },
         {
           "round": "Group Stage",
           "opponent": "Ghana",
           "score": "1–2",
           "result": "L",
-          "scorers": "Dempsey 43''"
+          "scorers": "Dempsey 43'"
         }
       ],
       "kits": {
@@ -416,28 +416,28 @@ export const usa = {
           "opponent": "England",
           "score": "1–1",
           "result": "D",
-          "scorers": "Dempsey 40''"
+          "scorers": "Dempsey 40'"
         },
         {
           "round": "Group Stage",
           "opponent": "Slovenia",
           "score": "2–2",
           "result": "D",
-          "scorers": "Donovan 48'', Bradley 82''"
+          "scorers": "Donovan 48', Bradley 82'"
         },
         {
           "round": "Group Stage",
           "opponent": "Algeria",
           "score": "1–0",
           "result": "W",
-          "scorers": "Donovan 90'+1''"
+          "scorers": "Donovan 90'+1'"
         },
         {
           "round": "Round of 16",
           "opponent": "Ghana",
           "score": "1–2",
           "result": "L",
-          "scorers": "Donovan 62''"
+          "scorers": "Donovan 62'"
         }
       ],
       "kits": {
@@ -468,14 +468,14 @@ export const usa = {
           "opponent": "Ghana",
           "score": "2–1",
           "result": "W",
-          "scorers": "Dempsey 1'', Brooks 86''"
+          "scorers": "Dempsey 1', Brooks 86'"
         },
         {
           "round": "Group Stage",
           "opponent": "Portugal",
           "score": "2–2",
           "result": "D",
-          "scorers": "Jones 64'', Dempsey 81''"
+          "scorers": "Jones 64', Dempsey 81'"
         },
         {
           "round": "Group Stage",
@@ -489,7 +489,7 @@ export const usa = {
           "opponent": "Belgium",
           "score": "1–2",
           "result": "L",
-          "scorers": "Green 107''"
+          "scorers": "Green 107'"
         }
       ],
       "kits": {
