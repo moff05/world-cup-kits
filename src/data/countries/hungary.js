@@ -46,13 +46,15 @@ export const hungary = {
           "round": "Round of 16",
           "opponent": "Egypt",
           "score": "4–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Teleki 11'', Toldi 31'', Vincze 53'', Toldi 61''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Austria",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Sárosi 60''"
         }
       ],
       "kits": {
@@ -82,25 +84,29 @@ export const hungary = {
           "round": "Round of 16",
           "opponent": "Dutch East Indies",
           "score": "6–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Kohut 13'', Toldi 15'', Sárosi 28'', Zsengellér 35'', Zsengellér 76'', Sárosi 89''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Switzerland",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Sárosi 40'', Zsengellér 89''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Sweden",
           "score": "5–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Jacobsson OG 19'', Titkos 37'', Zsengellér 39'', Sárosi 65'', Zsengellér 85''"
         },
         {
           "round": "Final",
           "opponent": "Italy",
           "score": "2–4",
-          "result": "L"
+          "result": "L",
+          "scorers": "Titkos 8'', Sárosi 70''"
         }
       ],
       "kits": {
@@ -130,31 +136,36 @@ export const hungary = {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "9–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Puskás 12'', Lantos 18'', Kocsis 24'', Kocsis 36'', Kocsis 50'', Czibor 59'', Palotás 75'', Palotás 83'', Puskás 89''"
         },
         {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "8–3",
-          "result": "W"
+          "result": "W",
+          "scorers": "Kocsis 3'', Puskás 17'', Kocsis 21'', Hidegkuti 52'', Hidegkuti 54'', Kocsis 69'', Tóth 75'', Kocsis 78''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Brazil",
           "score": "4–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Hidegkuti 4'', Kocsis 7'', Lantos 60'', Kocsis 88''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Uruguay",
           "score": "4–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Czibor 13'', Hidegkuti 46'', Kocsis 111'', Kocsis 116''"
         },
         {
           "round": "Final",
           "opponent": "West Germany",
           "score": "2–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Puskás 6'', Czibor 8''"
         }
       ],
       "kits": {
@@ -184,25 +195,29 @@ export const hungary = {
           "round": "Group Stage",
           "opponent": "Wales",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Bozsik 5''"
         },
         {
           "round": "Group Stage",
           "opponent": "Sweden",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Tichy 77''"
         },
         {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "4–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Tichy 19'', Tichy 46'', Sándor 54'', Bencsics 69''"
         },
         {
           "round": "Group Stage",
           "opponent": "Wales",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Tichy 33''"
         }
       ],
       "kits": {
@@ -232,25 +247,29 @@ export const hungary = {
           "round": "Group Stage",
           "opponent": "England",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Tichy 17'', Albert 71''"
         },
         {
           "round": "Group Stage",
           "opponent": "Bulgaria",
           "score": "6–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Albert 1'', Albert 6'', Tichy 8'', Solymosi 12'', Albert 53'', Tichy 70''"
         },
         {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Czechoslovakia",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -280,25 +299,29 @@ export const hungary = {
           "round": "Group Stage",
           "opponent": "Portugal",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Bene 60''"
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Bene 2'', Farkas 64'', Mészöly 73''"
         },
         {
           "round": "Group Stage",
           "opponent": "Bulgaria",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Davidov OG 43'', Mészöly 45'', Bene 54''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Soviet Union",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Bene 57''"
         }
       ],
       "kits": {
@@ -328,19 +351,22 @@ export const hungary = {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Csapó 9''"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Tóth 81''"
         },
         {
           "round": "Group Stage",
           "opponent": "France",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Zombori 41''"
         }
       ],
       "kits": {
@@ -370,19 +396,22 @@ export const hungary = {
           "round": "Group Stage",
           "opponent": "El Salvador",
           "score": "10–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Nyilasi 4'', Pölöskei 11'', Fazekas 23'', Tóth 50'', Fazekas 54'', Kiss 69'', Szentes 70'', Kiss 72'', Kiss 76'', Nyilasi 83''"
         },
         {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "1–4",
-          "result": "L"
+          "result": "L",
+          "scorers": "Pölöskei 76''"
         },
         {
           "round": "Group Stage",
           "opponent": "Belgium",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Varga 27''"
         }
       ],
       "kits": {
@@ -412,19 +441,22 @@ export const hungary = {
           "round": "Group Stage",
           "opponent": "Soviet Union",
           "score": "0–6",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Canada",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Esterházy 2'', Détári 75''"
         },
         {
           "round": "Group Stage",
           "opponent": "France",
           "score": "0–3",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
