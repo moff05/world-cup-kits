@@ -46,7 +46,8 @@ export const poland = {
           "round": "Round of 16",
           "opponent": "Brazil",
           "score": "5–6",
-          "result": "L"
+          "result": "L",
+          "scorers": "Scherfke 23'', Wilimowski 53'', Wilimowski 59'', Wilimowski 89'', Wilimowski 118''"
         }
       ],
       "kits": {
@@ -76,43 +77,50 @@ export const poland = {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "3–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Lato 7'', Szarmach 8'', Lato 62''"
         },
         {
           "round": "Group Stage",
           "opponent": "Haiti",
           "score": "7–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Lato 17'', Deyna 18'', Szarmach 30'', Gorgoń 31'', Szarmach 34'', Szarmach 50'', Lato 87''"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Szarmach 38'', Deyna 44''"
         },
         {
           "round": "2nd Round",
           "opponent": "Sweden",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Lato 43''"
         },
         {
           "round": "2nd Round",
           "opponent": "Yugoslavia",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Deyna 24'', Lato 62''"
         },
         {
           "round": "2nd Round",
           "opponent": "West Germany",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
-          "round": "3rd Place",
+          "round": "third-place match",
           "opponent": "Brazil",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Lato 76''"
         }
       ],
       "kits": {
@@ -142,37 +150,43 @@ export const poland = {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Tunisia",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Lato 43''"
         },
         {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Boniek 43'', Deyna 56'', Boniek 84''"
         },
         {
           "round": "2nd Round",
           "opponent": "Argentina",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "2nd Round",
           "opponent": "Peru",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Szarmach 65''"
         },
         {
           "round": "2nd Round",
           "opponent": "Brazil",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Lato 45''"
         }
       ],
       "kits": {
@@ -202,43 +216,50 @@ export const poland = {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Cameroon",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Peru",
           "score": "5–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Smolarek 55'', Lato 58'', Boniek 61'', Buncol 68'', Ciołek 76''"
         },
         {
           "round": "2nd Round",
           "opponent": "Belgium",
           "score": "3–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Boniek 4'', Boniek 26'', Boniek 53''"
         },
         {
           "round": "2nd Round",
           "opponent": "Soviet Union",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Italy",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
-          "round": "3rd Place",
+          "round": "third-place match",
           "opponent": "France",
           "score": "3–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Szarmach 40'', Majewski 44'', Kupcewicz 46''"
         }
       ],
       "kits": {
@@ -268,25 +289,29 @@ export const poland = {
           "round": "Group Stage",
           "opponent": "Morocco",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Portugal",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Smolarek 68''"
         },
         {
           "round": "Group Stage",
           "opponent": "England",
           "score": "0–3",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Round of 16",
           "opponent": "Brazil",
           "score": "0–4",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -316,19 +341,22 @@ export const poland = {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Portugal",
           "score": "0–4",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "United States",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Olisadebe 3'', Kryszałowicz 5'', Żewłakow 66''"
         }
       ],
       "kits": {
@@ -358,19 +386,22 @@ export const poland = {
           "round": "Group Stage",
           "opponent": "Ecuador",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Germany",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Costa Rica",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Bosacki 33'', Bosacki 65''"
         }
       ],
       "kits": {
@@ -400,19 +431,22 @@ export const poland = {
           "round": "Group Stage",
           "opponent": "Senegal",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Krychowiak 86''"
         },
         {
           "round": "Group Stage",
           "opponent": "Colombia",
           "score": "0–3",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Japan",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Bednarek 59''"
         }
       ],
       "kits": {
