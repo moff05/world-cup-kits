@@ -45,13 +45,15 @@ export const scotland = {
           "round": "Group Stage",
           "opponent": "Austria",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Uruguay",
           "score": "0–7",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -81,19 +83,22 @@ export const scotland = {
           "round": "Group Stage",
           "opponent": "Yugoslavia",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Murray 49''"
         },
         {
           "round": "Group Stage",
           "opponent": "Paraguay",
           "score": "2–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Mudie 24'', Collins 74''"
         },
         {
           "round": "Group Stage",
           "opponent": "France",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Baird 58''"
         }
       ],
       "kits": {
@@ -123,19 +128,22 @@ export const scotland = {
           "round": "Group Stage",
           "opponent": "Zaire",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Lorimer 26'', Jordan 34''"
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Yugoslavia",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Jordan 88''"
         }
       ],
       "kits": {
@@ -165,19 +173,22 @@ export const scotland = {
           "round": "Group Stage",
           "opponent": "Peru",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Jordan 14''"
         },
         {
           "round": "Group Stage",
           "opponent": "Iran",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Eskandarian OG 43''"
         },
         {
           "round": "Group Stage",
           "opponent": "Netherlands",
           "score": "3–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Dalglish 45'', Gemmill 46'', Gemmill 68''"
         }
       ],
       "kits": {
@@ -207,19 +218,22 @@ export const scotland = {
           "round": "Group Stage",
           "opponent": "New Zealand",
           "score": "5–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Dalglish 18'', Wark 29'', Wark 32'', Robertson 73'', Archibald 79''"
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "1–4",
-          "result": "L"
+          "result": "L",
+          "scorers": "Narey 18''"
         },
         {
           "round": "Group Stage",
           "opponent": "Soviet Union",
           "score": "2–2",
-          "result": "D"
+          "result": "D",
+          "scorers": "Jordan 15'', Souness 86''"
         }
       ],
       "kits": {
@@ -249,19 +263,22 @@ export const scotland = {
           "round": "Group Stage",
           "opponent": "Denmark",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Strachan 18''"
         },
         {
           "round": "Group Stage",
           "opponent": "Uruguay",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         }
       ],
       "kits": {
@@ -291,19 +308,22 @@ export const scotland = {
           "round": "Group Stage",
           "opponent": "Costa Rica",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Sweden",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "McCall 11'', Johnston 81''"
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -333,19 +353,22 @@ export const scotland = {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Collins 38''"
         },
         {
           "round": "Group Stage",
           "opponent": "Norway",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Burley 66''"
         },
         {
           "round": "Group Stage",
           "opponent": "Morocco",
           "score": "0–3",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
