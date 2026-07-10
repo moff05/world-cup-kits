@@ -52,7 +52,7 @@ export const bulgaria = {
           "opponent": "Hungary",
           "score": "1–6",
           "result": "L",
-          "scorers": "Sokolov 64''"
+          "scorers": "Sokolov 64'"
         },
         {
           "round": "Group Stage",
@@ -98,7 +98,7 @@ export const bulgaria = {
           "opponent": "Hungary",
           "score": "1–3",
           "result": "L",
-          "scorers": "Asparuhov 15''"
+          "scorers": "Asparuhov 15'"
         }
       ],
       "kits": {
@@ -123,21 +123,21 @@ export const bulgaria = {
           "opponent": "Peru",
           "score": "2–3",
           "result": "L",
-          "scorers": "Dermendzhiev 13'', Bonev 49''"
+          "scorers": "Dermendzhiev 13', Bonev 49'"
         },
         {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "2–5",
           "result": "L",
-          "scorers": "Nikodimov 12'', Kolev 89''"
+          "scorers": "Nikodimov 12', Kolev 89'"
         },
         {
           "round": "Group Stage",
           "opponent": "Morocco",
           "score": "1–1",
           "result": "D",
-          "scorers": "Zhechev 40''"
+          "scorers": "Zhechev 40'"
         }
       ],
       "kits": {
@@ -169,14 +169,14 @@ export const bulgaria = {
           "opponent": "Uruguay",
           "score": "1–1",
           "result": "D",
-          "scorers": "Bonev 75''"
+          "scorers": "Bonev 75'"
         },
         {
           "round": "Group Stage",
           "opponent": "Netherlands",
           "score": "1–4",
           "result": "L",
-          "scorers": "Krol OG 78''"
+          "scorers": "Krol OG 78'"
         }
       ],
       "kits": {
@@ -201,14 +201,14 @@ export const bulgaria = {
           "opponent": "Italy",
           "score": "1–1",
           "result": "D",
-          "scorers": "Sirakov 85''"
+          "scorers": "Sirakov 85'"
         },
         {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "1–1",
           "result": "D",
-          "scorers": "Getov 11''"
+          "scorers": "Getov 11'"
         },
         {
           "round": "Group Stage",
@@ -260,35 +260,35 @@ export const bulgaria = {
           "opponent": "Greece",
           "score": "4–0",
           "result": "W",
-          "scorers": "Stoichkov 5'', Stoichkov 55'', Letchkov 65'', Borimirov 90''"
+          "scorers": "Stoichkov 5', Stoichkov 55', Letchkov 65', Borimirov 90'"
         },
         {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "2–0",
           "result": "W",
-          "scorers": "Stoichkov 61'', Sirakov 90'+3''"
+          "scorers": "Stoichkov 61', Sirakov 90'+3'"
         },
         {
           "round": "Round of 16",
           "opponent": "Mexico",
           "score": "1–1 (3–1 pens)",
           "result": "D",
-          "scorers": "Stoichkov 6''"
+          "scorers": "Stoichkov 6'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Germany",
           "score": "2–1",
           "result": "W",
-          "scorers": "Stoichkov 75'', Letchkov 78''"
+          "scorers": "Stoichkov 75', Letchkov 78'"
         },
         {
-          "round": "semi-finals",
+          "round": "Semi-final",
           "opponent": "Italy",
           "score": "1–2",
           "result": "L",
-          "scorers": "Stoichkov 44''"
+          "scorers": "Stoichkov 44'"
         },
         {
           "round": "third-place match",
@@ -340,7 +340,7 @@ export const bulgaria = {
           "opponent": "Spain",
           "score": "1–6",
           "result": "L",
-          "scorers": "Kostadinov 58''"
+          "scorers": "Kostadinov 58'"
         }
       ],
       "kits": {
