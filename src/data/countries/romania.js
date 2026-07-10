@@ -45,7 +45,7 @@ export const romania = {
           "opponent": "Peru",
           "score": "3–1",
           "result": "W",
-          "scorers": "Deşu 1'', Stanciu 79'', Kovács 89''"
+          "scorers": "Deşu 1', Stanciu 79', Kovács 89'"
         },
         {
           "round": "Group Stage",
@@ -77,7 +77,7 @@ export const romania = {
           "opponent": "Czechoslovakia",
           "score": "1–2",
           "result": "L",
-          "scorers": "Dobay 11''"
+          "scorers": "Dobay 11'"
         }
       ],
       "kits": {
@@ -102,14 +102,14 @@ export const romania = {
           "opponent": "Cuba",
           "score": "3–3",
           "result": "D",
-          "scorers": "Bindea 35'', Baratky 88'', Dobay 105''"
+          "scorers": "Bindea 35', Baratky 88', Dobay 105'"
         },
         {
           "round": "Round of 16",
           "opponent": "Cuba",
           "score": "1–2",
           "result": "L",
-          "scorers": "Dobay 35''"
+          "scorers": "Dobay 35'"
         }
       ],
       "kits": {
@@ -141,14 +141,14 @@ export const romania = {
           "opponent": "Czechoslovakia",
           "score": "2–1",
           "result": "W",
-          "scorers": "Neagu 52'', Dumitrache 75''"
+          "scorers": "Neagu 52', Dumitrache 75'"
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "2–3",
           "result": "L",
-          "scorers": "Dumitrache 34'', Dembrovschi 84''"
+          "scorers": "Dumitrache 34', Dembrovschi 84'"
         }
       ],
       "kits": {
@@ -173,21 +173,21 @@ export const romania = {
           "opponent": "Soviet Union",
           "score": "2–0",
           "result": "W",
-          "scorers": "Lăcătuș 41'', Lăcătuș 55''"
+          "scorers": "Lăcătuș 41', Lăcătuș 55'"
         },
         {
           "round": "Group Stage",
           "opponent": "Cameroon",
           "score": "1–2",
           "result": "L",
-          "scorers": "Balint 88''"
+          "scorers": "Balint 88'"
         },
         {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "1–1",
           "result": "D",
-          "scorers": "Balint 68''"
+          "scorers": "Balint 68'"
         },
         {
           "round": "Round of 16",
@@ -225,35 +225,35 @@ export const romania = {
           "opponent": "Colombia",
           "score": "3–1",
           "result": "W",
-          "scorers": "Răducioiu 15'', Hagi 34'', Răducioiu 89''"
+          "scorers": "Răducioiu 15', Hagi 34', Răducioiu 89'"
         },
         {
           "round": "Group Stage",
           "opponent": "Switzerland",
           "score": "1–4",
           "result": "L",
-          "scorers": "Hagi 35''"
+          "scorers": "Hagi 35'"
         },
         {
           "round": "Group Stage",
           "opponent": "United States",
           "score": "1–0",
           "result": "W",
-          "scorers": "Petrescu 18''"
+          "scorers": "Petrescu 18'"
         },
         {
           "round": "Round of 16",
           "opponent": "Argentina",
           "score": "3–2",
           "result": "W",
-          "scorers": "Dumitrescu 11'', Dumitrescu 18'', Hagi 58''"
+          "scorers": "Dumitrescu 11', Dumitrescu 18', Hagi 58'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Sweden",
           "score": "2–2 (4–5 pens)",
           "result": "D",
-          "scorers": "Răducioiu 88'', Răducioiu 101''"
+          "scorers": "Răducioiu 88', Răducioiu 101'"
         }
       ],
       "kits": {
@@ -284,21 +284,21 @@ export const romania = {
           "opponent": "Colombia",
           "score": "1–0",
           "result": "W",
-          "scorers": "Ilie 45'+1''"
+          "scorers": "Ilie 45'+1'"
         },
         {
           "round": "Group Stage",
           "opponent": "England",
           "score": "2–1",
           "result": "W",
-          "scorers": "Moldovan 46'', Petrescu 90''"
+          "scorers": "Moldovan 46', Petrescu 90'"
         },
         {
           "round": "Group Stage",
           "opponent": "Tunisia",
           "score": "1–1",
           "result": "D",
-          "scorers": "Moldovan 71''"
+          "scorers": "Moldovan 71'"
         },
         {
           "round": "Round of 16",
