@@ -207,7 +207,7 @@ for (const id of jsOnlyIds) {
     const yearKey = kits[year] !== undefined ? year : String(year);
     if (kits[yearKey]) {
       kits[yearKey].matches = cleanMatches;
-      if (!kits[yearKey].result) kits[yearKey].result = computeResult(matches);
+      kits[yearKey].result = computeResult(matches);
       changed++;
     } else if (Object.keys(kits).length === 0) {
       // Stub country with no kits at all — seed year from dataset

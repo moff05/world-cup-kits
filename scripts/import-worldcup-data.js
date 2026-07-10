@@ -298,7 +298,7 @@ for (const file of files) {
     if (existingYear) {
       // Merge: replace match data, keep editorial content
       existingYear.matches = cleanMatches;
-      if (!existingYear.result) existingYear.result = computeResult(matches);
+      existingYear.result = computeResult(matches);
       // Ensure year key is numeric
       delete existingKits[String(year)];
       existingKits[year] = existingYear;
