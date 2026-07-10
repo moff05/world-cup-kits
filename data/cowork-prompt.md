@@ -1,10 +1,17 @@
 # Cowork Prompt — World Cup Kits Data Pipeline
 
-## Step 1: Decide how many countries to do this run
+## Step 1: Decide what to do this run
 
 Read `/Users/nmoff/Desktop/Claude Projects/world-cup-kits/queue.json`.
 
-Find pending countries and check the `tier` of the first one:
+**If any entries have `"status": "pending"`** → run the main pipeline (Steps 2–5 below).
+
+**If no `"pending"` entries remain but some have `"status": "backfill"`** → skip to the [Backfill Phase](#backfill-phase) at the bottom of this file.
+
+**If neither pending nor backfill entries exist** → nothing to do, stop.
+
+### Main pipeline: how many countries per run
+Check the `tier` of the first pending entry:
 - `"large"` (13+ World Cups) → do **1 country** this run
 - `"medium"` (7–12 World Cups) → do **2 countries** this run  
 - `"small"` (1–6 World Cups) → do **3 countries** this run
@@ -103,3 +110,67 @@ After all files are written, open `queue.json` and set each processed country's 
 - Do not attempt to verify image URLs by downloading images — just confirm the URL path resolves on commons.wikimedia.org
 - Do not include 2026 data under any circumstance
 - Do not guess any score, stat, or URL — set to null instead
+
+---
+
+## Backfill Phase
+
+Only enter this phase when there are zero `"pending"` entries and at least one `"backfill"` entry.
+
+### How many to process per backfill run
+Check the `tier` of the first `"backfill"` entry:
+- `"large"` (13+ World Cups) → do **1 country** this run
+- `"medium"` (7–12 World Cups) → do **2 countries** this run
+- `"small"` (1–6 World Cups) → do **4 countries** this run
+
+### What to fix
+
+Open `/Users/nmoff/Desktop/Claude Projects/world-cup-kits/data/countries/[country-id].json` for each country.
+
+Scan for two types of gaps:
+
+**Gap A — Missing scorers**
+A match needs a scorer fill if:
+- The `scorers` field is absent or `null`, AND
+- This country scored ≥ 1 goal in that match (their half of the score is > 0)
+
+Matches where this country scored 0 goals: leave `null`, they are correct.
+
+**Gap B — Missing annotations**
+A year needs annotation fill if its `annotations` array has fewer than 3 items.
+
+If a country has no gaps in either category — mark it `"done"` immediately and move to the next backfill entry.
+
+### How to fill Gap A — Scorers
+
+Search: **"[Country] v [Opponent] [YEAR] FIFA World Cup" site:en.wikipedia.org**
+
+Extract **this country's goal scorers only** with minute:
+- Format: `"Müller 12', Haller 67'"`
+- Own goals by the opponent: `"Surname OG 45'"`
+- Do NOT list individual penalty shootout scorers — regulation + extra time only
+- If the page doesn't clearly list scorers with minutes: leave `null` — never guess
+
+### How to fill Gap B — Annotations
+
+The 3 required angles are:
+1. **The result / key moment** — the defining match or player moment of that tournament
+2. **The kit** — something specific and visual: colors, badge, sponsor, design detail
+3. **The context** — a political, cultural, or off-pitch story from that tournament
+
+Check existing `id` and `label` values to see which angles are already covered. Only write the missing ones — never rewrite annotations that already exist.
+
+Same writing rules as main pipeline: 30–60 words per annotation, magazine voice, no Wikipedia verbatim, no "showed resilience."
+
+### Writing the file back
+
+Write to the **same path**: `/Users/nmoff/Desktop/Claude Projects/world-cup-kits/data/countries/[country-id].json`
+
+- Keep every existing field exactly as-is unless filling a gap
+- Do not reformat, reorder, or rewrite anything that was not a gap
+- Do not change any score, result, headline, or existing annotation
+- The watcher will auto-commit and deploy
+
+### Updating the queue after backfill
+
+Set each processed country's `"status"` from `"backfill"` to `"done"` in `queue.json`.
