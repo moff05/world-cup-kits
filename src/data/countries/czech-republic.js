@@ -46,25 +46,29 @@ export const czechRepublic = {
           "round": "Round of 16",
           "opponent": "Romania",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Puč 50'', Nejedlý 67''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Switzerland",
           "score": "3–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Svoboda 24'', Sobotka 49'', Nejedlý 82''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Germany",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Nejedlý 21'', Nejedlý 69'', Nejedlý 80''"
         },
         {
           "round": "Final",
           "opponent": "Italy",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Puč 71''"
         }
       ],
       "kits": {
@@ -94,19 +98,22 @@ export const czechRepublic = {
           "round": "Round of 16",
           "opponent": "Netherlands",
           "score": "3–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Košťálek 93'', Zeman 111'', Nejedlý 118''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Brazil",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Nejedlý 65''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Brazil",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Kopecký 25''"
         }
       ],
       "kits": {
@@ -136,13 +143,15 @@ export const czechRepublic = {
           "round": "Group Stage",
           "opponent": "Uruguay",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Austria",
           "score": "0–5",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -172,25 +181,29 @@ export const czechRepublic = {
           "round": "Group Stage",
           "opponent": "Northern Ireland",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "2–2",
-          "result": "D"
+          "result": "D",
+          "scorers": "Dvořák 24'', Zikán 42''"
         },
         {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "6–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Dvořák 8'', Zikán 17'', Zikán 40'', Feureisl 69'', Hovorka 82'', Hovorka 89''"
         },
         {
           "round": "Group Stage",
           "opponent": "Northern Ireland",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Zikán 18''"
         }
       ],
       "kits": {
@@ -220,37 +233,43 @@ export const czechRepublic = {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Štibrányi 80''"
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Mašek 1''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Hungary",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Scherer 13''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Yugoslavia",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Kadraba 48'', Scherer 80'', Scherer 84''"
         },
         {
           "round": "Final",
           "opponent": "Brazil",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Masopust 15''"
         }
       ],
       "kits": {
@@ -280,19 +299,22 @@ export const czechRepublic = {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "1–4",
-          "result": "L"
+          "result": "L",
+          "scorers": "Petráš 11''"
         },
         {
           "round": "Group Stage",
           "opponent": "Romania",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Petráš 5''"
         },
         {
           "round": "Group Stage",
           "opponent": "England",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -322,19 +344,22 @@ export const czechRepublic = {
           "round": "Group Stage",
           "opponent": "Kuwait",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Panenka 21''"
         },
         {
           "round": "Group Stage",
           "opponent": "England",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "France",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Panenka 84''"
         }
       ],
       "kits": {
@@ -364,31 +389,36 @@ export const czechRepublic = {
           "round": "Group Stage",
           "opponent": "United States",
           "score": "5–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Skuhravý 26'', Bílek 40'', Hašek 50'', Skuhravý 78'', Luhový 90'+3''"
         },
         {
           "round": "Group Stage",
           "opponent": "Austria",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Bílek 31''"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Round of 16",
           "opponent": "Costa Rica",
           "score": "4–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Skuhravý 12'', Skuhravý 63'', Kubík 76'', Skuhravý 82''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "West Germany",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -418,19 +448,22 @@ export const czechRepublic = {
           "round": "Group Stage",
           "opponent": "United States",
           "score": "3–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Koller 5'', Rosický 36'', Rosický 76''"
         },
         {
           "round": "Group Stage",
           "opponent": "Ghana",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
