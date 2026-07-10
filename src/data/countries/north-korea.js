@@ -47,21 +47,21 @@ export const northKorea = {
           "opponent": "Chile",
           "score": "1–1",
           "result": "D",
-          "scorers": "Pak 88''"
+          "scorers": "Pak 88'"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "1–0",
           "result": "W",
-          "scorers": "Pak 42''"
+          "scorers": "Pak 42'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Portugal",
           "score": "3–5",
           "result": "L",
-          "scorers": "Pak 1'', Li 22'', Yang 25''"
+          "scorers": "Pak 1', Li 22', Yang 25'"
         }
       ],
       "kits": {
@@ -97,7 +97,7 @@ export const northKorea = {
           "opponent": "Brazil",
           "score": "1–2",
           "result": "L",
-          "scorers": "Ji 89''"
+          "scorers": "Ji 89'"
         },
         {
           "round": "Group Stage",
