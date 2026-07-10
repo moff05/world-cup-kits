@@ -29,7 +29,7 @@ export default function Home() {
   const [sortBy, setSortBy] = useState("appearances-desc");
 
   useEffect(() => {
-    document.title = "World Cup Kits";
+    document.title = "World Cup Archive";
   }, []);
 
   const q = search.trim().toLowerCase();
@@ -57,8 +57,8 @@ export default function Home() {
   return (
     <div className="home">
       <header className="site-header">
-        <h1>World Cup<br />Kits</h1>
-        <p>The design, the history, the stories behind every jersey.</p>
+        <h1>World Cup<br />Archive</h1>
+        <p>Every nation's complete World Cup story — from 1930 to today.</p>
         <div className="home-stats">
           <div className="home-stat">
             <span className="home-stat-num">{countries.length}</span>

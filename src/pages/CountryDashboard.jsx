@@ -72,8 +72,8 @@ export default function CountryDashboard() {
   const [openYears, setOpenYears] = useState(new Set());
 
   useEffect(() => {
-    if (country) document.title = `${country.name} · World Cup Kits`;
-    return () => { document.title = "World Cup Kits"; };
+    if (country) document.title = `${country.name} · World Cup Archive`;
+    return () => { document.title = "World Cup Archive"; };
   }, [country]);
 
   if (!country) return <div className="not-found">Country not found.</div>;

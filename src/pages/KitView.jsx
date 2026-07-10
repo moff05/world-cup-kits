@@ -130,8 +130,8 @@ export default function KitView() {
   const nextYear = yearIndex < sortedKitYears.length - 1 ? sortedKitYears[yearIndex + 1] : null;
 
   useEffect(() => {
-    if (country && year) document.title = `${country.name} ${year} · World Cup Kits`;
-    return () => { document.title = "World Cup Kits"; };
+    if (country && year) document.title = `${country.name} ${year} · World Cup Archive`;
+    return () => { document.title = "World Cup Archive"; };
   }, [country, year]);
 
   useEffect(() => {
