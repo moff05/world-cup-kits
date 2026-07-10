@@ -4,6 +4,60 @@ import { countries } from "../data/index.js";
 
 const CONF_ORDER = ["CONMEBOL", "UEFA", "CONCACAF", "CAF", "AFC", "OFC"];
 
+const FEATURED = [
+  { id: "argentina",  year: 1986, result: "Champions" },
+  { id: "uruguay",    year: 1950, result: "Champions" },
+  { id: "senegal",    year: 2002, result: "Quarter-final" },
+  { id: "north-korea", year: 1966, result: "Quarter-final" },
+  { id: "germany",    year: 2014, result: "Champions" },
+  { id: "netherlands", year: 1974, result: "Runners-up" },
+  { id: "morocco",    year: 2022, result: "4th Place" },
+  { id: "cameroon",   year: 1990, result: "Quarter-final" },
+  { id: "ukraine",    year: 2006, result: "Quarter-final" },
+  { id: "south-korea", year: 2002, result: "4th Place" },
+  { id: "algeria",    year: 1982, result: "Group Stage" },
+  { id: "cuba",       year: 1938, result: "Quarter-final" },
+  { id: "hungary",    year: 1954, result: "Runners-up" },
+  { id: "turkey",     year: 2002, result: "3rd Place" },
+  { id: "haiti",      year: 1974, result: "Group Stage" },
+  { id: "croatia",    year: 2018, result: "Runners-up" },
+  { id: "dr-congo",   year: 1974, result: "Group Stage" },
+];
+
+function FeaturedStrip() {
+  return (
+    <div className="featured-strip">
+      <div className="featured-strip-header">
+        <span className="featured-strip-title">Featured Stories</span>
+      </div>
+      <div className="featured-strip-scroll">
+        {FEATURED.map(({ id, year, result }) => {
+          const country = countries.find((c) => c.id === id);
+          if (!country) return null;
+          const yearData = country.kits?.[year];
+          const headline = yearData?.headline || "";
+          return (
+            <Link key={`${id}-${year}`} to={`/${id}`} className="featured-card">
+              <img
+                src={`https://flagcdn.com/w320/${country.flagCode}.png`}
+                alt=""
+                className="featured-card-bg"
+              />
+              <div className="featured-card-overlay" />
+              <span className="featured-card-result">{result}</span>
+              <div className="featured-card-body">
+                <span className="featured-card-year">{year}</span>
+                <span className="featured-card-country">{country.name}</span>
+                {headline && <span className="featured-card-headline">{headline}</span>}
+              </div>
+            </Link>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
 function CountryCard({ country }) {
   return (
     <Link to={`/${country.id}`} className="country-card">
@@ -75,6 +129,8 @@ export default function Home() {
         </div>
         <p className="pipeline-counter">{countries.filter(c => Object.values(c.kits || {}).some(y => y.headline)).length} / {countries.length} nations documented</p>
       </header>
+
+      <FeaturedStrip />
 
       <div className="search-wrap">
         <input
