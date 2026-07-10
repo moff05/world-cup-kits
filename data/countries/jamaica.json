@@ -1,4 +1,4 @@
-export const jamaica = {
+{
   "id": "jamaica",
   "name": "Jamaica",
   "flagCode": "jm",
@@ -31,8 +31,30 @@ export const jamaica = {
     "1998": {
       "result": "Group Stage",
       "headline": "First Goal, First Win",
+      "annotations": [
+        {
+          "id": "earle-makes-history",
+          "label": "EARLE'S HISTORIC HEADER",
+          "story": "In Jamaica's first-ever World Cup match, Wimbledon's Robbie Earle rose to head home in first-half stoppage time — the first goal in Jamaican World Cup history. Croatia had already led through Mario Stanić, and second-half strikes from Robert Prosinečki and Davor Šuker sealed a 3–1 win for the eventual semi-finalists."
+        },
+        {
+          "id": "argentina-overwhelms",
+          "label": "OUTCLASSED IN PARIS",
+          "story": "At the Parc des Princes, Jamaica ran into an Argentina side chasing perfection. Ariel Ortega struck twice and Gabriel Batistuta added a hat-trick, the last from the penalty spot, as Argentina cruised 5–0 — still Jamaica's heaviest defeat on the world stage."
+        },
+        {
+          "id": "whitmore-delivers-history",
+          "label": "WHITMORE WRITES HIS NAME IN",
+          "story": "With qualification already gone, Theodore Whitmore delivered Jamaica's proudest World Cup moment in Lyon, scoring in the 39th and 54th minutes to beat Japan 2–1 — the country's only win at a World Cup finals. Masashi Nakayama's late reply for Japan couldn't stop the party back home."
+        }
+      ],
       "homeColors": "black shirt with gold and green trim echoing the Jamaican flag — the widely celebrated 1998 Kappa kit",
       "awayColors": null,
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -55,33 +77,7 @@ export const jamaica = {
           "result": "W",
           "scorers": "Whitmore 39', 54'"
         }
-      ],
-      "kits": {
-        "home": {
-          "image": null,
-          "imageCredit": {
-            "player": null,
-            "game": null
-          },
-          "annotations": [
-            {
-              "id": "earle-makes-history",
-              "label": "EARLE'S HISTORIC HEADER",
-              "story": "In Jamaica's first-ever World Cup match, Wimbledon's Robbie Earle rose to head home in first-half stoppage time — the first goal in Jamaican World Cup history. Croatia had already led through Mario Stanić, and second-half strikes from Robert Prosinečki and Davor Šuker sealed a 3–1 win for the eventual semi-finalists."
-            },
-            {
-              "id": "argentina-overwhelms",
-              "label": "OUTCLASSED IN PARIS",
-              "story": "At the Parc des Princes, Jamaica ran into an Argentina side chasing perfection. Ariel Ortega struck twice and Gabriel Batistuta added a hat-trick, the last from the penalty spot, as Argentina cruised 5–0 — still Jamaica's heaviest defeat on the world stage."
-            },
-            {
-              "id": "whitmore-delivers-history",
-              "label": "WHITMORE WRITES HIS NAME IN",
-              "story": "With qualification already gone, Theodore Whitmore delivered Jamaica's proudest World Cup moment in Lyon, scoring in the 39th and 54th minutes to beat Japan 2–1 — the country's only win at a World Cup finals. Masashi Nakayama's late reply for Japan couldn't stop the party back home."
-            }
-          ]
-        }
-      }
+      ]
     }
   }
-};
+}
