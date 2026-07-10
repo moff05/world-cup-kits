@@ -59,7 +59,7 @@ export const japan = {
           "opponent": "Jamaica",
           "score": "1–2",
           "result": "L",
-          "scorers": "Nakayama 74''"
+          "scorers": "Nakayama 74'"
         }
       ],
       "kits": {
@@ -90,21 +90,21 @@ export const japan = {
           "opponent": "Belgium",
           "score": "2–2",
           "result": "D",
-          "scorers": "Suzuki 59'', Inamoto 67''"
+          "scorers": "Suzuki 59', Inamoto 67'"
         },
         {
           "round": "Group Stage",
           "opponent": "Russia",
           "score": "1–0",
           "result": "W",
-          "scorers": "Inamoto 51''"
+          "scorers": "Inamoto 51'"
         },
         {
           "round": "Group Stage",
           "opponent": "Tunisia",
           "score": "2–0",
           "result": "W",
-          "scorers": "Morishima 48'', Nakata 75''"
+          "scorers": "Morishima 48', Nakata 75'"
         },
         {
           "round": "Round of 16",
@@ -142,7 +142,7 @@ export const japan = {
           "opponent": "Australia",
           "score": "1–3",
           "result": "L",
-          "scorers": "Nakamura 26''"
+          "scorers": "Nakamura 26'"
         },
         {
           "round": "Group Stage",
@@ -156,7 +156,7 @@ export const japan = {
           "opponent": "Brazil",
           "score": "1–4",
           "result": "L",
-          "scorers": "Tamada 34''"
+          "scorers": "Tamada 34'"
         }
       ],
       "kits": {
@@ -181,7 +181,7 @@ export const japan = {
           "opponent": "Cameroon",
           "score": "1–0",
           "result": "W",
-          "scorers": "Honda 39''"
+          "scorers": "Honda 39'"
         },
         {
           "round": "Group Stage",
@@ -195,7 +195,7 @@ export const japan = {
           "opponent": "Denmark",
           "score": "3–1",
           "result": "W",
-          "scorers": "Honda 17'', Endō 30'', Okazaki 87''"
+          "scorers": "Honda 17', Endō 30', Okazaki 87'"
         },
         {
           "round": "Round of 16",
@@ -233,7 +233,7 @@ export const japan = {
           "opponent": "Ivory Coast",
           "score": "1–2",
           "result": "L",
-          "scorers": "Honda 16''"
+          "scorers": "Honda 16'"
         },
         {
           "round": "Group Stage",
@@ -247,7 +247,7 @@ export const japan = {
           "opponent": "Colombia",
           "score": "1–4",
           "result": "L",
-          "scorers": "Okazaki 45'+1''"
+          "scorers": "Okazaki 45'+1'"
         }
       ],
       "kits": {
@@ -272,14 +272,14 @@ export const japan = {
           "opponent": "Colombia",
           "score": "2–1",
           "result": "W",
-          "scorers": "Kagawa 6'', Osako 73''"
+          "scorers": "Kagawa 6', Osako 73'"
         },
         {
           "round": "Group Stage",
           "opponent": "Senegal",
           "score": "2–2",
           "result": "D",
-          "scorers": "Inui 34'', Honda 78''"
+          "scorers": "Inui 34', Honda 78'"
         },
         {
           "round": "Group Stage",
@@ -293,7 +293,7 @@ export const japan = {
           "opponent": "Belgium",
           "score": "2–3",
           "result": "L",
-          "scorers": "Haraguchi 48'', Inui 52''"
+          "scorers": "Haraguchi 48', Inui 52'"
         }
       ],
       "kits": {
