@@ -278,7 +278,7 @@ export const argentina = {
       }
     },
     "1974": {
-      "result": "Quarter-final",
+      "result": "2nd Round",
       "headline": "Cruyff's Netherlands Ends It",
       "homeColors": "light blue and white vertical stripes, black shorts, white socks (first Adidas kit)",
       "awayColors": null,

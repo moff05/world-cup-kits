@@ -500,7 +500,7 @@
     "name": "Bosnia & Herzegovina",
     "confederation": "UEFA",
     "worldCupsCount": 1,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -508,7 +508,7 @@
     "name": "Iceland",
     "confederation": "UEFA",
     "worldCupsCount": 1,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -516,7 +516,7 @@
     "name": "Haiti",
     "confederation": "CONCACAF",
     "worldCupsCount": 1,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
