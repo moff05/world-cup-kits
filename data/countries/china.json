@@ -1,4 +1,4 @@
-export const china = {
+{
   "id": "china",
   "name": "China",
   "flagCode": "cn",
@@ -31,8 +31,31 @@ export const china = {
     "2002": {
       "result": "Group Stage",
       "headline": "Forty-Four Years, Zero Goals",
+      "annotations": [
+        {
+          "id": "a-respectable-opener",
+          "label": "A RESPECTABLE OPENER",
+          "story": "China's World Cup history began in Gwangju with genuine resistance — they matched Costa Rica for long stretches before Ronald Gomez broke through in the 61st minute and Mauricio Wright doubled it four minutes later. The 0–2 scoreline was the closest China came to an upset in three matches.",
+          "opponentNote": null
+        },
+        {
+          "id": "brazils-first-half-storm",
+          "label": "BRAZIL'S FIRST-HALF STORM",
+          "story": "Roberto Carlos opened the scoring in the 15th minute in Seogwipo, and by halftime Rivaldo and a Ronaldinho penalty had made it three. Ronaldo added a fourth after the break. The eventual champions cruised; China, overwhelmed, never threatened a reply in front of 36,750 fans."
+        },
+        {
+          "id": "sent-off-shut-out",
+          "label": "SENT OFF, SHUT OUT",
+          "story": "Hasan Şaş and Bülent Korkmaz staked Turkey to a 2–0 lead inside nine minutes in Seoul. China's Shao Jiayi was sent off in the 58th minute, and Ümit Davala's goal five minutes from time completed a 3–0 defeat — closing out a tournament in which China never scored."
+        }
+      ],
       "homeColors": "red shirt with white trim, red shorts (Adidas)",
       "awayColors": "white shirt with red trim (Adidas)",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -55,34 +78,7 @@ export const china = {
           "result": "L",
           "scorers": null
         }
-      ],
-      "kits": {
-        "home": {
-          "image": null,
-          "imageCredit": {
-            "player": null,
-            "game": null
-          },
-          "annotations": [
-            {
-              "id": "a-respectable-opener",
-              "label": "A RESPECTABLE OPENER",
-              "story": "China's World Cup history began in Gwangju with genuine resistance — they matched Costa Rica for long stretches before Ronald Gomez broke through in the 61st minute and Mauricio Wright doubled it four minutes later. The 0–2 scoreline was the closest China came to an upset in three matches.",
-              "opponentNote": null
-            },
-            {
-              "id": "brazils-first-half-storm",
-              "label": "BRAZIL'S FIRST-HALF STORM",
-              "story": "Roberto Carlos opened the scoring in the 15th minute in Seogwipo, and by halftime Rivaldo and a Ronaldinho penalty had made it three. Ronaldo added a fourth after the break. The eventual champions cruised; China, overwhelmed, never threatened a reply in front of 36,750 fans."
-            },
-            {
-              "id": "sent-off-shut-out",
-              "label": "SENT OFF, SHUT OUT",
-              "story": "Hasan Şaş and Bülent Korkmaz staked Turkey to a 2–0 lead inside nine minutes in Seoul. China's Shao Jiayi was sent off in the 58th minute, and Ümit Davala's goal five minutes from time completed a 3–0 defeat — closing out a tournament in which China never scored."
-            }
-          ]
-        }
-      }
+      ]
     }
   }
-};
+}
