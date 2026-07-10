@@ -49,13 +49,15 @@ export const switzerland = {
           "round": "Round of 16",
           "opponent": "Netherlands",
           "score": "3–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Kielholz 7'', Kielholz 43'', Abegglen 66''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Czechoslovakia",
           "score": "2–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Kielholz 18'', Jäggi 78''"
         }
       ],
       "kits": {
@@ -85,19 +87,22 @@ export const switzerland = {
           "round": "Round of 16",
           "opponent": "Germany",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Abegglen 43''"
         },
         {
           "round": "Round of 16",
           "opponent": "Germany",
           "score": "4–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Walaschek 42'', Bickel 64'', Abegglen 75'', Abegglen 78''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Hungary",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -127,19 +132,22 @@ export const switzerland = {
           "round": "Group Stage",
           "opponent": "Yugoslavia",
           "score": "0–3",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "2–2",
-          "result": "D"
+          "result": "D",
+          "scorers": "Fatton 17'', Fatton 88''"
         },
         {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Bader 10'', Antenen 44''"
         }
       ],
       "kits": {
@@ -169,25 +177,29 @@ export const switzerland = {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Ballaman 18'', Hügi 78''"
         },
         {
           "round": "Group Stage",
           "opponent": "England",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "4–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Hügi 14'', Ballaman 48'', Hügi 85'', Fatton 90''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Austria",
           "score": "5–7",
-          "result": "L"
+          "result": "L",
+          "scorers": "Ballaman 16'', Hügi 17'', Hügi 19'', Ballaman 39'', Hügi 60''"
         }
       ],
       "kits": {
@@ -217,19 +229,22 @@ export const switzerland = {
           "round": "Group Stage",
           "opponent": "Chile",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Wüthrich 6''"
         },
         {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Schneiter 73''"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "0–3",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -259,19 +274,22 @@ export const switzerland = {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "0–5",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Quentin 31''"
         },
         {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -301,25 +319,29 @@ export const switzerland = {
           "round": "Group Stage",
           "opponent": "United States",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Bregy 39''"
         },
         {
           "round": "Group Stage",
           "opponent": "Romania",
           "score": "4–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Sutter 16'', Chapuisat 52'', Knup 65'', Knup 72''"
         },
         {
           "round": "Group Stage",
           "opponent": "Colombia",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Round of 16",
           "opponent": "Spain",
           "score": "0–3",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -349,25 +371,29 @@ export const switzerland = {
           "round": "Group Stage",
           "opponent": "France",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Togo",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Frei 16'', Barnetta 88''"
         },
         {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Senderos 23'', Frei 77''"
         },
         {
           "round": "Round of 16",
           "opponent": "Ukraine",
           "score": "0–0 (0–3 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         }
       ],
       "kits": {
@@ -397,19 +423,22 @@ export const switzerland = {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Fernandes 52''"
         },
         {
           "round": "Group Stage",
           "opponent": "Chile",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Honduras",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         }
       ],
       "kits": {
@@ -439,25 +468,29 @@ export const switzerland = {
           "round": "Group Stage",
           "opponent": "Ecuador",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Mehmedi 48'', Seferovic 90'+3''"
         },
         {
           "round": "Group Stage",
           "opponent": "France",
           "score": "2–5",
-          "result": "L"
+          "result": "L",
+          "scorers": "Džemaili 81'', Xhaka 87''"
         },
         {
           "round": "Group Stage",
           "opponent": "Honduras",
           "score": "3–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Shaqiri 6'', Shaqiri 31'', Shaqiri 71''"
         },
         {
           "round": "Round of 16",
           "opponent": "Argentina",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -487,25 +520,29 @@ export const switzerland = {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Zuber 50''"
         },
         {
           "round": "Group Stage",
           "opponent": "Serbia",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Xhaka 52'', Shaqiri 90''"
         },
         {
           "round": "Group Stage",
           "opponent": "Costa Rica",
           "score": "2–2",
-          "result": "D"
+          "result": "D",
+          "scorers": "Džemaili 31'', Drmić 88''"
         },
         {
           "round": "Round of 16",
           "opponent": "Sweden",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
