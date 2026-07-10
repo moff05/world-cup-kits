@@ -44,28 +44,28 @@ export const denmark = {
           "opponent": "Scotland",
           "score": "1–0",
           "result": "W",
-          "scorers": "Elkjær 57'"
+          "scorers": "Elkjær 57''"
         },
         {
           "round": "Group Stage",
           "opponent": "Uruguay",
           "score": "6–1",
           "result": "W",
-          "scorers": "Elkjær 11', 67', 80', Lerby 41', M. Laudrup 52', J. Olsen 88'"
+          "scorers": "Elkjær 11'', Lerby 41'', Laudrup 52'', Elkjær 67'', Elkjær 80'', Olsen 88''"
         },
         {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "2–0",
           "result": "W",
-          "scorers": "J. Olsen 43' (pen.), J. Eriksen 62'"
+          "scorers": "Olsen 43'', Eriksen 62''"
         },
         {
           "round": "Round of 16",
           "opponent": "Spain",
           "score": "1–5",
           "result": "L",
-          "scorers": "J. Olsen 33' (pen.)"
+          "scorers": "Olsen 33''"
         }
       ],
       "kits": {
@@ -96,35 +96,35 @@ export const denmark = {
           "opponent": "Saudi Arabia",
           "score": "1–0",
           "result": "W",
-          "scorers": "Rieper 69'"
+          "scorers": "Rieper 69''"
         },
         {
           "round": "Group Stage",
           "opponent": "South Africa",
           "score": "1–1",
           "result": "D",
-          "scorers": "Nielsen 12'"
+          "scorers": "Nielsen 12''"
         },
         {
           "round": "Group Stage",
           "opponent": "France",
           "score": "1–2",
           "result": "L",
-          "scorers": "M. Laudrup 42' (pen.)"
+          "scorers": "Laudrup 42''"
         },
         {
           "round": "Round of 16",
           "opponent": "Nigeria",
           "score": "4–1",
           "result": "W",
-          "scorers": "Møller 3', B. Laudrup 12', Sand 60', Helveg 76'"
+          "scorers": "Møller 3'', Laudrup 12'', Sand 58'', Helveg 76''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Brazil",
           "score": "2–3",
           "result": "L",
-          "scorers": "Mar. Jørgensen 2', B. Laudrup 50'"
+          "scorers": "Jørgensen 2'', Laudrup 50''"
         }
       ],
       "kits": {
@@ -149,21 +149,21 @@ export const denmark = {
           "opponent": "Uruguay",
           "score": "2–1",
           "result": "W",
-          "scorers": "Tomasson 45', 83'"
+          "scorers": "Tomasson 45'', Tomasson 83''"
         },
         {
           "round": "Group Stage",
           "opponent": "Senegal",
           "score": "1–1",
           "result": "D",
-          "scorers": "Tomasson 16' (pen.)"
+          "scorers": "Tomasson 16''"
         },
         {
           "round": "Group Stage",
           "opponent": "France",
           "score": "2–0",
           "result": "W",
-          "scorers": "Rommedahl 22', Tomasson 67'"
+          "scorers": "Rommedahl 22'', Tomasson 67''"
         },
         {
           "round": "Round of 16",
@@ -202,14 +202,14 @@ export const denmark = {
           "opponent": "Cameroon",
           "score": "2–1",
           "result": "W",
-          "scorers": "Bendtner 33', Rommedahl 61'"
+          "scorers": "Bendtner 33'', Rommedahl 61''"
         },
         {
           "round": "Group Stage",
           "opponent": "Japan",
           "score": "1–3",
           "result": "L",
-          "scorers": "Tomasson 81'"
+          "scorers": "Tomasson 81''"
         }
       ],
       "kits": {
@@ -234,14 +234,14 @@ export const denmark = {
           "opponent": "Peru",
           "score": "1–0",
           "result": "W",
-          "scorers": "Poulsen 59'"
+          "scorers": "Poulsen 59''"
         },
         {
           "round": "Group Stage",
           "opponent": "Australia",
           "score": "1–1",
           "result": "D",
-          "scorers": "C. Eriksen 7'"
+          "scorers": "Eriksen 7''"
         },
         {
           "round": "Group Stage",
@@ -255,7 +255,7 @@ export const denmark = {
           "opponent": "Croatia",
           "score": "1–1 (2–3 pens)",
           "result": "D",
-          "scorers": "Mat. Jørgensen 1'"
+          "scorers": "Jørgensen 1''"
         }
       ],
       "kits": {
