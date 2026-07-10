@@ -1,4 +1,4 @@
-export const israel = {
+{
   "id": "israel",
   "name": "Israel",
   "flagCode": "il",
@@ -31,8 +31,20 @@ export const israel = {
     "1970": {
       "result": "Group Stage",
       "headline": "Blue and White, Once",
+      "annotations": [
+        {
+          "id": "spieglers-equalizer",
+          "label": "THE ONLY GOAL",
+          "story": "Down 1–0 to Sweden in Mexico City, Spiegler struck from 25 yards in the 56th minute to level it 1–1. It's still the only goal Israel has scored across its lone World Cup appearance, more than 50 years later."
+        }
+      ],
       "homeColors": "blue shirt, white shorts, blue socks — Israel's traditional national colors, drawn from the flag",
       "awayColors": "white shirt, blue shorts",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -55,23 +67,7 @@ export const israel = {
           "result": "D",
           "scorers": null
         }
-      ],
-      "kits": {
-        "home": {
-          "image": null,
-          "imageCredit": {
-            "player": null,
-            "game": null
-          },
-          "annotations": [
-            {
-              "id": "spieglers-equalizer",
-              "label": "THE ONLY GOAL",
-              "story": "Down 1–0 to Sweden in Mexico City, Spiegler struck from 25 yards in the 56th minute to level it 1–1. It's still the only goal Israel has scored across its lone World Cup appearance, more than 50 years later."
-            }
-          ]
-        }
-      }
+      ]
     }
   }
-};
+}
