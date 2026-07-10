@@ -48,14 +48,14 @@ export const southAfrica = {
           "opponent": "Denmark",
           "score": "1–1",
           "result": "D",
-          "scorers": "McCarthy 51'"
+          "scorers": "McCarthy 51''"
         },
         {
           "round": "Group Stage",
           "opponent": "Saudi Arabia",
           "score": "2–2",
           "result": "D",
-          "scorers": "Bartlett 20', 90+5' (pen)"
+          "scorers": "Bartlett 18'', Bartlett 90'+3''"
         }
       ],
       "kits": {
@@ -91,21 +91,21 @@ export const southAfrica = {
           "opponent": "Paraguay",
           "score": "2–2",
           "result": "D",
-          "scorers": "Mokoena 63', Fortune 90+1' (pen)"
+          "scorers": "Mokoena 63'', Fortune 90'+1''"
         },
         {
           "round": "Group Stage",
           "opponent": "Slovenia",
           "score": "1–0",
           "result": "W",
-          "scorers": "Nomvethe 4'"
+          "scorers": "Nomvethe 4''"
         },
         {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "2–3",
           "result": "L",
-          "scorers": "McCarthy 31', Radebe 53'"
+          "scorers": "McCarthy 31'', Radebe 53''"
         }
       ],
       "kits": {
@@ -141,7 +141,7 @@ export const southAfrica = {
           "opponent": "Mexico",
           "score": "1–1",
           "result": "D",
-          "scorers": "Tshabalala 55'"
+          "scorers": "Tshabalala 55''"
         },
         {
           "round": "Group Stage",
@@ -155,7 +155,7 @@ export const southAfrica = {
           "opponent": "France",
           "score": "2–1",
           "result": "W",
-          "scorers": "Khumalo 20', Mphela 37'"
+          "scorers": "Khumalo 20'', Mphela 37''"
         }
       ],
       "kits": {
