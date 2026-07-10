@@ -57,25 +57,29 @@ export const germany = {
           "round": "Round of 16",
           "opponent": "Belgium",
           "score": "5–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Kobierski 25'', Siffling 49'', Conen 66'', Conen 70'', Conen 87''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Sweden",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Hohmann 60'', Hohmann 63''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Czechoslovakia",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Noack 62''"
         },
         {
-          "round": "3rd Place",
+          "round": "third-place match",
           "opponent": "Austria",
           "score": "3–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Lehner 1'', Conen 27'', Lehner 42''"
         }
       ],
       "kits": {
@@ -105,13 +109,15 @@ export const germany = {
           "round": "Round of 16",
           "opponent": "Switzerland",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Gauchel 29''"
         },
         {
           "round": "Round of 16",
           "opponent": "Switzerland",
           "score": "2–4",
-          "result": "L"
+          "result": "L",
+          "scorers": "Hahnemann 8'', Lörtscher OG 22''"
         }
       ],
       "kits": {
@@ -141,37 +147,43 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "Turkey",
           "score": "4–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Schäfer 14'', Klodt 52'', Walter 60'', Morlock 84''"
         },
         {
           "round": "Group Stage",
           "opponent": "Hungary",
           "score": "3–8",
-          "result": "L"
+          "result": "L",
+          "scorers": "Pfaff 25'', Rahn 77'', Herrmann 84''"
         },
         {
           "round": "Group Stage",
           "opponent": "Turkey",
           "score": "7–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Walter 7'', Schäfer 12'', Morlock 30'', Morlock 60'', Walter 62'', Morlock 77'', Schäfer 79''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Yugoslavia",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Horvat OG 9'', Rahn 85''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Austria",
           "score": "6–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Schäfer 31'', Morlock 47'', Walter 54'', Walter 61'', Walter 64'', Walter 89''"
         },
         {
           "round": "Final",
           "opponent": "Hungary",
           "score": "3–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Morlock 10'', Rahn 18'', Rahn 84''"
         }
       ],
       "kits": {
@@ -201,37 +213,43 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Rahn 32'', Seeler 42'', Rahn 79''"
         },
         {
           "round": "Group Stage",
           "opponent": "Czechoslovakia",
           "score": "2–2",
-          "result": "D"
+          "result": "D",
+          "scorers": "Schäfer 60'', Rahn 71''"
         },
         {
           "round": "Group Stage",
           "opponent": "Northern Ireland",
           "score": "2–2",
-          "result": "D"
+          "result": "D",
+          "scorers": "Rahn 20'', Seeler 78''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Yugoslavia",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Rahn 12''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Sweden",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Schäfer 24''"
         },
         {
-          "round": "3rd Place",
+          "round": "third-place match",
           "opponent": "France",
           "score": "3–6",
-          "result": "L"
+          "result": "L",
+          "scorers": "Cieslarczyk 18'', Rahn 52'', Schäfer 84''"
         }
       ],
       "kits": {
@@ -261,25 +279,29 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Switzerland",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Brülls 45'', Seeler 59''"
         },
         {
           "round": "Group Stage",
           "opponent": "Chile",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Szymaniak 21'', Seeler 82''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Yugoslavia",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -309,37 +331,43 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "Switzerland",
           "score": "5–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Held 16'', Haller 21'', Beckenbauer 40'', Beckenbauer 52'', Haller 77''"
         },
         {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Emmerich 39'', Seeler 84''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Uruguay",
           "score": "4–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Haller 11'', Beckenbauer 70'', Seeler 75'', Haller 83''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Soviet Union",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Haller 43'', Beckenbauer 67''"
         },
         {
           "round": "Final",
           "opponent": "England",
           "score": "2–4",
-          "result": "L"
+          "result": "L",
+          "scorers": "Haller 12'', Weber 89''"
         }
       ],
       "kits": {
@@ -369,37 +397,43 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "Morocco",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Seeler 56'', Müller 80''"
         },
         {
           "round": "Group Stage",
           "opponent": "Bulgaria",
           "score": "5–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Libuda 20'', Müller 27'', Müller 52'', Seeler 67'', Müller 88''"
         },
         {
           "round": "Group Stage",
           "opponent": "Peru",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Müller 19'', Müller 26'', Müller 39''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "England",
           "score": "3–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Beckenbauer 68'', Seeler 82'', Müller 108''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Italy",
           "score": "3–4",
-          "result": "L"
+          "result": "L",
+          "scorers": "Schnellinger 90'', Müller 94'', Müller 110''"
         },
         {
-          "round": "3rd Place",
+          "round": "third-place match",
           "opponent": "Uruguay",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Overath 26''"
         }
       ],
       "kits": {
@@ -429,43 +463,50 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "Chile",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Breitner 18''"
         },
         {
           "round": "Group Stage",
           "opponent": "Australia",
           "score": "3–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Overath 12'', Cullmann 34'', Müller 53''"
         },
         {
           "round": "Group Stage",
           "opponent": "East Germany",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "2nd Round",
           "opponent": "Yugoslavia",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Breitner 39'', Müller 82''"
         },
         {
           "round": "2nd Round",
           "opponent": "Sweden",
           "score": "4–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Overath 51'', Bonhof 52'', Grabowski 76'', Hoeneß 89''"
         },
         {
           "round": "2nd Round",
           "opponent": "Poland",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Müller 76''"
         },
         {
           "round": "Final",
           "opponent": "Netherlands",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Breitner 25'', Müller 43''"
         }
       ],
       "kits": {
@@ -495,37 +536,43 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "Poland",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "6–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Müller 15'', Müller 30'', Rummenigge 38'', Flohe 44'', Rummenigge 73'', Flohe 89''"
         },
         {
           "round": "Group Stage",
           "opponent": "Tunisia",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "2nd Round",
           "opponent": "Italy",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "2nd Round",
           "opponent": "Netherlands",
           "score": "2–2",
-          "result": "D"
+          "result": "D",
+          "scorers": "Abramczik 3'', Müller 70''"
         },
         {
           "round": "2nd Round",
           "opponent": "Austria",
           "score": "2–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Rummenigge 19'', Hölzenbein 68''"
         }
       ],
       "kits": {
@@ -555,43 +602,50 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "Algeria",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Rummenigge 67''"
         },
         {
           "round": "Group Stage",
           "opponent": "Chile",
           "score": "4–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Rummenigge 9'', Rummenigge 57'', Rummenigge 66'', Reinders 81''"
         },
         {
           "round": "Group Stage",
           "opponent": "Austria",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Hrubesch 10''"
         },
         {
           "round": "2nd Round",
           "opponent": "England",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "2nd Round",
           "opponent": "Spain",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Littbarski 50'', Fischer 75''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "France",
           "score": "3–3 (5–4 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": "Littbarski 17'', Rummenigge 102'', Fischer 108''"
         },
         {
           "round": "Final",
           "opponent": "Italy",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Breitner 83''"
         }
       ],
       "kits": {
@@ -621,43 +675,50 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "Uruguay",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Allofs 84''"
         },
         {
           "round": "Group Stage",
           "opponent": "Scotland",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Völler 23'', Allofs 49''"
         },
         {
           "round": "Group Stage",
           "opponent": "Denmark",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Round of 16",
           "opponent": "Morocco",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Matthäus 87''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Mexico",
           "score": "0–0 (4–1 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "France",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Brehme 9'', Völler 90''"
         },
         {
           "round": "Final",
           "opponent": "Argentina",
           "score": "2–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Rummenigge 74'', Völler 81''"
         }
       ],
       "kits": {
@@ -687,43 +748,50 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "Yugoslavia",
           "score": "4–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Matthäus 28'', Klinsmann 39'', Matthäus 64'', Völler 70''"
         },
         {
           "round": "Group Stage",
           "opponent": "United Arab Emirates",
           "score": "5–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Völler 35'', Klinsmann 37'', Matthäus 47'', Bein 58'', Völler 75''"
         },
         {
           "round": "Group Stage",
           "opponent": "Colombia",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Littbarski 88''"
         },
         {
           "round": "Round of 16",
           "opponent": "Netherlands",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Klinsmann 51'', Brehme 85''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Czechoslovakia",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Matthäus 25''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "England",
           "score": "1–1 (4–3 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": "Brehme 60''"
         },
         {
           "round": "Final",
           "opponent": "Argentina",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Brehme 85''"
         }
       ],
       "kits": {
@@ -753,31 +821,36 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "Bolivia",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Klinsmann 61''"
         },
         {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Klinsmann 48''"
         },
         {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "3–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Klinsmann 12'', Riedle 20'', Klinsmann 37''"
         },
         {
           "round": "Round of 16",
           "opponent": "Belgium",
           "score": "3–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Völler 6'', Klinsmann 11'', Völler 38''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Bulgaria",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Matthäus 47''"
         }
       ],
       "kits": {
@@ -807,31 +880,36 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "United States",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Möller 9'', Klinsmann 65''"
         },
         {
           "round": "Group Stage",
-          "opponent": "FR Yugoslavia",
+          "opponent": "Yugoslavia",
           "score": "2–2",
-          "result": "D"
+          "result": "D",
+          "scorers": "Mihajlović OG 72'', Bierhoff 78''"
         },
         {
           "round": "Group Stage",
           "opponent": "Iran",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Bierhoff 50'', Klinsmann 57''"
         },
         {
           "round": "Round of 16",
           "opponent": "Mexico",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Klinsmann 74'', Bierhoff 86''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Croatia",
           "score": "0–3",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -861,43 +939,50 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "Saudi Arabia",
           "score": "8–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Klose 20'', Klose 25'', Ballack 40'', Jancker 45'+1'', Klose 70'', Linke 73'', Bierhoff 84'', Schneider 90'+1''"
         },
         {
           "round": "Group Stage",
           "opponent": "Republic of Ireland",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Klose 19''"
         },
         {
           "round": "Group Stage",
           "opponent": "Cameroon",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Bode 50'', Klose 79''"
         },
         {
           "round": "Round of 16",
           "opponent": "Paraguay",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Neuville 88''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "United States",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Ballack 39''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "South Korea",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Ballack 75''"
         },
         {
           "round": "Final",
           "opponent": "Brazil",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -927,43 +1012,50 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "Costa Rica",
           "score": "4–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Lahm 6'', Klose 17'', Klose 61'', Frings 87''"
         },
         {
           "round": "Group Stage",
           "opponent": "Poland",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Neuville 90'+1''"
         },
         {
           "round": "Group Stage",
           "opponent": "Ecuador",
           "score": "3–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Klose 4'', Klose 44'', Podolski 57''"
         },
         {
           "round": "Round of 16",
           "opponent": "Sweden",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Podolski 4'', Podolski 12''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Argentina",
           "score": "1–1 (4–2 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": "Klose 80''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Italy",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
-          "round": "3rd Place",
+          "round": "third-place match",
           "opponent": "Portugal",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Schweinsteiger 56'', Petit OG 60'', Schweinsteiger 78''"
         }
       ],
       "kits": {
@@ -993,43 +1085,50 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "Australia",
           "score": "4–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Podolski 8'', Klose 26'', Müller 68'', Cacau 70''"
         },
         {
           "round": "Group Stage",
           "opponent": "Serbia",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Ghana",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Özil 60''"
         },
         {
           "round": "Round of 16",
           "opponent": "England",
           "score": "4–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Klose 20'', Podolski 32'', Müller 67'', Müller 70''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Argentina",
           "score": "4–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Müller 3'', Klose 68'', Friedrich 74'', Klose 89''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Spain",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
-          "round": "3rd Place",
+          "round": "third-place match",
           "opponent": "Uruguay",
           "score": "3–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Müller 19'', Jansen 56'', Khedira 82''"
         }
       ],
       "kits": {
@@ -1059,43 +1158,50 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "Portugal",
           "score": "4–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Müller 12'', Hummels 32'', Müller 45'+1'', Müller 78''"
         },
         {
           "round": "Group Stage",
           "opponent": "Ghana",
           "score": "2–2",
-          "result": "D"
+          "result": "D",
+          "scorers": "Götze 51'', Klose 71''"
         },
         {
           "round": "Group Stage",
           "opponent": "United States",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Müller 55''"
         },
         {
           "round": "Round of 16",
           "opponent": "Algeria",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Schürrle 92'', Özil 120''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "France",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Hummels 13''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Brazil",
           "score": "7–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Müller 11'', Klose 23'', Kroos 24'', Kroos 26'', Khedira 29'', Schürrle 69'', Schürrle 79''"
         },
         {
           "round": "Final",
           "opponent": "Argentina",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Götze 113''"
         }
       ],
       "kits": {
@@ -1125,19 +1231,22 @@ export const germany = {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Sweden",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Reus 48'', Kroos 90'+5''"
         },
         {
           "round": "Group Stage",
           "opponent": "South Korea",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
