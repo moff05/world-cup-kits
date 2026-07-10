@@ -49,14 +49,14 @@ export const ghana = {
           "opponent": "Czech Republic",
           "score": "2–0",
           "result": "W",
-          "scorers": "Gyan 2'', Muntari 82''"
+          "scorers": "Gyan 2', Muntari 82'"
         },
         {
           "round": "Group Stage",
           "opponent": "United States",
           "score": "2–1",
           "result": "W",
-          "scorers": "Draman 22'', Appiah 45'+2''"
+          "scorers": "Draman 22', Appiah 45'+2'"
         },
         {
           "round": "Round of 16",
@@ -94,14 +94,14 @@ export const ghana = {
           "opponent": "Serbia",
           "score": "1–0",
           "result": "W",
-          "scorers": "Gyan 85''"
+          "scorers": "Gyan 85'"
         },
         {
           "round": "Group Stage",
           "opponent": "Australia",
           "score": "1–1",
           "result": "D",
-          "scorers": "Gyan 25''"
+          "scorers": "Gyan 25'"
         },
         {
           "round": "Group Stage",
@@ -115,14 +115,14 @@ export const ghana = {
           "opponent": "United States",
           "score": "2–1",
           "result": "W",
-          "scorers": "Boateng 5'', Gyan 93''"
+          "scorers": "Boateng 5', Gyan 93'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Uruguay",
           "score": "1–1 (2–4 pens)",
           "result": "D",
-          "scorers": "Muntari 45'+2''"
+          "scorers": "Muntari 45'+2'"
         }
       ],
       "kits": {
@@ -158,21 +158,21 @@ export const ghana = {
           "opponent": "United States",
           "score": "1–2",
           "result": "L",
-          "scorers": "Ayew 82''"
+          "scorers": "Ayew 82'"
         },
         {
           "round": "Group Stage",
           "opponent": "Germany",
           "score": "2–2",
           "result": "D",
-          "scorers": "Ayew 54'', Gyan 63''"
+          "scorers": "Ayew 54', Gyan 63'"
         },
         {
           "round": "Group Stage",
           "opponent": "Portugal",
           "score": "1–2",
           "result": "L",
-          "scorers": "Gyan 57''"
+          "scorers": "Gyan 57'"
         }
       ],
       "kits": {
