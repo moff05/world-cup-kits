@@ -45,17 +45,17 @@ export const austria = {
           "opponent": "France",
           "score": "3–2",
           "result": "W",
-          "scorers": "Sindelar 44'', Schall 93'', Bican 109''"
+          "scorers": "Sindelar 44', Schall 93', Bican 109'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Hungary",
           "score": "2–1",
           "result": "W",
-          "scorers": "Horvath 8'', Zischek 51''"
+          "scorers": "Horvath 8', Zischek 51'"
         },
         {
-          "round": "semi-finals",
+          "round": "Semi-final",
           "opponent": "Italy",
           "score": "0–1",
           "result": "L",
@@ -66,7 +66,7 @@ export const austria = {
           "opponent": "Germany",
           "score": "2–3",
           "result": "L",
-          "scorers": "Horvath 28'', Sesta 54''"
+          "scorers": "Horvath 28', Sesta 54'"
         }
       ],
       "kits": {
@@ -97,35 +97,35 @@ export const austria = {
           "opponent": "Scotland",
           "score": "1–0",
           "result": "W",
-          "scorers": "Probst 33''"
+          "scorers": "Probst 33'"
         },
         {
           "round": "Group Stage",
           "opponent": "Czechoslovakia",
           "score": "5–0",
           "result": "W",
-          "scorers": "Stojaspal 3'', Probst 4'', Probst 21'', Probst 24'', Stojaspal 65''"
+          "scorers": "Stojaspal 3', Probst 4', Probst 21', Probst 24', Stojaspal 65'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Switzerland",
           "score": "7–5",
           "result": "W",
-          "scorers": "Wagner 25'', Körner 26'', Wagner 27'', Ocwirk 32'', Körner 34'', Wagner 53'', Probst 76''"
+          "scorers": "Wagner 25', Körner 26', Wagner 27', Ocwirk 32', Körner 34', Wagner 53', Probst 76'"
         },
         {
-          "round": "semi-finals",
+          "round": "Semi-final",
           "opponent": "West Germany",
           "score": "1–6",
           "result": "L",
-          "scorers": "Probst 51''"
+          "scorers": "Probst 51'"
         },
         {
           "round": "third-place match",
           "opponent": "Uruguay",
           "score": "3–1",
           "result": "W",
-          "scorers": "Stojaspal 16'', Cruz OG 59'', Ocwirk 89''"
+          "scorers": "Stojaspal 16', Cruz OG 59', Ocwirk 89'"
         }
       ],
       "kits": {
@@ -170,7 +170,7 @@ export const austria = {
           "opponent": "England",
           "score": "2–2",
           "result": "D",
-          "scorers": "Koller 15'', Körner 71''"
+          "scorers": "Koller 15', Körner 71'"
         }
       ],
       "kits": {
@@ -195,14 +195,14 @@ export const austria = {
           "opponent": "Spain",
           "score": "2–1",
           "result": "W",
-          "scorers": "Schachner 10'', Krankl 76''"
+          "scorers": "Schachner 10', Krankl 76'"
         },
         {
           "round": "Group Stage",
           "opponent": "Sweden",
           "score": "1–0",
           "result": "W",
-          "scorers": "Krankl 42''"
+          "scorers": "Krankl 42'"
         },
         {
           "round": "Group Stage",
@@ -216,7 +216,7 @@ export const austria = {
           "opponent": "Netherlands",
           "score": "1–5",
           "result": "L",
-          "scorers": "Obermayer 80''"
+          "scorers": "Obermayer 80'"
         },
         {
           "round": "2nd Round",
@@ -230,7 +230,7 @@ export const austria = {
           "opponent": "West Germany",
           "score": "3–2",
           "result": "W",
-          "scorers": "Vogts OG 59'', Krankl 66'', Krankl 87''"
+          "scorers": "Vogts OG 59', Krankl 66', Krankl 87'"
         }
       ],
       "kits": {
@@ -261,14 +261,14 @@ export const austria = {
           "opponent": "Chile",
           "score": "1–0",
           "result": "W",
-          "scorers": "Schachner 22''"
+          "scorers": "Schachner 22'"
         },
         {
           "round": "Group Stage",
           "opponent": "Algeria",
           "score": "2–0",
           "result": "W",
-          "scorers": "Schachner 55'', Krankl 67''"
+          "scorers": "Schachner 55', Krankl 67'"
         },
         {
           "round": "Group Stage",
@@ -289,7 +289,7 @@ export const austria = {
           "opponent": "Northern Ireland",
           "score": "2–2",
           "result": "D",
-          "scorers": "Pezzey 50'', Hintermaier 68''"
+          "scorers": "Pezzey 50', Hintermaier 68'"
         }
       ],
       "kits": {
@@ -334,7 +334,7 @@ export const austria = {
           "opponent": "United States",
           "score": "2–1",
           "result": "W",
-          "scorers": "Ogris 49'', Rodax 63''"
+          "scorers": "Ogris 49', Rodax 63'"
         }
       ],
       "kits": {
@@ -359,21 +359,21 @@ export const austria = {
           "opponent": "Cameroon",
           "score": "1–1",
           "result": "D",
-          "scorers": "Polster 90'+1''"
+          "scorers": "Polster 90'+1'"
         },
         {
           "round": "Group Stage",
           "opponent": "Chile",
           "score": "1–1",
           "result": "D",
-          "scorers": "Vastić 90'+2''"
+          "scorers": "Vastić 90'+2'"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "1–2",
           "result": "L",
-          "scorers": "Herzog 90'+2''"
+          "scorers": "Herzog 90'+2'"
         }
       ],
       "kits": {
