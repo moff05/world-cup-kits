@@ -41,7 +41,7 @@ export const republicOfIreland = {
           "opponent": "England",
           "score": "1–1",
           "result": "D",
-          "scorers": "Sheedy 73''"
+          "scorers": "Sheedy 73'"
         },
         {
           "round": "Group Stage",
@@ -55,7 +55,7 @@ export const republicOfIreland = {
           "opponent": "Netherlands",
           "score": "1–1",
           "result": "D",
-          "scorers": "Quinn 71''"
+          "scorers": "Quinn 71'"
         },
         {
           "round": "Round of 16",
@@ -65,7 +65,7 @@ export const republicOfIreland = {
           "scorers": null
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Italy",
           "score": "0–1",
           "result": "L",
@@ -100,14 +100,14 @@ export const republicOfIreland = {
           "opponent": "Italy",
           "score": "1–0",
           "result": "W",
-          "scorers": "Houghton 11''"
+          "scorers": "Houghton 11'"
         },
         {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "1–2",
           "result": "L",
-          "scorers": "Aldridge 84''"
+          "scorers": "Aldridge 84'"
         },
         {
           "round": "Group Stage",
@@ -152,28 +152,28 @@ export const republicOfIreland = {
           "opponent": "Cameroon",
           "score": "1–1",
           "result": "D",
-          "scorers": "Holland 52''"
+          "scorers": "Holland 52'"
         },
         {
           "round": "Group Stage",
           "opponent": "Germany",
           "score": "1–1",
           "result": "D",
-          "scorers": "Keane 90'+2''"
+          "scorers": "Keane 90'+2'"
         },
         {
           "round": "Group Stage",
           "opponent": "Saudi Arabia",
           "score": "3–0",
           "result": "W",
-          "scorers": "Keane 7'', Breen 61'', Duff 87''"
+          "scorers": "Keane 7', Breen 61', Duff 87'"
         },
         {
           "round": "Round of 16",
           "opponent": "Spain",
           "score": "1–1 (2–3 pens)",
           "result": "D",
-          "scorers": "Keane 90''"
+          "scorers": "Keane 90'"
         }
       ],
       "kits": {
