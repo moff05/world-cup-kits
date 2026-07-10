@@ -51,14 +51,14 @@ export const iran = {
           "opponent": "Scotland",
           "score": "1–1",
           "result": "D",
-          "scorers": "Danaeifard 60''"
+          "scorers": "Danaeifard 60'"
         },
         {
           "round": "Group Stage",
           "opponent": "Peru",
           "score": "1–4",
           "result": "L",
-          "scorers": "Roshan 41''"
+          "scorers": "Roshan 41'"
         }
       ],
       "kits": {
@@ -96,7 +96,7 @@ export const iran = {
           "opponent": "United States",
           "score": "2–1",
           "result": "W",
-          "scorers": "Estili 40'', Mahdavikia 84''"
+          "scorers": "Estili 40', Mahdavikia 84'"
         },
         {
           "round": "Group Stage",
@@ -139,7 +139,7 @@ export const iran = {
           "opponent": "Mexico",
           "score": "1–3",
           "result": "L",
-          "scorers": "Golmohammadi 36''"
+          "scorers": "Golmohammadi 36'"
         },
         {
           "round": "Group Stage",
@@ -153,7 +153,7 @@ export const iran = {
           "opponent": "Angola",
           "score": "1–1",
           "result": "D",
-          "scorers": "Bakhtiarizadeh 75''"
+          "scorers": "Bakhtiarizadeh 75'"
         }
       ],
       "kits": {
@@ -198,7 +198,7 @@ export const iran = {
           "opponent": "Bosnia and Herzegovina",
           "score": "1–3",
           "result": "L",
-          "scorers": "Ghoochannejhad 82''"
+          "scorers": "Ghoochannejhad 82'"
         }
       ],
       "kits": {
@@ -234,7 +234,7 @@ export const iran = {
           "opponent": "Morocco",
           "score": "1–0",
           "result": "W",
-          "scorers": "Bouhaddouz OG 90'+5''"
+          "scorers": "Bouhaddouz OG 90'+5'"
         },
         {
           "round": "Group Stage",
@@ -248,7 +248,7 @@ export const iran = {
           "opponent": "Portugal",
           "score": "1–1",
           "result": "D",
-          "scorers": "Ansarifard 90'+3''"
+          "scorers": "Ansarifard 90'+3'"
         }
       ],
       "kits": {
