@@ -524,7 +524,7 @@
     "name": "Cuba",
     "confederation": "CONCACAF",
     "worldCupsCount": 1,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -532,7 +532,7 @@
     "name": "Jamaica",
     "confederation": "CONCACAF",
     "worldCupsCount": 1,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -540,7 +540,7 @@
     "name": "Trinidad & Tobago",
     "confederation": "CONCACAF",
     "worldCupsCount": 1,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
