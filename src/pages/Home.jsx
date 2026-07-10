@@ -73,7 +73,7 @@ export default function Home() {
             <span className="home-stat-label">First Cup</span>
           </div>
         </div>
-        <p className="pipeline-counter">{countries.length} / 83 nations researched by AI · auto-updating</p>
+        <p className="pipeline-counter">{countries.filter(c => Object.values(c.kits || {}).some(y => y.headline)).length} / {countries.length} nations documented</p>
       </header>
 
       <div className="search-wrap">
