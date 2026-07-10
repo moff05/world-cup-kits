@@ -44,7 +44,7 @@ export const costaRica = {
           "opponent": "Scotland",
           "score": "1–0",
           "result": "W",
-          "scorers": "Cayasso 49''"
+          "scorers": "Cayasso 49'"
         },
         {
           "round": "Group Stage",
@@ -58,14 +58,14 @@ export const costaRica = {
           "opponent": "Sweden",
           "score": "2–1",
           "result": "W",
-          "scorers": "Flores 75'', Medford 87''"
+          "scorers": "Flores 75', Medford 87'"
         },
         {
           "round": "Round of 16",
           "opponent": "Czechoslovakia",
           "score": "1–4",
           "result": "L",
-          "scorers": "González Brenes 55''"
+          "scorers": "González Brenes 55'"
         }
       ],
       "kits": {
@@ -96,21 +96,21 @@ export const costaRica = {
           "opponent": "China",
           "score": "2–0",
           "result": "W",
-          "scorers": "Gómez 61'', Wright 65''"
+          "scorers": "Gómez 61', Wright 65'"
         },
         {
           "round": "Group Stage",
           "opponent": "Turkey",
           "score": "1–1",
           "result": "D",
-          "scorers": "Parks 86''"
+          "scorers": "Parks 86'"
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "2–5",
           "result": "L",
-          "scorers": "Wanchope 39'', Gómez 56''"
+          "scorers": "Wanchope 39', Gómez 56'"
         }
       ],
       "kits": {
@@ -135,7 +135,7 @@ export const costaRica = {
           "opponent": "Germany",
           "score": "2–4",
           "result": "L",
-          "scorers": "Wanchope 12'', Wanchope 73''"
+          "scorers": "Wanchope 12', Wanchope 73'"
         },
         {
           "round": "Group Stage",
@@ -149,7 +149,7 @@ export const costaRica = {
           "opponent": "Poland",
           "score": "1–2",
           "result": "L",
-          "scorers": "Gómez 25''"
+          "scorers": "Gómez 25'"
         }
       ],
       "kits": {
@@ -174,14 +174,14 @@ export const costaRica = {
           "opponent": "Uruguay",
           "score": "3–1",
           "result": "W",
-          "scorers": "Campbell 54'', Duarte 57'', Ureña 84''"
+          "scorers": "Campbell 54', Duarte 57', Ureña 84'"
         },
         {
           "round": "Group Stage",
           "opponent": "Italy",
           "score": "1–0",
           "result": "W",
-          "scorers": "Ruiz 44''"
+          "scorers": "Ruiz 44'"
         },
         {
           "round": "Group Stage",
@@ -195,10 +195,10 @@ export const costaRica = {
           "opponent": "Greece",
           "score": "1–1 (5–3 pens)",
           "result": "D",
-          "scorers": "Ruiz 52''"
+          "scorers": "Ruiz 52'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "Netherlands",
           "score": "0–0 (3–4 pens)",
           "result": "D",
@@ -252,7 +252,7 @@ export const costaRica = {
           "opponent": "Switzerland",
           "score": "2–2",
           "result": "D",
-          "scorers": "Waston 56'', Sommer OG 90'+3''"
+          "scorers": "Waston 56', Sommer OG 90'+3'"
         }
       ],
       "kits": {
