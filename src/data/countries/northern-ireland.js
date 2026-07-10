@@ -41,31 +41,31 @@ export const northernIreland = {
           "opponent": "Czechoslovakia",
           "score": "1–0",
           "result": "W",
-          "scorers": "Cush 21''"
+          "scorers": "Cush 21'"
         },
         {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "1–3",
           "result": "L",
-          "scorers": "McParland 4''"
+          "scorers": "McParland 4'"
         },
         {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "2–2",
           "result": "D",
-          "scorers": "McParland 18'', McParland 60''"
+          "scorers": "McParland 18', McParland 60'"
         },
         {
           "round": "Group Stage",
           "opponent": "Czechoslovakia",
           "score": "2–1",
           "result": "W",
-          "scorers": "McParland 44'', McParland 97''"
+          "scorers": "McParland 44', McParland 97'"
         },
         {
-          "round": "quarter-finals",
+          "round": "Quarter-final",
           "opponent": "France",
           "score": "0–4",
           "result": "L",
@@ -107,28 +107,28 @@ export const northernIreland = {
           "opponent": "Honduras",
           "score": "1–1",
           "result": "D",
-          "scorers": "Armstrong 10''"
+          "scorers": "Armstrong 10'"
         },
         {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "1–0",
           "result": "W",
-          "scorers": "Armstrong 47''"
+          "scorers": "Armstrong 47'"
         },
         {
           "round": "2nd Round",
           "opponent": "Austria",
           "score": "2–2",
           "result": "D",
-          "scorers": "Hamilton 27'', Hamilton 75''"
+          "scorers": "Hamilton 27', Hamilton 75'"
         },
         {
           "round": "2nd Round",
           "opponent": "France",
           "score": "1–4",
           "result": "L",
-          "scorers": "Armstrong 75''"
+          "scorers": "Armstrong 75'"
         }
       ],
       "kits": {
@@ -159,14 +159,14 @@ export const northernIreland = {
           "opponent": "Algeria",
           "score": "1–1",
           "result": "D",
-          "scorers": "Whiteside 6''"
+          "scorers": "Whiteside 6'"
         },
         {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "1–2",
           "result": "L",
-          "scorers": "Clarke 46''"
+          "scorers": "Clarke 46'"
         },
         {
           "round": "Group Stage",
