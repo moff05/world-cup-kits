@@ -44,28 +44,28 @@ export const saudiArabia = {
           "opponent": "Netherlands",
           "score": "1–2",
           "result": "L",
-          "scorers": "Anwar 18''"
+          "scorers": "Anwar 18'"
         },
         {
           "round": "Group Stage",
           "opponent": "Morocco",
           "score": "2–1",
           "result": "W",
-          "scorers": "Al-Jaber 7'', Anwar 45''"
+          "scorers": "Al-Jaber 7', Anwar 45'"
         },
         {
           "round": "Group Stage",
           "opponent": "Belgium",
           "score": "1–0",
           "result": "W",
-          "scorers": "Al-Owairan 5''"
+          "scorers": "Al-Owairan 5'"
         },
         {
           "round": "Round of 16",
           "opponent": "Sweden",
           "score": "1–3",
           "result": "L",
-          "scorers": "Al-Ghesheyan 85''"
+          "scorers": "Al-Ghesheyan 85'"
         }
       ],
       "kits": {
@@ -115,7 +115,7 @@ export const saudiArabia = {
           "opponent": "South Africa",
           "score": "2–2",
           "result": "D",
-          "scorers": "Al-Jaber 45'+2'', Al-Thunayan 74''"
+          "scorers": "Al-Jaber 45'+2', Al-Thunayan 74'"
         }
       ],
       "kits": {
@@ -196,7 +196,7 @@ export const saudiArabia = {
           "opponent": "Tunisia",
           "score": "2–2",
           "result": "D",
-          "scorers": "Al-Qahtani 57'', Al-Jaber 84''"
+          "scorers": "Al-Qahtani 57', Al-Jaber 84'"
         },
         {
           "round": "Group Stage",
@@ -255,7 +255,7 @@ export const saudiArabia = {
           "opponent": "Egypt",
           "score": "2–1",
           "result": "W",
-          "scorers": "Al-Faraj 45'+6'', Al-Dawsari 90'+5''"
+          "scorers": "Al-Faraj 45'+6', Al-Dawsari 90'+5'"
         }
       ],
       "kits": {
