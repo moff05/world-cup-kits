@@ -39,7 +39,7 @@ export const slovakia = {
           "opponent": "New Zealand",
           "score": "1–1",
           "result": "D",
-          "scorers": "Vittek 50''"
+          "scorers": "Vittek 50'"
         },
         {
           "round": "Group Stage",
@@ -53,14 +53,14 @@ export const slovakia = {
           "opponent": "Italy",
           "score": "3–2",
           "result": "W",
-          "scorers": "Vittek 25'', Vittek 73'', Kopúnek 89''"
+          "scorers": "Vittek 25', Vittek 73', Kopúnek 89'"
         },
         {
           "round": "Round of 16",
           "opponent": "Netherlands",
           "score": "1–2",
           "result": "L",
-          "scorers": "Vittek 90'+4''"
+          "scorers": "Vittek 90'+4'"
         }
       ],
       "kits": {
