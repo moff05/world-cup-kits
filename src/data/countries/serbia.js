@@ -50,19 +50,22 @@ export const serbia = {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Tirnanić 21'', Bek 30''"
         },
         {
           "round": "Group Stage",
           "opponent": "Bolivia",
           "score": "4–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Bek 60'', Marjanović 65'', Bek 67'', Vujadinović 85''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Uruguay",
           "score": "1–6",
-          "result": "L"
+          "result": "L",
+          "scorers": "Vujadinović 4''"
         }
       ],
       "kits": {
@@ -92,19 +95,22 @@ export const serbia = {
           "round": "Group Stage",
           "opponent": "Switzerland",
           "score": "3–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Mitić 59'', Tomašević 70'', Ognjanov 84''"
         },
         {
           "round": "Group Stage",
           "opponent": "Mexico",
           "score": "4–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Bobek 20'', Čajkovski 23'', Čajkovski 51'', Tomašević 81''"
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -134,19 +140,22 @@ export const serbia = {
           "round": "Group Stage",
           "opponent": "France",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Milutinović 15''"
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Zebec 48''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "West Germany",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -176,25 +185,29 @@ export const serbia = {
           "round": "Group Stage",
           "opponent": "Scotland",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Petaković 6''"
         },
         {
           "round": "Group Stage",
           "opponent": "France",
           "score": "3–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Petaković 16'', Veselinović 63'', Veselinović 88''"
         },
         {
           "round": "Group Stage",
           "opponent": "Paraguay",
           "score": "3–3",
-          "result": "D"
+          "result": "D",
+          "scorers": "Ognjanović 18'', Veselinović 21'', Rajkov 73''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "West Germany",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -224,37 +237,43 @@ export const serbia = {
           "round": "Group Stage",
           "opponent": "Soviet Union",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Uruguay",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Skoblar 25'', Galić 29'', Jerković 49''"
         },
         {
           "round": "Group Stage",
           "opponent": "Colombia",
           "score": "5–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Galić 20'', Jerković 25'', Galić 61'', Melić 82'', Jerković 87''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "West Germany",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Radaković 85''"
         },
         {
-          "round": "Semi-final",
+          "round": "semi-finals",
           "opponent": "Czechoslovakia",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Jerković 69''"
         },
         {
-          "round": "3rd Place",
+          "round": "third-place match",
           "opponent": "Chile",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
@@ -284,37 +303,43 @@ export const serbia = {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Zaire",
           "score": "9–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Bajević 8'', Džajić 14'', Šurjak 18'', Katalinski 22'', Bajević 30'', Bogićević 35'', Oblak 61'', Petković 65'', Bajević 81''"
         },
         {
           "round": "Group Stage",
           "opponent": "Scotland",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Karasi 81''"
         },
         {
           "round": "2nd Round",
           "opponent": "West Germany",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "2nd Round",
           "opponent": "Poland",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Karasi 43''"
         },
         {
           "round": "2nd Round",
           "opponent": "Sweden",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Šurjak 27''"
         }
       ],
       "kits": {
@@ -344,19 +369,22 @@ export const serbia = {
           "round": "Group Stage",
           "opponent": "Northern Ireland",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Gudelj 10''"
         },
         {
           "round": "Group Stage",
           "opponent": "Honduras",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Petrović 88''"
         }
       ],
       "kits": {
@@ -386,31 +414,36 @@ export const serbia = {
           "round": "Group Stage",
           "opponent": "West Germany",
           "score": "1–4",
-          "result": "L"
+          "result": "L",
+          "scorers": "Jozić 55''"
         },
         {
           "round": "Group Stage",
           "opponent": "Colombia",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Jozić 75''"
         },
         {
           "round": "Group Stage",
           "opponent": "United Arab Emirates",
           "score": "4–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Sušić 5'', Pančev 9'', Pančev 46'', Prosinečki 90'+3''"
         },
         {
           "round": "Round of 16",
           "opponent": "Spain",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Stojković 78'', Stojković 93''"
         },
         {
-          "round": "Quarter-final",
+          "round": "quarter-finals",
           "opponent": "Argentina",
           "score": "0–0 (2–3 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         }
       ],
       "kits": {
@@ -440,25 +473,29 @@ export const serbia = {
           "round": "Group Stage",
           "opponent": "Iran",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Mihajlović 73''"
         },
         {
           "round": "Group Stage",
           "opponent": "Germany",
           "score": "2–2",
-          "result": "D"
+          "result": "D",
+          "scorers": "Mijatović 13'', Stojković 52''"
         },
         {
           "round": "Group Stage",
           "opponent": "United States",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Komljenović 4''"
         },
         {
           "round": "Round of 16",
           "opponent": "Netherlands",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Komljenović 48''"
         }
       ],
       "kits": {
@@ -488,19 +525,22 @@ export const serbia = {
           "round": "Group Stage",
           "opponent": "Netherlands",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Argentina",
           "score": "0–6",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Ivory Coast",
           "score": "2–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Žigić 10'', Ilić 20''"
         }
       ],
       "kits": {
@@ -530,19 +570,22 @@ export const serbia = {
           "round": "Group Stage",
           "opponent": "Ghana",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Germany",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Jovanović 38''"
         },
         {
           "round": "Group Stage",
           "opponent": "Australia",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Pantelić 84''"
         }
       ],
       "kits": {
@@ -572,19 +615,22 @@ export const serbia = {
           "round": "Group Stage",
           "opponent": "Costa Rica",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Kolarov 56''"
         },
         {
           "round": "Group Stage",
           "opponent": "Switzerland",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Mitrović 5''"
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
