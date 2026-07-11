@@ -62,7 +62,23 @@ export const romania = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "desu-fastest-start",
+              "label": "SIXTY-SECOND OPENER",
+              "story": "Just sixty seconds into their World Cup debut against Peru in Montevideo, Adalbert Deşu beat the goalkeeper — one of the tournament's earliest goals. A 3–1 win followed, but a 4–0 hammering by hosts Uruguay four days later ended the run before it could go any further."
+            },
+            {
+              "id": "the-conte-verde-voyage",
+              "label": "SAILING TO URUGUAY",
+              "story": "King Carol II phoned an English oil company's directors and threatened to shut them down in Romania unless they released his best players for the trip. The whole squad then crossed the Atlantic aboard the liner Conte Verde with the Belgian and French teams, training on deck for three weeks straight."
+            },
+            {
+              "id": "wool-and-no-numbers",
+              "label": "PLAIN KIT, NO NAMES",
+              "story": "Heavy interwar wool made up the red shirt and blue shorts Romania wore in Uruguay, with no sponsor mark, no name on the back, and no fixed squad numbers beyond a simple 1-to-11 issued match by match — standard practice for every team at the first-ever World Cup."
+            }
+          ]
         }
       }
     },
@@ -87,7 +103,23 @@ export const romania = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "the-defeat-that-felt-like-a-win",
+              "label": "ALMOST A WIN",
+              "story": "František Plánička, Czechoslovakia's veteran keeper-captain, made four or five saves to keep Romania off the board through a first half they dominated — Ştefan Dobay finally broke through in the 38th minute. Antonín Puc and Oldřich Nejedlý answered after the break to seal a 2–1 defeat that felt, Romanian newspapers wrote, almost like a win."
+            },
+            {
+              "id": "one-match-to-qualify",
+              "label": "ONE GAME TO ITALY",
+              "story": "A single playoff separated Romania from a second straight World Cup: a 2–1 win over Yugoslavia was all it took to book the ticket to Italy. It was hardly a dominant campaign, but it kept alive a run of consecutive appearances that stretched back to the tournament's very first edition."
+            },
+            {
+              "id": "worn-once-and-done",
+              "label": "NINETY MINUTES, DONE",
+              "story": "The same red shirt and blue shorts from four years earlier got exactly one more outing in 1934. The tournament ran as a straight knockout with no group stage, so a single 2–1 loss to Czechoslovakia in Trieste ended the whole campaign in ninety minutes, no second match to wear the kit again."
+            }
+          ]
         }
       }
     },
@@ -119,7 +151,23 @@ export const romania = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "collapse-in-toulouse",
+              "label": "TOULOUSE COLLAPSE",
+              "story": "Ştefan Dobay's early goal put Romania ahead in the Cuba replay, only for the Cubans to score twice in a rapid second-half burst and steal a 2–1 win. It remains one of the greatest upsets in World Cup history — an amateur Cuban side, some of them dockworkers and students, eliminating a European nation."
+            },
+            {
+              "id": "a-32-year-wait-begins",
+              "label": "THE LONG SILENCE BEGINS",
+              "story": "That Toulouse exit would prove to be Romania's last World Cup appearance for 32 years. World War Two erased the 1942 and 1946 tournaments outright, and the Communist takeover that followed kept the national team away from the finals until 1970 — the longest gap in the country's World Cup history."
+            },
+            {
+              "id": "wool-in-a-heatwave",
+              "label": "WOOL IN THE HEAT",
+              "story": "The red wool shirt hadn't changed in cut or fabric since 1930, and it wasn't built for a southern French summer — Toulouse baked through both meetings with Cuba in June heat with zero breathability by modern standards, players' collars soaked through well before that first meeting even reached extra time."
+            }
+          ]
         }
       }
     },
@@ -158,7 +206,23 @@ export const romania = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "pele-at-jalisco",
+              "label": "PELÉ'S FINAL FLOURISH",
+              "story": "Pelé scored twice — including a rocket struck with the outside of his boot — and set up Jairzinho as Brazil beat Romania 3–2 at the Jalisco in Guadalajara, in front of 50,000 fans. It was Romania's final group match, and their best players couldn't do enough to stop the eventual champions warming up."
+            },
+            {
+              "id": "the-turquoise-kit",
+              "label": "TURQUOISE FOR A DAY",
+              "story": "Both Romania and Brazil normally played in yellow, so for their Guadalajara meeting Romania switched to an unfamiliar turquoise shirt to avoid a clash — a one-off look that's become a cult favorite among kit collectors, worn for exactly ninety minutes and never repeated at another World Cup since."
+            },
+            {
+              "id": "the-long-wait-ends",
+              "label": "BACK AFTER 32 YEARS",
+              "story": "Thirty-two years after their last appearance in 1938, Angelo Niculescu's side returned to the World Cup under Nicolae Ceaușescu's five-year-old communist regime, qualifying by topping a group ahead of Portugal, Switzerland and Greece. It was one of the few genuinely competitive achievements the isolated Eastern Bloc country could claim on the world stage that decade."
+            }
+          ]
         }
       }
     },
@@ -209,6 +273,16 @@ export const romania = {
               "id": "timofte-penalty",
               "label": "BONNER SAVES, IRELAND THROUGH",
               "story": "After 120 scoreless minutes in Genoa, the Round of 16 tie between Romania and the Republic of Ireland went to penalties. Daniel Timofte stepped up for Romania's fifth kick and watched goalkeeper Packie Bonner dive to his right and save it, sending Ireland through 5–4 and sparking a night of celebration across Dublin."
+            },
+            {
+              "id": "no-crest-on-the-shirt",
+              "label": "THE MISSING CREST",
+              "story": "Adidas supplied the 1990 jersey, but with no crest stitched over the heart at all — the old emblem belonged to a government that no longer existed, and nobody had settled on a replacement in time. Romania played the entire tournament in a shirt with a conspicuously blank chest."
+            },
+            {
+              "id": "six-months-after-the-revolution",
+              "label": "SIX MONTHS AFTER CEAUȘESCU",
+              "story": "Six months before kickoff in Italy, Romanians had stormed the presidential palace and cut the communist emblem out of the middle of their flag, ending Nicolae Ceaușescu's 24-year rule with his Christmas Day execution. The squad arrived at the World Cup representing a government not yet out of its first year."
             }
           ]
         }
@@ -268,6 +342,16 @@ export const romania = {
               "id": "hagi-vs-argentina",
               "label": "TOPPLING MARADONA'S ARGENTINA",
               "story": "Ilie Dumitrescu scored twice and Gheorghe Hagi added a stunning long-range strike as Romania stunned Diego Maradona's Argentina 3–2 in the Round of 16 in Pasadena — Romania's first-ever World Cup knockout win. It remains the signature victory of the country's most talented generation."
+            },
+            {
+              "id": "adidas-equipment-era",
+              "label": "ADIDAS EQUIPMENT ERA",
+              "story": "Adidas dressed Romania in its 'Equipment' template for 1994, the same striped geometric design worn across much of the tournament's field that summer. Romania's version stood out anyway — an unusually bright yellow base under a blue-and-red chevron that's still considered the most recognizable shirt of the golden-generation era."
+            },
+            {
+              "id": "the-diaspora-generation",
+              "label": "SCATTERED ACROSS EUROPE",
+              "story": "By 1994, Romania's most talented generation was scattered across Western Europe's biggest leagues — Gheorghe Hagi bound for Barcelona, Gheorghe Popescu already at PSV, plus a Steaua contingent carrying Champions League pedigree from their 1986 European Cup win. It was the first Romanian squad built on the free player movement communism's collapse had made possible five years earlier."
             }
           ]
         }
@@ -320,6 +404,16 @@ export const romania = {
               "id": "petrescu-strike-england",
               "label": "PETRESCU'S WINNER OVER ENGLAND",
               "story": "Dan Petrescu scored the winner in a 2–1 victory over England in Toulouse, sending Romania to the top of Group G. It was one of the golden generation's signature results, coming with half the squad already sporting fresh peroxide-blond haircuts from a bet with their coach."
+            },
+            {
+              "id": "the-socks-that-disappeared",
+              "label": "THE MISSING RED SOCKS",
+              "story": "Adidas paired the 1998 yellow shirt with blue shorts and, for the first time in the Tricolorii era, blue socks instead of red — dropping the full flag-color combination that had defined the look since 1990. Fans still debate whether the change diluted Romania's most recognizable kit or simply modernized it."
+            },
+            {
+              "id": "the-generations-sunset",
+              "label": "THE GENERATION'S SUNSET",
+              "story": "France '98 was the last World Cup for Gheorghe Hagi, Romania's talisman since his penalty-shootout heartbreak against Ireland eight years earlier. At 33 and wearing the captain's armband, he went out in the Round of 16 against Croatia — the closing chapter of the most gifted generation Romanian football has produced."
             }
           ]
         }
