@@ -180,7 +180,7 @@
     "name": "Portugal",
     "confederation": "UEFA",
     "worldCupsCount": 8,
-    "status": "backfill",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -188,7 +188,7 @@
     "name": "Scotland",
     "confederation": "UEFA",
     "worldCupsCount": 8,
-    "status": "backfill",
+    "status": "done",
     "tier": "medium"
   },
   {

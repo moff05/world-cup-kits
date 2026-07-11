@@ -452,7 +452,7 @@ export const scotland = {
             {
               "id": "opening-match-penalty",
               "label": "SCORING ON THE OPENING NIGHT",
-              "story": "Scotland faced world champions Brazil in the opening match of the entire tournament at the Stade de France, and John Collins calmly converted a penalty to level the score at 1–1. Tom Boyd's own goal ultimately settled it 2–1 to Brazil, but Collins's spot-kick meant Scotland scored in the very first match of a World Cup — a rare distinction for a team that wouldn't reach the finals again for 28 years."
+              "story": "Scotland faced world champions Brazil in the tournament's opening match at the Stade de France, and John Collins calmly converted a penalty to level it 1–1. Tom Boyd's own goal settled it 2–1 to Brazil, but Collins's spot-kick meant Scotland scored in the very first match of a World Cup — a distinction that would stand unrepeated for 28 years."
             },
             {
               "id": "tartan-in-the-collar",
