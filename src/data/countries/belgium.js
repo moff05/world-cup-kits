@@ -201,9 +201,19 @@ export const belgium = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "WILDEST DRAW AT BASEL",
-              "story": "Ivor Broadis and Nat Lofthouse built England a 3–1 lead early in the second half, but Belgium clawed back twice to force the first extra-time period of an England World Cup match, Jimmy Dickinson's own header sealing a wild 4–4 draw. Italy shut the door 1–4 four days later, ending the run."
+              "id": "basel-shootout-of-goals",
+              "label": "EIGHT GOALS IN BASEL",
+              "story": "England led 3–1 with barely half an hour gone, but Belgium clawed level twice, forcing the first extra-time period of an England World Cup match. Jimmy Dickinson's own header in the 94th minute finally settled it at 4–4 — still one of the wildest single matches Belgium has ever played."
+            },
+            {
+              "id": "english-manager-red",
+              "label": "AN ENGLISHMAN IN CHARGE",
+              "story": "Belgium's tidy red kit in Switzerland was overseen from the touchline by Doug Livingstone, an Englishman who drilled the Red Devils into a 3–2–5 'WM' shape — the same system England themselves used. It made the 4–4 classic against England, tactically, a mirror match between two sides speaking the same language."
+            },
+            {
+              "id": "post-war-comeback",
+              "label": "BACK AFTER TWENTY YEARS",
+              "story": "Belgium hadn't played a World Cup since 1938. War had cancelled the 1942 and 1946 tournaments outright, and Belgium skipped the first postwar edition in 1950 altogether. Switzerland 1954 marked their return to the world stage — the first World Cup broadcast, in part, on live television."
             }
           ]
         }
