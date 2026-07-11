@@ -1082,9 +1082,19 @@ export const england = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "BELLINGHAM ARRIVES, KANE MISSES",
-              "story": "Nineteen-year-old Jude Bellingham announced himself with a goal in a 6–2 opening rout of Iran, and Marcus Rashford scored twice against Wales as England topped their group. Senegal were dispatched 3–0 in the Round of 16, but Harry Kane's missed second penalty against France in the quarter-final ended the run, leaving England with only the tournament's Fair Play award."
+              "id": "the-equalizer-that-wasnt-enough",
+              "label": "THE EQUALIZER THAT WASN'T ENOUGH",
+              "story": "Trailing to Aurélien Tchouaméni's opener, Harry Kane leveled from the penalty spot in the 54th minute, sending Hugo Lloris the wrong way. Olivier Giroud's header put France back ahead 24 minutes later, setting up Kane's infamous late miss and England's exit."
+            },
+            {
+              "id": "blue-void",
+              "label": "BLUE VOID",
+              "story": "Nike named the shoulder pattern on England's 2022 home shirt 'Blue Void,' a sky-blue and navy graphic meant to evoke youthful energy against the traditional plain white body, a small, deliberately abstract detail on a shirt otherwise built to look timeless."
+            },
+            {
+              "id": "the-armband-that-never-went-on",
+              "label": "THE ARMBAND THAT NEVER WENT ON",
+              "story": "England had planned for Harry Kane to wear a rainbow 'OneLove' armband supporting LGBTQ+ inclusion, but FIFA threatened an immediate yellow card for any captain who wore it. Kane backed down and wore a bland 'No Discrimination' band instead, a retreat criticized at home."
             }
           ]
         }
