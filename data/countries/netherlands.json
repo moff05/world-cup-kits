@@ -337,6 +337,23 @@
       "result": "Quarter-final",
       "headline": "Bergkamp's Breakout Summer",
       "story": "Dennis Bergkamp scored in three straight matches, including the winner over the Republic of Ireland in the Round of 16, announcing himself as a genuine superstar. Brazil, on their way to a fourth title, edged the Dutch 3–2 in a wide-open Dallas quarter-final that came down to who finished their chances better.",
+      "annotations": [
+        {
+          "id": "brazils-late-comeback",
+          "label": "THE LEAD THAT VANISHED",
+          "story": "Netherlands led Brazil 2–0 in the Dallas quarter-final with under twenty minutes to play, Bergkamp and Winter both scoring. Brazil answered with three goals in nine minutes, the last a rocketed Branco free kick from ten yards outside the box that beat the wall and the goalkeeper both, sending the eventual champions through 3–2."
+        },
+        {
+          "id": "an-embossed-lion-print",
+          "label": "A LION HIDDEN IN THE FABRIC",
+          "story": "Lotto's 1994 shirt buried a subtle lion pattern directly into the orange fabric itself — an all-over embossed print you'd only catch at an angle — paired with a white polo collar striped in red, white, and blue, mirroring the Dutch flag on the cuffs. It was the last Dutch World Cup shirt before Nike took over for good."
+        },
+        {
+          "id": "gullit-walks-out",
+          "label": "GULLIT WALKS AWAY",
+          "story": "Weeks before the tournament, Ruud Gullit — the reigning Ballon d'Or winner and captain — abruptly quit the national team in a dispute with coach Dick Advocaat over tactics and playing time, and never played for Oranje again. Netherlands went to the United States without their biggest star and still reached the quarter-finals on Bergkamp's emergence alone."
+        }
+      ],
       "homeColors": "orange shirt, white shorts, orange socks (Lotto)",
       "awayColors": null,
       "image": null,
