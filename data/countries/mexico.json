@@ -47,6 +47,23 @@
     "1930": {
       "result": "Group Stage",
       "headline": "World Cup's First-Ever Match",
+      "annotations": [
+        {
+          "id": "the-first-penalty",
+          "label": "THE FIRST PENALTY",
+          "story": "Manuel Rosas didn't just score against Argentina — he converted the first penalty kick in World Cup history, one of two goals he scored that day in a 6–3 defeat. The record has outlived the result; nobody remembers the scoreline, but the penalty is still Rosas's alone."
+        },
+        {
+          "id": "no-crest-no-color",
+          "label": "NO CREST, NO COLOR",
+          "story": "The jersey Mexico wore in Uruguay was plain maroon wool with black shorts, no crest, no manufacturer's mark, nothing tying it to a flag. It would be another quarter-century before green, white, and red became law — the reason nobody watching in 1930 could have called this team El Tri."
+        },
+        {
+          "id": "three-weeks-at-sea",
+          "label": "THREE WEEKS AT SEA",
+          "story": "Getting to the first World Cup meant a transatlantic-style sea voyage from North America to Montevideo, weeks spent aboard ship with little room to train. Mexico stepped off the boat and into three matches in nine days, still finding its legs when the tournament's opening whistle blew."
+        }
+      ],
       "story": "On 13 July 1930, Mexico played in the very first World Cup match in history, falling 4–1 to France as Juan Carreño scored the team's first tournament goal. Manuel Rosas converted the competition's first-ever penalty in a 6–3 loss to Argentina, but three straight defeats sent Mexico home without a point.",
       "homeColors": "maroon shirt, black shorts (pre-tricolor era)",
       "awayColors": null,
