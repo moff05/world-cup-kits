@@ -46,6 +46,11 @@
           "id": "first-asian-team-past-africa",
           "label": "HISTORY IN THE MEADOWLANDS",
           "story": "Saudi Arabia's 2–1 win over Morocco in the Meadowlands did more than send them second in the group — it made them the first Asian side ever to beat an African team at a World Cup, a footnote that still stands as this tournament remains one of Asia's finest showings."
+        },
+        {
+          "id": "shamel-kit-sponsor",
+          "label": "SHAMEL ON GREEN",
+          "story": "Saudi Arabia's all-green 1994 shirt carried a patch from Shamel, a domestic sponsor, printed onto the golden generation's simplest-ever kit design. Decades on, collectors regard that jersey as one of the most sought-after retro shirts from Gulf football, prized above the team's more heavily branded shirts of the 2000s."
         }
       ],
       "homeColors": "white shirt with green trim, white shorts, white socks (Shamel)",
@@ -99,6 +104,11 @@
           "id": "late-penalty-rescue",
           "label": "THE LATE LEVELER",
           "story": "Trailing South Africa in Bordeaux, Yousuf Al-Thunayan converted a 74th-minute penalty to complete a come-from-behind 2–2 draw — Saudi Arabia's only point of the 1998 tournament. Both Saudi goals that day came from the spot, Sami Al-Jaber leveling first just before halftime."
+        },
+        {
+          "id": "nike-dri-fit-debut",
+          "label": "DRI-FIT DEBUT",
+          "story": "Nike took over as Saudi Arabia's kit supplier around France '98, introducing Dri-FIT moisture-wicking fabric to the national team's jersey for the first time. The technical upgrade arrived in the same tournament remembered instead for Zidane's stamp on captain Fuad Anwar."
         }
       ],
       "homeColors": "white shirt with green trim, white shorts, white socks",
@@ -140,6 +150,16 @@
           "id": "record-defeat",
           "label": "THE 8–0 RECORD",
           "story": "Miroslav Klose scored a hat-trick as Germany put eight goals past Saudi Arabia in Sapporo, a scoreline that still stands as the joint-heaviest defeat in World Cup history. Losses to Cameroon and the Republic of Ireland followed, completing a group stage without a single goal scored."
+        },
+        {
+          "id": "adidas-white-green-kit",
+          "label": "QUIET KIT DESIGN",
+          "story": "Adidas dressed Saudi Arabia at Japan/South Korea 2002 in a predominantly white shirt with green trim at the collar and cuffs, plus the brand's three stripes across the shoulders, a clean design that got little attention next to the historic scorelines racked up against it."
+        },
+        {
+          "id": "al-johar-sacked",
+          "label": "THE COACH PAYS",
+          "story": "Coach Nasser Al-Johar, who had guided the team through qualifying, was dismissed soon after the tournament closed with zero goals scored and twelve conceded across three games, the heaviest World Cup collapse by an Asian side since 1954."
         }
       ],
       "homeColors": "white shirt with green trim, white shorts, white socks",
@@ -181,6 +201,16 @@
           "id": "al-jaber-record-goal",
           "label": "TWELVE YEARS APART",
           "story": "Sami Al-Jaber's 84th-minute strike against Tunisia leveled the score at 2–2 and made him one of only a handful of players — alongside Pelé, Maradona, Klose, Messi and Ronaldo — to score at World Cups twelve years apart, bookending his career between the USA in 1994 and Germany in 2006."
+        },
+        {
+          "id": "lotto-kit-supplier",
+          "label": "ITALIAN JOB",
+          "story": "Italian brand Lotto supplied Saudi Arabia's kit at Germany 2006, one of several manufacturer changes the federation cycled through in the two decades between Adidas at Argentina '94 and Nike's long tenure beginning in the 2010s."
+        },
+        {
+          "id": "paqueta-gamble",
+          "label": "THE BRAZILIAN GAMBLE",
+          "story": "Saudi Arabia turned to Brazilian coach Marcos Paqueta, hired just months before the tournament after he impressed at club side Al-Hilal, betting an outsider could reverse over a decade of decline since the 1994 golden generation. A single point was the return on that bet."
         }
       ],
       "homeColors": "white shirt with green trim, white shorts, white socks (Lotto)",
@@ -227,6 +257,11 @@
           "id": "dawsari-stoppage-winner",
           "label": "STOPPAGE-TIME WINNER",
           "story": "Trailing Egypt in the closing seconds of their final group game, Salem Al-Dawsari controlled a bouncing ball and volleyed home in the fifth minute of stoppage time, sealing a 2–1 win that was Saudi Arabia's first World Cup victory since Al-Owairan's wonder goal 24 years earlier."
+        },
+        {
+          "id": "twelve-year-absence",
+          "label": "TWELVE YEARS AWAY",
+          "story": "The trip to Russia ended a twelve-year absence from the World Cup, Saudi Arabia having missed both South Africa 2010 and Brazil 2014 after failed qualifying campaigns. The team then drew the unenviable assignment of opening the entire tournament, walking out against the hosts in Moscow's Luzhniki Stadium."
         }
       ],
       "homeColors": "white shirt with green trim, white shorts, white socks (Nike) — an homage to the 1994 round-of-16 side",
@@ -273,6 +308,11 @@
           "id": "dawsari-again",
           "label": "ONE MORE FROM DAWSARI",
           "story": "Al-Dawsari struck again in stoppage time against Mexico, curling home from a one-two, but this time it wasn't enough — Saudi Arabia's 1–2 defeat, combined with Poland's superior goal difference, sent them home in the group stage despite their earlier heroics against Argentina."
+        },
+        {
+          "id": "falcon-feather-kit",
+          "label": "FEATHERS OF THE FALCON",
+          "story": "Nike's 2022 home shirt printed a pale grey falcon-feather graphic across the front, a nod to the saqr crest of the Saudi football federation, while the away kit's all-over green print was built to evoke speed, a design language the brand had been developing across the team's kits since 2018."
         }
       ],
       "homeColors": "white shirt with green collar and Swoosh, palm-leaf pattern, white shorts and socks (Nike)",
