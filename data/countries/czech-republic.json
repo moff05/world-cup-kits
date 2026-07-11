@@ -98,6 +98,23 @@
     "1938": {
       "result": "Quarter-final",
       "headline": "Two Games, One Opponent",
+      "annotations": [
+        {
+          "id": "the-brutal-replay",
+          "label": "THE BRUTAL REPLAY",
+          "story": "Czechoslovakia needed extra time to beat the Netherlands 3–0, then drew Brazil 1–1 through extra time in a quarter-final so violent it left players with broken bones and three men sent off. The replay two days later went to Brazil 2–1 despite Václav Kopecký's goal — one of the ugliest ties in World Cup history."
+        },
+        {
+          "id": "one-shirt-three-battles",
+          "label": "ONE SHIRT, THREE BATTLES",
+          "story": "Playing three matches against two opponents in six days, Czechoslovakia's players wore the same white shirt and red shorts through a brutal stretch with no substitutes rule to spare injured men — a kit that saw more punishment across those matches than most teams' shirts see in a tournament."
+        },
+        {
+          "id": "the-last-independent-cup",
+          "label": "THE LAST INDEPENDENT CUP",
+          "story": "This was Czechoslovakia's last World Cup before Nazi Germany dismantled the country entirely — the Munich Agreement ceded the Sudetenland that September, and by March 1939 what remained of the state had been occupied. The team that played in France would not represent an independent Czechoslovakia again for years."
+        }
+      ],
       "homeColors": "white shirt, red shorts, blue socks",
       "awayColors": null,
       "image": null,

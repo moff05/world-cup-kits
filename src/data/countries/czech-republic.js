@@ -135,9 +135,19 @@ export const czechRepublic = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "TWO GAMES, ONE OPPONENT",
-              "story": "Czechoslovakia beat the Netherlands 3–0 in extra time behind Oldřich Nejedlý, then drew Brazil 1–1 through extra time in a brutal quarter-final marked by broken bones and three ejections. The replay two days later went to Brazil 2–1 despite Václav Kopecký's goal, ending Czechoslovakia's run in one of the tournament's most physical ties."
+              "id": "the-brutal-replay",
+              "label": "THE BRUTAL REPLAY",
+              "story": "Czechoslovakia needed extra time to beat the Netherlands 3–0, then drew Brazil 1–1 through extra time in a quarter-final so violent it left players with broken bones and three men sent off. The replay two days later went to Brazil 2–1 despite Václav Kopecký's goal — one of the ugliest ties in World Cup history."
+            },
+            {
+              "id": "one-shirt-three-battles",
+              "label": "ONE SHIRT, THREE BATTLES",
+              "story": "Playing three matches against two opponents in six days, Czechoslovakia's players wore the same white shirt and red shorts through a brutal stretch with no substitutes rule to spare injured men — a kit that saw more punishment across those matches than most teams' shirts see in a tournament."
+            },
+            {
+              "id": "the-last-independent-cup",
+              "label": "THE LAST INDEPENDENT CUP",
+              "story": "This was Czechoslovakia's last World Cup before Nazi Germany dismantled the country entirely — the Munich Agreement ceded the Sudetenland that September, and by March 1939 what remained of the state had been occupied. The team that played in France would not represent an independent Czechoslovakia again for years."
             }
           ]
         }
