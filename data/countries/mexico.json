@@ -706,6 +706,23 @@
     "2006": {
       "result": "Round of 16",
       "headline": "Maxi Rodríguez Breaks Hearts",
+      "annotations": [
+        {
+          "id": "marquez-forces-extra-time",
+          "label": "MÁRQUEZ FORCES EXTRA TIME",
+          "story": "Pável Pardo's free kick found Rafael Márquez for the equalizer against Argentina in the Round of 16, dragging the match to extra time before Maxi Rodríguez's volley ended it 2–1. It was as close as Mexico came to a signature upset that tournament."
+        },
+        {
+          "id": "nike-takes-over",
+          "label": "NIKE TAKES OVER",
+          "story": "2006 marked Nike's first World Cup as Mexico's kit supplier, retiring the domestic Atletica deal from 2002 and moving shirt production onto the global sportswear stage for good — a partnership that's continued in various forms ever since."
+        },
+        {
+          "id": "captain-across-generations",
+          "label": "CAPTAIN ACROSS GENERATIONS",
+          "story": "Rafael Márquez wore the armband through all three group matches, part of a run that would eventually see him captain Mexico across five separate World Cups — more finals as captain than any player in the tournament's history."
+        }
+      ],
       "story": "Omar Bravo's brace in a 3–1 opening win over Iran set the tone, but Cristiano Ronaldo's Portugal beat Mexico 2–1 to complicate their path from the group. Rafael Márquez's equalizer against Argentina in the Round of 16 forced extra time, only for Maxi Rodríguez's thunderous volley to end the tournament 2–1.",
       "homeColors": "green shirt, white shorts, red socks (Nike)",
       "awayColors": null,
