@@ -66,9 +66,19 @@ export const hungary = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "TOLDI'S BRIGHT DEBUT",
-              "story": "Hungary's first-ever World Cup match ended in celebration: Géza Toldi's brace, plus goals from Pál Teleki and Jenő Vincze, sank Egypt 4–2 in Naples. Four days later in Bologna, Austria's vaunted Wunderteam proved a tougher out, edging Hungary 2–1 in the quarter-finals despite György Sárosi's late reply — a promising debut cut short."
+              "id": "toldis-opening-salvo",
+              "label": "TOLDI'S OPENING SALVO",
+              "story": "Géza Toldi announced Hungary's World Cup arrival with two goals inside an hour against Egypt in Naples, the tournament's opener for both sides. Four days later Austria's Wunderteam ended the run 2–1 in Bologna; György Sárosi's 60th-minute reply arrived too late to save a debut that promised more than one match delivered."
+            },
+            {
+              "id": "no-names-no-logos",
+              "label": "NO NAMES, NO LOGOS",
+              "story": "Hungary took the field in unadorned cherry red — heavy cotton, a laced V-collar, no sponsor mark, no name on the back, just the national crest stitched plain over the heart. It was a uniform built for function, not marketing, decades before shirts became billboards."
+            },
+            {
+              "id": "football-under-il-duce",
+              "label": "FOOTBALL UNDER IL DUCE",
+              "story": "Mussolini's Italy hosted the 1934 tournament as a showcase for Fascist prestige, stadiums draped in banners and officials under pressure to deliver an Italian title. Hungary arrived as outsiders to that theater, their brief run through Naples and Bologna a footnote to a tournament remembered as much for politics as football."
             }
           ]
         }
