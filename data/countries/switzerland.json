@@ -510,6 +510,11 @@
     "2022": {
       "result": "Round of 16",
       "headline": "Akanji's Goal, Portugal's Rout",
+      "annotations": [
+        { "id": "shaqiri-three-cups", "label": "A THIRD WORLD CUP", "story": "Xherdan Shaqiri's deflected strike against Serbia made him the first Swiss player to score at three different World Cups — 2014, 2018, and now 2022. It arrived in the 20th minute of a match that swung four times before Remo Freuler's second-half strike finally settled it, 3–2." },
+        { "id": "lightest-kit-ever", "label": "THE LIGHTEST SHIRT YET", "story": "Puma engineered the 2022 kit to be 44 percent lighter than any previous jersey it had made, with the away shirt's halftone gradient fading from white to grey and a boxed federation crest sitting below a retro-style Puma logo — a callback to older designs rather than a modern minimalist one." },
+        { "id": "embolos-silent-goal", "label": "A GOAL NOT CELEBRATED", "story": "Breel Embolo scored Switzerland's winner against the country of his birth and refused to celebrate, raising his hands in apology instead. Born in Yaoundé, Cameroon, Embolo moved to Switzerland at six years old — his muted reaction to the goal became one of the tournament's quietest, most talked-about moments." }
+      ],
       "story": "Breel Embolo's goal beat Cameroon, and second-half strikes from Shaqiri, Embolo, and Remo Freuler downed Serbia 3–2 to reach the Round of 16. Portugal routed Switzerland 6–1 despite a Manuel Akanji goal, matching West Germany's 1966 scoreline as the heaviest defeat in Swiss World Cup history.",
       "homeColors": "red shirt, white shorts, red socks (Puma)",
       "awayColors": "white shirt, red shorts, white socks",
