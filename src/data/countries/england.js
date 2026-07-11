@@ -1018,9 +1018,19 @@ export const england = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "KANE'S GOLDEN BOOT RUN",
-              "story": "England scored nine goals from set pieces, the most in a single tournament since 1966, with Harry Kane converting a stoppage-time penalty against Tunisia and a hat-trick in a 6–1 rout of Panama. A shootout win over Colombia, England's first ever at a World Cup, and headers from Harry Maguire and Dele Alli against Sweden carried them to their first semi-final since 1990, where Croatia won in extra time."
+              "id": "dier-ends-the-curse",
+              "label": "DIER ENDS THE CURSE",
+              "story": "England had lost their previous three World Cup penalty shootouts across three decades. Eric Dier stepped up last against Colombia and buried the winning kick, ending a run of shootout heartbreak stretching back to 1990 and 1998, and sending England into the quarter-finals."
+            },
+            {
+              "id": "silver-star-red-trim",
+              "label": "SILVER STAR, RED TRIM",
+              "story": "Nike's 2018 shirt tucked a small St George's Cross behind the rib collar and rendered England's 'one World Cup' star above the crest in silver rather than gold, a subtle new take on a badge detail the team had worn since 2004."
+            },
+            {
+              "id": "waistcoat-wednesday",
+              "label": "WAISTCOAT WEDNESDAY",
+              "story": "Gareth Southgate wore a tailored navy waistcoat from Marks & Spencer to every match, and it became a full-blown cultural phenomenon. Sales rose 35 percent during England's run, and the Museum of London later asked him to donate it to their permanent collection."
             }
           ]
         }
