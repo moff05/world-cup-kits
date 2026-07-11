@@ -99,6 +99,23 @@
       "result": "4th Place",
       "headline": "Zarra's Header Shocks England",
       "story": "Telmo Zarra's header beat England 1–0 in Rio, still considered one of the great World Cup upsets. Spain topped their first group unbeaten, but the final round brought a 6–1 mauling by Brazil at the Maracanã and a loss to Sweden, leaving them fourth — their best finish for six decades.",
+      "annotations": [
+        {
+          "id": "farra-not-zarra",
+          "label": "THE MAN WHO COULDN'T SAY ZARRA",
+          "story": "Radio commentator Matías Prats called the winning goal live from the Maracanã, but decades of Spaniards misheard him — a speech impediment made him swap his C's and Z's on air, so millions heard 'gol de Farra' instead of Zarra. The mispronunciation became folklore in its own right."
+        },
+        {
+          "id": "the-eagle-on-the-chest",
+          "label": "THE EAGLE ON THE CHEST",
+          "story": "The crest stitched above the heart wasn't the crown Spain wears today — it was the Eagle of Saint John, adopted after the Civil War and carrying four medieval coats of arms beneath a halo. The design stayed on Spanish shirts for three more decades, long after the reasons for it were gone."
+        },
+        {
+          "id": "locked-away-in-rio",
+          "label": "LOCKED AWAY IN RIO",
+          "story": "Coach Benito Díaz ran the squad like a boarding school, dictating meals, tactics, and even phone calls from a hotel beneath Corcovado. The staff eventually switched hotels entirely, worried the young squad was too distracted by the attention they were drawing in Rio's nightlife to focus on Brazil looming in the final round."
+        }
+      ],
       "homeColors": "red shirt, blue shorts, black socks",
       "awayColors": null,
       "image": null,
