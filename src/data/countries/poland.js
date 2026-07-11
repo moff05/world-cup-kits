@@ -588,9 +588,19 @@ export const poland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "LEWANDOWSKI'S LATE REWARD",
-              "story": "Wojciech Szczęsny saved a penalty as Poland held Mexico goalless, then Piotr Zieliński and Robert Lewandowski's first-ever World Cup goal beat Saudi Arabia 2–0, sending Poland through despite a 2–0 loss to Argentina. France ended the run in the Round of 16, 3–1, Lewandowski's stoppage-time penalty a small consolation in Poland's best finish since 1986."
+              "id": "2022-double-save",
+              "label": "THE DOUBLE SAVE",
+              "story": "Wojciech Szczęsny stopped Salem Al-Dawsari's penalty low to his right, then somehow reset in time to smother the rebound too — the save of the tournament, arguably. It came in the same 2–0 win over Saudi Arabia where Piotr Zieliński and Robert Lewandowski scored, sending Poland through despite a later 2–0 defeat to Argentina."
+            },
+            {
+              "id": "2022-feathers-on-sleeve",
+              "label": "FEATHERS ON THE SLEEVE",
+              "story": "Nike's Qatar kit put the eagle's texture front and center: raglan sleeves in white and grey rendered a close-up pattern of feathers and nest, a graphic homage to the coat of arms rather than a literal crest. The monochrome away shirt flipped it to red, with only the crest and swoosh breaking the single color."
+            },
+            {
+              "id": "2022-long-awaited-goal",
+              "label": "THE LONG-AWAITED GOAL",
+              "story": "Robert Lewandowski had scored over 300 club goals by the time he missed a penalty against Mexico in Poland's opener — yet had never once scored at a World Cup. Four days later, against Saudi Arabia, he finally did, then added a stoppage-time penalty in the Round of 16 loss to France. One of his generation's great strikers, oddly overdue."
             }
           ]
         }
