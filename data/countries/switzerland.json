@@ -115,6 +115,11 @@
     "1950": {
       "result": "Group Stage",
       "headline": "One Win in Brazil",
+      "annotations": [
+        { "id": "fatton-late-equalizer", "label": "FATTON'S LATE EQUALIZER", "story": "Trailing Brazil, Jacky Fatton scored twice, the second arriving in the 88th minute to snatch a 2–2 draw from the brink of defeat. It was the closest Switzerland came to real success in Brazil — one win, one draw, one rout, and an early flight home." },
+        { "id": "coin-toss-for-red", "label": "COIN FLIP FOR RED", "story": "Both Switzerland and Mexico showed up for their final group match owning only red kits, forcing organizers to settle it with a coin toss. Mexico won the flip — and then waived the right, letting the Swiss keep their red shirts while the Mexicans borrowed an alternate strip for the day." },
+        { "id": "first-cup-since-the-war", "label": "FIRST POSTWAR WORLD CUP", "story": "This was the first World Cup in twelve years — the 1942 and 1946 editions wiped out by the Second World War — and one of the first postwar tournaments played across an entire ocean. Switzerland's squad crossed the Atlantic into a Brazil still building the Maracanã, the largest stadium the sport had ever seen." }
+      ],
       "story": "Yugoslavia routed Switzerland 3–0 to open the tournament, but Jacky Fatton's brace salvaged a draw with Brazil, and a Bader-Antenen combination beat Mexico 2–1 to close the group. It wasn't enough — Switzerland's only trip to a World Cup on South American soil ended without advancing.",
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
