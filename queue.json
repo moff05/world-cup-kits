@@ -164,7 +164,7 @@
     "name": "Hungary",
     "confederation": "UEFA",
     "worldCupsCount": 9,
-    "status": "backfill",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -172,7 +172,7 @@
     "name": "Czech Republic",
     "confederation": "UEFA",
     "worldCupsCount": 9,
-    "status": "backfill",
+    "status": "done",
     "tier": "medium"
   },
   {
