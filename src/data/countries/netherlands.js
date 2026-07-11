@@ -102,9 +102,19 @@ export const netherlands = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "BLANKED BY CZECHOSLOVAKIA",
-              "story": "Another single-elimination format, another early exit. Netherlands couldn't find a way past Czechoslovakia in Le Havre, going scoreless through 90 minutes and extra time before conceding three times late in the game. It remains the only World Cup match in Dutch history in which they failed to score at all."
+              "id": "ninety-scoreless-then-three",
+              "label": "HELD, THEN IT BROKE",
+              "story": "Netherlands matched Czechoslovakia, finalists four years earlier, scoreless through a full ninety minutes in Le Havre. Then extra time turned brutal: Josef Kostálek broke through in the 93rd minute, Oldřich Nejedlý doubled it in the 111th, and Josef Zeman added a third in the 118th. Dutch legs gave out exactly when it mattered most."
+            },
+            {
+              "id": "same-shirt-different-decade",
+              "label": "THE UNCHANGED JERSEY",
+              "story": "The Dutch wore essentially the same kit they'd worn four years earlier in Italy — orange shirt, white shorts, light blue socks, laced collar, plain lion crest. In the 1930s, national kits changed by decade rather than by tournament; nobody yet thought to sell supporters a new jersey every summer."
+            },
+            {
+              "id": "last-cup-before-the-long-silence",
+              "label": "THE LONG SILENCE BEGINS",
+              "story": "Nobody in Le Havre knew it, but this defeat would be Netherlands' last World Cup appearance for 36 years. World War II canceled the next two tournaments, and postwar Dutch football stayed amateur and provincial long after professionalism arrived elsewhere — Oranje wouldn't return until Johan Cruyff dragged it back in 1974."
             }
           ]
         }
