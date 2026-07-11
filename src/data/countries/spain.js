@@ -602,7 +602,7 @@ export const spain = {
             {
               "id": "peps-only-world-cup-goal",
               "label": "PEP'S ONE WORLD CUP GOAL",
-              "story": "Buried in the group-stage rout of Bolivia is a footnote: Josep Guardiola's only World Cup goal, scored as a 23-year-old holding midfielder years before he'd redefine how Spain played the game entirely. Nobody in Washington that day could have guessed they'd just watched the architect of tiki-taka score for his country."
+              "story": "Buried in the group-stage rout of Bolivia is a footnote: Josep Guardiola's only World Cup goal, scored as a 23-year-old holding midfielder years before he'd redefine how Spain played the game entirely. Nobody watching that day could have guessed they'd just watched the future architect of tiki-taka score for his country."
             }
           ]
         }
