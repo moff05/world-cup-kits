@@ -483,6 +483,23 @@
       "result": "Round of 16",
       "headline": "The Battle of Nuremberg",
       "story": "A tense, error-strewn 0–0 draw with Argentina set the tone for a knockout meeting with Portugal that turned violent — four red cards and 16 yellows in a game remembered as the Battle of Nuremberg. Maniche's strike was the only goal, and Netherlands went home having played some of the most heavily-officiated football in World Cup history.",
+      "annotations": [
+        {
+          "id": "nine-men-standing",
+          "label": "NINE MEN STANDING",
+          "story": "Referee Valentin Ivanov brandished 20 cards in Nuremberg — a World Cup record that still stands — sending off Portugal's Deco and Costinha and Netherlands' Khalid Boulahrouz and Giovanni van Bronckhorst. By the final whistle both sides were down to nine men, and Maniche's early strike was the only goal a chaotic, stoppage-heavy match ever produced."
+        },
+        {
+          "id": "the-flag-not-the-crown",
+          "label": "THE FLAG, NOT THE CROWN",
+          "story": "Nike's 2006 away shirt broke Oranje convention entirely — white base with blue and red trim pulled straight from the Dutch tricolor flag, instead of the royal orange the team had worn since 1907. It was one of the rare Dutch World Cup kits with no orange on it at all."
+        },
+        {
+          "id": "van-bastens-first-major-test",
+          "label": "VAN BASTEN'S FIRST TEST",
+          "story": "Marco van Basten, the Ballon d'Or striker of Netherlands' Euro '88 triumph, took charge of the national team for his first major tournament as head coach in 2006. He'd retired from playing at 28 after an ankle injury that never fully healed; twelve years later he was pacing the same touchline as a manager, coaching a golden generation he never got to play alongside."
+        }
+      ],
       "homeColors": "orange shirt, white shorts, orange socks (Nike)",
       "awayColors": null,
       "image": null,
