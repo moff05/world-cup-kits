@@ -582,6 +582,23 @@
       "result": "Group Stage",
       "headline": "Argentina's Six-Goal Humiliation",
       "story": "Serbia and Montenegro's farewell World Cup turned disastrous in Germany: a 1–0 loss to the Netherlands, then a 6–0 rout by Argentina, still the program's worst World Cup defeat. Nikola Žigić and Ilić scored consolation goals in a 2–3 loss to Ivory Coast to close a winless tournament.",
+      "annotations": [
+        {
+          "id": "the-worst-defeat-on-record",
+          "label": "THE WORST DEFEAT ON RECORD",
+          "story": "A 1–0 opening loss to the Netherlands was merely a warm-up for what followed: a 6–0 demolition by Argentina that remains the heaviest defeat in the program's World Cup history. Žigić and Ilić's consolation goals in a 2–3 finale loss to Ivory Coast closed out a winless tournament."
+        },
+        {
+          "id": "lottos-farewell-kit",
+          "label": "LOTTO'S FAREWELL KIT",
+          "story": "Made by Italian manufacturer Lotto, this shirt would be the last one ever to carry the name 'Serbia and Montenegro' — a jersey representing a federation that, by the time the tournament kicked off, had already voted itself out of existence."
+        },
+        {
+          "id": "playing-a-country-that-no-longer-existed",
+          "label": "A COUNTRY THAT NO LONGER EXISTED",
+          "story": "Montenegro's independence referendum passed on May 21, 2006, just over two weeks before the tournament began. Serbia and Montenegro's players took the field in Germany representing a state that had legally dissolved before their first match — the last gasp of a union already over."
+        }
+      ],
       "homeColors": "dark blue shirt, white shorts, red socks",
       "awayColors": null,
       "image": null,
