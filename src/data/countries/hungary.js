@@ -383,9 +383,19 @@ export const hungary = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "BENE SHINES, SOVIETS END IT",
-              "story": "Ferenc Bene scored in every match Hungary played, but a 3–1 opening loss to Portugal still stung. Wins over two-time defending champions Brazil and over Bulgaria carried Hungary into the quarter-finals, where the Soviet Union's defense held after Bene's early goal, a 2–1 defeat at Roker Park ending Hungary's last deep World Cup run."
+              "id": "beating-the-two-time-champions",
+              "label": "BEATING BRAZIL",
+              "story": "Ferenc Bene scored in every match Hungary played, the highlight a 3–1 upset of two-time defending champions Brazil that knocked the holders toward an early exit. The Soviet Union ended Hungary's tournament in the quarter-final, 2–1, but beating Pelé's Brazil remains the signature result of this Hungarian generation."
+            },
+            {
+              "id": "the-boot-war",
+              "label": "THE BOOT WAR",
+              "story": "1966 marked the height of the Adidas–Puma boot war, the Dassler brothers' rival firms secretly paying stars across the tournament to lace up their boots. Hungary's cherry red shirts carried no visible branding, but underneath, boot deals were quietly reshaping how players got dressed for a World Cup."
+            },
+            {
+              "id": "a-crack-in-the-curtain",
+              "label": "A CRACK IN THE CURTAIN",
+              "story": "England 1966 was the most widely broadcast World Cup yet, beamed live across Europe including into the Eastern Bloc, letting Hungarian fans watch Bene's goals against Brazil almost as they happened — a small crack of shared experience across a still very real Iron Curtain."
             }
           ]
         }
