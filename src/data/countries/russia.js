@@ -358,9 +358,19 @@ export const russia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ONE GOAL SHORT OF SEMIS",
-              "story": "Brazil's golden generation beat the Soviets 2–1 in the group opener, but wins over New Zealand and a draw with Scotland carried them into the second round. A win over Belgium and a scoreless stalemate with Poland then left the Soviets eliminated on goals scored, one strike shy of a semi-final in Spain."
+              "id": "gone-by-one-goal",
+              "label": "GONE BY ONE GOAL",
+              "story": "Poland and the Soviets finished the second round dead level on points, wins and losses, so FIFA's tiebreaker fell to goals scored — Poland had potted five, the Soviets four. A single goal across two matches, not a defeat, ended the Soviet Union's run one game short of the semi-finals."
+            },
+            {
+              "id": "adidas-takes-over",
+              "label": "ADIDAS TAKES OVER",
+              "story": "Adidas supplied the Soviet kit for the tournament in Spain, keeping the familiar red shirt and white trim but adding the three stripes down the sleeves for the first time at a World Cup — a design now sought after by collectors as one of the cleanest Soviet shirts ever issued."
+            },
+            {
+              "id": "back-from-exile",
+              "label": "BACK FROM EXILE",
+              "story": "The Soviets arrived in Spain after a 12-year World Cup absence, having been thrown out of the 1974 qualifiers for refusing to play Chile in the aftermath of Pinochet's coup, then missing 1978 outright. Their run to the second round marked a return to relevance after a lost decade."
             }
           ]
         }
