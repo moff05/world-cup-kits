@@ -132,7 +132,7 @@
     "name": "South Korea",
     "confederation": "AFC",
     "worldCupsCount": 11,
-    "status": "backfill",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -140,7 +140,7 @@
     "name": "Paraguay",
     "confederation": "CONMEBOL",
     "worldCupsCount": 9,
-    "status": "backfill",
+    "status": "done",
     "tier": "medium"
   },
   {

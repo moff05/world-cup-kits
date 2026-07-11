@@ -482,7 +482,8 @@ export const poland = {
           "round": "Group Stage",
           "opponent": "Saudi Arabia",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Zieliński 39', Lewandowski 82'"
         },
         {
           "round": "Group Stage",
