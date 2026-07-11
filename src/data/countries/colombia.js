@@ -373,9 +373,19 @@ export const colombia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "MINA'S HEADER, PENALTY HEARTBREAK",
-              "story": "Carlos Sánchez's third-minute red card and penalty gift put Colombia behind Japan before they recovered to beat Poland and Senegal and reach the knockouts. Yerry Mina's stoppage-time header forced extra time against England, but Eric Dier converted the decisive penalty as Colombia lost their first World Cup shootout."
+              "id": "mina-header-record",
+              "label": "HEADER RECORD TIED",
+              "story": "Yerry Mina, a converted center back, scored all three of his goals that summer with his head — against Poland, Senegal, and England's stoppage-time equalizer — tying the record for goals by a defender at a single World Cup, a mark held since Paul Breitner (1974) and Andreas Brehme (1990)."
+            },
+            {
+              "id": "italia-90-revival",
+              "label": "ITALIA '90 REVIVAL",
+              "story": "Adidas reached back three decades for the 2018 design, reviving the oversized tricolor shoulder stripes from the beloved 1990 Higuita-and-Valderrama shirt almost wholesale — deliberate nostalgia aimed at a fanbase who still rate that Italia '90 jersey as the greatest Colombia has ever worn."
+            },
+            {
+              "id": "falcao-redemption",
+              "label": "FALCAO'S REDEMPTION",
+              "story": "Radamel Falcao finally got his first-ever World Cup minutes at 32, four years after an ACL injury erased him from the 2014 squad entirely — a redemption arc for the striker Pékerman once called Colombia's saddest omission, now starting for a team trying to better the 2014 quarter-final."
             }
           ]
         }
