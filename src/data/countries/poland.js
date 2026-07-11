@@ -301,9 +301,19 @@ export const poland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "BONIEK'S BOOKING, BRONZE AGAIN",
-              "story": "Zbigniew Boniek's hat-trick demolished Belgium 3–0 in the second round, but a yellow card in a scoreless draw with the Soviet Union ruled him out of the semi-final, where Paolo Rossi's brace sent Italy through 2–0. With Boniek back, Poland beat France 3–2 in the third-place match — their second bronze in three tournaments."
+              "id": "1982-boniek-barcelona-hat-trick",
+              "label": "BONIEK'S BARCELONA HAT-TRICK",
+              "story": "Zbigniew Boniek needed less than an hour at Camp Nou to put three past Belgium — 4', 26', 53' — a display so complete that Juventus chairman Gianni Agnelli signed him within days, calling him unstoppable after dark. A yellow card against the Soviet Union then ruled him out of the semi-final, where Poland fell 2–0 to eventual champions Italy."
+            },
+            {
+              "id": "1982-trefoil-meets-eagle",
+              "label": "TREFOIL MEETS EAGLE",
+              "story": "By 1982 Adidas' three stripes ran the length of the shorts and a small trefoil sat stitched above the crest — the first commercial mark to share chest space with Poland's coat of arms. Everything else stayed the same white-and-red template worn since 1938, now with a corporate logo grafted onto four decades of tradition."
+            },
+            {
+              "id": "1982-football-under-martial-law",
+              "label": "FOOTBALL UNDER MARTIAL LAW",
+              "story": "Six months before the tournament, General Jaruzelski had imposed martial law to crush the Solidarity movement — censors controlling the news, dissidents filling internment camps back home. Yet state television still broadcast every match, and a Polish bronze medal became one of the only unambiguously good headlines to reach a country living under lockdown."
             }
           ]
         }
