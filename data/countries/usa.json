@@ -184,6 +184,23 @@
       "result": "Group Stage",
       "headline": "Caligiuri's Goal, Rough Return",
       "story": "Paul Caligiuri's long-range strike against Trinidad and Tobago had gotten the U.S. here, but Italy's hosts proved unforgiving: Czechoslovakia routed them 5–1 in the opener, and losses to Italy and Austria closed a tough return to the World Cup after a 40-year absence, Bruce Murray's goal the lone bright spot.",
+      "annotations": [
+        {
+          "id": "wynaldas-red-card",
+          "label": "FIRST AMERICAN RED CARD",
+          "story": "One day after turning 21, Eric Wynalda became the first American sent off at a World Cup — shoved by Czechoslovakia's Tomas Skuhravy at a corner kick in the 52nd minute, he swung back and the referee showed red. The Americans finished the 5–1 rout a man down and four decades rusty."
+        },
+        {
+          "id": "blank-adidas-template",
+          "label": "THE BLANK ADIDAS TEMPLATE",
+          "story": "Adidas dressed the returning Americans in barely more than a house template — plain white shirt, a few red-and-blue slashes, the crest dropped dead center — because after a 40-year absence there was no established national identity to design around. It photographed more like a training top than a World Cup jersey."
+        },
+        {
+          "id": "roster-of-part-timers",
+          "label": "A ROSTER OF PART-TIMERS",
+          "story": "The youngest squad in the tournament, averaging 24 years old, was pieced together from the American Soccer League, the Major Indoor Soccer League, and college programs rather than any real professional pipeline — because none existed yet. Only Paul Caligiuri's long-range qualifying goal against Trinidad had gotten this patchwork group to Italy at all."
+        }
+      ],
       "homeColors": "white shirt with red and blue accents, navy blue shorts, white socks (Adidas)",
       "awayColors": null,
       "image": null,
