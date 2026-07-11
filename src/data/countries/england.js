@@ -1046,31 +1046,36 @@ export const england = {
           "round": "Group Stage",
           "opponent": "Iran",
           "score": "6–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Bellingham 35', Saka 43', Sterling 45'+1', Saka 62', Rashford 71', Grealish 89'"
         },
         {
           "round": "Group Stage",
           "opponent": "United States",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Wales",
           "score": "3–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Rashford 49', Foden 50', Rashford 68'"
         },
         {
           "round": "Round of 16",
           "opponent": "Senegal",
           "score": "3–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Henderson 38', Kane 45'+3', Saka 57'"
         },
         {
           "round": "Quarter-final",
           "opponent": "France",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Kane 54'"
         }
       ],
       "kits": {
