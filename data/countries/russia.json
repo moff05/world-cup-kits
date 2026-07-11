@@ -528,6 +528,23 @@
       "result": "Group Stage",
       "headline": "Moscow Riots After Tokyo Loss",
       "story": "A 2–0 win over Tunisia opened well, but a 1–0 loss to Japan triggered riots back home in Moscow. Needing only a draw against Belgium to advance, Russia lost a back-and-forth decider 3–2, exiting in the group stage in South Korea and Japan without reaching the second round.",
+      "annotations": [
+        {
+          "id": "a-clean-start-undone",
+          "label": "A CLEAN START, UNDONE",
+          "story": "Alexander Titov and Valeri Karpin scored either side of the hour to beat Tunisia 2–0 in the opener, Russia's first World Cup win since 1990 under any flag. It was as good as the tournament got — a loss to Japan and a collapse against Belgium erased it within a week."
+        },
+        {
+          "id": "nike-drops-the-red",
+          "label": "NIKE DROPS THE RED",
+          "story": "Russia switched kit suppliers to Nike for 2002, producing a stark white home shirt trimmed in blue that stripped away the red that had defined every Soviet and Russian shirt since 1958. The player number moved to the shirt's center for the first time, a quirk unique to that tournament."
+        },
+        {
+          "id": "riots-in-the-capital",
+          "label": "RIOTS IN THE CAPITAL",
+          "story": "The 1–0 loss to Japan triggered riots in central Moscow, where crowds watching on a giant screen near the Kremlin turned violent — one person was killed and dozens injured. Coach Oleg Romantsev was fired within days of the tournament's end, one of the ugliest off-pitch footnotes in Russian football history."
+        }
+      ],
       "homeColors": "white shirt with blue trim",
       "awayColors": "blue shirt with white trim",
       "image": null,
