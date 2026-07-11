@@ -974,6 +974,23 @@
       "result": "Runners-up",
       "headline": "Mbappé's Final Hat-Trick, Still Lost",
       "story": "Down 2–0 with 10 minutes left in the final, Kylian Mbappé scored three times in a stunning comeback, forcing extra time against Argentina in one of the greatest finals ever played. Lionel Messi's Argentina held on to win the shootout 4–2, leaving Mbappé a hat-trick scorer on the losing side.",
+      "annotations": [
+        {
+          "id": "mbappes-hat-trick",
+          "label": "MBAPPÉ'S FINAL HAT-TRICK",
+          "story": "Down 2–0 with ten minutes left in the final, Kylian Mbappé scored three times in a stunning comeback, forcing extra time against Argentina in one of the greatest finals ever played. Lionel Messi's Argentina held on to win the shootout 4–2, leaving Mbappé a hat-trick scorer on the losing side."
+        },
+        {
+          "id": "toile-de-jouy",
+          "label": "TOILE DE JOUY PATTERN",
+          "story": "Nike's 2022 away shirt carried a Toile de Jouy-inspired print across the chest, a nod to the 18th-century French textile style traditionally used for curtains and wallpaper rather than football kits. It gave France arguably the most culturally specific away shirt of the entire tournament, blue trim over white fabric."
+        },
+        {
+          "id": "injury-ravaged-squad",
+          "label": "INJURY-RAVAGED SQUAD",
+          "story": "France arrived in Qatar without N'Golo Kanté, Paul Pogba, and Presnel Kimpembe, then lost Christopher Nkunku to a training injury days before kickoff and watched Karim Benzema's fitness collapse before a ball was played. Reaching a second straight final with that much of the first-choice XI missing remains one of the era's quiet miracles."
+        }
+      ],
       "homeColors": "dark navy shirt with metallic gold detailing, white shorts (Nike)",
       "awayColors": "white shirt with blue trim and a Toile de Jouy-inspired pattern celebrating French landmarks (Nike)",
       "image": null,
@@ -986,43 +1003,50 @@
           "round": "Group Stage",
           "opponent": "Australia",
           "score": "4–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Rabiot 27', Giroud 32', Mbappé 68', Giroud 71'"
         },
         {
           "round": "Group Stage",
           "opponent": "Denmark",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Mbappé 61', Mbappé 86'"
         },
         {
           "round": "Group Stage",
           "opponent": "Tunisia",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Round of 16",
           "opponent": "Poland",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Giroud 44', Mbappé 74', Mbappé 90'+1'"
         },
         {
           "round": "Quarter-final",
           "opponent": "England",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Tchouaméni 17', Giroud 78'"
         },
         {
           "round": "Semi-final",
           "opponent": "Morocco",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Hernández 5', Kolo Muani 79'"
         },
         {
           "round": "Final",
           "opponent": "Argentina",
           "score": "3–3 (2–4 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": "Mbappé 80' (pen), Mbappé 81', Mbappé 118' (pen)"
         }
       ]
     }
