@@ -859,9 +859,19 @@ export const spain = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "INIESTA'S 116TH-MINUTE WINNER",
-              "story": "A shock 0–1 opening loss to Switzerland nearly derailed everything, but Spain won every remaining match 1–0, including Carles Puyol's headed semi-final winner over Germany. Andrés Iniesta settled the final in the 116th minute against the Netherlands, and Spain became the first European team to win a World Cup outside Europe."
+              "id": "the-message-under-the-shirt",
+              "label": "THE MESSAGE UNDER THE SHIRT",
+              "story": "When Iniesta ripped off his shirt after the winning goal, the undershirt beneath read 'Dani Jarque, siempre con nosotros' — a tribute to his close friend and former youth teammate, an Espanyol captain who'd died of a heart attack the year before. The image became more famous in Spain than the goal itself."
+            },
+            {
+              "id": "the-star-that-came-next",
+              "label": "THE STAR THAT CAME NEXT",
+              "story": "The gold star that's sewn above Spain's crest on every replica shirt sold since didn't exist yet in Johannesburg — it was earned that July night and stitched onto the kit for the very first time the following season, the permanent, wearable proof of a first world title."
+            },
+            {
+              "id": "celebrating-through-a-recession",
+              "label": "CELEBRATING THROUGH A RECESSION",
+              "story": "The economy was contracting, unemployment had passed 20 percent, and the government was about to impose brutal austerity cuts when the final whistle blew in Johannesburg. Millions still flooded the streets waving flags anyway — captain Iker Casillas said afterward that for one night, the celebration made everyone forget the crisis entirely."
             }
           ]
         }
