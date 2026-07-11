@@ -244,7 +244,7 @@
     "name": "Morocco",
     "confederation": "CAF",
     "worldCupsCount": 7,
-    "status": "backfill",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -252,7 +252,7 @@
     "name": "Japan",
     "confederation": "AFC",
     "worldCupsCount": 7,
-    "status": "backfill",
+    "status": "done",
     "tier": "medium"
   },
   {

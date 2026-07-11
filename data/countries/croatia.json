@@ -41,6 +41,16 @@
           "id": "worns-red-card-rout",
           "label": "TEN MEN, THREE GOALS",
           "story": "Christian Wörns lasted 40 minutes before a professional foul on Davor Šuker earned him a straight red card. Croatia punished ten-man Germany ruthlessly: Robert Jarni struck in first-half stoppage time, Goran Vlaović doubled it in the 80th, and Šuker sealed a stunning 3–0 quarter-final win in Lyon."
+        },
+        {
+          "id": "lotto-diagonal-checkerboard",
+          "label": "DIAGONAL CHECKS",
+          "story": "Lotto's 1998 shirt reworked Šutej's original pattern, tilting the red-and-white squares so they cascaded diagonally from the right sleeve toward the shirt's center, leaving the rest plain white with blue-and-red trim at the collar and cuffs — the checkerboard's first real redesign since its 1990 debut."
+        },
+        {
+          "id": "war-generation-squad",
+          "label": "WAR-ERA SQUAD",
+          "story": "Šuker, Boban, and Bilić were teenagers or young pros when Croatia's independence war broke out in 1991; several played for clubs abroad or in besieged cities before the national team even had FIFA recognition. Four years after the fighting ended, that same generation carried a five-year-old country to a World Cup bronze medal."
         }
       ],
       "homeColors": "red-and-white checkerboard shirt (šahovnica pattern), white shorts, blue socks (Lotto)",
@@ -105,7 +115,23 @@
     "2002": {
       "result": "Group Stage",
       "headline": "Golden Generation's Last Stand",
-      "annotations": [],
+      "annotations": [
+        {
+          "id": "rapaic-curler-italy",
+          "label": "RAPAIĆ'S CURLER",
+          "story": "Croatia beat defending semifinalists Italy 2–1 in Group G: Ivica Olić equalized, then Milan Rapaić skipped past Maldini and Materazzi before curling a deflected shot over Buffon. Filippo Inzaghi thought he'd salvaged a point in injury time, but the goal was chalked off for shirt-pulling."
+        },
+        {
+          "id": "nike-takes-over-2002",
+          "label": "NIKE TAKES OVER",
+          "story": "After Lotto's angled 1998 design, Nike supplied Croatia's shirt for 2002: a large-scale red-and-white check with blue paneling down the sides and inner sleeves, no shirt sponsor, and the HNS crest sitting alone on the left chest — the template every other Nike nation wore that summer, just in Croatian colors."
+        },
+        {
+          "id": "second-cup-old-guard",
+          "label": "SECOND TIME AROUND",
+          "story": "Šuker, Robert Jarni, and Robert Prosinečki all appeared at a second World Cup in 2002 — but their first had come in 1990 wearing Yugoslavia's colors, before Croatia existed as an independent squad. Prosinečki remains the only player ever to score World Cup goals for two different countries."
+        }
+      ],
       "homeColors": "red-and-white checkerboard shirt, white shorts, blue socks (Nike)",
       "awayColors": null,
       "image": null,
@@ -145,6 +171,16 @@
           "id": "poll-three-yellows",
           "label": "THREE YELLOWS, ONE RED",
           "story": "Referee Graham Poll booked Josip Šimunić twice without realizing his mistake, then produced a third yellow — and finally red — deep into stoppage time against Australia. It remains the only three-card dismissal in World Cup history, an absurd footnote to a wild 2–2 draw that sent Croatia home."
+        },
+        {
+          "id": "nike-yellow-trim-2006",
+          "label": "NIKE'S QUIET YEAR",
+          "story": "Nike's 2006 shirt dialed back the checkerboard's boldness: smaller squares, a plain crew collar, and subtle yellow trim at the hem and sleeve cuffs — a muted cousin of the shirt Nike would blow back up into oversized checks for 2018."
+        },
+        {
+          "id": "modric-world-cup-debut",
+          "label": "MODRIĆ'S FIRST CUP",
+          "story": "A 20-year-old Luka Modrić came on as a substitute against Japan and again against Australia at the 2006 World Cup, his first taste of the tournament he wouldn't captain to a final for another twelve years."
         }
       ],
       "homeColors": "red-and-white checkerboard shirt, white shorts, blue socks (Nike)",
@@ -181,7 +217,18 @@
     "2014": {
       "result": "Group Stage",
       "headline": "Marcelo's Gift, Neymar's Answer",
-      "annotations": [],
+      "annotations": [
+        {
+          "id": "marcelo-own-goal-opener",
+          "label": "MARCELO'S OWN GOAL",
+          "story": "Croatia stunned the host nation in the 2014 opener when Ivica Olić's cross deflected off Nikica Jelavić and then Marcelo into Brazil's own net — the first own goal in a World Cup opening match. Neymar equalized, then converted a penalty award coach Niko Kovač called so soft 'we should be playing basketball.'"
+        },
+        {
+          "id": "nike-1990-tribute-shirt",
+          "label": "1990 TRIBUTE SHIRT",
+          "story": "Nike's 2014 home shirt paired red-and-white checks on the body with solid red sleeves and a red V-neck — a direct callback to the shirt Croatia wore for its first-ever international, a 2–1 win over the United States in October 1990. The collar's inside hem read 'Budi ponosan': Be proud."
+        }
+      ],
       "homeColors": "red-and-white checkerboard shirt, white shorts, blue socks (Nike)",
       "awayColors": null,
       "image": null,
@@ -226,6 +273,11 @@
           "id": "mandzukic-extra-time-winner",
           "label": "MANDŽUKIĆ'S LATE, LATE SHOW",
           "story": "Kieran Trippier's fifth-minute free kick had England dreaming, but Ivan Perišić leveled in the 68th minute. Mario Mandžukić pounced on a mistake by John Stones and Kyle Walker in the 109th minute, sending Croatia to their first World Cup final and breaking English hearts in Moscow."
+        },
+        {
+          "id": "oversized-checks-2018",
+          "label": "CHECKS, SUPERSIZED",
+          "story": "Nike blew the 2018 shirt's checkerboard up two to three times larger than any previous Croatia kit, arguing the squares should read as boldly as the flag itself. The away shirt swapped red for near-black checks — the one Croatia wore to beat Denmark on penalties before reaching their first final in it."
         }
       ],
       "homeColors": "red-and-white checkerboard shirt with v-collar, white shorts, blue socks (Nike)",
@@ -295,6 +347,16 @@
           "id": "livakovic-heroics",
           "label": "LIVAKOVIĆ THE WALL",
           "story": "Dominik Livaković stopped three of Japan's four spot kicks in the round of 16, then made a tournament-high eleven saves against Brazil in the quarter-finals as Bruno Petković's 117th-minute equalizer forced another shootout. Croatia won that one too, twice surviving on penalties on their way to a second straight semi-final."
+        },
+        {
+          "id": "shrunken-checks-backlash",
+          "label": "SHRUNKEN AND PANNED",
+          "story": "Nike's 2022 redesign shrank the checkerboard back down and ran a wide plain-white panel through the shirt's center, drawing criticism that it looked like an unfinished edit of the design. The Athletic ranked it the worst kit of all 32 nations at the tournament."
+        },
+        {
+          "id": "dalic-second-medal",
+          "label": "DALIĆ'S SECOND MEDAL",
+          "story": "Zlatko Dalić became the first Croatia coach to win two World Cup medals, following the 2018 runner-up finish with bronze in Qatar after beating Morocco in the third-place match — matching, in miniature, the rare feat of consecutive Croatian podiums."
         }
       ],
       "homeColors": "red-and-white checkerboard shirt, tidier and slightly smaller check pattern, white shorts, blue socks (Nike)",
