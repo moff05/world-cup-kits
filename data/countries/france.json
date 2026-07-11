@@ -352,6 +352,23 @@
       "result": "Group Stage",
       "headline": "Borrowed Stripes, Group of Death",
       "story": "Drawn into a brutal group with Argentina and Italy, a young Michel Platini's France beat Hungary 3–1 while wearing green-and-white stripes borrowed from a local Argentine club after a kit mix-up. It wasn't enough: consecutive 2–1 losses to Italy and the host nation eliminated France despite the win.",
+      "annotations": [
+        {
+          "id": "group-of-death-survives-one",
+          "label": "ONE WIN, GROUP OF DEATH",
+          "story": "Drawn against holders Argentina and a dangerous Italy, a 23-year-old Michel Platini scored the winner as France beat Hungary 3–1 in borrowed colors. It was the only match Les Bleus won: consecutive 2–1 defeats to Italy and hosts Argentina in the Group of Death sent a talented young side home early."
+        },
+        {
+          "id": "kimberley-stripes",
+          "label": "THE KIMBERLEY STRIPES",
+          "story": "With both France and Hungary showing up in white for their opener, organizers raided the wardrobe of amateur Argentine club Atlético Kimberley and handed France its green-and-white vertical stripes — a shirt belonging to nobody's flag, worn to a 3–1 win and then never worn by France again."
+        },
+        {
+          "id": "platinis-first-cup",
+          "label": "PLATINI'S FIRST CUP",
+          "story": "1978 marked Michel Platini's World Cup debut, a 22-year-old midfielder scoring in his first-ever finals match against Hungary. The tournament also unfolded under Argentina's military dictatorship, a junta using the host role for legitimacy while dissidents disappeared blocks from stadiums — a backdrop shadowing every match played that June."
+        }
+      ],
       "homeColors": "blue shirt, white shorts, red socks (Le Coq Sportif)",
       "awayColors": "borrowed green-and-white vertical stripes from Club Atlético Kimberley (worn once, vs Hungary, after a kit clash)",
       "image": null,
