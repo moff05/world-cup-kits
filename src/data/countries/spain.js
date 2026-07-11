@@ -776,9 +776,19 @@ export const spain = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ZIDANE ENDS THE RUN",
-              "story": "David Villa scored a brace in a 4–0 opening rout of Ukraine and finished the group stage with three goals. Zinedine Zidane, playing what he had announced as his final tournament, tore through Spain's defense in the Round of 16 as France won 3–1, ending Spain's run in Hanover."
+              "id": "zidanes-stoppage-time-dagger",
+              "label": "ZIDANE'S STOPPAGE-TIME DAGGER",
+              "story": "Franck Ribéry's opener and Patrick Vieira's penalty had already turned the tie France's way when Zinedine Zidane, in the tournament he'd announced would be his last, chipped in a stoppage-time third to finish it off — the kind of goal that made the eventual runner-up feel less like an aging team and more like a farewell tour."
+            },
+            {
+              "id": "pinstripes-and-curves",
+              "label": "PINSTRIPES AND CURVES",
+              "story": "Adidas dressed Spain in its 'Aquila' template for Germany 2006 — thin yellow pinstripes running through the red, curved side panels breaking from the usual straight cut, and the brand's three stripes swept onto the shoulders instead of the sleeves. It was a busier, more tailored look than any Spain shirt before it."
+            },
+            {
+              "id": "the-blueprint-for-2008",
+              "label": "THE BLUEPRINT FOR 2008",
+              "story": "Luis Aragonés had only just taken over and was still experimenting with the short-passing, possession-heavy approach the press mocked as too soft for a team raised on 'La Furia.' Two years later that same approach won Euro 2008; in 2006 it was still just an idea getting battle-tested against France's aging superstars."
             }
           ]
         }
