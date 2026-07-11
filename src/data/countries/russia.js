@@ -289,9 +289,19 @@ export const russia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ESPÁRRAGO'S CRUEL LATE HEADER",
-              "story": "A goalless standoff with host Mexico and routs of Belgium and El Salvador carried the Soviets through the group unbeaten. Uruguay ended the run in the quarter-final when Víctor Espárrago rose for a header three minutes from the end of extra time, sending the Soviets home 1–0 and Uruguay through to the semi-finals."
+              "id": "byshovets-breakout",
+              "label": "BYSHOVETS' BREAKOUT",
+              "story": "Anatoli Byshovets scored four of the Soviets' six group-stage goals, including a brace each against Belgium and El Salvador, emerging as the tournament's find at just 23 years old. He never matched that form again on the world stage, retiring from international football within two years."
+            },
+            {
+              "id": "the-shorts-swap",
+              "label": "THE SHORTS SWAP",
+              "story": "Kitted out by the domestic Olimpiada brand rather than Adidas — who wouldn't supply the Soviets until 1978 — the team opened the tournament in white shorts before switching to navy for later matches, a mid-tournament change common in an era before kit rules were standardized."
+            },
+            {
+              "id": "settled-by-coin-flip",
+              "label": "SETTLED BY COIN FLIP",
+              "story": "The Soviets and hosts Mexico finished level on every metric after their scoreless opener at the newly built Estadio Azteca, in front of 107,000 fans — the tournament's largest crowd. FIFA broke the deadlock with a literal drawing of lots, handing the group's top spot, and a clash with Uruguay, to the Soviets."
             }
           ]
         }
