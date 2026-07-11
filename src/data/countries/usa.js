@@ -116,9 +116,19 @@ export const usa = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ONE MATCH, SEVEN CONCEDED",
-              "story": "A single-elimination format gave the U.S. no room for error, and Italy — the eventual champions — punished them 7–1 in Rome. Aldo Donelli scored the lone American goal. It remains the heaviest defeat in U.S. World Cup history, a rude return after the expanded 1934 qualifying format."
+              "id": "donellis-lone-strike",
+              "label": "DONELLI'S LONE STRIKE",
+              "story": "Trailing 6–0 to a rampant Italy side at Stadio Nazionale, Aldo Donelli poked in a consolation goal in the 57th minute — the only American touch that mattered in a rout the hosts had already decided before halftime, weeks before Italy lifted the trophy as world champions."
+            },
+            {
+              "id": "same-shirt-new-color",
+              "label": "SAME SHIRT, NEW COLOR",
+              "story": "Nobody redesigned a thing for Rome — the U.S. wore the identical long-sleeved cut, collar, and shield crest from 1930, simply recolored from white to blue. For a federation with almost no budget and a squad making its second trip of the decade, it was a money-saving choice dressed up as tradition."
+            },
+            {
+              "id": "four-goals-to-qualify",
+              "label": "FOUR GOALS TO QUALIFY",
+              "story": "Ten days before Italy routed them, Aldo Donelli scored all four goals in a win-or-go-home playoff against Mexico in Rome just to reach the tournament, reportedly with Benito Mussolini watching from the stands. It remains the only World Cup the U.S. has ever entered through a single knockout qualifier."
             }
           ]
         }
