@@ -91,6 +91,23 @@
       "result": "Quarter-final",
       "headline": "Milla's Dance, Argentina Stunned",
       "story": "Opening the tournament as rank outsiders, Cameroon shocked defending champions Argentina 1–0 on François Omam-Biyik's looping header, then 38-year-old Roger Milla came off the bench to score against Romania and again in a wild extra-time win over Colombia. England finally ended the run 3–2 in the quarter-finals, but Africa had its first World Cup semi-final near-miss.",
+      "annotations": [
+        {
+          "id": "lineker-penalty-heist",
+          "label": "LINEKER'S PENALTY HEIST",
+          "story": "England trailed for long stretches in Naples before referee-assisted salvation: Gary Lineker converted spot-kicks in the 83rd and 105th minutes, the first penalties of his international career, to turn a famous upset into a 3-2 heartbreak. Without them, Cameroon reaches a World Cup semifinal five years before anyone thought Africa could."
+        },
+        {
+          "id": "adidas-no-sponsor-1990",
+          "label": "A SHIRT WITHOUT A SPONSOR",
+          "story": "Adidas kept the design almost bare — three stripes down the sleeve, a small crest, no chest sponsor cluttering the green — the kind of stripped-down look that's turned original 1990 jerseys into some of the most sought-after vintage shirts in football memorabilia circles today."
+        },
+        {
+          "id": "biya-recalls-milla",
+          "label": "A PRESIDENTIAL PHONE CALL",
+          "story": "Roger Milla had already retired to the French island of Réunion when President Paul Biya personally phoned him, then signed a decree compelling the coach to select him. Milla obliged, came off the bench four times, and turned a diplomatic favor into the most famous substitute cameo in World Cup history."
+        }
+      ],
       "homeColors": "green shirt, red shorts, yellow socks",
       "awayColors": null,
       "image": null,
