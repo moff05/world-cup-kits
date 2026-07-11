@@ -476,6 +476,23 @@
       "result": "Group Stage",
       "headline": "Salenko's Record-Breaking Night",
       "story": "Russia's first tournament as an independent nation began with losses to Brazil and Sweden that ended its hopes early. Then Oleg Salenko scored five goals in a 6–1 rout of Cameroon, a World Cup single-match record that still stands, salvaging a share of the tournament's Golden Boot from a group-stage elimination.",
+      "annotations": [
+        {
+          "id": "the-quiet-warning",
+          "label": "THE QUIET WARNING",
+          "story": "Oleg Salenko put Russia ahead inside four minutes against Sweden, only to watch the lead evaporate into a 3–1 loss. Three days later the same player scored five goals in a single match against Cameroon — the warning signs of the tournament's biggest individual story were there from the very first goal."
+        },
+        {
+          "id": "reebok-takes-the-flag",
+          "label": "REEBOK TAKES THE FLAG",
+          "story": "Russia dropped its Soviet-era Adidas deal, switching to Reebok for a kit built around the newly readopted Russian tricolor of red, white and blue. It was the first World Cup strip built to represent Russia alone rather than all fifteen former Soviet republics."
+        },
+        {
+          "id": "a-new-flag-first-cup",
+          "label": "A NEW FLAG, FIRST CUP",
+          "story": "USA '94 marked Russia's first World Cup as a sovereign nation, following the Soviet Union's dissolution in December 1991. Fewer than three years after the hammer and sickle came down, a red-white-blue tricolor team walked out at Stanford Stadium to face Brazil in Russia's first-ever match under its own flag."
+        }
+      ],
       "homeColors": "red shirt, blue shorts, white socks",
       "awayColors": null,
       "image": null,
