@@ -529,6 +529,23 @@
     "1994": {
       "result": "Round of 16",
       "headline": "Second Straight Shootout Exit",
+      "annotations": [
+        {
+          "id": "120-scoreless-minutes",
+          "label": "120 SCORELESS MINUTES",
+          "story": "Mexico and Bulgaria played out two full scoreless periods before extra time in the Round of 16, neither side breaking through. Bulgaria won the shootout 3–1, sending Mexico home via penalties for the second straight tournament."
+        },
+        {
+          "id": "the-collectors-collar",
+          "label": "THE COLLECTOR'S COLLAR",
+          "story": "Umbro's Aztec-patterned green shirt carried a white polo collar trimmed in the flag's three colors, a design now considered one of the most collectible World Cup jerseys of its era among kit historians and resellers alike."
+        },
+        {
+          "id": "returning-from-a-two-year-ban",
+          "label": "RETURNING FROM A TWO-YEAR BAN",
+          "story": "This was Mexico's first World Cup since a FIFA ban over the 1988 age-fraud scandal wiped out their entire 1990 campaign. Four years of exile ended with a return to the tournament they'd been denied the chance to defend."
+        }
+      ],
       "story": "Luis García scored twice as Mexico beat the Republic of Ireland and drew Italy to top a group that also featured Norway. Bulgaria matched Mexico's stubbornness for 120 scoreless minutes in the Round of 16 before winning 3–1 on penalties — the second straight tournament El Tri exited via shootout.",
       "homeColors": "green shirt, white shorts, red socks (Umbro)",
       "awayColors": null,
