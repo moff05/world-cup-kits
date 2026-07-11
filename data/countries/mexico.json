@@ -588,6 +588,23 @@
     "1998": {
       "result": "Round of 16",
       "headline": "El Matador's Four Goals",
+      "annotations": [
+        {
+          "id": "the-stoppage-time-rescue",
+          "label": "THE STOPPAGE-TIME RESCUE",
+          "story": "Down 2–1 to the Netherlands deep into stoppage time of the group finale, Luis Hernández scored an equalizer that saved Mexico's knockout hopes on the spot — one of four goals he'd score across the tournament, a Mexican record."
+        },
+        {
+          "id": "the-shirt-they-had-to-fix",
+          "label": "THE SHIRT THEY HAD TO FIX",
+          "story": "A little-known domestic brand, ABA Sport, produced the Aztec-calendar design that became one of football's most collectible jerseys. FIFA's single-logo rule forced last-minute changes to the player version, stripping out the repeated watermark that covered the retail shirt."
+        },
+        {
+          "id": "bleached-blond-and-controversial",
+          "label": "BLEACHED-BLOND AND CONTROVERSIAL",
+          "story": "Hernández's platinum hair and theatrical goal celebrations made him a cultural lightning rod back home, the flamboyant face of a Mexico team that played with more swagger than any before it — nicknamed 'El Matador' for the bullfighter's flair."
+        }
+      ],
       "story": "Luis Hernández, the platinum-blond striker nicknamed 'El Matador,' scored four goals across the tournament, including a brace in a 3–1 win over South Korea and comeback draws against Belgium and the Netherlands. He struck again in the Round of 16, but Germany's Jürgen Klinsmann-led side won 2–1 to end Mexico's run.",
       "homeColors": "green shirt, white shorts, red socks (Aba Sport)",
       "awayColors": null,
