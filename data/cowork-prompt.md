@@ -145,6 +145,8 @@ Matches where this country scored 0 goals: leave `null`, they are correct.
 **Gap B — Missing annotations**
 A year needs annotation fill if its `annotations` array has fewer than 3 items.
 
+**Important:** A `story` string field is NOT an annotation. Only items inside the `annotations` array count. A year with `"story": "..."` and `"annotations": []` has 0 annotations and needs all 3 written. A year with 1 item in `annotations` needs 2 more written. Do not count `story` toward the 3-annotation requirement.
+
 If a country has no gaps in either category — mark it `"done"` immediately and move to the next backfill entry.
 
 ### How to fill Gap A — Scorers
@@ -164,7 +166,9 @@ The 3 required angles are:
 2. **The kit** — something specific and visual: colors, badge, sponsor, design detail
 3. **The context** — a political, cultural, or off-pitch story from that tournament
 
-Check existing `id` and `label` values to see which angles are already covered. Only write the missing ones — never rewrite annotations that already exist.
+Count the items already in `annotations[]`. Write exactly `3 - current_count` new items to bring the total to 3. Check existing `id` and `label` values to see which angles are already covered, and write only the missing angles. Never rewrite annotations that already exist.
+
+Example: if `annotations` has 1 item covering "the result", write 2 new annotations covering "the kit" and "the context".
 
 Same writing rules as main pipeline: 30–60 words per annotation, magazine voice, no Wikipedia verbatim, no "showed resilience."
 
