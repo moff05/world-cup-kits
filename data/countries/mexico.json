@@ -196,6 +196,23 @@
     "1958": {
       "result": "Group Stage",
       "headline": "Still Searching for a Win",
+      "annotations": [
+        {
+          "id": "first-point-ever",
+          "label": "FIRST POINT EVER",
+          "story": "Eight straight losses across three tournaments came before Isidoro Belmonte's 89th-minute equalizer against Wales. It wasn't a win, but the 1–1 draw was the first point Mexico had ever taken from a World Cup match — 28 years in the making."
+        },
+        {
+          "id": "green-becomes-law",
+          "label": "GREEN BECOMES LAW",
+          "story": "Sweden 1958 was the first tournament played in the green shirt, white shorts, and red socks that define Mexico's identity to this day. The federation had switched colors to match the flag only a few years earlier, and it stuck permanently starting here."
+        },
+        {
+          "id": "sharing-a-group-with-history",
+          "label": "SHARING A GROUP WITH HISTORY",
+          "story": "A 17-year-old named Pelé was about to announce himself to the planet at this same tournament, as Brazil marched to their first title. Mexico's group-stage struggles played out in the shadow of the sport's next superstar arriving in real time."
+        }
+      ],
       "story": "Antonio Carbajal started his second World Cup in Sweden as Mexico opened with a 3–0 loss to the hosts. Isidoro Belmonte's goal salvaged a 1–1 draw with Wales, but Hungary's 4–0 rout in the finale ended the group stage still without a single win in four tournaments.",
       "homeColors": "green shirt, white shorts, red socks (tricolor scheme adopted from the national flag)",
       "awayColors": null,
