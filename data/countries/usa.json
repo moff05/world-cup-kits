@@ -132,6 +132,23 @@
       "result": "Group Stage",
       "headline": "Gaetjens Shocks England",
       "story": "Joe Gaetjens, a Haitian-born dishwasher playing for pocket money, headed in the only goal as a patchwork American team beat England 1–0 in Belo Horizonte — still considered one of the greatest upsets in sports history. Losses to Spain and Chile followed, but the England result alone made the tournament immortal.",
+      "annotations": [
+        {
+          "id": "scoreline-nobody-believed",
+          "label": "THE SCORELINE NOBODY BELIEVED",
+          "story": "When word of the 1–0 shock reached European wire desks, several newspaper editors assumed a transmission error and printed the score as 10–1 to England instead — a number that made far more sense to anyone who hadn't just watched Joe Gaetjens head the ball past the co-favorites in Belo Horizonte."
+        },
+        {
+          "id": "no-fixed-numbers-1950",
+          "label": "NO FIXED NUMBERS",
+          "story": "1950 was the first World Cup where players wore numbers on their backs, but nothing was fixed for the tournament — goalkeeper Frank Borghi kept No. 1 through the England upset, while outfield teammates swapped numbers freely between matches, leaving no consistent roster for scorekeepers trying to track who actually played."
+        },
+        {
+          "id": "the-hearse-driving-keeper",
+          "label": "THE HEARSE-DRIVING KEEPER",
+          "story": "Borghi drove a hearse for his uncle's funeral home in St. Louis before the tournament and went straight back to it afterward. So few Americans cared about a soccer upset in Brazil that he and his teammates stayed essentially anonymous at home for decades, until historians and filmmakers revived the story."
+        }
+      ],
       "homeColors": "white shirt with red diagonal sash, navy blue collar, white shorts, red socks",
       "awayColors": null,
       "image": null,
