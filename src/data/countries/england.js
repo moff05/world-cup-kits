@@ -397,9 +397,19 @@ export const england = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "BONETTI IN, BECKENBAUER'S REVENGE",
-              "story": "Defending champions England lost only to Brazil in the group stage, setting up a rematch with West Germany in the quarter-final. With goalkeeper Gordon Banks sidelined by illness, stand-in Peter Bonetti watched a 2–0 lead evaporate as Franz Beckenbauer and Uwe Seeler drew Germany level, and Gerd Müller's extra-time strike completed the turnaround, 3–2. It was Bobby Charlton's last game for England."
+              "id": "the-save-of-the-century",
+              "label": "THE SAVE OF THE CENTURY",
+              "story": "In a group match England still lost 1–0, Gordon Banks flung himself across goal to claw Pelé's downward header off the line and over the bar. Pelé himself said he'd already shouted 'goal' before Banks got there. It remains football's most replayed save from a losing cause."
+            },
+            {
+              "id": "first-in-color",
+              "label": "FIRST IN COLOR",
+              "story": "Mexico 1970 was the first World Cup broadcast worldwide in color, and England's plain white shirt and navy shorts, unchanged in spirit since 1950, became some of the most photographed kit of the new television era, just as Admiral prepared to reinvent it entirely."
+            },
+            {
+              "id": "the-bogota-bracelet",
+              "label": "THE BOGOTA BRACELET",
+              "story": "Days before the tournament, captain Bobby Moore was detained in Colombia and accused of stealing a bracelet from a hotel jewelry shop, an accusation later shown to be a frame-up. He played on regardless, delivering one of his finest tournaments despite the shadow following him home."
             }
           ]
         }
