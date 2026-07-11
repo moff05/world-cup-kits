@@ -348,9 +348,19 @@ export const france = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "WEMBLEY ENDS A QUIET CUP",
-              "story": "France drew Mexico and lost narrowly to Uruguay before meeting eventual champions England at Wembley in the group finale. Bobby Charlton's side won 2–0 without ever being seriously threatened, and Les Bleus went home from London without a single win, their quietest tournament of the decade."
+              "id": "wembley-silences",
+              "label": "WEMBLEY SILENCES LES BLEUS",
+              "story": "France drew Mexico, lost narrowly to Uruguay, then met eventual champions England at Wembley in the group finale needing a win to survive. Bobby Charlton's side beat them 2–0 without ever looking troubled, and Les Bleus went home from London without a single victory to their name — their quietest World Cup yet."
+            },
+            {
+              "id": "stripped-back-blue",
+              "label": "STRIPPED-BACK BLUE",
+              "story": "Le Coq Sportif pared France's kit down to its plainest form yet for 1966: solid blue shirt, white shorts, red socks, with almost no trim beyond the crest. It was minimalism born of the era rather than design intent — sportswear branding hadn't yet discovered the flourishes that would define later decades."
+            },
+            {
+              "id": "quietest-cup",
+              "label": "THE QUIETEST CUP",
+              "story": "No France squad before or since left a World Cup with zero wins and so little said about them. Sandwiched between Fontaine's 1958 heroics and the Platini generation still a decade away, the 1966 squad remains one of the most forgotten in French football history — three games, no victories, no headlines."
             }
           ]
         }
