@@ -548,9 +548,19 @@ export const hungary = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ONE WIN, LONG GOODBYE",
-              "story": "The Soviet Union's 6–0 rout in the opener was Hungary's heaviest World Cup defeat, but Márton Esterházy and Lajos Détári salvaged a 2–0 win over Canada. France closed the book 3–0 in León, and Hungary hasn't returned to a World Cup since — a drought now stretching decades."
+              "id": "the-heaviest-defeat",
+              "label": "THE HEAVIEST DEFEAT",
+              "story": "The Soviet Union's 6–0 opening rout remains Hungary's heaviest World Cup defeat, but Márton Esterházy and Lajos Détári salvaged pride with a 2–0 win over Canada. France closed the book 3–0 in León — Hungary's last World Cup match to date, a quiet ending nobody expected to last decades."
+            },
+            {
+              "id": "the-last-update",
+              "label": "THE LAST UPDATE",
+              "story": "Mexico's altitude and heat pushed Adidas toward lighter, more breathable polyester blends across the 1986 tournament, Hungary's cherry red shirt among those retooled for the conditions — the last kit update the national team would wear on this stage before a qualifying drought took hold."
+            },
+            {
+              "id": "a-host-still-rebuilding",
+              "label": "A HOST STILL REBUILDING",
+              "story": "Mexico rebuilt stadiums and infrastructure at speed after a magnitude-8 earthquake flattened parts of Mexico City just nine months before kickoff, killing thousands. Hungary played in a host nation still visibly recovering, the tournament proceeding as scheduled despite an initial FIFA scare over whether it could."
             }
           ]
         }
