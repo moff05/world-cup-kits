@@ -224,6 +224,23 @@
       "result": "Group Stage",
       "headline": "Eliminated Again at Villa Park",
       "story": "Pirri's late strike wasn't enough in a 2–1 opening loss to Argentina, and although Amancio and Sanchís rallied past Switzerland, José Fusté's goal against West Germany at Villa Park couldn't stop a 2–1 defeat. Spain went out in the group stage for the second time in three tournaments.",
+      "annotations": [
+        {
+          "id": "the-eventual-finalist",
+          "label": "THE TEAM THAT WENT TO WEMBLEY",
+          "story": "The side that eliminated them in Birmingham went all the way to Wembley two weeks later, losing the final to the hosts in extra time — small comfort for a Spain team that got no closer to the knockout rounds than a single José Fusté strike against the eventual runners-up."
+        },
+        {
+          "id": "real-madrid-in-red",
+          "label": "REAL MADRID IN RED",
+          "story": "Half of Spain's attack that summer — Amancio, Sanchís, the Real Madrid contingent — spent every league Saturday in all white. Villa Park was one of the rare stages where they traded the Bernabéu's colors for the deep red of the national shirt, scoring the only two goals that kept Spain's tournament alive past the opener."
+        },
+        {
+          "id": "a-dog-named-pickles",
+          "label": "A DOG NAMED PICKLES",
+          "story": "Weeks before the tournament, the actual World Cup trophy was stolen from a public exhibition in London and later found wrapped in newspaper under a garden hedge — by a mixed-breed dog named Pickles. Spain arrived to play for a trophy that had briefly gone missing entirely, guarded from then on like nuclear codes."
+        }
+      ],
       "homeColors": "red shirt, blue shorts, black socks",
       "awayColors": null,
       "image": null,
