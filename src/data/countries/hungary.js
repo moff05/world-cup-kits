@@ -438,9 +438,19 @@ export const hungary = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "THREE GAMES, THREE LOSSES",
-              "story": "Károly Csapó's goal wasn't enough against Argentina, András Tóth pulled one back in a 3–1 loss to Italy, and Sándor Zombori's late strike couldn't save Hungary from France in the finale. A rebuilding squad, without its 1966 core, exited Group 1 without a single point."
+              "id": "one-goal-apiece",
+              "label": "ONE GOAL APIECE",
+              "story": "Károly Csapó, András Tóth, and Sándor Zombori all scored — one goal apiece in three straight defeats to Argentina, Italy, and France. A rebuilding Hungary, missing the spine of its 1966 side, left Mar del Plata without a single point, the goals a small consolation in a winless group."
+            },
+            {
+              "id": "function-over-fashion",
+              "label": "FUNCTION OVER FASHION",
+              "story": "Communist-bloc teams typically avoided commercial branding, and Hungary's plain cherry red in Argentina stood in visible contrast to Western sides increasingly wearing Adidas's three stripes as a marketed symbol. Function over fashion remained the rule, even as football elsewhere had started selling itself."
+            },
+            {
+              "id": "football-yes-torture-no",
+              "label": "FOOTBALL YES, TORTURE NO",
+              "story": "Argentina's military junta, barely two years into a dictatorship built on secret detentions and disappearances, used the tournament to project unity and international respectability. Hungary's group matches were played inside a country where Amnesty International was campaigning under the slogan 'Football yes, torture no.'"
             }
           ]
         }
