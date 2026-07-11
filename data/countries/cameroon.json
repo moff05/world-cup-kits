@@ -209,6 +209,23 @@
       "result": "Group Stage",
       "headline": "Two Draws, No Wins",
       "story": "Pierre Njanka's late strike salvaged a draw with Austria and Patrick M'Boma leveled against Chile, but a 3–0 loss to Italy in between left Cameroon winless and out after the group stage, a quiet finish for the reigning African champions.",
+      "annotations": [
+        {
+          "id": "vieri-double-italy",
+          "label": "VIERI'S DOUBLE STRIKE",
+          "story": "Luigi Di Biagio opened the scoring off a Roberto Baggio assist, then Christian Vieri buried two more to finish off Cameroon 3-0 — a rout that came as part of a tournament where three different Cameroonian players saw red, more dismissals than any other team in France that summer."
+        },
+        {
+          "id": "puma-patch-swap",
+          "label": "THE MISSING PUMA PATCH",
+          "story": "Replica shirts sold in stores carried Puma's cat logo across the lower front, but the shirts Cameroon's players actually wore on the pitch in France left that patch off entirely — a quiet manufacturing quirk that now makes genuine match-worn 1998 jerseys instantly identifiable to collectors."
+        },
+        {
+          "id": "etoo-youngest-debut",
+          "label": "A TEENAGER ARRIVES",
+          "story": "Buried on the bench behind established forwards, a 17-year-old named Samuel Eto'o was the youngest player at the entire 1998 tournament, tied with England's Michael Owen. Nobody in France paid him much attention — a couple years and an Olympic gold later, nobody could ignore him again."
+        }
+      ],
       "homeColors": "green shirt, red shorts, yellow socks",
       "awayColors": null,
       "image": null,
