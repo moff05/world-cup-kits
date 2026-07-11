@@ -710,9 +710,19 @@ export const netherlands = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "REVENGE ROUT, BRONZE REWARD",
-              "story": "Louis van Gaal's side opened by dismantling defending champions Spain 5–1 — Robin van Persie's diving header the highlight — and rolled unbeaten into the semi-final before penalty shootouts eliminated them against Costa Rica and then Argentina. A 3–0 win over Brazil in the third-place match delivered Netherlands' first World Cup bronze."
+              "id": "van-gaals-goalkeeper-gambit",
+              "label": "THE GOALKEEPER GAMBLE",
+              "story": "With the Costa Rica quarter-final locked at 0–0 after 120 scoreless minutes, Louis van Gaal used his final substitution to send on backup goalkeeper Tim Krul for the shootout alone — a mind-game no manager had dared on this stage before. Krul saved two penalties, from Bryan Ruiz and Michael Umaña, and Netherlands advanced 4–3."
+            },
+            {
+              "id": "a-typographers-numbers",
+              "label": "A TYPOGRAPHER'S NUMBERS",
+              "story": "For the KNVB's 125th anniversary, Nike commissioned Dutch typographer Wim Crouwel to design the shirt's names and numbers from scratch, blending a modern font with the blocky look of 1970s numerals. The crest got an overhaul too: a bigger, bolder white lion replacing the small crowned lion head that had been used since the '70s."
+            },
+            {
+              "id": "coaching-for-two-employers",
+              "label": "COACHING FOR TWO CLUBS",
+              "story": "Louis van Gaal had already been unveiled as Manchester United's next manager before the tournament even kicked off, meaning he spent the entire World Cup as a lame-duck national coach with his next job locked in. It didn't stop him from engineering the bronze medal — Netherlands' best finish outside their three runner-up campaigns — before flying to Manchester."
             }
           ]
         }
