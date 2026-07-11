@@ -880,9 +880,19 @@ export const england = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "THE GHOST GOAL AT BLOEMFONTEIN",
-              "story": "England scraped out of a weak group before meeting Germany in the Round of 16, where Frank Lampard's shot crashed down clearly over the line and was never given by the officials. Germany capitalised, running out 4–1 winners in Bloemfontein, England's heaviest defeat in World Cup history and a result that finally pushed FIFA toward goal-line technology."
+              "id": "greens-fumble",
+              "label": "GREEN'S FUMBLE",
+              "story": "Clint Dempsey's tame, low shot from 25 yards should have been a routine save. Instead it squirmed straight through goalkeeper Robert Green's grasp and trickled over the line, gifting the USA a 1-1 draw and becoming one of the most replayed blunders in World Cup history."
+            },
+            {
+              "id": "1966-reissued",
+              "label": "1966, REISSUED",
+              "story": "Umbro's all-red 2010 away kit deliberately echoed the shirt England wore to win the 1966 final, complete with a single gold star stitched above the crest. It was worn only once, in the group-stage draw with Algeria and the defeat that ended the tournament."
+            },
+            {
+              "id": "the-sound-of-south-africa",
+              "label": "THE SOUND OF SOUTH AFRICA",
+              "story": "The 2010 tournament was the first ever held in Africa, and its defining sound wasn't a chant but the relentless drone of thousands of vuvuzela horns, a plastic instrument so loud that broadcasters seriously considered filtering it out of TV coverage entirely."
             }
           ]
         }
