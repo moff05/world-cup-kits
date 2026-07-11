@@ -935,9 +935,19 @@ export const england = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "TWO DEFEATS, EARLY ELIMINATION",
-              "story": "Nike's first England World Cup kit debuted in defeat, Daniel Sturridge's goal not enough against Italy, and Wayne Rooney's late strike not enough against Uruguay. A scoreless draw with Costa Rica in the final group game confirmed England's earliest World Cup exit since 1958, with just one point from three matches."
+              "id": "suarezs-return",
+              "label": "SUAREZ'S RETURN",
+              "story": "Luis Suárez had undergone knee surgery just six weeks before the tournament and was rushed back for Uruguay's must-win game against England, scoring both goals in a 2-1 win that all but ended England's tournament with a game still to play."
+            },
+            {
+              "id": "a-new-supplier-an-old-shape",
+              "label": "A NEW SUPPLIER, OLD SHAPE",
+              "story": "Nike's first England World Cup kit deliberately echoed the plain white shirt worn in Mexico in 1970, with an engineered pinstripe woven into the fabric. Typographer Neville Brody designed a custom font for the names and numbers, England's first bespoke shirt typeface."
+            },
+            {
+              "id": "the-youngest-lions-in-years",
+              "label": "THE YOUNGEST LIONS IN YEARS",
+              "story": "Roy Hodgson took England's youngest World Cup squad in decades to Brazil, gambling on emerging talents like Raheem Sterling and Ross Barkley over the fading golden generation. The gamble produced two defeats and elimination before the final group game had even been played."
             }
           ]
         }
