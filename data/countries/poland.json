@@ -370,6 +370,23 @@
       "result": "Group Stage",
       "headline": "Late Flourish, Early Exit",
       "story": "Poland's return after a 16-year absence began badly — a 2–0 loss to co-hosts South Korea, then a 4–0 rout by Portugal — before Paweł Kryszałowicz, Emmanuel Olisadebe, and Marcin Żewłakow salvaged pride with a 3–1 win over the United States. It wasn't nearly enough; Poland finished bottom of Group D.",
+      "annotations": [
+        {
+          "id": "2002-three-one-too-late",
+          "label": "THREE-ONE, TOO LATE",
+          "story": "Emmanuel Olisadebe opened the scoring inside three minutes and Marcin Kryszałowicz doubled it two minutes later — the fastest possible response to a group stage already lost. Poland beat the United States 3–1 in Daejeon, a spirited finale that arrived one match too late to matter: they finished bottom of Group D after losses to co-hosts South Korea and Portugal."
+        },
+        {
+          "id": "2002-crown-returns",
+          "label": "THE CROWN RETURNS",
+          "story": "This was the first Polish World Cup shirt since the fall of Communism, and the eagle on the chest finally wore its crown again — restored to the coat of arms in 1990 after 35 years without it. Same white shirt, same red shorts, but a very different national emblem underneath."
+        },
+        {
+          "id": "2002-landmark-naturalization",
+          "label": "A LANDMARK NATURALIZATION",
+          "story": "Nigerian-born striker Emmanuel Olisadebe became the first Black player to ever wear the Polish shirt, his citizenship fast-tracked by President Aleksander Kwaśniewski so he could feature in qualifying. He'd score eight goals across ten qualifiers to help Poland reach its first World Cup in sixteen years — a selection that unsettled some fans but rewrote the national team's history."
+        }
+      ],
       "homeColors": "white shirt, red shorts, white socks",
       "awayColors": null,
       "image": null,
