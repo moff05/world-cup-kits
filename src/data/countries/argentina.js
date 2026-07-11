@@ -89,16 +89,16 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Argentina_1930.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Argentina national team, 1930 FIFA World Cup (Wikimedia Commons)"
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "STÁBILE'S GOLDEN DEBUT",
-              "story": "Guillermo Stábile, a late replacement, scored a hat-trick against Mexico and finished as the tournament's top scorer with eight goals in his only World Cup. Argentina routed the United States 6–1 in the semi-final, then blew a 2–1 halftime lead in the inaugural final, falling 4–2 to host Uruguay at the Estadio Centenario."
+              "id": "stabile-hat-trick-debut-1930",
+              "label": "STÁBILE'S HAT-TRICK DEBUT",
+              "story": "Guillermo Stábile was a late replacement, uncapped before the tournament began. He scored a hat-trick against Mexico in his international debut and finished as the World Cup's top scorer with eight goals — all of it in the only tournament he ever played for Argentina."
             }
           ]
         }
@@ -120,16 +120,16 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Selecci%C3%B3n_Argentina_1934.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Argentina squad photo, 1934 FIFA World Cup (Wikimedia Commons)"
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ONE AND DONE IN ITALY",
-              "story": "A dispute over amateur versus professional players gutted Argentina's roster before they even reached Italy. Ernesto Belis and Alberto Galateo scored, but Sweden eliminated them in the very first match, 3–2, sending Argentina home after just one game under the tournament's straight-knockout format."
+              "id": "one-match-then-home-1934",
+              "label": "ONE MATCH, THEN HOME",
+              "story": "A rift over paying amateur players stripped Argentina's roster before they'd even landed in Italy. Ernesto Belis and Alberto Galateo both scored against Sweden, but the tournament's single-match knockout format meant a 3–2 loss ended Argentina's World Cup after just one game."
             }
           ]
         }
@@ -165,16 +165,16 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Argentina_v_checoslovaq_1958.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Argentina vs Czechoslovakia, 1958 FIFA World Cup Group Stage (Wikimedia Commons)"
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "BORROWED YELLOW, BEATEN BLUE",
-              "story": "Forced into local club IFK Malmö's yellow shirts against West Germany after arriving without an alternate kit, Argentina lost 3–1. Czechoslovakia then routed them 6–1 in Helsingborg, still the heaviest defeat in the team's history, and Argentina went out after the group stage."
+              "id": "heaviest-defeat-ever-1958",
+              "label": "HEAVIEST DEFEAT EVER",
+              "story": "Already eliminated after two matches, Argentina met Czechoslovakia in Helsingborg and collapsed 6–1, still the biggest loss in the national team's World Cup history. Omar Corbatta's consolation goal in the 65th minute was the only bright spot in a tournament already lost."
             }
           ]
         }
@@ -210,16 +210,16 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Argentina_1962.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Argentina national team, 1962 FIFA World Cup (Wikimedia Commons)"
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "STUCK IN NEUTRAL IN CHILE",
-              "story": "A goalless draw with Hungary, sandwiched between a win over Bulgaria and a loss to England, left Argentina level on points but short on goal difference in windswept Rancagua. They exited after the first round for the second straight tournament running."
+              "id": "stuck-on-goal-difference-1962",
+              "label": "STUCK ON GOAL DIFFERENCE",
+              "story": "A goalless draw with Hungary in Rancagua's wind left Argentina level on points with rivals in Group D. Only goal difference separated advancement from elimination, and Argentina came up short, exiting after the first round for a second straight World Cup."
             }
           ]
         }
@@ -262,16 +262,16 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Argentina_germania_1966.JPG",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Argentina vs West Germany, 1966 FIFA World Cup Group Stage (Wikimedia Commons)"
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "WEMBLEY'S 'ANIMALS' REMARK",
-              "story": "Luis Artime scored three of Argentina's four goals to top a tight group, setting up a quarter-final against England at Wembley. Captain Antonio Rattín was sent off and refused to leave the pitch for several minutes, and England won 1–0 — a result manager Alf Ramsey later soured by calling Argentina's players 'animals.'"
+              "id": "rattins-wembley-stand-off-1966",
+              "label": "RATTÍN'S WEMBLEY STAND-OFF",
+              "story": "Sent off in the quarter-final against England at Wembley, captain Antonio Rattín refused to leave the pitch, delaying the match for several minutes before finally walking off past the Royal Box. England won 1–0, a result manager Alf Ramsey later soured by calling Argentina's players 'animals.'"
             }
           ]
         }
@@ -335,9 +335,9 @@ export const argentina = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "CRUYFF'S NETHERLANDS ENDS IT",
-              "story": "René Houseman's three goals carried Argentina through an uneven first group, but the second-round group brought Johan Cruyff's Netherlands, who dismantled them 4–0 in Gelsenkirchen. Face-saving draws with East Germany and Brazil closed out a tournament that never got out of second gear."
+              "id": "houseman-carries-the-group-1974",
+              "label": "HOUSEMAN CARRIES THE GROUP",
+              "story": "René Houseman scored three goals across Argentina's uneven first-round group, including two against Haiti, to help the team scrape through the pool. It wasn't enough momentum: the second round brought Johan Cruyff's Netherlands, who dismantled Argentina 4–0 in Gelsenkirchen days later."
             }
           ]
         }
@@ -401,16 +401,16 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Argentina_Netherlands_1978_FIFA_World_Cup_Final.png",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Argentina vs Netherlands, 1978 FIFA World Cup Final (Wikimedia Commons)"
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "KEMPES WINS IT AT HOME",
-              "story": "Hosting under a military dictatorship, Argentina needed a heavily disputed 6–0 rout of Peru to reach the final ahead of Brazil on goal difference. Mario Kempes scored twice in extra time of the final, and Daniel Bertoni added a third as Argentina beat the Netherlands 3–1 at the Monumental for their first title."
+              "id": "kempes-decides-it-at-home-1978",
+              "label": "KEMPES DECIDES IT AT HOME",
+              "story": "Playing under a military dictatorship and a wall of home noise at the Monumental, Mario Kempes scored twice in extra time of the final against the Netherlands. Daniel Bertoni added a third in a 3–1 win that gave Argentina its first World Cup title."
             }
           ]
         }
@@ -460,16 +460,16 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Argentina_hinchada_mundial_82.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Argentina supporters, 1982 FIFA World Cup (Wikimedia Commons)"
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "GOLDEN BOY SILENCED BY ITALY",
-              "story": "A 20-year-old Diego Maradona wore Argentina's number 10 at his first World Cup, but the defending champions lost their opener to Belgium and never recovered. Claudio Gentile fouled Maradona out of the second-round group decider, and Italy's 2–1 win sent Argentina home before the semi-finals."
+              "id": "gentile-marks-maradona-out-1982",
+              "label": "GENTILE MARKS MARADONA OUT",
+              "story": "Claudio Gentile shadowed and fouled a 20-year-old Diego Maradona relentlessly through the second-round decider against Italy, neutralizing the tournament's most-watched newcomer. Italy won 2–1, and the defending champions were eliminated before the semi-finals for the first time since 1966."
             }
           ]
         }
@@ -533,16 +533,16 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Diego_Maradona_Argentina_1986_cup_Azteca_Stadium.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Diego Maradona",
+            "game": "Diego Maradona with the World Cup trophy, Estadio Azteca, 1986 FIFA World Cup Final (Wikimedia Commons)"
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "HAND OF GOD, THEN THE CUP",
-              "story": "Diego Maradona scored the illegal 'Hand of God' and the mazy 'Goal of the Century' seven minutes apart against England, wearing a jersey improvised in a Mexico City market. He set up Jorge Burruchaga's winner in the final, beating West Germany 3–2 for Argentina's second title."
+              "id": "hand-of-god-goal-of-the-century-1986",
+              "label": "HAND OF GOD, GOAL OF THE CENTURY",
+              "story": "Seven minutes apart against England in the quarter-final, Diego Maradona punched in an illegal opener, then beat five defenders on a mazy dribble for arguably the greatest solo goal in World Cup history. Argentina won 2–1 en route to a second title."
             }
           ]
         }
@@ -613,9 +613,9 @@ export const argentina = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "TWO RED CARDS IN ROME",
-              "story": "Argentina scraped through a shaky group and needed penalties in both the quarter-final and semi-final. Pedro Monzón became the first player ever sent off in a World Cup final, joined minutes later by Gustavo Dezotti, as West Germany's Andreas Brehme converted a disputed late penalty for a 1–0 win."
+              "id": "two-red-cards-in-the-final-1990",
+              "label": "TWO RED CARDS IN THE FINAL",
+              "story": "Pedro Monzón became the first player ever sent off in a World Cup final, and Gustavo Dezotti joined him minutes later. Andreas Brehme converted a disputed late penalty, and West Germany won 1–0 in a bad-tempered rematch of the 1986 final."
             }
           ]
         }
@@ -658,16 +658,16 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:ArgentinaShirt1994WorldCup.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Argentina match kit, 1994 FIFA World Cup (Wikimedia Commons)"
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "MARADONA'S POSITIVE TEST",
-              "story": "Diego Maradona scored and celebrated wild-eyed into a pitchside camera against Greece, then tested positive for ephedrine after the Nigeria game and was sent home in disgrace. Without their captain, Argentina lost 3–2 to Romania in the Round of 16."
+              "id": "maradonas-wild-eyed-farewell-1994",
+              "label": "MARADONA'S WILD-EYED FAREWELL",
+              "story": "After scoring against Greece, Diego Maradona sprinted to a pitchside camera and screamed into the lens, eyes bulging — his last World Cup goal. He tested positive for ephedrine days later and was sent home in disgrace, never playing for Argentina again."
             }
           ]
         }
@@ -724,9 +724,9 @@ export const argentina = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "BATISTUTA'S HAT-TRICK, BERGKAMP'S STRIKE",
-              "story": "Gabriel Batistuta became the first player to score hat-tricks at two different World Cups, burying three against Jamaica. Ariel Ortega's red card for headbutting the goalkeeper undid Argentina in the quarter-final, where Dennis Bergkamp's touch-turn-volley in the 89th minute beat them 2–1."
+              "id": "bergkamps-89th-minute-touch-1998",
+              "label": "BERGKAMP'S 89TH-MINUTE TOUCH",
+              "story": "Tied 1–1 in the quarter-final against the Netherlands, Dennis Bergkamp controlled a long ball out of the air, dragged it past a defender, and volleyed it home in the 89th minute. Ariel Ortega's red card for headbutting the goalkeeper had already left Argentina down to ten men."
             }
           ]
         }
@@ -769,9 +769,9 @@ export const argentina = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "GOLDEN GENERATION, GROUP EXIT",
-              "story": "A star-studded squad built around Batistuta, Verón, and Crespo lost their opener to David Beckham's penalty against England, then could only draw Sweden despite dominating possession. Argentina's so-called 'golden generation' went out in the group stage, one of the tournament's biggest upsets."
+              "id": "golden-generation-goes-home-early-2002",
+              "label": "GOLDEN GENERATION GOES HOME",
+              "story": "Built around Batistuta, Verón, and Crespo, Argentina lost their opener to David Beckham's penalty and could only draw Sweden despite dominating possession. The so-called golden generation crashed out in the group stage, one of the tournament's biggest upsets."
             }
           ]
         }
@@ -821,16 +821,16 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:WM_2006_Argentinien-Serbien_und_Montenegro.JPG",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Argentina vs Serbia and Montenegro, 2006 FIFA World Cup Group Stage (Wikimedia Commons)"
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "24 PASSES, ONE PERFECT GOAL",
-              "story": "Esteban Cambiasso finished a 24-pass team move against Serbia and Montenegro in a 6–0 rout still shown as a passing masterclass. Germany eliminated Argentina on penalties in Berlin's quarter-final, Jens Lehmann's cheat-sheet on their takers proving decisive in a 4–2 shootout."
+              "id": "cambiassos-24-pass-goal-2006",
+              "label": "CAMBIASSO'S 24-PASS GOAL",
+              "story": "Against Serbia and Montenegro, Esteban Cambiasso finished a 24-pass team move in a 6–0 rout, a goal still shown as a passing masterclass. Germany eliminated Argentina in the quarter-final on penalties, Jens Lehmann's cheat-sheet on their takers proving decisive in a 4–2 shootout."
             }
           ]
         }
@@ -880,16 +880,16 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Argentina_South_Korea.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Argentina vs South Korea, 2010 FIFA World Cup Group Stage (Wikimedia Commons)"
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "DIEGO'S TEAM DISMANTLED",
-              "story": "Diego Maradona's Argentina rolled through the group stage and past Mexico, but Germany's counter-attacking machine humiliated them 4–0 in the Cape Town quarter-final. It remains Argentina's heaviest World Cup knockout defeat and effectively ended Maradona's brief, chaotic reign as head coach."
+              "id": "germanys-counter-attack-masterclass-2010",
+              "label": "GERMANY'S COUNTER-ATTACK MASTERCLASS",
+              "story": "Diego Maradona's Argentina rolled through the group stage unbeaten, but Germany's rapid counters dismantled them 4–0 in the Cape Town quarter-final. It remains Argentina's heaviest World Cup knockout defeat and effectively ended Maradona's brief run as head coach."
             }
           ]
         }
@@ -953,16 +953,16 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Germany_and_Argentina_face_off_in_the_final_of_the_World_Cup_2014_-2014-07-13_(45).jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Germany vs Argentina, 2014 FIFA World Cup Final (Wikimedia Commons)"
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "SO CLOSE WITH MESSI",
-              "story": "Lionel Messi carried a functional Argentina to a fifth final, scoring four goals including a stunner against Iran. Mario Götze's extra-time volley in the 113th minute beat them 1–0 at the Maracanã, denying Messi the title that had eluded Maradona's generation too."
+              "id": "gotzes-extra-time-winner-2014",
+              "label": "GÖTZE'S EXTRA-TIME WINNER",
+              "story": "Lionel Messi scored four goals to drag a functional Argentina to the final, but Mario Götze's chested-and-volleyed finish in the 113th minute won it for Germany at the Maracanã. It was Argentina's third World Cup final loss, denying Messi the title Maradona once won."
             }
           ]
         }
@@ -1005,16 +1005,16 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Argentina_vs_France_2018_World_Cup_01.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Argentina vs France, 2018 FIFA World Cup Round of 16 (Wikimedia Commons)"
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "KYLIAN MBAPPÉ ANNOUNCES HIMSELF",
-              "story": "A stumbling Argentina barely escaped the group on Marcos Rojo's late winner over Nigeria, then ran into a 19-year-old Kylian Mbappé, who scored twice and terrorized their back line in a 4–3 Round of 16 loss — the tournament's clearest signal that a new generation had arrived."
+              "id": "mbappe-announces-himself-2018",
+              "label": "MBAPPÉ ANNOUNCES HIMSELF",
+              "story": "A 19-year-old Kylian Mbappé scored twice and terrorized Argentina's back line in a 4–3 Round of 16 defeat, the clearest signal yet that a new generation had arrived. Marcos Rojo's late winner over Nigeria was the only thing that got Argentina this far."
             }
           ]
         }
@@ -1071,16 +1071,16 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:2022_FIFA_World_Cup_Match_24,_Argentina_v_Mexico_-_03.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Argentina vs Mexico, 2022 FIFA World Cup Group Stage (Wikimedia Commons)"
           },
           "annotations": [
             {
-              "id": "story",
+              "id": "messis-final-redemption-2022",
               "label": "MESSI'S FINAL REDEMPTION",
-              "story": "An opening loss to Saudi Arabia nearly derailed Lionel Messi's last World Cup, but Argentina won seven straight, including a Julián Álvarez-fueled semi-final rout of Croatia. Messi scored twice in the final, Kylian Mbappé's hat-trick forced a 3–3 draw, and Argentina won the shootout 4–2 for a third star."
+              "story": "An opening loss to Saudi Arabia nearly ended Lionel Messi's last World Cup before it began. Argentina won seven straight afterward, and Messi scored twice in a 3–3 final that Mbappé's hat-trick forced to penalties, where Argentina won 4–2 for a third star."
             }
           ]
         }
