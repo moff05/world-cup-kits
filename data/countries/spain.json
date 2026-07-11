@@ -519,6 +519,23 @@
       "result": "Quarter-final",
       "headline": "The Elbow Referee Never Saw",
       "story": "Luis Enrique needed his nose packed with cotton after Mauro Tassotti's elbow drew blood in the box, but referee Sándor Puhl waved play on and Roberto Baggio's late winner sent Italy through 2–1. It remains one of the World Cup's most notorious missed penalty calls, denying Spain a semi-final chance.",
+      "annotations": [
+        {
+          "id": "the-ref-who-missed-it",
+          "label": "THE REF WHO MISSED IT, PROMOTED",
+          "story": "Hungarian referee Sándor Puhl waved away the clearest penalty of the tournament, and FIFA's response was to hand him the 1998 final four years later. Luis Enrique's blood-soaked shirt became the enduring image of the injustice; the video review that might have caught it was still a decade away."
+        },
+        {
+          "id": "adidas-equipment-era",
+          "label": "THE 'EQUIPMENT' ERA SHIRT",
+          "story": "Adidas dressed Spain in its 'Equipment' line that summer — a slim, linear-branded tricot shirt with a plain ribbed collar, part of the same design family the brand used across a dozen federations. Even the socks couldn't settle on one identity, drifting between black and blue across different kit runs of the same tournament."
+        },
+        {
+          "id": "peps-only-world-cup-goal",
+          "label": "PEP'S ONE WORLD CUP GOAL",
+          "story": "Buried in the group-stage rout of Bolivia is a footnote: Josep Guardiola's only World Cup goal, scored as a 23-year-old holding midfielder years before he'd redefine how Spain played the game entirely. Nobody in Washington that day could have guessed they'd just watched the architect of tiki-taka score for his country."
+        }
+      ],
       "homeColors": "red shirt, blue shorts, socks shifting from black to blue (Adidas)",
       "awayColors": null,
       "image": null,
