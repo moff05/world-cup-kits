@@ -100,7 +100,7 @@
     "name": "Sweden",
     "confederation": "UEFA",
     "worldCupsCount": 12,
-    "status": "backfill",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -108,7 +108,7 @@
     "name": "Switzerland",
     "confederation": "UEFA",
     "worldCupsCount": 12,
-    "status": "backfill",
+    "status": "done",
     "tier": "medium"
   },
   {

@@ -42,6 +42,23 @@
       "result": "3rd Place",
       "headline": "Patenaude's Historic Hat-Trick",
       "story": "Bert Patenaude scored the first hat-trick in World Cup history as the U.S. routed Paraguay 3–0, backing up an opening win over Belgium. Argentina ended the run 6–1 in the semi-final in Montevideo, but with no third-place match played, the U.S. was later credited with third — still the program's best World Cup finish.",
+      "annotations": [
+        {
+          "id": "first-wc-hat-trick",
+          "label": "THE FIRST HAT-TRICK",
+          "story": "Bert Patenaude scored all three goals in a 3–0 win over Paraguay, but FIFA didn't officially recognize it as the first hat-trick in World Cup history until 2006 — seventy-six years later, after re-examining old match reports and resolving a long dispute with an Argentine forward over the record."
+        },
+        {
+          "id": "shield-crest-1930",
+          "label": "THE SHIELD CREST",
+          "story": "The 1930 jersey carried no sponsor and no standardized numbering — just a plain white cotton pullover with a small shield crest stitched over the heart, vertical red-and-white stripes beneath a cluster of stars, the same shirt the team wore into the 6–1 semifinal mauling by Argentina in Montevideo."
+        },
+        {
+          "id": "trainers-chloroform-collapse",
+          "label": "TRAINER'S CHLOROFORM COLLAPSE",
+          "story": "Down 1–0 to Argentina in the semifinal, trainer Jack Coll sprinted onto the field after a brutal foul broke Ralph Tracy's leg — then collapsed himself when a vial of chloroform shattered inside his medical bag, knocking him out cold and forcing teammates to carry two injured men off at once."
+        }
+      ],
       "homeColors": "white shirt, blue shorts, white socks",
       "awayColors": null,
       "image": null,
