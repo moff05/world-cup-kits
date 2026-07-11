@@ -74,6 +74,16 @@ export const japan = {
               "id": "nakayama-first-goal",
               "label": "JAPAN'S FIRST WORLD CUP GOAL",
               "story": "Masashi Nakayama scored Japan's first-ever World Cup goal against Jamaica in Lyon, but it came in a 2–1 defeat that sealed a winless debut. All three losses were by a single goal, a respectable start that convinced Japan it belonged on the sport's biggest stage."
+            },
+            {
+              "id": "three-brands-one-design",
+              "label": "THREE BRANDS, ONE DESIGN",
+              "story": "Unlike most nations, Japan didn't build a kit around whichever manufacturer held the contract — the federation drew its own template in-house, then loaned it annually to Adidas, Puma and Asics, who rotated as technical sponsor. Asics held the deal for the World Cup debut, but the flame graphics and blue base belonged to the JFA, not the brand."
+            },
+            {
+              "id": "doha-to-johor-bahru",
+              "label": "FROM DOHA'S AGONY TO JOHOR BAHRU'S JOY",
+              "story": "Four years earlier, Japan had blown World Cup qualification in the final seconds against Iraq in Doha, a collapse still mourned as national tragedy. Coach Takeshi Okada, who'd replaced the sacked Shu Kamo mid-campaign, beat Iran 3-2 in a playoff at Johor Bahru, finally sending Japan to its first World Cup."
             }
           ]
         }
@@ -126,6 +136,16 @@ export const japan = {
               "id": "hosts-reach-knockouts",
               "label": "FIRST TRIP TO THE KNOCKOUTS",
               "story": "As co-hosts, Japan reached the knockout stage in their maiden World Cup at home, beating Russia and Tunisia after a draw with Belgium. Hidetoshi Nakata's goal against Tunisia sent a sold-out crowd into raptures before Turkey ended the run in the Round of 16."
+            },
+            {
+              "id": "adidas-ends-the-rotation",
+              "label": "ADIDAS ENDS THE ROTATION",
+              "story": "For years the JFA had designed its own kit and lent it annually to whichever of Adidas, Puma or Asics held the contract. That system ended in 1999 when Adidas signed on as permanent supplier, making 2002 the first World Cup where the brand controlled Japan's design outright rather than just wearing someone else's template."
+            },
+            {
+              "id": "first-world-cup-shared-by-two",
+              "label": "FIRST WORLD CUP SHARED BY TWO NATIONS",
+              "story": "Japan and historic rival South Korea had each bid separately to host alone, but FIFA forced an unprecedented compromise: the first World Cup staged across two countries, and the first held anywhere in Asia. The split arrangement meant Japan never had to face co-host Korea, who reached their own historic semi-final run."
             }
           ]
         }
@@ -166,7 +186,23 @@ export const japan = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "cahills-six-minute-storm",
+              "label": "CAHILL'S SIX-MINUTE STORM",
+              "story": "Shunsuke Nakamura's speculative 25-yard lob had Japan ahead until the 81st minute, when substitute Tim Cahill scored twice in six minutes — one off a spilled long throw — before John Aloisi added a third in stoppage time. It remains Australia's first-ever World Cup win, and Japan's tournament never recovered."
+            },
+            {
+              "id": "sharing-germanys-template",
+              "label": "SHARING GERMANY'S TEMPLATE",
+              "story": "Adidas built the 2006 shirt on its Teamgeist template, the same base cut it gave host Germany and more than a dozen other countries that year. Japan's version stood out anyway: pale blue wave-like panels down each side and red trim at the cuffs, one of the more distinctive executions of a widely shared design."
+            },
+            {
+              "id": "the-white-pele-on-the-bench",
+              "label": "THE WHITE PELÉ ON THE BENCH",
+              "story": "Arthur Antunes Coimbra — known worldwide as Zico, once dubbed the White Pelé for Brazil's 1980s sides — took over Japan in 2002 with no prior senior coaching experience. His four years building a possession-based, technical identity ended in Germany's group stage, and he stepped down immediately after the exit."
+            }
+          ]
         }
       }
     },
@@ -217,6 +253,16 @@ export const japan = {
               "id": "kawashima-shutout",
               "label": "120 SCORELESS MINUTES, THEN HEARTBREAK",
               "story": "Keisuke Honda's free kick and goals from Yasuhito Endo and Shinji Okazaki carried Japan past Cameroon and Denmark into the knockout rounds for just the second time. Goalkeeper Eiji Kawashima kept a clean sheet through 120 scoreless minutes against Paraguay before Japan fell in the shootout."
+            },
+            {
+              "id": "adidas-controversial-skintight-shirt",
+              "label": "ADIDAS'S CONTROVERSIAL SKIN-TIGHT SHIRT",
+              "story": "Adidas rolled its new second-skin Techfit shirt out across its stable for 2010, a compression fit engineered in wind tunnels to shave fractions off a striker's swing. Japan's version pressed a tonal wave pattern into the fabric, though the skintight cut drew complaints across the tournament for running noticeably small."
+            },
+            {
+              "id": "okada-semifinal-vow",
+              "label": "THE COACH WHO PREDICTED A SEMI-FINAL",
+              "story": "Months before the tournament, with Japan mired in poor form and pundits mocking the idea, coach Takeshi Okada publicly guaranteed a semi-final finish. He then scrapped his attacking system for a defensive 3-4-2-1 weeks before kickoff, a gamble that produced two group-stage wins before Paraguay ended the run on penalties."
             }
           ]
         }
@@ -257,7 +303,23 @@ export const japan = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "drogbas-two-minute-intervention",
+              "label": "DROGBA'S TWO-MINUTE INTERVENTION",
+              "story": "Keisuke Honda's 16th-minute strike had Japan ahead until Didier Drogba entered as a 62nd-minute substitute. Two minutes later Wilfried Bony headed in the equalizer, and Gervinho added the winner soon after — Japan conceding twice in a five-minute stretch to an opponent that only found its scoring touch once its talisman arrived."
+            },
+            {
+              "id": "eleven-lines-one-huddle",
+              "label": "ELEVEN LINES, ONE HUDDLE",
+              "story": "Adidas built the 2014 shirt around 'Enjin,' Japanese for a huddle, with eleven lines fanning out from the crest, one for each player leaving the circle for his position. The back carried a painted band styled after Brazil's bonfim wish ribbons, tied on like the good-luck charms sold outside Salvador's churches."
+            },
+            {
+              "id": "highest-ever-preseason-ranking",
+              "label": "RANKED HIGHER THAN EVER BEFORE",
+              "story": "Under Italian coach Alberto Zaccheroni, Japan arrived in Brazil having climbed to its highest FIFA ranking in program history and topping most pundits' picks as Asia's best hope for a knockout run. It made the group-stage exit, capped by the Ivory Coast collapse, sting as one of the program's most disappointing tournaments."
+            }
+          ]
         }
       }
     },
@@ -308,6 +370,16 @@ export const japan = {
               "id": "belgium-collapse",
               "label": "THE COLLAPSE AGAINST BELGIUM",
               "story": "Genki Haraguchi and Takashi Inui staked Japan to a stunning 2–0 lead over Belgium in the Round of 16, only for Marouane Fellaini, Nacer Chadli and a 94th-minute counterattack to complete the collapse. It was the first time since 1970 that a team had blown a two-goal lead in a World Cup knockout match."
+            },
+            {
+              "id": "grey-shirt-90s-throwback",
+              "label": "GREY SHIRT, '90S THROWBACK",
+              "story": "The 2018 away shirt swapped the usual white for pale grey, a diagonal three-stripe gradient borrowed from Adidas's 1990s EQT range and pitched as a modern reworking of Japan's own 1991 home jersey. It marked one of the first times an Adidas World Cup away kit for Japan leaned on the brand's retro archive rather than a fresh federation design."
+            },
+            {
+              "id": "through-on-a-technicality",
+              "label": "THROUGH ON A TECHNICALITY",
+              "story": "Level with Senegal on points, goal difference, goals scored and head-to-head record, Japan advanced to the Round of 16 purely because it had picked up four yellow cards to Senegal's six. It was the first time FIFA's fair-play tiebreaker, introduced in 2016, ever decided a World Cup group outcome, and Senegal became its first casualty."
             }
           ]
         }
@@ -365,6 +437,11 @@ export const japan = {
               "id": "croatia-penalties",
               "label": "MAEDA'S EQUALIZER, THEN PENALTIES",
               "story": "Daizen Maeda's equalizer forced extra time against Croatia in the Round of 16, but the match went to penalties, where Japan missed three of four attempts and was eliminated 3–1. It marked back-to-back tournaments in which Japan had topped its group only to fall in the first knockout round."
+            },
+            {
+              "id": "cranes-folded-from-a-2002-memory",
+              "label": "CRANES FOLDED FROM A 2002 MEMORY",
+              "story": "Adidas's 2022 home shirt traced its all-over pattern of folded paper cranes back to the 2002 final in Yokohama, where three million origami orizuru were released into the air as a tribute after the match. Twenty years later those same cranes became the shirt's graphic, worn as a wish for good fortune through the wins over Germany and Spain."
             }
           ]
         }
