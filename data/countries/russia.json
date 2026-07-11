@@ -42,6 +42,23 @@
       "result": "Quarter-final",
       "headline": "Yashin's World Cup Debut",
       "story": "Lev Yashin marshaled a Soviet debut that opened with a wild 2–2 draw against England in Gothenburg. A win over Austria and a playoff replay against England sent them through the group, but hosts-to-be Sweden shut out the newcomers 2–0 in the quarter-final. Television carried Yashin's acrobatics to the world for the first time.",
+      "annotations": [
+        {
+          "id": "ilyins-playoff-winner",
+          "label": "ILYIN'S PLAYOFF WINNER",
+          "story": "Anatoli Ilyin settled a playoff against England with a single goal in the 67th minute at Råsunda Stadium, sending the Soviets through to the knockouts on their World Cup debut — a quiet ending to a group stage that had opened with a wild 2–2 draw against the same opponents."
+        },
+        {
+          "id": "the-red-debut",
+          "label": "THE RED DEBUT",
+          "story": "The Soviet Union arrived in Sweden in an all-red kit with white shorts and CCCP lettering across the chest, the template that would define the team for three decades. It was the world's first extended look at Soviet football, broadcast to a mass television audience for the first time in World Cup history."
+        },
+        {
+          "id": "cold-war-kickoff",
+          "label": "COLD WAR KICKOFF",
+          "story": "Coached by Gavriil Kachalin, the Soviets needed a playoff win over Poland just to qualify, then arrived in neutral Sweden little more than a decade into the Cold War. Their bow marked the first time a Soviet team had competed at the sport's biggest tournament, watched by curious Western audiences."
+        }
+      ],
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
       "image": null,
