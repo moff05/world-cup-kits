@@ -196,9 +196,19 @@ export const cameroon = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "MILLA'S RECORD, THEN A ROUT",
-              "story": "At 42, Roger Milla became the oldest scorer in World Cup history with a goal against Russia, but it barely mattered — Cameroon shipped six goals in that match and three more against Brazil, finishing without a win. A draw with Sweden was the campaign's only point, a dismal follow-up to the heroics of four years earlier."
+              "id": "song-youngest-red-card",
+              "label": "YOUNGEST RED CARD EVER",
+              "story": "At seventeen years and 358 days old, Rigobert Song lunged into a reckless tackle on Bebeto in the 63rd minute against Brazil and became the youngest player ever sent off at a World Cup — a record that has stood for three decades and outlasted every teenager who's played since."
+            },
+            {
+              "id": "mitre-the-outlier",
+              "label": "THE ONE-TOURNAMENT KIT DEAL",
+              "story": "Mitre, not Adidas or Puma, supplied Cameroon's shirts in 1994 — the only World Cup in the country's history made by a manufacturer that never got a second contract. The partnership vanished as quickly as it arrived, leaving USA '94 shirts among the rarest Cameroon jerseys collectors chase today."
+            },
+            {
+              "id": "bonus-money-vanishes",
+              "label": "THE MISSING BRIEFCASE",
+              "story": "A nationwide fundraising drive meant to top up player bonuses reportedly went missing somewhere between Yaoundé and New York, sparking accusations and a near-mutiny in camp before a ball was kicked. The government's communications minister could only say the money was lost \"between Paris and New York.\""
             }
           ]
         }
