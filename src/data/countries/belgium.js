@@ -112,9 +112,19 @@ export const belgium = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "GONE AFTER ONE MATCH",
-              "story": "With no group stage in 1934, one loss meant elimination. Germany overwhelmed Belgium 5–2 in the tournament's single-elimination opening round, the Red Devils' heaviest-scoring World Cup defeat to that point. It was a quick, forgettable trip to Italy that ended before the second week began."
+              "id": "single-match-exit",
+              "label": "ONE MATCH, DONE",
+              "story": "There was no group stage in 1934 — one loss and you sailed home. Germany made sure of it early, racing to a 5–2 win that stood as Belgium's heaviest World Cup defeat for decades. Two goals from Bernard Voorhoof were the only consolation in a ruthless single-elimination format."
+            },
+            {
+              "id": "no-numbers-no-mercy",
+              "label": "A FACELESS RED SHIRT",
+              "story": "FIFA hadn't yet mandated squad numbers for the 1934 tournament, so Belgium's players took the field in identical unmarked red shirts, white shorts, and red socks — indistinguishable to spectators beyond a program sheet. The look wouldn't change for another World Cup; individual shirt numbers were still years away."
+            },
+            {
+              "id": "qualified-by-withdrawal",
+              "label": "A QUALIFICATION FLUKE",
+              "story": "Belgium actually lost their head-to-head qualifier to the Netherlands 4–2 that April. They advanced anyway: the Dutch federation withdrew from the competition afterward, handing Belgium the European group spot on goal difference instead — a backdoor route to Italy that had nothing to do with beating anyone."
             }
           ]
         }
