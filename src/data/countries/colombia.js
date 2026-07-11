@@ -132,9 +132,19 @@ export const colombia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "HIGUITA'S GAMBLE COSTS COLOMBIA",
-              "story": "Freddy Rincón's late equalizer against West Germany sent Colombia through to the knockouts for the first time, but eccentric goalkeeper René Higuita's love of dribbling backfired in the Round of 16: Roger Milla robbed him near the box and scored twice in extra time, sending Cameroon through 2–1."
+              "id": "only-points-dropped",
+              "label": "GERMANY'S ONLY DRAW",
+              "story": "That 1–1 scoreline mattered beyond the group table: West Germany won every other game in normal time that summer and lifted the trophy in Rome, meaning Rincón's stoppage-time leveler remains the only point West Germany dropped in the entire group stage before winning the World Cup outright."
+            },
+            {
+              "id": "shoulder-stripe-legacy",
+              "label": "SHOULDER STRIPE LEGACY",
+              "story": "Adidas dressed Colombia in a boxy doubleknit shirt with oversized tricolor shoulder stripes in yellow, blue and red, the federation crest floating above the trefoil — a design so beloved that Adidas exhumed it in 2018, reworking those same shoulder stripes for Colombia's next World Cup jersey almost three decades later."
+            },
+            {
+              "id": "cartel-financed-generation",
+              "label": "CARTEL-BUILT SQUAD",
+              "story": "Eight of the twenty-two players on that 1990 roster, including Higuita and Faustino Asprilla, had come through Atlético Nacional during Pablo Escobar's ownership years, when drug money bankrolled coaches, wages and a 1989 Copa Libertadores title — the same cartel financing that built the golden generation now on football's biggest stage."
             }
           ]
         }
