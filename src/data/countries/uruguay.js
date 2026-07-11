@@ -909,9 +909,19 @@ export const uruguay = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "OUT ON A TIEBREAKER",
-              "story": "Giorgian de Arrascaeta's brace fueled a routine 2–0 win over Ghana in the finale, and Uruguay finished level on points and goal difference with South Korea. But Son Heung-min's side had scored two more goals across the group, and Uruguay were eliminated on the tiebreaker after their sole loss came against Portugal."
+              "id": "players-confront-referee",
+              "label": "FURY AT THE WHISTLE",
+              "story": "When the final whistle confirmed elimination, Uruguay's players surrounded referee Daniel Siebert, furious over two waved-off penalty appeals. FIFA later banned Fernando Muslera and José Giménez for four matches and suspended Diego Godín and Edinson Cavani for one, ruling their conduct toward the officials 'discriminatory' and a breach of fair play."
+            },
+            {
+              "id": "away-kit-flag-fold",
+              "label": "A CREST-CENTERED JERSEY",
+              "story": "Puma's 2022 away shirt was white with a light-blue box folded across the chest, the federation crest, flag, and 'Uruguay' script arranged together inside it — a design meant to foreground national identity over Puma's own branding. Five faint celeste stripes ran down the center, a subtle callback to the home shirt's solid blue."
+            },
+            {
+              "id": "alonso-hired-months-before",
+              "label": "A FAST COACHING TURNAROUND",
+              "story": "Diego Alonso took over only in December 2021, after the federation fired 74-year-old Óscar Tabárez following a run of four straight losses. Alonso won his first four games and sealed qualification within four months of arriving, then resigned after the group-stage exit — a coaching tenure that lasted barely a year, start to finish."
             }
           ]
         }
