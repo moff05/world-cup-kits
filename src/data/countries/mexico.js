@@ -411,9 +411,19 @@ export const mexico = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "AZTECA ROARS, ITALY ENDS IT",
-              "story": "Hosting for the first time, Mexico opened with a goalless draw against the Soviet Union, then Javier Valdivia's brace powered a 4–0 win over El Salvador. A late strike from Peña beat Belgium 1–0 to reach the quarter-finals, where Italy ended the run 4–1 despite a consolation goal from González — the deepest Mexico had ever gone."
+              "id": "two-goals-in-sixty-seconds",
+              "label": "TWO GOALS IN SIXTY SECONDS",
+              "story": "Javier Valdivia scored in the 45th minute, then again in the 46th, a goal on either side of halftime against El Salvador that powered a 4–0 win. It was the burst that got Mexico's deepest-ever run truly moving."
+            },
+            {
+              "id": "green-in-color-for-the-first-time",
+              "label": "GREEN IN COLOR FOR THE FIRST TIME",
+              "story": "1970 was the first World Cup broadcast in color television worldwide, meaning viewers outside Mexico saw the green shirt as green — not a shade of gray — for the very first time. The kit had existed for twelve years before the world actually saw its color."
+            },
+            {
+              "id": "a-continent-hosts-for-the-first-time",
+              "label": "A CONTINENT HOSTS FOR THE FIRST TIME",
+              "story": "Mexico became the first country outside Europe or South America to host a World Cup, and the first in North America. Hosting and reaching the quarter-finals in the same tournament made 1970 the furthest the team had ever gone."
             }
           ]
         }
