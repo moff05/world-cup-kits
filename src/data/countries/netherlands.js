@@ -185,9 +185,19 @@ export const netherlands = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "TOTAL FOOTBALL, SILVER MEDAL",
-              "story": "Johan Cruyff's Total Football swept through the tournament: Argentina thrashed 4–0, Brazil beaten 2–0 in a second-round decider. Then, in the Munich final, the Dutch scored before West Germany even touched the ball — Johan Neeskens converting a penalty inside two minutes — only to concede twice and lose 2–1, the most painful near-miss in Dutch football history."
+              "id": "the-cruyff-turn-is-born",
+              "label": "THE TURN IS BORN",
+              "story": "Trapped on the touchline by Sweden's Jan Olsson, Johan Cruyff feinted a cross, dragged the ball behind his own standing leg, and spun away untouched — a move so unexpected that commentators had no name for it yet. Within days the world did: the Cruyff Turn, invented live at a World Cup, against a defender who never saw it coming."
+            },
+            {
+              "id": "polyester-replaces-cotton",
+              "label": "OUT WITH THE COTTON",
+              "story": "The 1974 jersey ditched the heavy fabric of previous decades for a lightweight polyester weave that hugged the body instead of billowing in the wind — a small technical shift that mattered enormously for a team whose entire tactical identity depended on players covering every blade of grass without room to spare."
+            },
+            {
+              "id": "the-bild-pool-scandal",
+              "label": "THE BILD AMBUSH",
+              "story": "Five days before the final, German tabloid Bild ran 'Cruyff, Champagne, and Nude Women' — a story about a poolside party at the Dutch team hotel, timed deliberately to rattle the squad before facing the hosts. Wives called the hotel for hours demanding answers. The distraction, several players later admitted, never fully lifted before Munich."
             }
           ]
         }
