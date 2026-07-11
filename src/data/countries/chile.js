@@ -204,9 +204,19 @@ export const chile = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "HOSTS CLIMB TO THIRD",
-              "story": "Leonel Sánchez's goals carried host Chile past Switzerland and Italy into a bruising campaign that toppled the Soviet Union in the quarter-final, before Garrincha's Brazil ended the run 4–2 in the semi. Eladio Rojas's late strike beat Yugoslavia in the third-place match, sealing the best finish in Chilean football history on home soil."
+              "id": "rojas-bronze-winner",
+              "label": "ROJAS SETTLES BRONZE",
+              "story": "With the third-place match against Yugoslavia locked scoreless, Eladio Rojas surged forward late and struck the winner, sealing a 1–0 win in front of a roaring home crowd in Santiago. It remains Chile's best World Cup finish ever — a podium built on Leonel Sánchez's goals and a nation watching in person."
+            },
+            {
+              "id": "blue-socks-home-kit",
+              "label": "SOCKS TURN DEEP BLUE",
+              "story": "Home advantage meant home colors, mostly unchanged: scarlet shirt, white shorts, but socks swapped this time to deep blue instead of the usual white. No sponsor patch anywhere, just a small national crest over the heart — the plainest version of the shirt Chile ever wore, on the one tournament the whole country got to watch it live."
+            },
+            {
+              "id": "built-from-earthquake-rubble",
+              "label": "BUILT FROM RUBBLE",
+              "story": "Two years before kickoff, the largest earthquake ever recorded flattened swaths of southern Chile. FIFA let the country keep hosting anyway, and organizers rebuilt stadiums under a defiant slogan: 'Because we have nothing, we will do everything.' A nation still counting its dead delivered a World Cup — and walked away with its best-ever finish."
             }
           ]
         }
