@@ -837,6 +837,16 @@ export const argentina = {
               "id": "bergkamps-89th-minute-touch-1998",
               "label": "BERGKAMP'S 89TH-MINUTE TOUCH",
               "story": "Tied 1–1 in the quarter-final against the Netherlands, Dennis Bergkamp controlled a long ball out of the air, dragged it past a defender, and volleyed it home in the 89th minute. Ariel Ortega's red card for headbutting the goalkeeper had already left Argentina down to ten men."
+            },
+            {
+              "id": "reebok-takes-over-1998",
+              "label": "REEBOK TAKES OVER",
+              "story": "France '98 marked a rare break from Adidas: Reebok won the kit contract, swapping the three stripes for its own vector logo on Argentina's chest for a single tournament. It didn't last — Adidas reclaimed the deal within a few years, making the Reebok strip one of the shortest-lived kits in team history."
+            },
+            {
+              "id": "the-ponytail-rule-1998",
+              "label": "THE PONYTAIL RULE",
+              "story": "Manager Daniel Passarella enforced a strict no-earrings, no-long-hair policy on the squad, a rule so rigid it kept the mulleted, earringed Claudio Caniggia off the World Cup roster entirely despite his talent. The disciplinarian approach split opinion inside Argentina long before a ball was kicked in France."
             }
           ]
         }
