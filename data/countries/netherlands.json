@@ -702,6 +702,23 @@
       "result": "Quarter-final",
       "headline": "Weghorst's Double, Messi's Answer",
       "story": "Cody Gakpo scored in three straight group games to introduce himself to the world, and Denzel Dumfries capped a 3–1 Round of 16 win over the United States. Wout Weghorst's stoppage-time double forced extra time against Argentina in the quarter-final, but Messi's side prevailed on penalties, ending Van Gaal's second spell in charge.",
+      "annotations": [
+        {
+          "id": "a-substitute-does-it-twice",
+          "label": "A SUB DOES IT TWICE",
+          "story": "Wout Weghorst was still on the bench when Argentina led 2–0 with twenty minutes left. Louis van Gaal threw him on, and he headed one goal home off Steven Berghuis's cross in the 83rd minute, then leveled it in the eleventh minute of stoppage time to send the quarter-final to extra time."
+        },
+        {
+          "id": "a-lions-mane-woven-in",
+          "label": "A LION'S MANE, WOVEN IN",
+          "story": "Nike's 2022 home shirt used two shades of orange — a bright 'Laser Orange' base with a darker swirl pattern inspired by a lion's mane, meant to visually echo the fluid positional swapping of 1970s Total Football. It was the most abstract, least literal design the crest and colors had ever shared a jersey with."
+        },
+        {
+          "id": "the-battle-of-lusail",
+          "label": "THE BATTLE OF LUSAIL",
+          "story": "Referee Antonio Mateu Lahoz handed out a World Cup record 18 yellow cards as the quarter-final against Argentina degenerated into shoving matches and mass confrontations, later nicknamed the Battle of Lusail. Messi mocked the Dutch bench with a cupped-ear celebration and later called Weghorst a 'bobo' — fool — in a live TV interview."
+        }
+      ],
       "homeColors": "orange shirt, black shorts, black socks (Nike)",
       "awayColors": "blue shirt, blue shorts (Nike)",
       "image": null,
