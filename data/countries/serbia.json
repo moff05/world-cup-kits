@@ -148,6 +148,23 @@
       "result": "Quarter-final",
       "headline": "Halted By The Miracle Men",
       "story": "Miloš Milutinović's goal beat France, and Branko Zebec's equalizer salvaged a 1–1 draw with Brazil to send Yugoslavia into the quarter-finals in Switzerland. West Germany, riding the momentum that would carry them to the 'Miracle of Bern,' shut Yugoslavia out 2–0 and ended their run.",
+      "annotations": [
+        {
+          "id": "milutinovics-opener",
+          "label": "MILUTINOVIĆ'S OPENER",
+          "story": "Miloš Milutinović's 15th-minute strike was enough to sink France in Lausanne, and Branko Zebec's second-half leveler against tournament favorites Brazil held Yugoslavia to a 1–1 draw — a rare point taken off the eventual runners-up before West Germany's defense shut them out in the quarter-final."
+        },
+        {
+          "id": "two-decades-before-a-logo",
+          "label": "TWO DECADES BEFORE A LOGO",
+          "story": "The navy shirt worn in Switzerland was still made in-house, with two more decades to pass before Yugoslavia wore its first branded manufacturer's kit in 1974. No stripes, no swoosh — just plain wool and a crest, unchanged since the team's founding."
+        },
+        {
+          "id": "nine-years-after-liberation",
+          "label": "NINE YEARS AFTER LIBERATION",
+          "story": "Less than a decade removed from Nazi occupation and a brutal partisan resistance, Tito's rebuilding Yugoslavia sent a team to Switzerland as a statement of national recovery — a socialist state charting its own path, distinct from Moscow, on football's biggest stage."
+        }
+      ],
       "homeColors": "dark blue shirt, white shorts, red socks",
       "awayColors": null,
       "image": null,
