@@ -75,6 +75,11 @@
     "1938": {
       "result": "Quarter-final",
       "headline": "A Replay, Then a Wall",
+      "annotations": [
+        { "id": "aeby-ten-men", "label": "TEN MEN, STILL WON", "story": "Georges Aeby went down injured minutes into the Germany replay, leaving Switzerland to play most of the first half a man short — and Germany raced to a 2–0 lead. Aeby returned for the second half, and the Swiss tore back to win 4–2, one of the great World Cup comebacks of the pre-war era." },
+        { "id": "two-games-one-kit", "label": "SAME SHIRT, FIVE DAYS", "story": "The same unbranded red shirt, white shorts, and red socks did double duty for both the draw and the replay against Germany — two full matches within five days, a scheduling quirk unique to the pre-penalty-shootout era, when a deadlock simply meant playing the whole 90 minutes over again." },
+        { "id": "austria-absorbed-into-germany", "label": "PLAYING A POLITICAL SQUAD", "story": "Three months before the tournament, Nazi Germany's annexation of Austria dissolved one of Europe's best teams and folded a handful of its players into the German squad Switzerland faced — a forced, awkward merger that never gelled. The Swiss exploited the disunity, holding Germany to a draw before winning the replay outright." }
+      ],
       "story": "André Abegglen's stoppage-time equalizer forced a replay after a 1–1 draw with Germany, and Switzerland won it 4–2 two days later behind two more Abegglen goals. Hungary, on their way to the final, shut the run down 2–0 in the quarter-final — Switzerland's second straight exit at that stage.",
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
