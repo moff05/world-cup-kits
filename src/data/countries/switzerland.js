@@ -363,7 +363,7 @@ export const switzerland = {
             {
               "id": "englands-world-cup",
               "label": "AWAY FROM THE SPOTLIGHT",
-              "story": "1966 belonged to the hosts: England lifted the trophy on home soil at Wembley while Switzerland's group games unfolded far from Wembley, in Sheffield and Birmingham, away from the spotlight. The Swiss were making up the numbers in someone else's story — and their exit was so bad it triggered a generation-long rethink."
+              "story": "1966 belonged to the hosts: England lifted the trophy on home soil at Wembley while Switzerland's group games unfolded in Sheffield and Birmingham, well away from the spotlight. The Swiss were making up the numbers in someone else's story — and their exit was so bad it triggered a generation-long rethink."
             }
           ]
         }
