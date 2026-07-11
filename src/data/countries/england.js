@@ -818,9 +818,19 @@ export const england = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ROONEY'S RED CARD, RICARDO'S SAVES",
-              "story": "A David Beckham free kick edged out Ecuador in the Round of 16, but the quarter-final against Portugal turned sour when Wayne Rooney was sent off for stamping on Ricardo Carvalho. The match finished goalless after extra time, and Portuguese goalkeeper Ricardo saved three England penalties, including Jamie Carragher's, to send Portugal through 3–1 on kicks."
+              "id": "carraghers-penalty-that-didnt-count",
+              "label": "THE PENALTY THAT DIDN'T COUNT",
+              "story": "Jamie Carragher buried his penalty in the shootout, only for it not to count, since referee Horacio Elizondo hadn't blown his whistle before the kick. Forced to retake it, Carragher hit the bar, one of three England penalties saved by Portugal keeper Ricardo."
+            },
+            {
+              "id": "stitched-for-the-occasion",
+              "label": "STITCHED FOR THE OCCASION",
+              "story": "Like every England shirt since the 1980s, Umbro stitched the tournament's name in small type beneath the Three Lions crest, 'FIFA World Cup Germany 2006,' a quiet ritual tying each new kit to the specific tournament it was built for, discarded the moment the team went home."
+            },
+            {
+              "id": "the-wink-england-never-forgave",
+              "label": "THE WINK THEY NEVER FORGAVE",
+              "story": "After helping get his club teammate Wayne Rooney sent off, Cristiano Ronaldo turned and winked toward the Portugal bench. English tabloids branded him a traitor; Manchester United fans booed him for months until he won them back the only way he could, by scoring goals."
             }
           ]
         }
