@@ -264,7 +264,7 @@ export const denmark = {
           "annotations": [
             {
               "id": "honda-endo-free-kicks",
-              "label": "TWO FREE KICKS, ONE EXIT",
+              "label": "TWO FREE KICKS",
               "story": "Denmark's group stage ended in a 3–1 defeat to Japan built almost entirely on dead balls: Keisuke Honda and Yasuhito Endo both scored direct free kicks in the first half, a template-perfect illustration of the set-piece frailty that had already cost Denmark against the Netherlands."
             },
             {
