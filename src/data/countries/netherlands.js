@@ -627,9 +627,19 @@ export const netherlands = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "INIESTA BREAKS DUTCH HEARTS",
-              "story": "Wesley Sneijder scored five goals to drag the Dutch to their third final, beating Brazil and Uruguay along the way without ever losing control of a match. In Johannesburg, a bruising, foul-riddled final against Spain went scoreless into extra time before Andrés Iniesta struck in the 116th minute, denying Netherlands the trophy yet again."
+              "id": "the-kung-fu-kick",
+              "label": "THE KUNG-FU KICK",
+              "story": "Nineteen minutes into the final, Nigel de Jong planted his boot in Xabi Alonso's chest at hip height — a challenge so violent that pundit Ruud Gullit called it 'kung fu' on air. Referee Howard Webb showed yellow instead of red, and the wild, foul-choked final ground on for another 97 minutes before Iniesta finally broke it."
+            },
+            {
+              "id": "a-black-v-and-white-stripes",
+              "label": "A BLACK V, WHITE STRIPES",
+              "story": "Nike's 2010 home shirt kept the orange base but sharpened it with a black V-neck collar and thin white side stripes running the length of the torso — a slimmer, more tailored cut than any previous Oranje shirt, built to look sleek under South Africa's winter floodlights."
+            },
+            {
+              "id": "the-orange-dress-arrests",
+              "label": "THE ORANGE DRESS ARRESTS",
+              "story": "During the Denmark group match, security ejected 36 women from the stands, all wearing identical short orange dresses handed out by Dutch brewery Bavaria as guerrilla marketing. Two organizers were later arrested under South African trademark law, prompting the Dutch foreign minister to intervene — a marketing stunt that briefly became a bigger story than the match itself."
             }
           ]
         }
