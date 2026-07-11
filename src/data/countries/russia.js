@@ -640,9 +640,19 @@ export const russia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "A LASER AND AN EXIT",
-              "story": "Aleksandr Kokorin's early strike had Russia up 1–0 on Algeria and closing in on the knockout rounds, but a laser pointer shone in goalkeeper Igor Akinfeev's face preceded Islam Slimani's equalizer, and the match finished 1–1. A late Divock Origi goal had already sunk them 1–0 against Belgium, ending the run in the group stage."
+              "id": "a-late-equalizer",
+              "label": "A LATE EQUALIZER",
+              "story": "Alexander Kerzhakov leveled the opener against South Korea with a 74th-minute strike after a horrendous mistake by goalkeeper Lee Beom-young, salvaging a point that looked like the platform for a group-stage breakthrough. Instead it proved the high point of a tournament that ended in the group's bottom two."
+            },
+            {
+              "id": "lets-go-stitched-in",
+              "label": "\"LET'S GO,\" STITCHED IN",
+              "story": "Below the collar of the maroon-and-gold 2014 kit was stitched \"поехали!\" — \"Let's go!\" — the phrase Yuri Gagarin shouted during the launch of Vostok 1 in 1961. The design's maroon front pattern depicted the Monument to the Conquerors of Space, tying the kit directly to Soviet spaceflight history."
+            },
+            {
+              "id": "straight-off-the-olympics",
+              "label": "STRAIGHT OFF THE OLYMPICS",
+              "story": "Russia arrived in Brazil just months after hosting the Sochi Winter Olympics, its costliest and most ambitious prestige project yet, with the 2018 World Cup already confirmed as the next showcase. A group-stage exit sandwiched between two Olympic-scale spectacles made the football team's flat showing feel especially conspicuous back home."
             }
           ]
         }
