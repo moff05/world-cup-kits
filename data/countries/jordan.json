@@ -1,4 +1,4 @@
-export const jordan = {
+{
   "id": "jordan",
   "name": "Jordan",
   "flagCode": "jo",
@@ -26,4 +26,4 @@ export const jordan = {
     }
   ],
   "kits": {}
-};
+}
