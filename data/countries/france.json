@@ -484,6 +484,23 @@
       "result": "3rd Place",
       "headline": "Platini's Penalty Redemption vs Brazil",
       "story": "France avenged 1982 in the quarter-final, outlasting Brazil on penalties after Michel Platini missed in regulation but Luis Fernández buried the clincher. West Germany again ended the run in the semis, 0–2, before Les Bleus beat Belgium 4–2 in extra time to claim third place with the same golden generation.",
+      "annotations": [
+        {
+          "id": "platini-revenge",
+          "label": "PLATINI'S REVENGE",
+          "story": "France avenged 1982 by outlasting Brazil on penalties in the quarter-final, Michel Platini missing in regulation before Luis Fernández buried the winning kick. West Germany ended the run again in the semis, but a golden generation still had enough left to beat Belgium 4–2 in extra time for third place."
+        },
+        {
+          "id": "first-adidas-kit",
+          "label": "FIRST ADIDAS KIT",
+          "story": "1986 marked the end of Le Coq Sportif's three-decade run and the start of Adidas dressing France, a switch that came with the brand's now-famous three stripes running down the sleeves. It was the first France World Cup shirt made by a company that wasn't itself French."
+        },
+        {
+          "id": "golden-generation-twilight",
+          "label": "GOLDEN GENERATION'S TWILIGHT",
+          "story": "1986 was the last World Cup for Michel Platini's generation — Giresse, Tigana, Fernández — a midfield trio nicknamed the 'carré magique' that had carried France to back-to-back semi-finals. None would play international football much past the following year, closing out one of the great underachieving eras in World Cup history."
+        }
+      ],
       "homeColors": "blue shirt, white shorts, red socks (Adidas, first tournament under the new kit deal)",
       "awayColors": null,
       "image": null,
