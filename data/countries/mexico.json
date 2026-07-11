@@ -151,6 +151,23 @@
     "1954": {
       "result": "Group Stage",
       "headline": "Cinco Copas Begins",
+      "annotations": [
+        {
+          "id": "down-three-nil-then-not",
+          "label": "DOWN THREE-NIL, THEN NOT",
+          "story": "Mexico trailed France 3–0 before clawing back with goals from Lamadrid in the 54th minute and Balcázar in the 85th, turning a rout into a respectable 2–3 defeat. It wasn't enough to survive, but it was the closest they'd come to a European scalp in four tries."
+        },
+        {
+          "id": "shorts-nobody-agrees-on",
+          "label": "SHORTS NOBODY AGREES ON",
+          "story": "Photographs from Switzerland can't even agree whether Mexico's shorts were black or dark navy that year — a small mystery from the last tournament before the federation locked in green, white, and red for good in the mid-1950s."
+        },
+        {
+          "id": "the-shortest-tournament",
+          "label": "THE SHORTEST TOURNAMENT",
+          "story": "A seeding system kept 1954's strongest sides apart in the early rounds, so unseeded Mexico played only two matches total against Brazil and France. It remains the shortest World Cup campaign in the team's history — over before it really started."
+        }
+      ],
       "story": "Under a seeding format where top teams skipped each other, Mexico played only two matches in Switzerland, losing 5–0 to Brazil and 2–3 to France. Goalkeeper Antonio Carbajal made his World Cup debut here — the first of a record five consecutive tournaments that would earn him the nickname 'Cinco Copas.'",
       "homeColors": "maroon shirt, dark shorts (final tournament of Mexico's pre-tricolor era, shortly before the mid-1950s switch to green)",
       "awayColors": null,
