@@ -65,9 +65,19 @@ export const scotland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "THIRTEEN MEN, ONE DISASTER",
-              "story": "The SFA sent only 13 players to Switzerland despite a 22-man allowance, and manager Andy Beattie quit before the second match in protest at the shambolic preparation. Scotland lost 1–0 to Austria, then were thrashed 7–0 by defending champions Uruguay — still the heaviest defeat in the team's World Cup history, a first finals appearance to forget entirely."
+              "id": "worst-defeat-ever",
+              "label": "STILL THE WORST DEFEAT",
+              "story": "Uruguay, the defending champions, put seven goals past Scotland without reply in Basel — still the heaviest defeat in the national team's history seven decades later. Juan Schiaffino ran the show while an already shattered Scottish side, down to 13 fit players for the entire tournament, had nothing left to offer by the second half."
+            },
+            {
+              "id": "fixed-numbers-debut",
+              "label": "NUMBERS, FIXED FOR ONCE",
+              "story": "1954 was the first World Cup where every player wore a single squad number for the whole tournament, replacing the old system of reassigning shirts by starting lineup each match. Scotland's numbers ran from 1 through 13 across the entire party sent to Switzerland — fitting, given the Scottish Football Association hadn't sent enough players to need higher digits anyway."
+            },
+            {
+              "id": "thirteen-not-twenty-two",
+              "label": "SENT WITH NINE MEN SHORT",
+              "story": "FIFA allowed squads of 22, but the notoriously tight-fisted Scottish Football Association sent only 13 players to Switzerland, refusing to cover the cost of a fuller party. Manager Andy Beattie resigned mid-tournament in protest at the threadbare preparation, leaving his players to face Uruguay's reigning champions already exhausted and under strength."
             }
           ]
         }
@@ -110,9 +120,19 @@ export const scotland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "IGNORED ADVICE, FAMILIAR EXIT",
-              "story": "A creditable 1–1 draw with Yugoslavia opened the tournament, but manager Dawson Walker ignored scouting reports that flagged Paraguay as rough and combative, leaving out his own toughest players. Scotland lost 3–2 anyway, then fell 2–1 to France, exiting after the group stage in what became a 16-year wait for the next finals."
+              "id": "murrays-equalizer",
+              "label": "MURRAY LEVELS IT",
+              "story": "Tommy Murray's 49th-minute finish earned Scotland a 1–1 draw with Yugoslavia in Vasteras, the best result of a difficult tournament in Sweden. It proved the high point of the fortnight — defeats to Paraguay and France followed, sending Scotland out after the group stage for the second finals running."
+            },
+            {
+              "id": "pre-roundel-badge",
+              "label": "BEFORE THE ROUNDEL",
+              "story": "Scotland's shirt crest in 1958 predated the circular roundel introduced in 1961, worn instead as a simpler thistle-and-lion emblem stitched onto the dark blue jersey. The badge would change twice more over the following three decades, but the navy shirt and white shorts — Queen's Park's original colors from 1867 — never wavered."
+            },
+            {
+              "id": "ignored-scouting-report",
+              "label": "THE WARNING NOBODY HEEDED",
+              "story": "Manager Dawson Walker had scouting reports flagging Paraguay as rough and physical, yet left out several of his toughest players for the group match anyway. Scotland lost 3–2 in a bruising encounter, a self-inflicted wound that made an already difficult return to the World Cup after a 16-year absence even harder to stomach."
             }
           ]
         }
@@ -155,9 +175,19 @@ export const scotland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "UNBEATEN, STILL ELIMINATED",
-              "story": "Peter Lorimer and Joe Jordan sank Zaire 2–0, then goalless and 1–1 draws with Brazil and Yugoslavia left Scotland the only unbeaten team eliminated in World Cup history. The margin was cruel: Scotland's win over Zaire wasn't big enough on goal difference, a fate that still stings more than any defeat could."
+              "id": "unbeaten-eliminated",
+              "label": "UNDEFEATED, STILL OUT",
+              "story": "Scotland won, drew, and drew again in West Germany — beating Zaire, holding Brazil and Yugoslavia scoreless and level — and still went home after the group stage, the only team in World Cup history eliminated without losing a match. Zaire's 2–0 margin simply wasn't wide enough against Yugoslavia and Brazil's superior goal difference."
+            },
+            {
+              "id": "the-roundel-badge",
+              "label": "THE ROUNDEL YEARS",
+              "story": "By 1974, Scotland's shirt carried the circular roundel crest introduced in 1961 — a lion rampant surrounded by eleven thistles, ringed by \"SCOTLAND\" and \"EST 1873.\" The badge stayed unchanged through four World Cups across the 1970s and 80s, the one constant on a shirt that otherwise saw little variation decade to decade."
+            },
+            {
+              "id": "return-after-sixteen-years",
+              "label": "BACK AFTER SIXTEEN YEARS",
+              "story": "Willie Ormond's Scotland arrived in West Germany for their first World Cup finals since 1958, ending a drought that spanned four failed qualification campaigns. The team that went unbeaten and still packed for home became a symbol of Scottish football's cruelest recurring theme — arriving with promise, leaving on a technicality."
             }
           ]
         }
@@ -200,9 +230,19 @@ export const scotland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "GEMMILL'S GOAL, WRONG SCORELINE",
-              "story": "Manager Ally MacLeod promised a medal and got a nightmare: a 3–1 loss to Peru and a flat 1–1 draw with Iran left the campaign in ruins before Archie Gemmill's wonder goal helped beat the Netherlands 3–2 in the finale. It remains one of the sport's great what-ifs — Scotland needed three clear goals to advance and managed only two."
+              "id": "cubillas-strikes-twice",
+              "label": "CUBILLAS STUNS THE OPENER",
+              "story": "Teófilo Cubillas scored twice for Peru in the tournament opener, including a dipping free-kick that goalkeeper Alan Rough got a hand to but couldn't keep out, sinking Scotland 3–1 in Córdoba. It was the worst possible start to a campaign built on Ally MacLeod's promise of a medal, and the deficit proved too much to recover from."
+            },
+            {
+              "id": "hand-stitched-badge",
+              "label": "STITCHED, NOT PRINTED",
+              "story": "The roundel crest on Scotland's 1978 shirt was chain-stitched directly into the fabric, a labor-intensive embroidery method standard before crests moved to heat-transfer printing in later decades. Up close, the badge had visible texture and slightly raised thread — a small manufacturing detail that made every genuine 1970s shirt subtly different from the next."
+            },
+            {
+              "id": "the-chart-topping-anthem",
+              "label": "A SONG BEFORE A BALL WAS KICKED",
+              "story": "Andy Cameron's novelty single 'Ally's Tartan Army' climbed the UK charts weeks before a ball was kicked in Argentina, capturing a nation utterly convinced of glory to come. The record outlived the campaign by miles — Scotland were eliminated within two weeks, but the anthem remained a fixture of Tartan Army sing-alongs for decades after."
             }
           ]
         }
@@ -245,9 +285,19 @@ export const scotland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "HANSEN, MILLER, AND DISASTER",
-              "story": "Kenny Dalglish and John Wark led a 5–2 opening rout of New Zealand before Brazil's Socrates and Zico exposed the gap in class, winning 4–1. Needing a win over the Soviet Union to advance, Scotland conceded after defenders Alan Hansen and Willie Miller collided chasing the same ball, settling for a 2–2 draw and yet another exit on goal difference."
+              "id": "hansen-miller-collision",
+              "label": "TWO DEFENDERS, ONE BALL",
+              "story": "Needing only a win over the Soviet Union to advance, Scotland conceded when central defenders Alan Hansen and Willie Miller, both covering the same ball, collided into each other and let the Soviets in behind. The resulting 2–2 draw eliminated Scotland on goal difference — a defensive breakdown between two players who'd started for their country dozens of times."
+            },
+            {
+              "id": "never-needed-the-away-kit",
+              "label": "NAVY BLUE, EVERY MATCH",
+              "story": "Scotland played all three group matches in Spain in their home dark blue — against New Zealand, Brazil, and the Soviet Union alike — never needing to switch to the white away kit sitting unused in the equipment bags. It was the shirt fans back home recognized instantly, whether the Tartan Army was watching a rout or a collapse."
+            },
+            {
+              "id": "liverpool-spine",
+              "label": "A LIVERPOOL SPINE",
+              "story": "Four years after the Argentina humiliation, Scotland rebuilt around a spine of Liverpool players — Alan Hansen, Graeme Souness, Kenny Dalglish — fresh off winning the European Cup together at club level. The individual pedigree promised a different outcome in Spain, but the same story played out: group-stage elimination on goal difference, the third straight tournament to end that way."
             }
           ]
         }
@@ -290,9 +340,19 @@ export const scotland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "STEIN'S FINAL GIFT",
-              "story": "Qualification came at the cost of Jock Stein's life, and Alex Ferguson led the team he inherited to a tough group with Denmark, Uruguay, and West Germany. Losses to Denmark and West Germany sandwiched a goalless draw with an Uruguay side reduced to ten men in 55 seconds, leaving Scotland out with a single point."
+              "id": "fastest-red-card",
+              "label": "FIFTY-FIVE SECONDS TO RED",
+              "story": "Uruguay's José Batista was sent off just 55 seconds into the match against Scotland — still the fastest red card in World Cup history — yet Scotland couldn't find a way through ten men, settling for a goalless draw. It summed up a tournament of missed opportunities: a numerical advantage for almost the entire ninety minutes and nothing to show for it."
+            },
+            {
+              "id": "umbros-long-watch",
+              "label": "UMBRO'S DECADES-LONG WATCH",
+              "story": "Umbro outfitted Scotland's players in Mexico, part of a kit partnership with the Scottish Football Association that would stretch across parts of five decades before finally ending in the late 1990s. The navy shirt itself changed little from tournament to tournament — the continuity was the point, a visual thread connecting every Tartan Army generation."
+            },
+            {
+              "id": "steins-death",
+              "label": "A MANAGER LOST IN QUALIFYING",
+              "story": "Jock Stein collapsed and died of a heart attack in the Ninian Park tunnel moments after Scotland secured the point that clinched qualification, and assistant Alex Ferguson took the reins for Mexico in his place. The team that lined up against Denmark and West Germany carried the weight of a manager who never got to see the tournament he'd built the squad to reach."
             }
           ]
         }
@@ -335,9 +395,19 @@ export const scotland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "LEIGHTON'S FUMBLE, BRAZIL'S BREAK",
-              "story": "A shock opening loss to Costa Rica threatened disaster, and Stuart McCall and Mo Johnston's goals beat Sweden 2–1 to keep hope alive. But goalkeeper Jim Leighton fumbled a routine shot late on against Brazil, gifting the only goal of the match and sending Scotland home after the first round yet again."
+              "id": "leightons-fumble",
+              "label": "THE FUMBLE THAT ENDED IT",
+              "story": "With the group still alive, goalkeeper Jim Leighton let a routine shot squirm through his grasp, the only goal of the match and the one that sent Scotland home yet again after the first round. It was a rare, costly mistake from a keeper who'd started every match of Scotland's previous tournament without such a moment."
+            },
+            {
+              "id": "new-badge-debut",
+              "label": "A NEW BADGE ARRIVES",
+              "story": "Italia '90 marked the first World Cup where Scotland wore the redesigned crest introduced in 1988, replacing the roundel that had sat on the shirt since 1961. The lion rampant and thistles stayed, rearranged into a fresh shield — a small design update fans barely noticed on a jersey otherwise unchanged since the Ferguson era began."
+            },
+            {
+              "id": "costa-ricas-statement",
+              "label": "DEBUTANTS DELIVER A SHOCK",
+              "story": "Costa Rica were playing in their first-ever World Cup, drawn in a group with Scotland, Sweden, and Brazil, and few gave them a chance in the opener. Instead they won 1–0, a result that instantly reframed Scotland's group as a must-win situation and set the tone for a debutant nation nobody outside Central America had taken seriously."
             }
           ]
         }
@@ -380,9 +450,19 @@ export const scotland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "BOYD'S OWN GOAL OPENER",
-              "story": "John Collins leveled a tournament-opening match against holders Brazil from the penalty spot, but Tom Boyd's own goal settled it 2–1 in the Stade de France. A 1–1 draw with Norway kept faint hopes flickering before a 3–0 defeat to Morocco closed out Scotland's last World Cup finals appearance for nearly three decades."
+              "id": "opening-match-penalty",
+              "label": "SCORING ON THE OPENING NIGHT",
+              "story": "Scotland faced world champions Brazil in the opening match of the entire tournament at the Stade de France, and John Collins calmly converted a penalty to level the score at 1–1. Tom Boyd's own goal ultimately settled it 2–1 to Brazil, but Collins's spot-kick meant Scotland scored in the very first match of a World Cup — a rare distinction for a team that wouldn't reach the finals again for 28 years."
+            },
+            {
+              "id": "tartan-in-the-collar",
+              "label": "TARTAN HIDES IN THE COLLAR",
+              "story": "Umbro's 1998 Scotland shirt stripped away the loud detailing of earlier designs in favor of plain navy with tonal stripes, saving the tartan for a discreet insert folded into the collar and cuffs. It was the final home shirt of Umbro's long-running partnership with the Scottish Football Association — a quiet, understated send-off after decades together."
+            },
+            {
+              "id": "the-long-wait-begins",
+              "label": "TWENTY-EIGHT YEARS AWAY",
+              "story": "Nobody inside the Stade de France in June 1998 could have guessed how far away Scotland's next World Cup appearance really was. Every previous disappointment — 1978's hubris, 1990's near misses — had always been followed by qualification again within a cycle or two; this time the wait stretched across a generation of players who grew up never having seen their country at a finals."
             }
           ]
         }
