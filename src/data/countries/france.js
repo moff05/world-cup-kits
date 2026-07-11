@@ -121,9 +121,19 @@ export const france = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ONE MATCH, EXTRA TIME, OUT",
-              "story": "France's entire 1934 tournament lasted a single afternoon. Playing straight knockout with no group stage, Les Bleus led through goals from Georges Verriest and Jean Nicolas but couldn't hold off Austria's famed 'Wunderteam,' who needed extra time to escape Colombes 3–2 and end France's World Cup before it truly began."
+              "id": "one-afternoon-out",
+              "label": "ONE AFTERNOON, OUT",
+              "story": "With no group stage to soften the blow, France's entire World Cup came down to a single knockout match. Georges Verriest and Jean Nicolas each scored to put France ahead of Austria's celebrated Wunderteam, but Austria forced extra time and won 3–2, ending Les Bleus' tournament before it had properly started."
+            },
+            {
+              "id": "rooster-on-the-chest",
+              "label": "ROOSTER ON THE CHEST",
+              "story": "France's plain blue jersey carried only the federation's crowing cockerel badge, no maker's mark, no trim beyond white shorts. It was the same emblem stitched onto shirts since 1907 — a Roman insult about Gaul's people turned into the one symbol guaranteed to appear on every French kit, win or lose."
+            },
+            {
+              "id": "no-second-chances",
+              "label": "NO SECOND CHANCES",
+              "story": "FIFA experimented with pure knockout football in 1934 — sixteen teams, one bracket, zero group-stage cushion. It punished favorites brutally: France, fresh off a decent showing four years earlier, needed only one bad afternoon in Colombes to be eliminated, a format so unforgiving it was abandoned by the following tournament."
             }
           ]
         }
