@@ -39,6 +39,23 @@
       "result": "Group Stage",
       "headline": "First Cup, First Win",
       "story": "In the inaugural World Cup, Paraguay opened with a 3–0 loss to the United States in Montevideo, but bounced back four days later to beat Belgium 1–0 on Luis Peña's goal — a maiden World Cup win in the tournament's very first year, though not enough to escape the group.",
+      "annotations": [
+        {
+          "id": "vargas-pena-first-win",
+          "label": "THE FIRST-EVER WIN",
+          "story": "Luis Vargas Peña's goal beat Belgium 1–0 four days after an opening loss to the United States — Paraguay's first win at a World Cup, delivered in the tournament's very first year, in front of a modest crowd in Montevideo."
+        },
+        {
+          "id": "no-crossing-the-ocean",
+          "label": "NO OCEAN TO CROSS",
+          "story": "While several European sides spent nearly three weeks crossing the Atlantic aboard the same ship to reach Uruguay, Paraguay simply crossed the Río de la Plata — one of the shortest journeys of any team at the inaugural tournament, a small home-continent advantage in a global first."
+        },
+        {
+          "id": "smallest-ever-field",
+          "label": "ONE OF THE SMALLEST FIELDS",
+          "story": "Just thirteen teams entered the first World Cup, and Paraguay was one of only a handful of South American sides in a tournament many European federations had initially dismissed as not worth the trip — a field so small that a single win nearly mattered enough to advance."
+        }
+      ],
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
       "image": null,
@@ -67,6 +84,23 @@
       "result": "Group Stage",
       "headline": "Late Draw, Early Exit",
       "story": "Antonio López and Cándido López Fretes both scored as Paraguay came from behind to draw Sweden 2–2 in Curitiba, but a 2–0 loss to Italy in São Paulo ended the run after just two matches — Paraguay's second World Cup appearance and second group-stage exit.",
+      "annotations": [
+        {
+          "id": "lopez-and-lopez",
+          "label": "TWO LÓPEZES, ONE COMEBACK",
+          "story": "Antonio López and Cándido López Fretes, unrelated but sharing a surname, each scored to pull Paraguay back from behind and draw Sweden 2–2 in Curitiba — a fighting result that couldn't be repeated three days later against Italy."
+        },
+        {
+          "id": "same-stripes-again",
+          "label": "NO CHANGE OF COLORS",
+          "story": "Twenty years after their World Cup debut, Paraguay wore the identical red-and-white stripes and blue shorts from 1930 — a kit the federation apparently saw no reason to touch, even as the tournament itself adopted a radically different final-round format."
+        },
+        {
+          "id": "maracanazo-backdrop",
+          "label": "THE TOURNAMENT OF THE MARACANAZO",
+          "story": "Paraguay's exit came two rounds before the tournament's defining moment — Uruguay's stunning win over host Brazil in the deciding match at the Maracanã, still remembered in Brazil as a national trauma. Paraguay played no part in that game, but shared the same unforgettable World Cup."
+        }
+      ],
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
       "image": null,
@@ -95,6 +129,23 @@
       "result": "Group Stage",
       "headline": "Attack Outruns Defense",
       "story": "Florencio Amarilla's brace couldn't stop a 7–3 collapse against France in the tournament opener, but Paraguay regrouped to beat Scotland 3–2 and draw Yugoslavia 3–3 — nine goals scored across three games, the most prolific group-stage showing in their history, yet still not enough to advance.",
+      "annotations": [
+        {
+          "id": "fontaine-hat-trick",
+          "label": "FONTAINE'S RECORD RUN",
+          "story": "Just Fontaine scored three of France's seven goals in the group-stage rout, en route to a record 13 goals that tournament, still the most any player has scored at a single World Cup. Paraguay had the unlucky distinction of feeding one of the greatest single-tournament hauls in history."
+        },
+        {
+          "id": "same-stripes-new-continent",
+          "label": "STRIPES ON EUROPEAN SOIL",
+          "story": "The same red-and-white vertical stripes worn since 1930 made their first appearance outside the Americas, Paraguay's federation making no changes to a kit design already decades old — a rare case of consistency at a tournament defined by change."
+        },
+        {
+          "id": "first-trip-to-europe",
+          "label": "FIRST TIME IN EUROPE",
+          "story": "Sweden 1958 marked Paraguay's first World Cup played outside the Western Hemisphere, a longer and costlier trip than any previous tournament had demanded. Nine goals scored across three matches showed an attack unbothered by the distance, even if the defense couldn't match it."
+        }
+      ],
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
       "image": null,
@@ -130,6 +181,23 @@
       "result": "Round of 16",
       "headline": "Romerito Leads, England Ends It",
       "story": "Julio César Romero — 'Romerito' — scored in a win and a draw alike, beating Iraq 1–0 before Roberto Cabañas's brace salvaged a 2–2 draw with Belgium, sending Paraguay through for the first time in 28 years. England, inspired by Gary Lineker, ended the run 3–0 in the second round.",
+      "annotations": [
+        {
+          "id": "lineker-hat-trick",
+          "label": "LINEKER'S HAT-TRICK ENDING",
+          "story": "Gary Lineker scored three times as England dismantled Paraguay 3–0 in the Round of 16, part of the run that made him the tournament's top scorer. It was the biggest stage yet for a Paraguayan side that had just reached the knockouts for the first time in 28 years."
+        },
+        {
+          "id": "romerito-all-star",
+          "label": "AN ALL-STAR FROM A LOSING SIDE",
+          "story": "Despite Paraguay's Round of 16 exit, Julio César Romero was named to FIFA's official All-Star Team of the 1986 tournament — a rare honor for a player whose country didn't advance past the last sixteen, and proof of how far his individual performances had carried the team."
+        },
+        {
+          "id": "same-stripes-third-decade",
+          "label": "STILL THE SAME STRIPES",
+          "story": "Twenty-eight years after their last appearance, Paraguay returned to the World Cup in the same red-and-white vertical stripes and blue shorts worn since 1930 — one of the most visually unchanged kits in the entire tournament, a throwback amid an era of increasingly elaborate designs."
+        }
+      ],
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
       "image": null,
@@ -172,6 +240,23 @@
       "result": "Round of 16",
       "headline": "Chilavert's Free Kick, Golden Exit",
       "story": "Goalkeeper José Luis Chilavert became the first keeper ever to take a direct free kick at a World Cup finals, rattling the bar against Bulgaria in a 0–0 draw, and Paraguay squeezed past Nigeria 3–1 to reach the second round. France's Laurent Blanc struck the first golden goal in World Cup history to end it, 1–0, in extra time.",
+      "annotations": [
+        {
+          "id": "blancs-golden-goal",
+          "label": "THE FIRST GOLDEN GOAL",
+          "story": "Laurent Blanc struck in extra time to give France a 1–0 win — the first golden goal ever scored at a World Cup, a rule introduced that tournament and abandoned less than a decade later. Paraguay has the unusual distinction of being the format's first knockout victim."
+        },
+        {
+          "id": "chilaverts-different-colors",
+          "label": "A DIFFERENT SHIRT FOR ONE MAN",
+          "story": "While outfield players wore the familiar red-and-white stripes, goalkeeper José Luis Chilavert took the field in a solid, contrasting keeper's kit — a visual reminder that the tournament's most dangerous free-kick taker that year technically played in goal, not attack."
+        },
+        {
+          "id": "chilavert-crossbar",
+          "label": "OFF THE BAR, INTO HISTORY",
+          "story": "Chilavert stepped up to a direct free kick against Bulgaria and rattled the crossbar — the first time a goalkeeper had ever attempted one at a World Cup finals. It didn't go in, but it announced a keeper who saw himself as more than a last line of defense."
+        }
+      ],
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
       "image": null,
@@ -214,6 +299,23 @@
       "result": "Round of 16",
       "headline": "Cuevas Sparks a Comeback Exit",
       "story": "Roque Santa Cruz and Francisco Arce salvaged a 2–2 draw with co-hosts South Africa, and Nelson Cuevas's brace overwhelmed Slovenia 3–1 to reach the knockout stage despite a loss to Spain. Germany, on their way to the final, shut the door 1–0 in the Round of 16.",
+      "annotations": [
+        {
+          "id": "cuevas-brace-slovenia",
+          "label": "CUEVAS DOES THE DAMAGE",
+          "story": "Nelson Cuevas scored twice as Paraguay beat Slovenia 3–1, the result that carried them into the knockout stage despite a loss to Spain sandwiched in between. It was Cuevas's tournament breakout, the clearest individual performance of Paraguay's group-stage campaign."
+        },
+        {
+          "id": "first-co-hosted-cup",
+          "label": "THE FIRST SHARED TOURNAMENT",
+          "story": "Japan and South Korea became the first nations to co-host a World Cup, splitting matches across two countries and two continents for the first time in the tournament's history. Paraguay's group games and Round of 16 exit all played out inside that unprecedented format."
+        },
+        {
+          "id": "chilavert-captain-again",
+          "label": "THE CAPTAIN, STILL IN GOAL",
+          "story": "José Luis Chilavert wore the armband for a second straight World Cup, still Paraguay's most senior figure and its most unlikely attacking threat — a goalkeeper trusted enough by his manager and teammates to organize both the defense and the set pieces at the other end."
+        }
+      ],
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
       "image": null,
@@ -256,6 +358,23 @@
       "result": "Group Stage",
       "headline": "Group of Death, No Wins",
       "story": "Drawn into England's group, Paraguay conceded an own goal inside three minutes — the fastest goal of the tournament — in a 1–0 loss, then fell 1–0 to Sweden before Nelson Cuevas's late strike beat already-eliminated Trinidad and Tobago 2–0 in a group they never escaped.",
+      "annotations": [
+        {
+          "id": "gamarra-fastest-og",
+          "label": "THE FASTEST OWN GOAL",
+          "story": "Carlos Gamarra headed David Beckham's free kick past his own goalkeeper inside three minutes, then the fastest own goal in World Cup finals history. England needed nothing else, winning 1–0 in a group Paraguay would leave without a single point earned in their first two matches."
+        },
+        {
+          "id": "still-unchanged-decades-on",
+          "label": "SEVENTY-SIX YEARS, SAME LOOK",
+          "story": "Seventy-six years after their World Cup debut, Paraguay wore the same red-and-white vertical stripes and blue shorts introduced in 1930 — among the longest-running unaltered kit designs of any nation ever to play the tournament."
+        },
+        {
+          "id": "og-salvages-pride",
+          "label": "AN OWN GOAL SALVAGES PRIDE",
+          "story": "A Trinidadian defender's own goal in the 25th minute gave Paraguay an early lead they never gave up, closing out a group-of-death campaign with a 2–0 win over an already-eliminated opponent — their only points of the tournament."
+        }
+      ],
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
       "image": null,
@@ -291,6 +410,23 @@
       "result": "Quarter-final",
       "headline": "History in South Africa",
       "story": "Antolín Alcaraz's header drew Italy 1–1, and a win over Slovakia plus a scoreless draw with New Zealand carried Paraguay to the knockout stage unbeaten. They outlasted Japan 5–3 on penalties in the Round of 16, then fell 1–0 to eventual champions Spain in the quarter-final — the deepest World Cup run in Paraguayan history.",
+      "annotations": [
+        {
+          "id": "japan-shootout-history",
+          "label": "A SHOOTOUT INTO HISTORY",
+          "story": "Paraguay outlasted Japan 5–3 on penalties in the Round of 16, reaching a World Cup quarter-final for the first time ever. It remains the single deepest run in the country's football history, forged not by a moment of skill but by nerve from twelve yards."
+        },
+        {
+          "id": "stripes-before-anthem",
+          "label": "STRIPES BEFORE THE ANTHEM",
+          "story": "A surviving photograph from the group match against Italy shows the squad lined up in the familiar red-and-white stripes and blue shorts during the national anthem — the same colors, virtually unchanged, that Paraguay had worn at their World Cup debut eighty years earlier."
+        },
+        {
+          "id": "one-goal-from-champions",
+          "label": "ONE GOAL FROM THE EVENTUAL CHAMPIONS",
+          "story": "Spain beat Paraguay 1–0 in the quarter-final and went on to win the entire tournament, meaning no team came closer to eliminating the eventual champions in the knockout rounds than Paraguay did. A single goal separated Paraguay from a first-ever World Cup semi-final."
+        }
+      ],
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
       "image": "https://commons.wikimedia.org/wiki/File:Paraguay_vs._Italy_-_FIFA_World_Cup_2010_(National_anthems).jpg",
