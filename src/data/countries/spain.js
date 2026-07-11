@@ -914,9 +914,19 @@ export const spain = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "THE EMERGENCY WHITE KIT DISASTER",
-              "story": "Defending champions Spain were forced into an emergency all-white third kit for the opener because FIFA ruled their red home and black away were both too dark against Netherlands orange — then lost the match 5–1 anyway, with Robin van Persie's diving header and two Arjen Robben goals dismantling them. A group-stage exit followed within a week."
+              "id": "the-pass-that-ended-an-era",
+              "label": "THE PASS THAT ENDED AN ERA",
+              "story": "Iker Casillas, the hero of 2010, played a blind pass straight into Arjen Robben's path for the Netherlands' fourth goal — the single image that came to define the collapse of Spain's golden generation. Within a week the whole squad, defending champions less than four years removed from Johannesburg, was on a plane home."
+            },
+            {
+              "id": "the-first-shirt-with-the-star",
+              "label": "THE FIRST SHIRT WITH THE STAR",
+              "story": "This was the first Spain kit to actually carry that gold 2010 champions badge on the chest — a two-tone red pinstripe design so light Adidas called it the thinnest World Cup shirt it had ever produced. The gold trim was meant to celebrate a title; instead it became a costume for the fastest fall from grace in the competition's history."
+            },
+            {
+              "id": "the-generation-that-ran-out-of-road",
+              "label": "THE GENERATION THAT RAN OUT OF ROAD",
+              "story": "Most of the starting eleven that lost to the Netherlands had also started the 2010 final four years earlier — the same core, without a real off-season, cycling through three straight major tournaments together. Age and fatigue finally caught up with the golden generation in Brazil, and Vicente del Bosque never fielded that same spine again."
             }
           ]
         }
