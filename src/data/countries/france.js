@@ -169,9 +169,19 @@ export const france = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "HOSTS FALL TO DEFENDING CHAMPIONS",
-              "story": "Hosting for the first time, France beat Belgium 3–1 behind Jean Nicolas's brace, then met reigning champions Italy in the quarter-final at the Stade Olympique de Colombes. Oscar Heisserer's strike briefly leveled the tie, but Italy's Silvio Piola and Gino Colaussi pulled away for a 3–1 win that sent the hosts home early."
+              "id": "nicolas-brace-colombes",
+              "label": "NICOLAS DOES IT TWICE",
+              "story": "Jean Nicolas scored twice as France dispatched Belgium 3–1 at a packed Colombes, only for holders Italy to end the run in the quarter-final. Oscar Heisserer's leveler briefly gave the hosts hope before Silvio Piola and Gino Colaussi restored Italy's lead and sent France out of its own tournament 3–1."
+            },
+            {
+              "id": "ceremony-kit",
+              "label": "THE CEREMONY KIT",
+              "story": "As hosts, France wore a specially prepared blue jersey for the opening ceremony and early rounds, a small point of national pride in a tournament otherwise dominated by anxiety. It carried the same crowing rooster crest worn since 1907, now on display in front of home crowds for the first time ever."
+            },
+            {
+              "id": "world-cup-under-shadow",
+              "label": "WORLD CUP UNDER SHADOW",
+              "story": "France hosted a tournament shadowed by the Anschluss: Nazi Germany had annexed Austria three months earlier and absorbed five of its Wunderteam stars, while Spain sat out its own civil war and Japan withdrew over its invasion of China. Fifteen teams showed up to a World Cup nobody could separate from politics."
             }
           ]
         }
