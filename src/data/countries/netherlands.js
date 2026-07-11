@@ -268,9 +268,19 @@ export const netherlands = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "NANNINGA'S HEADER, ARGENTINA'S PARTY",
-              "story": "Rob Rensenbrink's five group-stage goals carried the Dutch, without an injured Cruyff, to a second straight final, this time in Buenos Aires. Substitute Dick Nanninga headed a late equalizer to force extra time, but Mario Kempes and a deafening home crowd proved too much, and Netherlands fell 3–1 — back-to-back runners-up, still without a trophy."
+              "id": "rensenbrink-hits-the-post",
+              "label": "THE POST, THE FINAL MINUTE",
+              "story": "With the final tied 1–1 and seconds left on the clock, Rob Rensenbrink's shot beat Ubaldo Fillol and struck the inside of the post — inches from winning the World Cup outright. It stayed out. Argentina scored twice in extra time, and a shot that grazed metal became the most replayed near-miss in Dutch football history."
+            },
+            {
+              "id": "the-two-stripes-outlived-cruyff",
+              "label": "TWO STRIPES, NO CRUYFF",
+              "story": "Johan Cruyff stayed home in 1978, but his two-stripe Puma shirt didn't disappear with him — twins Rene and Willy van der Kerkhof, plus substitute Dick Nanninga, all wore the non-Adidas two-stripe version throughout the tournament. Crests even flipped sides match to match, a level of kit chaos no modern federation would tolerate."
+            },
+            {
+              "id": "boycotting-the-podium",
+              "label": "BOYCOTTING THE PODIUM",
+              "story": "Amnesty International ran a global campaign — 'Football Yes, Torture No' — protesting Argentina's military junta hosting the tournament, and the Dutch federation openly debated a boycott before deciding to play. After the final, the squad refused to take part in the medal ceremony rather than share the pitch with General Jorge Videla, walking off before the trophy was lifted."
             }
           ]
         }
