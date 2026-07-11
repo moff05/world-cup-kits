@@ -242,9 +242,19 @@ export const colombia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "THIRD STRAIGHT GROUP EXIT",
-              "story": "Léider Preciado's late strike beat Tunisia, but losses to Romania and England either side of it meant Colombia finished bottom of their group for a third World Cup running, extending a pattern of first-round exits stretching back to their debut."
+              "id": "beckham-free-kick-exit",
+              "label": "BECKHAM'S FREE KICK",
+              "story": "England wrapped it up inside thirty minutes at Lens: Darren Anderton pounced in the 20th minute, then David Beckham, starting in place of David Batty, drilled a 25-yard free kick into the top corner for his first-ever England goal — the result that eliminated Colombia's fading golden generation for good."
+            },
+            {
+              "id": "reebok-sleeve-stripes",
+              "label": "REEBOK SLEEVE STRIPES",
+              "story": "Reebok kept the gold base but added twin blue stripes racing down each sleeve and a sharper V-neck — a subtle update from '94 that's since become a cult favorite among shirt collectors, changing hands for far more today than it ever cost on a shop rail in 1998."
+            },
+            {
+              "id": "valderrama-last-dance",
+              "label": "VALDERRAMA'S LAST DANCE",
+              "story": "At 36, captain Carlos Valderrama — frizzy hair now flecked with grey — led out a squad built around the same core that had promised so much in 1990 and 1994. This was his and the golden generation's last World Cup together; Colombia wouldn't qualify again for sixteen years."
             }
           ]
         }
