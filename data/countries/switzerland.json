@@ -242,6 +242,11 @@
     "1966": {
       "result": "Group Stage",
       "headline": "Worst Loss, Worst Cup",
+      "annotations": [
+        { "id": "one-goal-all-tournament", "label": "ONE GOAL, THREE GAMES", "story": "Three matches, three defeats, and a single goal to show for it: René Quentin's 31st-minute strike against Spain was the only time Switzerland found the net at the entire 1966 World Cup. It came sandwiched between a 5–0 humiliation by West Germany and a scoreless defeat to Argentina." },
+        { "id": "tusa-kit-sheffield", "label": "TUSA'S ONE APPEARANCE", "story": "The 1966 shirt bore the mark of Tusa, a little-known Swiss sportswear maker rarely seen on a national kit before or since. It was worn through all three games in England — including the 5–0 defeat at Sheffield's Hillsborough — before Switzerland vanished from the World Cup for nearly three decades." },
+        { "id": "englands-world-cup", "label": "AWAY FROM THE SPOTLIGHT", "story": "1966 belonged to the hosts: England lifted the trophy on home soil at Wembley while Switzerland's group games unfolded far from Wembley, in Sheffield and Birmingham, away from the spotlight. The Swiss were making up the numbers in someone else's story — and their exit was so bad it triggered a generation-long rethink." }
+      ],
       "story": "West Germany, on their way to the final, opened with a 5–0 demolition of Switzerland in Sheffield — still Switzerland's heaviest World Cup defeat. Losses to Spain and Argentina followed, sealing another winless group stage and the start of a 28-year absence from the tournament.",
       "homeColors": "red shirt, white shorts, red socks (Tusa)",
       "awayColors": "white shirt, red shorts, white socks",
