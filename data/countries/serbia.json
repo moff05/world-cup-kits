@@ -332,6 +332,23 @@
       "result": "2nd Round",
       "headline": "Nine Unanswered Goals",
       "story": "Dušan Bajević's hat-trick headlined a 9–0 demolition of Zaire, still the biggest win in the team's World Cup history, after a scoreless draw with Brazil. West Germany, Poland, and Sweden then swept the second group stage in West Germany, ending a promising run just short of the semis.",
+      "annotations": [
+        {
+          "id": "nine-goals-one-record",
+          "label": "NINE GOALS, ONE RECORD",
+          "story": "Dušan Bajević's hat-trick anchored a 9–0 demolition of Zaire that stands as the biggest win in the program's World Cup history, a rout with nine different sequences finding the net after a scoreless draw with Brazil. A stacked second group with West Germany, Poland, and Sweden ended the run just short of the semis."
+        },
+        {
+          "id": "the-first-three-stripes",
+          "label": "THE FIRST THREE STRIPES",
+          "story": "After 44 years of unbranded, in-house jerseys, 1974 marked Yugoslavia's first-ever manufacturer kit: an Adidas shirt with the German brand's three stripes trimming the sleeves, joining the era's dominant football supplier for the first time in the team's history."
+        },
+        {
+          "id": "brotherhood-on-the-pitch",
+          "label": "BROTHERHOOD ON THE PITCH",
+          "story": "The 1974 squad drew players from across Yugoslavia's constituent socialist republics, a multi-ethnic roster fielded at the high-water mark of Tito's 'Brotherhood and Unity' era — decades before the country's ethnic divisions would tear both the nation and its football apart."
+        }
+      ],
       "homeColors": "dark blue shirt, white shorts, red socks",
       "awayColors": null,
       "image": null,
