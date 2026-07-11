@@ -468,6 +468,23 @@
       "result": "Round of 16",
       "headline": "The Penalty That Wasn't",
       "story": "Belgium beat Morocco and the Netherlands 1–0 apiece to reach the second round, where defending champions Germany won 3–2. Referee Kurt Röthlisberger waved away a clear penalty after Thomas Helmer bundled over Josip Weber in the box — Röthlisberger was sent home by FIFA after the match, but the result stood.",
+      "annotations": [
+        {
+          "id": "the-phantom-penalty",
+          "label": "THE PENALTY THAT WASN'T",
+          "story": "Defending champions Germany led Belgium's Round of 16 tie when Thomas Helmer hauled down Josip Weber inside the box in full view of the stadium. Referee Kurt Röthlisberger waved play on. FIFA sent Röthlisberger home in disgrace days later for the missed call — but the 3–2 scoreline, and Belgium's elimination, stood."
+        },
+        {
+          "id": "diadora-red",
+          "label": "ITALIAN TAILORING, BELGIAN RED",
+          "story": "Belgium swapped Adidas for the Italian brand Diadora for USA '94, keeping the familiar red shirt and white shorts but with a new, sharper trim running down the sides. It was Belgium's only World Cup dressed by an Italian manufacturer — a one-tournament experiment before the kit contract moved on again."
+        },
+        {
+          "id": "dallas-heat",
+          "label": "FOOTBALL IN A FURNACE",
+          "story": "USA '94 scheduled matches for European television slots, which meant kickoffs in the punishing midday heat of cities like Dallas and Orlando. Belgium, drawn into some of the hottest venues on the schedule, played its group games in temperatures regularly exceeding 35°C — conditions as much an opponent as Morocco or the Netherlands."
+        }
+      ],
       "homeColors": "red shirt, white shorts, red socks (Diadora)",
       "awayColors": "white shirt, red shorts",
       "image": null,
