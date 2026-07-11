@@ -347,6 +347,23 @@
       "result": "Quarter-final",
       "headline": "Golden Generation's Quarter-Final",
       "story": "John O'Brien and Brian McBride starred as the U.S. shocked Portugal 3–2, then eliminated rivals Mexico 2–0 in the Round of 16 behind McBride and Landon Donovan. Germany ended the surprise run 1–0 in the quarter-final, denying the Americans a semi-final berth by the narrowest of margins.",
+      "annotations": [
+        {
+          "id": "three-goals-one-upset",
+          "label": "THREE GOALS, ONE UPSET",
+          "story": "Eight minutes in, John O'Brien scored the first U.S. World Cup goal against a European power in decades, and by the 36th minute it was 3–0 over Portugal, ranked fifth in the world. Portugal clawed back two late goals, but the Americans held on to open the tournament with a genuine shock."
+        },
+        {
+          "id": "built-for-black-and-white-tv",
+          "label": "BUILT FOR BLACK-AND-WHITE TV",
+          "story": "Nike engineered the 2002 kits around Coolmotion venting panels to fight Korea-Japan humidity, but designers also solved an older problem — enough households worldwide still watched on black-and-white sets that every kit matchup had to read clearly without color, forcing bold, high-contrast blocking even on the tournament's brightest jerseys."
+        },
+        {
+          "id": "first-post-9-11-cup",
+          "label": "THE FIRST POST-9/11 CUP",
+          "story": "This was the first World Cup the Americans played after September 11, and the run to the quarterfinals landed as unmistakably patriotic — ESPN's pre-dawn broadcasts from Korea drew crowds into bars before sunrise, and beating rival Mexico 2–0 in the Round of 16 became as much a morale story as a soccer one."
+        }
+      ],
       "homeColors": "white shirt, navy blue shorts, white socks (Nike)",
       "awayColors": null,
       "image": null,
