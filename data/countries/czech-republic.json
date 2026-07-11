@@ -431,6 +431,23 @@
     "1990": {
       "result": "Quarter-final",
       "headline": "Skuhravý's Five-Goal Spring",
+      "annotations": [
+        {
+          "id": "the-best-run-in-decades",
+          "label": "THE BEST RUN IN DECADES",
+          "story": "Tomáš Skuhravý scored five goals including a hat-trick in a 4–1 rout of Costa Rica, carrying Czechoslovakia to the quarter-finals for the first time since 1962. Eventual champions West Germany ended the run 1–0 in Milan, but Skuhravý's Silver Boot marked the country's best World Cup in nearly three decades."
+        },
+        {
+          "id": "the-last-united-kit",
+          "label": "THE LAST UNITED KIT",
+          "story": "Puma outfitted Czechoslovakia for Italia '90 in a redesigned white shirt with red-and-blue trim, a modernized take on the tricolor kit worn since the 1930s — the last kit the team would wear representing a united Czechoslovakia before the country split in two."
+        },
+        {
+          "id": "newly-free-support",
+          "label": "NEWLY FREE SUPPORT",
+          "story": "Six months after the peaceful Velvet Revolution ended four decades of Communist rule, Czechoslovakia arrived in Italy as a newly free nation. Fans who'd previously needed permission and faced restrictions to travel abroad followed the team in numbers unseen for generations, turning away fixtures into genuine away support."
+        }
+      ],
       "homeColors": "white shirt, red shorts, blue socks",
       "awayColors": null,
       "image": null,
