@@ -70,9 +70,19 @@ export const colombia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "YASHIN BEATEN, STILL ELIMINATED",
-              "story": "In one of the biggest shocks of the 1962 tournament, Colombia clawed back from three goals down to draw 4–4 with reigning European champions Soviet Union, Marcos Coll scoring an Olympic goal — direct from a corner — past the legendary Lev Yashin. A loss to Uruguay and a 5–0 defeat by Yugoslavia sent Colombia home after their World Cup debut anyway."
+              "id": "soviet-comeback",
+              "label": "COMEBACK VS USSR",
+              "story": "Trailing the reigning European champions 4–1 with barely twenty minutes left, Colombia scored three times in eighteen minutes — Marcos Coll's swerving corner beating the legendary Lev Yashin outright, then Rada and Klinger following before full-time — to salvage an astonishing 4–4, still rated among the great World Cup comebacks."
+            },
+            {
+              "id": "unbranded-jersey",
+              "label": "NO SPONSOR ERA",
+              "story": "Colombia's first-ever World Cup jersey carried nothing but a hand-embroidered federation crest stitched to heavy knitted cotton — no sponsor, no maker's mark, a full decade before shirt advertising reached international football. The heavy fabric soaked up rain and sweat, standard for every side that played in Chile that year."
+            },
+            {
+              "id": "outlaw-league-roots",
+              "label": "EL DORADO ROOTS",
+              "story": "The team that finally reached a World Cup in 1962 grew out of El Dorado, the outlaw 1949–54 Colombian league FIFA banned from international play after clubs lured foreign stars without paying transfer fees. Argentine coach Adolfo Pedernera, once one of those same pirated signings, led Colombia's belated debut."
             }
           ]
         }
