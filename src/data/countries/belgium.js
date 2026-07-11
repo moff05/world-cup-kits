@@ -853,9 +853,19 @@ export const belgium = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "THE GOLDEN GENERATION'S LAST STAND",
-              "story": "Ranked second in the world and considered a serious title contender, Belgium instead lost 0–2 to Morocco and drew 0–0 with Croatia, crashing out in the group stage. It was a stunning collapse for the aging core that had reached the semi-final four years earlier, and the last World Cup shared by Belgium's golden generation together."
+              "id": "last-stand-collapse",
+              "label": "THE COLLAPSE IN QATAR",
+              "story": "Ranked second in the world and installed as one of the tournament favorites, Belgium instead lost 0–2 to Morocco and could only draw 0–0 with Croatia. Michy Batshuayi's 44th-minute winner over Canada was the only bright spot in a stunning group-stage exit for a squad many expected to finally win it all."
+            },
+            {
+              "id": "black-shorts-return",
+              "label": "BLACK RETURNS TO THE KIT",
+              "story": "Adidas paired Belgium's red 2022 home shirt with black shorts instead of the traditional white or red — a combination last seen decades earlier — while the away kit went fully black with red-and-yellow trim across the chest, echoing the diagonal sash first tried in Burrda's 2014 design."
+            },
+            {
+              "id": "golden-generations-farewell",
+              "label": "THE GENERATION SAYS GOODBYE",
+              "story": "Qatar 2022, the first World Cup played in November and December to avoid desert summer heat, doubled as a farewell tour for Belgium's golden generation. Eden Hazard retired from international football within months of the group-stage exit, closing the book on the core that had delivered third place four years earlier."
             }
           ]
         }
