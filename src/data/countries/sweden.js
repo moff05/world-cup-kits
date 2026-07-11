@@ -69,9 +69,19 @@ export const sweden = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "FIRST MATCH, FIRST WIN",
-              "story": "Sweden's World Cup debut was the tournament's very first match, and they trailed before Sven Jonasson's brace and a goal from Kroon completed a 3–2 comeback over Argentina in Bologna. Four days later, in the era's single-elimination format, a Dunker goal wasn't enough — Germany won 2–1, ending Sweden's tournament in the quarter-final."
+              "id": "dunker-82nd-minute",
+              "label": "SILENCED IN BOLOGNA",
+              "story": "Four days after the Argentina comeback, Sweden and Germany traded nothing for 81 minutes. Then Dunker struck, and under 1934's pure knockout format — no groups, no second leg — that single goal ended it. Sweden's debut tournament closed exactly as it opened: settled in the final ten minutes."
+            },
+            {
+              "id": "unbranded-tre-kronor",
+              "label": "HANDMADE COLORS",
+              "story": "No manufacturer's mark touched Sweden's 1934 shirt — just yellow wool and blue shorts cut to federation spec, with the three-crowns emblem stitched plain over the heart. Commercial branding was decades off; on the grainy newsreel from Bologna, the famous blue and yellow barely registered as more than light and shade."
+            },
+            {
+              "id": "argentina-weakened-squad",
+              "label": "A WEAKENED OPPONENT",
+              "story": "Argentina showed up in Bologna missing most of the side that had lost the inaugural 1930 final — their clubs refused to release stars for a long ocean crossing, leaving a patched-together reserve XI. Sweden's first-ever World Cup victory came against opponents barely resembling the runners-up from four years earlier."
             }
           ]
         }
