@@ -824,6 +824,23 @@
     "2014": {
       "result": "Round of 16",
       "headline": "San Memo Stuns Brazil",
+      "annotations": [
+        {
+          "id": "the-save-on-neymar",
+          "label": "THE SAVE ON NEYMAR",
+          "story": "Guillermo Ochoa dove full-stretch to deny a Neymar header in the 26th minute, one of four saves that kept host Brazil off the scoresheet. The scoreless draw earned him the nickname 'San Memo' and comparisons to Gordon Banks's legendary stop on Pelé."
+        },
+        {
+          "id": "a-sash-returns",
+          "label": "A SASH RETURNS",
+          "story": "Adidas's 2014 shirt reused a diagonal sash pattern echoing kits from decades earlier, an early signal of the full retro-homage direction Mexico's jerseys would embrace four years later in 2018."
+        },
+        {
+          "id": "a-playoff-to-even-qualify",
+          "label": "A PLAYOFF TO EVEN QUALIFY",
+          "story": "Miguel Herrera's side stumbled through qualifying so badly it needed an intercontinental playoff win over New Zealand just to reach Brazil, arriving as the lowest-seeded team in a group that included the host nation."
+        }
+      ],
       "story": "Guillermo Ochoa's saves against Brazil, including a stop on Neymar, earned him the nickname 'San Memo' and a scoreless draw that kept Mexico's group alive. Giovanni dos Santos gave Mexico the lead over the Netherlands in the Round of 16, but Arjen Robben won a stoppage-time penalty that ended the run 2–1.",
       "homeColors": "green shirt, white shorts, red socks (Adidas)",
       "awayColors": null,
