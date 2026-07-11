@@ -288,9 +288,19 @@ export const usa = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "HOME SOIL, ROUND OF 16",
-              "story": "Eric Wynalda's free kick salvaged a draw with Switzerland, and an Andrés Escobar own goal beat Colombia to send the hosts through for the first time since 1950. Brazil, the eventual champions, needed a second-half goal to end the run 1–0 in Stanford — a heartbreaking exit on home turf."
+              "id": "equalizer-under-the-dome",
+              "label": "EQUALIZER UNDER THE DOME",
+              "story": "Eric Wynalda's free kick that tied Switzerland 1–1 came inside the Pontiac Silverdome, the first World Cup match ever staged indoors — real grass grown specially by Michigan State University under a roof with no air conditioning, so humid that Switzerland's own coach later admitted his team hadn't prepared for the heat."
+            },
+            {
+              "id": "thirteen-stripes-one-flag",
+              "label": "THIRTEEN STRIPES, ONE FLAG",
+              "story": "Adidas's white home shirt wasn't random decoration — the red lines rippling across the chest were meant to mirror a flag caught mid-flutter, thirteen stripes for the original colonies, worn beneath a crest that had shrunk compared to earlier decades as national kit design leaned decorative in the U.S. for the first time."
+            },
+            {
+              "id": "the-own-goals-aftermath",
+              "label": "THE OWN GOAL'S AFTERMATH",
+              "story": "The 2–1 win over Colombia that kept the Americans alive included an own goal by defender Andrés Escobar, who flew home to Medellín afterward and was shot dead outside a nightclub ten days later — a killing investigators tied to gambling losses riding on that match. The victory still carries that shadow."
             }
           ]
         }
