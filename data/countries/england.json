@@ -268,6 +268,23 @@
     "1966": {
       "result": "Champions",
       "headline": "Hurst's Hat-Trick at Wembley",
+      "annotations": [
+        {
+          "id": "moore-wipes-his-hands",
+          "label": "MOORE WIPES HIS HANDS",
+          "story": "Before climbing the Royal Box steps to meet the Queen, captain Bobby Moore wiped his muddy hands on the velvet ropes so he wouldn't dirty her white gloves. Seconds later he lifted the Jules Rimet Trophy, the small courteous gesture as remembered as the trophy itself."
+        },
+        {
+          "id": "borrowed-red",
+          "label": "BORROWED RED",
+          "story": "England's actual first-choice shirt in 1966 was white, but a clash with West Germany forced them into the red change strip for the final, supplied under the Umbro deal signed twelve years earlier. It's the shirt everyone remembers, despite England wearing it only once all tournament."
+        },
+        {
+          "id": "the-wingless-wonders",
+          "label": "THE WINGLESS WONDERS",
+          "story": "Alf Ramsey dropped orthodox wingers entirely for a 4-3-3 shape the press mocked as negative and dubbed the 'Wingless Wonders.' The gamble, unthinkable to English football's traditionalists, delivered the only World Cup the country has ever won."
+        }
+      ],
       "story": "Playing every match at Wembley, England didn't concede until the semi-final and beat Argentina and Portugal to reach the final against West Germany. Trailing twice, Geoff Hurst equalised and Martin Peters put England ahead before Wolfgang Weber forced extra time in the 89th minute. Hurst's controversial second goal off the crossbar and a fourth in stoppage time completed the first World Cup final hat-trick, sealing a 4–2 win in England's only red change shirt.",
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": "red shirt, white shorts, red socks (worn in the final)",
