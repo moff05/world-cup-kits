@@ -1113,6 +1113,16 @@ export const argentina = {
               "id": "gotzes-extra-time-winner-2014",
               "label": "GÖTZE'S EXTRA-TIME WINNER",
               "story": "Lionel Messi scored four goals to drag a functional Argentina to the final, but Mario Götze's chested-and-volleyed finish in the 113th minute won it for Germany at the Maracanã. It was Argentina's third World Cup final loss, denying Messi the title Maradona once won."
+            },
+            {
+              "id": "the-lightest-shirt-yet-2014",
+              "label": "THE LIGHTEST SHIRT YET",
+              "story": "Argentina was one of only a handful of Adidas nations issued the 'adizero' template at Brazil 2014, a shirt built roughly 40 percent lighter than a standard jersey using laser-cut seams instead of stitching. Germany wore the same technology to the final, and beat Argentina in it."
+            },
+            {
+              "id": "final-on-rival-soil-2014",
+              "label": "FINAL ON RIVAL SOIL",
+              "story": "Argentina played for the title in Brazil, the country most responsible for their inferiority complex in South American football, at the Maracanã, the same stadium where Brazil suffered its own World Cup trauma in 1950. Losing there, to Germany, added a second layer of historical sting to the defeat."
             }
           ]
         }
