@@ -697,9 +697,19 @@ export const serbia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "JOVANOVIĆ TOPPLES GERMANY",
-              "story": "Milan Jovanović's strike shocked defending finalists Germany 1–0 in South Africa, one of the tournament's biggest upsets. But an opening loss to Ghana and Pantelić's consolation goal in a 2–1 defeat to Australia left Serbia eliminated on goal difference despite beating the runners-up."
+              "id": "jovanovics-shock",
+              "label": "JOVANOVIĆ'S SHOCK WINNER",
+              "story": "Milan Jovanović's 38th-minute strike downed defending runners-up Germany 1–0, one of the biggest upsets of the tournament. It wasn't enough — an opening loss to Ghana and a 2–1 defeat to Australia, with only a Pantelić consolation goal, sent Serbia out on goal difference anyway."
+            },
+            {
+              "id": "the-first-red-shirt",
+              "label": "THE FIRST TRUE RED SHIRT",
+              "story": "This was Serbia's first World Cup as a standalone nation, and the Nike-made kit reflected it: a vibrant red shirt with a bold white cross design and subtle blue trim, replacing the century-old dark blue jersey the team had worn as Yugoslavia and Serbia and Montenegro."
+            },
+            {
+              "id": "a-flag-still-being-drawn",
+              "label": "A FLAG STILL BEING DRAWN",
+              "story": "Serbia arrived in South Africa as its own country for the first time since Montenegro's split four years earlier, while Kosovo's 2008 declaration of independence remained unrecognized by Belgrade — the borders of the former Yugoslavia still being contested even as this new red shirt made its debut."
             }
           ]
         }
