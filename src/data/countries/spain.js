@@ -1034,9 +1034,19 @@ export const spain = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "MOROCCO'S SHOOTOUT AMBUSH",
-              "story": "Eighteen-year-old Gavi became one of the youngest World Cup goalscorers in a 7–0 opening rout of Costa Rica. Spain then collapsed late to lose 2–1 to Japan in a controversial reversal, and Morocco eliminated them in the Round of 16, saving three penalties in a shootout that ended Luis Enrique's tenure."
+              "id": "seventy-seven-percent-one-shot",
+              "label": "77% POSSESSION, ONE SHOT",
+              "story": "Seventy-seven percent possession and exactly one shot on target — the lowest total by any team in a World Cup match on record — was the return for 120 scoreless minutes, before Pablo Sarabia, Carlos Soler, and Sergio Busquets all missed in the shootout. The winning penalty came from Achraf Hakimi, born and raised barely a mile from the Bernabéu to Moroccan immigrant parents."
+            },
+            {
+              "id": "made-from-recycled-bottles",
+              "label": "MADE FROM RECYCLED BOTTLES",
+              "story": "The home shirt's geometric gold pattern sat on fabric spun largely from recycled plastic — part of Adidas's push to make its entire Qatar 2022 jersey lineup, Spain's included, from recycled polyester. It was a small environmental footnote at a tournament otherwise defined by its host's staggering carbon footprint from air-conditioned outdoor stadiums."
+            },
+            {
+              "id": "the-manager-who-went-live",
+              "label": "THE MANAGER WHO WENT LIVE",
+              "story": "Luis Enrique spent the tournament fielding fan questions live on his own Twitch channel, sometimes for over an hour after training, calling it a way to talk to supporters 'with no filters.' Spain's football establishment called it undignified for a national coach; younger fans made it must-watch television anyway."
             }
           ]
         }
