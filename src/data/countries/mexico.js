@@ -969,9 +969,19 @@ export const mexico = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "LOZANO SHOCKS THE CHAMPIONS",
-              "story": "Hirving Lozano's first-half strike beat Manuel Neuer to open the tournament with a 1–0 upset of defending champions Germany, one of the World Cup's biggest shocks. Carlos Vela and Javier Hernández saw off South Korea, but Sweden's 3–0 win and a 2–0 Round of 16 loss to Brazil ended the run in the last 16 for a seventh straight tournament."
+              "id": "the-goal-that-shook-mexico-city",
+              "label": "THE GOAL THAT SHOOK MEXICO CITY",
+              "story": "Hirving Lozano's 35th-minute strike past Manuel Neuer beat defending champions Germany 1–0, one of the tournament's biggest shocks. Fans jumping in celebration back home registered on seismic sensors in Mexico City, an unofficial 'earthquake' logged in real monitoring data."
+            },
+            {
+              "id": "a-sash-with-a-memory",
+              "label": "A SASH WITH A MEMORY",
+              "story": "Adidas's diagonal sash design deliberately echoed the pattern from Mexico's Levi's-supplied kits of the late 1970s, stitching four decades of kit history into a single modern jersey."
+            },
+            {
+              "id": "an-eerie-echo-of-1985",
+              "label": "AN EERIE ECHO OF 1985",
+              "story": "The seismic-sensor headlines drew immediate, bittersweet comparisons to September 1985, when a real magnitude-8.1 earthquake devastated Mexico City less than a year before the country hosted its second World Cup."
             }
           ]
         }
