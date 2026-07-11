@@ -65,6 +65,16 @@ export const peru = {
               "id": "lowest-attendance-first-red-card",
               "label": "FIRST-EVER SENT OFF",
               "story": "Peru's opener against Romania drew only 300 spectators — still the lowest attendance in World Cup history — before a second-half brawl saw a Peruvian shown the first red card in World Cup history. Playing a man down, Peru still scored through Souza in the 75th minute, but lost 3-1."
+            },
+            {
+              "id": "no-sash-yet",
+              "label": "BEFORE THE SASH",
+              "story": "Peru's first-ever World Cup kit had no sash at all: a white long-sleeve jersey with a red lace-up collar, white shorts, and red socks. The diagonal sash that would make Peru's shirt globally famous was still six years and one Olympics away from being invented."
+            },
+            {
+              "id": "leguia-coup",
+              "label": "A GOVERNMENT FALLS",
+              "story": "Peru's World Cup trip came weeks before its own government collapsed: president Augusto Leguia, weakened by the Great Depression's toll on public works and investment, was overthrown in a coup barely a month after the squad returned from Uruguay, then exiled and later imprisoned."
             }
           ]
         }
@@ -117,6 +127,16 @@ export const peru = {
               "id": "cubillas-breakout-1970",
               "label": "A 20-YEAR-OLD ARRIVES",
               "story": "Playing their opener just two days after the devastating 1970 Ancash earthquake back home, Peru fell behind Bulgaria before 20-year-old Teófilo Cubillas took over, scoring in a stirring 3-2 comeback. He finished the tournament with five goals, announcing himself as one of the era's great attacking talents."
+            },
+            {
+              "id": "unbranded-1970-shirt",
+              "label": "NO LOGO IN SIGHT",
+              "story": "Peru's 1970 jersey carried no sportswear branding at all, no swoosh, no stripes, no maker's mark of any kind, just the sash and the federation crest on a plain white shirt. It predated Peru's first branded kit deal, with adidas, by eight years."
+            },
+            {
+              "id": "didi-ends-the-wait",
+              "label": "DIDI'S REVOLUTION",
+              "story": "Brazilian great Waldir 'Didi' Pereira took over as Peru's coach in 1969, ending a 40-year wait for World Cup qualification by steering the team past Argentina in the process. His attacking system built around Cubillas carried Peru into a quarterfinal against his own former national team."
             }
           ]
         }
@@ -188,6 +208,11 @@ export const peru = {
               "id": "eliminated-before-kickoff",
               "label": "ELIMINATED BEFORE KICKOFF",
               "story": "Two straight defeats to Brazil and Poland in the second-round group had already ended Peru's semifinal hopes before they even faced Argentina. What followed — a 6-0 defeat that sent the hosts to the final over Brazil on goal difference — became one of the most disputed results in World Cup history."
+            },
+            {
+              "id": "first-branded-kit",
+              "label": "THE TREFOIL ARRIVES",
+              "story": "The 1978 jersey marked Peru's first branded World Cup kit: adidas added its trefoil logo and three stripes to the shoulders of the sash design for the first time, replacing the unbranded look the team had worn in Mexico eight years earlier."
             }
           ]
         }
@@ -233,6 +258,16 @@ export const peru = {
               "id": "diaz-stunner-italy",
               "label": "DÍAZ STUNS THE CHAMPIONS",
               "story": "Peru needed just one more point to advance and came within a whisker, holding tournament winners-to-be Italy to a 1-1 draw when Díaz struck in the 83rd minute. A scoreless draw with Cameroon had set up the chance; a second-half collapse against Poland ended it instead."
+            },
+            {
+              "id": "penalty-one-tournament",
+              "label": "A ONE-CUP SUPPLIER",
+              "story": "Brazilian brand Penalty took over as Peru's kit supplier for Spain '82, a one-tournament changeover between adidas eras that barely registered next to the team's on-field freefall from 1978 semifinal contenders to early group-stage exit."
+            },
+            {
+              "id": "thirty-six-year-drought",
+              "label": "A GENERATION LOST",
+              "story": "Spain '82 turned out to be Peru's last World Cup for thirty-six years: after four appearances in five tournaments across the 1970s and early '80s, the team wouldn't qualify again until Russia 2018, a drought that swallowed an entire generation of players."
             }
           ]
         }
@@ -278,6 +313,16 @@ export const peru = {
               "id": "guerrero-farewell-win",
               "label": "GUERRERO'S EMOTIONAL SEND-OFF",
               "story": "Captain Paolo Guerrero had his doping suspension controversially reduced just weeks before the tournament to let him play. With Peru already eliminated, he scored the second goal in a 2-0 win over Australia in Sochi — Peru's first World Cup victory in 40 years, since Cubillas's 1978 heroics."
+            },
+            {
+              "id": "umbro-last-cup",
+              "label": "UMBRO'S LAST RUN",
+              "story": "Umbro supplied Peru's kit for Russia 2018, its last tournament with the team after a contract dating back to 2010; Ecuadorian manufacturer Marathon Sports took over that August, ending Umbro's long run as keeper of the famous sash."
+            },
+            {
+              "id": "ending-the-drought",
+              "label": "THE DROUGHT ENDS",
+              "story": "Russia 2018 ended a 36-year World Cup absence for Peru, a gap stretching back to that same 1982 squad, finally broken when qualification arrived via a play-off win over New Zealand."
             }
           ]
         }
