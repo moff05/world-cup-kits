@@ -422,6 +422,23 @@
       "result": "Group Stage",
       "headline": "One Late Goal, One Win",
       "story": "Oliver Neuville's injury-time strike sank Poland 1–0 against host Germany after a 2–0 opening loss to Ecuador had already dented their chances. A consolation 2–1 win over Costa Rica in the finale couldn't prevent a third straight group-stage exit for a nation still searching for its golden generation's successors.",
+      "annotations": [
+        {
+          "id": "2006-neuville-late-blow",
+          "label": "NEUVILLE'S LATE BLOW",
+          "story": "Substitute Oliver Neuville needed only a poke from close range in injury time to beat Poland 1–0 in a raucous Dortmund night and send the host nation through. Sandwiched between a loss to Ecuador and a get-right win over Costa Rica, it meant a third straight group-stage exit — this one at the run's cruelest possible moment."
+        },
+        {
+          "id": "2006-puma-red-debut",
+          "label": "PUMA'S RED DEBUT",
+          "story": "Puma took over kit duties in 2006, and alongside the usual white home shirt came a striking red alternate — Polish eagle sublimated across the entire front, crest and 'Polska' stitched on the right chest. It was Poland's boldest break yet from the plain flag-color template that had barely changed since 1938."
+        },
+        {
+          "id": "2006-two-generations-one-shirt",
+          "label": "TWO GENERATIONS, ONE SHIRT",
+          "story": "Twenty years after Włodzimierz Smolarek scored a World Cup goal for Poland, his son Euzebiusz — raised in the Netherlands, where his father had played and later coached — pulled on the same white shirt at the 2006 tournament. Few countries could claim a father-son pair separated by two full decades of Polish World Cup history."
+        }
+      ],
       "homeColors": "white shirt, red shorts, white socks",
       "awayColors": null,
       "image": null,
