@@ -183,9 +183,19 @@ export const czechRepublic = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "TWO GAMES, NO GOALS FOR",
-              "story": "Czechoslovakia's tournament lasted just two matches — a 2–0 loss to Uruguay in Bern, then a 5–0 rout by Austria in Zürich, the heaviest defeat in the team's World Cup history. Without a single goal scored across the whole tournament, the group-stage exit was as swift as it was scoreless."
+              "id": "gone-before-it-started",
+              "label": "GONE BEFORE IT STARTED",
+              "story": "Czechoslovakia's tournament lasted exactly two matches and produced not a single goal: a 2–0 loss to Uruguay in Bern, then a 5–0 rout by Austria in Zürich, still the heaviest defeat in the team's World Cup history. A scoreless, winless exit closed the book almost before it opened."
+            },
+            {
+              "id": "unchanged-by-a-decade",
+              "label": "UNCHANGED BY A DECADE",
+              "story": "Little visual record survives of Czechoslovakia's brief 1954 campaign — two matches, no goals, and a team playing in the same white-red-blue kit worn since the 1930s, largely unchanged by a decade that had otherwise remade the country's politics entirely."
+            },
+            {
+              "id": "state-employed-amateurs",
+              "label": "STATE-EMPLOYED AMATEURS",
+              "story": "By 1954, Czechoslovakia was five years into a Communist government that had nationalized football alongside everything else, players officially amateur and state-employed. A quiet, goalless group-stage exit drew little of the fanfare Hungary's golden generation attracted that same summer just across the border."
             }
           ]
         }
