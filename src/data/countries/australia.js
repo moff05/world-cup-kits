@@ -68,7 +68,23 @@ export const australia = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "richards-first-red-card",
+              "label": "FIRST EVER RED CARD",
+              "story": "Ray Richards became the first Australian ever sent off at a World Cup, booked twice in the 3-0 loss to West Germany for taking too long over a throw-in. Referee's records show it as one of the stranger dismissals in tournament history, a caution for delay, then a second for arguing it."
+            },
+            {
+              "id": "umbro-adidas-exemption",
+              "label": "AN ADIDAS EXEMPTION",
+              "story": "Every kit at West Germany '74 was meant to be Adidas, but Australia's federation already had a deal with Umbro, and FIFA granted a rare exemption: the shirt carried Umbro's double-diamond logo with three stripes taped down the sleeves. Umbro liked the look enough to echo it on its own kits later in the decade."
+            },
+            {
+              "id": "cold-war-groupmates",
+              "label": "COLD WAR GROUPMATES",
+              "story": "Australia's group also held East and West Germany, who met in Hamburg in the only competitive fixture the two Cold War rivals ever played against each other. East Germany won 1-0 on a late Jurgen Sparwasser goal, a genuine upset that overshadowed the group's Australian debutants entirely."
+            }
+          ]
         }
       }
     },
@@ -124,6 +140,11 @@ export const australia = {
               "id": "kewell-croatia-equalizer",
               "label": "KEWELL'S LATE LEVELER",
               "story": "Trailing Croatia 2-1 with ten minutes left, Harry Kewell drilled a loose ball past Stipe Pletikosa in the 79th minute for a 2-2 draw. The goal was nearly overshadowed by referee Graham Poll's blunder minutes earlier — booking Josip Šimunić three times before sending him off — but it sent Australia through to the round of 16."
+            },
+            {
+              "id": "afc-confederation-switch",
+              "label": "LEAVING OCEANIA",
+              "story": "Months before Germany 2006, Football Australia switched confederations, leaving Oceania for the Asian Football Confederation to escape a qualifying path that had produced heartbreak after heartbreak, including the 1997 loss to Iran on away goals. It marked the last time Australia entered a World Cup as an Oceania nation."
             }
           ]
         }
@@ -169,6 +190,16 @@ export const australia = {
               "id": "kewell-red-card-ghana",
               "label": "TEN MEN HOLD ON",
               "story": "Brett Holman pounced on a Ghana goalkeeping error to put Australia ahead in the 11th minute. Harry Kewell then blocked a goal-bound shot with his upper arm, was sent off, and Asamoah Gyan converted the penalty to level it. Australia held on with ten men for a 1-1 draw that kept their knockout hopes alive."
+            },
+            {
+              "id": "sea-of-gold-kit",
+              "label": "A SEA OF GOLD",
+              "story": "Nike's 2010 kit introduced a 'sea of gold' concept, a rolling wave graphic in dark green across the sleeves and shoulders, and was the first Australian World Cup jersey made from recycled material. The away kit broke from tradition entirely, trading green and gold for electric blue shoulders over a navy chest."
+            },
+            {
+              "id": "verbeek-benching-mutiny",
+              "label": "ALLEGED MUTINY",
+              "story": "Coach Pim Verbeek benched veterans Harry Kewell, Mark Bresciano and Josh Kennedy for the Germany opener, pushing Tim Cahill into a lone striker role built around high pressing. Germany played through it with ease en route to a 4-0 win, and a book published later alleged captain Lucas Neill had pushed for a mutiny over the selection before kickoff."
             }
           ]
         }
@@ -214,6 +245,16 @@ export const australia = {
               "id": "cahill-volley-netherlands",
               "label": "THE UNDERSIDE OF THE BAR",
               "story": "One minute after Arjen Robben's opener, Tim Cahill met a long ball from Ryan McGowan and volleyed it in off the underside of the crossbar — instantly ranked among the tournament's best goals. Australia briefly led 2-1 after Mile Jedinak's penalty, but Robin van Persie and Memphis Depay answered to complete a 3-2 Dutch win."
+            },
+            {
+              "id": "nike-1974-heritage-kit",
+              "label": "A CALLBACK TO 1974",
+              "story": "Nike's 2014 kit deliberately echoed 1974, reviving a green collar and white home socks last worn by the amateur squad forty years earlier, with captain Peter Wilson's quote 'We Socceroos can do the impossible' woven into a neck tab. It was heritage marketing built around a tournament debut nobody at the time expected to matter this much later."
+            },
+            {
+              "id": "golden-generation-dissolves",
+              "label": "THE GENERATION TURNS OVER",
+              "story": "Australia's golden generation dissolved within months of qualifying, with Mark Schwarzer's shock retirement following back-to-back 6-0 friendly defeats to Brazil and France that cost coach Holger Osieck his job. New manager Ange Postecoglou took a young, largely rebuilt squad to Brazil instead."
             }
           ]
         }
@@ -259,6 +300,16 @@ export const australia = {
               "id": "jedinak-var-penalty-denmark",
               "label": "VAR'S FIRST WORLD CUP CALL",
               "story": "Antoine Griezmann converted the first-ever VAR-assisted penalty in World Cup history in the 58th minute. Mile Jedinak answered from the spot four minutes later to level it at 1-1, before a shot from Paul Pogba deflected in off Aziz Behich in the 81st minute, handing France a 2-1 win."
+            },
+            {
+              "id": "sleeve-graphic-callback",
+              "label": "A SLEEVE WITH HISTORY",
+              "story": "Nike's 2018 sleeve graphic, a dark green rolling wave, was designed as a direct callback to Australia's decisive November 2005 qualifying playoff, the match that had ended the team's 32-year World Cup absence. The away kit went almost entirely dark green, a rare shirt without gold as the dominant color."
+            },
+            {
+              "id": "postecoglou-resigns",
+              "label": "THE COACH WALKS AWAY",
+              "story": "Ange Postecoglou resigned as coach just two weeks after guiding Australia through a playoff against Honduras to qualify, citing personal and professional toll. He later admitted to deeper disagreements with the federation over long-term direction, leaving Australia to appoint a replacement only months before kickoff in Russia."
             }
           ]
         }
