@@ -718,9 +718,19 @@ export const belgium = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "GOLDEN GENERATION'S FIRST BOW",
-              "story": "A new generation of Belgian stars won all three group games by a single goal each, then needed extra time to beat the United States in the Round of 16 behind Kevin De Bruyne and Romelu Lukaku. Gonzalo Higuaín's early strike ended the run in the quarter-final against Argentina, a first glimpse of what was coming."
+              "id": "golden-generation-arrives",
+              "label": "A GENERATION ANNOUNCES ITSELF",
+              "story": "Belgium won all three group games by a single goal each, then needed extra time to beat the United States in the Round of 16 — Kevin De Bruyne and Romelu Lukaku combining for the winner. Gonzalo Higuaín's early strike ended the run in the quarter-final, but the golden generation had arrived."
+            },
+            {
+              "id": "burrda-outlier",
+              "label": "THE ONLY NON-BIG-THREE KIT",
+              "story": "Of 32 teams at Brazil 2014, Belgium was the only one dressed by neither Nike, Adidas, nor Puma — instead wearing a shirt from the Swiss-Qatari brand Burrda, complete with a faint crown watermark across the chest and Belgian flag detailing stitched into the collar and cuffs."
+            },
+            {
+              "id": "group-of-death-label",
+              "label": "LABELED, THEN PROVEN WRONG",
+              "story": "Pundits tagged Belgium's group with Russia, South Korea, and Algeria a trap for the inexperienced golden generation, still unproven at senior tournament level. Belgium won all three anyway, the first real evidence that a talent pool built around Hazard, De Bruyne, and Courtois could handle pressure, not just promise."
             }
           ]
         }
