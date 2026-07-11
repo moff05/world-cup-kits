@@ -363,9 +363,19 @@ export const poland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ONE WIN, BRAZIL AGAIN",
-              "story": "A goalless draw with Morocco and a win over Portugal carried Poland into the Round of 16, but Brazil delivered the tournament's most lopsided knockout scoreline, 4–0 in Guadalajara — the heaviest defeat in Polish World Cup history and the last time the golden generation's successors would see the finals for 16 years."
+              "id": "1986-josimar-impossible-angle",
+              "label": "JOSIMAR'S IMPOSSIBLE ANGLE",
+              "story": "Sócrates opened from the penalty spot, but it was Josimar's 55th-minute strike — a swerving effort from an almost impossible angle near the byline — that broke Poland. Edinho and Careca added two more in Guadalajara's heat. The 4–0 defeat remains the heaviest in Polish World Cup history, and their last finals appearance for sixteen years."
+            },
+            {
+              "id": "1986-built-for-altitude",
+              "label": "BUILT FOR ALTITUDE",
+              "story": "Same white shirt, same red shorts, same Adidas trefoil stitched above the crest — but the fabric had changed. Cotton-heavy kits gave way to lighter, more breathable weaves suited to playing football at Guadalajara's altitude and heat, a small technical update to a jersey that had otherwise looked identical since the 1950s."
+            },
+            {
+              "id": "1986-end-of-the-era",
+              "label": "END OF THE ERA",
+              "story": "This was Zbigniew Boniek's third and final World Cup, the last frontman from the generation that had delivered two bronze medals in the previous decade. When Poland went home from Guadalajara, so did that era: the team wouldn't reach another World Cup until 2002, missing three consecutive tournaments in between."
             }
           ]
         }
