@@ -85,9 +85,19 @@ export const uruguay = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "CASTRO SEALS IT AT HOME",
-              "story": "Down 2–1 at halftime in the inaugural final, Uruguay leaned on 90,000 fans at the brand-new Estadio Centenario. Pedro Cea equalized, Santos Iriarte put them ahead in the 68th minute, and one-armed forward Héctor Castro headed home in the final minute to beat Argentina 4–2. The following day was declared a national holiday."
+              "id": "divine-manco-header",
+              "label": "THE DIVINE ONE-ARMED",
+              "story": "Héctor Castro lost his right forearm in a childhood accident with an electric saw, yet nobody told his marker in the 89th minute. Rising above a tiring Argentina backline, 'El Divino Manco' — the Divine One-Armed — met a cross with his head and buried the winner that made Montevideo erupt."
+            },
+            {
+              "id": "unbranded-handmade-celeste",
+              "label": "UNBRANDED AND HANDMADE",
+              "story": "Long before crests carried stars or shirts carried logos, Uruguay's players pulled on plain celeste cotton jerseys stitched by hand, paired with black shorts and socks — colors chosen two decades earlier after a win over Argentina's Alumni club. No manufacturer's mark appeared anywhere; the federation, not a company, supplied the kit."
+            },
+            {
+              "id": "centenario-built-in-months",
+              "label": "BUILT IN EIGHT MONTHS",
+              "story": "Estadio Centenario rose from bare ground in barely eight months, its concrete still curing as fans filed in. Only four European federations made the three-week transatlantic crossing to compete, leaving the inaugural tournament overwhelmingly American — a snub that stung organizers even as Uruguay, fresh off consecutive Olympic titles, romped to the trophy."
             }
           ]
         }
