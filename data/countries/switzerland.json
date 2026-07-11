@@ -376,6 +376,11 @@
     "2010": {
       "result": "Group Stage",
       "headline": "The Team That Beat Spain",
+      "annotations": [
+        { "id": "shutout-record", "label": "THE SHUTOUT RECORD", "story": "After Gelson Fernandes' shock winner against Spain, Switzerland didn't concede again until the 75th minute of the Chile match — a streak of scoreless defending that set a World Cup record for consecutive minutes without conceding. None of it mattered: a draw with Honduras still sent Switzerland home in third place." },
+        { "id": "shared-away-template", "label": "BORROWED FROM ITALY", "story": "Puma's 2010 away shirt for Switzerland leaned on the same cut and paneling as that year's Italy kit — a shared template rather than a bespoke design. It scored just 3.19 out of 5 on kit-rating sites, one of the more forgettable shirts of an otherwise memorable tournament for the Swiss." },
+        { "id": "spain-beaters-still-out", "label": "BEAT SPAIN, WENT HOME", "story": "No team had done it since Norway in 1994: beat the eventual group winner in the tournament opener, then still fail to escape the group. Switzerland's win over Spain became a historical footnote rather than a launchpad — Spain regrouped, won every remaining match, and lifted the trophy a month later." }
+      ],
       "story": "Gelson Fernandes' goal beat eventual champions Spain 1–0 in the group opener, making Switzerland the only team to defeat Spain all tournament. It didn't matter: a loss to Chile and a scoreless draw with Honduras left Switzerland third in the group, eliminated despite handing the champions their only defeat.",
       "homeColors": "red shirt, white shorts, red socks (Puma)",
       "awayColors": "white shirt, red shorts, white socks",
