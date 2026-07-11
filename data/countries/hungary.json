@@ -84,6 +84,23 @@
     "1938": {
       "result": "Runners-up",
       "headline": "So Close To Gold",
+      "annotations": [
+        {
+          "id": "trading-goals-to-paris",
+          "label": "TRADING GOALS TO PARIS",
+          "story": "Hungary scored freely en route to Paris — six past the Dutch East Indies, five past Sweden — with Sárosi and Zsengellér trading goals like a tennis rally. In the final, Silvio Piola's brace and Gino Colaussi's pace undid them; Titkos and Sárosi's replies made it close, but Italy held on, 4–2."
+        },
+        {
+          "id": "red-chasing-black",
+          "label": "RED CHASING BLACK",
+          "story": "Across the pitch that day in Colombes stood Italy in black — the shirt colour Vittorio Pozzo's champions wore for the final — against Hungary's cherry red. The contrast made newsreel footage instantly readable even without commentary: red chasing black, and black getting there first."
+        },
+        {
+          "id": "the-last-world-cup-before-war",
+          "label": "THE LAST BEFORE WAR",
+          "story": "Played months after the Anschluss folded Austria's talented Wunderteam into Germany's squad, the 1938 tournament carried a nervous European undertone — the last World Cup before a 12-year wartime hiatus. Hungary's silver medal stood as their best finish for sixteen years, through a war neither team could yet see coming."
+        }
+      ],
       "homeColors": "red shirt, white shorts, green socks",
       "awayColors": null,
       "image": null,
