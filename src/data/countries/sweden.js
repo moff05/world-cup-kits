@@ -324,9 +324,19 @@ export const sweden = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ONE WIN, ONE ROUND",
-              "story": "An opening 1–0 loss to Italy put Sweden behind before they'd started. Tom Turesson's equalizer earned a point against Israel, and Ove Grahn's late goal beat Uruguay 1–0, but it wasn't enough to escape a tight Group 2, and Sweden went out after the first round."
+              "id": "turesson-point-vs-israel",
+              "label": "NARROW MARGINS IN MEXICO",
+              "story": "Sweden trailed Italy 1–0 before a ball had barely settled. Tom Turesson's 53rd-minute equalizer against Israel kept the group alive, and Ove Grahn's goal in the 90th minute beat Uruguay — but a solitary win from three games wasn't enough to escape the group."
+            },
+            {
+              "id": "umbro-airtex-debut",
+              "label": "FIRST VENTILATED SHIRT",
+              "story": "1970 marked the first time an outside manufacturer built Sweden's kit: Umbro, pioneering a lightweight, perforated fabric called Airtex designed to breathe in Mexico's heat. It replaced two decades of federation-made wool jerseys — the first real technological leap in the history of the shirt."
+            },
+            {
+              "id": "first-color-broadcast",
+              "label": "SEEN IN COLOR",
+              "story": "1970 was the first World Cup broadcast globally in color television, meaning viewers outside Sweden saw the country's blue and yellow rendered accurately, and in real time, for the first time ever. It also marked Sweden's return after missing the previous two tournaments entirely."
             }
           ]
         }
