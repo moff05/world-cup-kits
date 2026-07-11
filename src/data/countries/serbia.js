@@ -525,9 +525,19 @@ export const serbia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "STOJKOVIĆ STUNS SPAIN",
-              "story": "Dragan Stojković scored twice to beat Spain 2–1 in extra time in the Round of 16, sending Yugoslavia into a quarter-final showdown with Diego Maradona's Argentina. Neither side scored through 120 minutes in Florence, and Argentina survived the shootout 3–2, ending one of Yugoslavia's best modern runs."
+              "id": "stojkovics-double",
+              "label": "STOJKOVIĆ'S EXTRA-TIME DOUBLE",
+              "story": "Dragan Stojković scored in the 78th and 93rd minutes to sink Spain 2–1 in extra time, sending Yugoslavia into a quarter-final against Diego Maradona's Argentina. Neither side broke through in 120 goalless minutes in Florence, and Argentina survived the shootout 3–2 to end the run."
+            },
+            {
+              "id": "the-lightning-bolt-shirt",
+              "label": "THE LIGHTNING BOLT SHIRT",
+              "story": "Yugoslavia's Adidas away kit that summer was a white shirt slashed with red-and-blue lightning-bolt graphics down the sides and a blue V-neck collar — a bold departure from the plain navy home strip the team had worn largely unchanged since 1930."
+            },
+            {
+              "id": "the-boban-absence",
+              "label": "THE BOBAN ABSENCE",
+              "story": "Weeks before the tournament, Dinamo Zagreb captain Zvonimir Boban kicked a policeman during the Maksimir riot between Dinamo and Red Star fans, an incident tied to Croatia's independence movement. His six-month ban kept him off the 1990 squad — a preview of the breakup to come."
             }
           ]
         }
