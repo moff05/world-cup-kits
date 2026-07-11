@@ -69,7 +69,23 @@ export const bulgaria = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "lone-goal-in-rout",
+              "label": "LONE GOAL IN ROUT",
+              "story": "Bulgaria's World Cup debut nearly finished scoreless across the board, but Dimitar Sokolov's 64th-minute strike against Hungary broke the shutout in what still ended 6–1 in Rancagua — the same five-goal margin Bulgaria would suffer again 36 years later, against Spain in 1998."
+            },
+            {
+              "id": "lion-under-red-star",
+              "label": "LION UNDER RED STAR",
+              "story": "Bulgaria's Chile-bound shirts carried Communist-era heraldry: the traditional golden lion recast inside an oval medallion styled after the Soviet Union's coat of arms rather than its historic red shield. That Soviet-influenced badge stayed stitched above the heart until Bulgaria dropped communism in 1989."
+            },
+            {
+              "id": "draw-with-future-champions",
+              "label": "DRAW WITH FUTURE CHAMPIONS",
+              "story": "Sandwiched between two defeats, Bulgaria held England scoreless in Rancagua for their only point of the tournament — a fitting footnote given England would lift the trophy on home soil four years later, the only team from that group to ever win it all."
+            }
+          ]
         }
       }
     },
@@ -108,7 +124,23 @@ export const bulgaria = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "foul-that-made-history",
+              "label": "FOUL THAT MADE HISTORY",
+              "story": "Dobromir Zhechev hauled down Pelé just outside the box in the 15th minute at Goodison Park; Pelé curled the free kick in himself to become the first man to score in three straight World Cups. Brazil's rough marking of him that night was a preview of the tournament that would kick him out injured."
+            },
+            {
+              "id": "fixed-numbers-debut",
+              "label": "FIXED NUMBERS DEBUT",
+              "story": "1966 was the first World Cup where each player kept one squad number for the whole tournament instead of being renumbered every match. Georgi Asparuhov wore 9 throughout Bulgaria's three games, the shirt he had on when he scored the team's only goal, against Hungary."
+            },
+            {
+              "id": "gone-too-soon",
+              "label": "GONE TOO SOON",
+              "story": "Georgi Asparuhov scored Bulgaria's lone goal of the 1966 tournament and would later be voted the country's best player of the 20th century. He never got another World Cup at full fitness — a car crash killed him and teammate Nikola Kotkov in 1971, five years after Manchester."
+            }
+          ]
         }
       }
     },
@@ -147,7 +179,23 @@ export const bulgaria = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "two-leads-one-loss",
+              "label": "TWO LEADS, ONE LOSS",
+              "story": "Atanas Dermendzhiev shot Bulgaria ahead inside 13 minutes and Hristo Bonev restored the lead in the 49th, but Peru scored three times around them to win 3–2 in León — a match still remembered as one of the most entertaining group games of the 1970 tournament."
+            },
+            {
+              "id": "cut-sleeves-for-heat",
+              "label": "CUT SLEEVES FOR HEAT",
+              "story": "Facing Mexico's midday heat and altitude, Bulgaria's kit staff scooped out the necklines and shortened the sleeves on their jerseys — a low-tech cooling fix several European federations tried in 1970, the first World Cup where teams had to adjust to playing in the tropics at altitude."
+            },
+            {
+              "id": "playing-hurt-on-orders",
+              "label": "PLAYING HURT ON ORDERS",
+              "story": "Bulgaria's biggest star, Georgi Asparuhov, arrived in Mexico injured and was promised a place on the bench. Communist Party officials overruled that plan, insisting he suit up anyway as a morale booster — he managed only a handful of substitute minutes and never found the net."
+            }
+          ]
         }
       }
     },
@@ -186,7 +234,23 @@ export const bulgaria = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "legends-own-goal",
+              "label": "LEGEND'S OWN GOAL",
+              "story": "Bulgaria's only goal against the Netherlands' Total Football juggernaut came when Ruud Krol, one of the tournament's best defenders, turned the ball into his own net in the 78th minute — small consolation in a 4–1 defeat as Johan Cruyff's Oranje cruised through Group 3 unbeaten."
+            },
+            {
+              "id": "red-kit-yellow-clash",
+              "label": "RED KIT, YELLOW CLASH",
+              "story": "Facing Sweden's yellow shirts and blue shorts in Düsseldorf, Bulgaria swapped their white home shirt for an all-red away kit with white shorts to avoid a clash — the same red set they wore again days later against the Netherlands, making it their most-worn strip of the tournament."
+            },
+            {
+              "id": "bloc-on-western-soil",
+              "label": "BLOC ON WESTERN SOIL",
+              "story": "As a Warsaw Pact state, Bulgaria's trip to West Germany in 1974 doubled as a rare Cold War border crossing — Communist-bloc sides made up nearly a third of the 16-team field, with East Germany's shock win over the hosts the political headline, even as Bulgaria left without a single victory."
+            }
+          ]
         }
       }
     },
@@ -237,6 +301,16 @@ export const bulgaria = {
               "id": "no-wins-still-through",
               "label": "THROUGH WITHOUT A WIN",
               "story": "Two draws and a defeat to Argentina left Bulgaria third in their group without a single win, but a favorable record among third-placed teams pushed them into the knockout round anyway. Bulgaria and Uruguay became the first nations in World Cup history to reach the second round without winning a group match."
+            },
+            {
+              "id": "sirakov-stuns-italy",
+              "label": "LATE EQUALIZER VS CHAMPIONS",
+              "story": "Trailing the defending champions in Mexico City, Nasko Sirakov leveled in the 85th minute to snatch a 1–1 draw against Italy — the result that got Bulgaria's group-stage survival math started, rescuing a point off the reigning World Cup holders with five minutes left on the clock."
+            },
+            {
+              "id": "adidas-everywhere",
+              "label": "ADIDAS EVERYWHERE",
+              "story": "By 1986, Adidas outfitted twelve of the tournament's 24 teams, Bulgaria included — a saturation so heavy that matches like Bulgaria's group finale against Argentina came down to shorts length and sock trim to tell brand-mates apart on grainy Mexican broadcast feeds of the era."
             }
           ]
         }
@@ -310,6 +384,16 @@ export const bulgaria = {
               "id": "letchkov-header-stuns-germany",
               "label": "LETCHKOV'S HEADER STUNS GERMANY",
               "story": "Down 1–0 to reigning champions Germany after a Lothar Matthäus penalty, Hristo Stoichkov leveled with a 75th-minute free kick before Yordan Letchkov rose for a diving header three minutes later to complete the upset. Sofia's streets filled with celebrating fans that night — the biggest win in Bulgarian football history."
+            },
+            {
+              "id": "stripes-from-the-side",
+              "label": "STRIPES FROM THE SIDE",
+              "story": "Adidas ditched the classic three-stripe shoulder look for 1994, running green side-panel stripes in from the seams instead, with a red-white-green flag pattern trimmed into the V-neck and sleeve cuffs — a design so specific to the tournament it vanished once Puma took over the following year."
+            },
+            {
+              "id": "golden-boot-ballon-dor",
+              "label": "GOLDEN BOOT, BALLON D'OR",
+              "story": "Hristo Stoichkov shared the tournament's Golden Boot with Russia's Oleg Salenko, both level on six goals, then capped the year by winning the Ballon d'Or as Europe's best player — validation for the Barcelona forward who'd spent the World Cup marked by defenders from four different countries."
             }
           ]
         }
@@ -350,7 +434,23 @@ export const bulgaria = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "nigeria-recurring-nemesis",
+              "label": "NIGERIA, RECURRING NEMESIS",
+              "story": "Victor Ikpeba's 28th-minute strike beat Bulgaria 1–0 in Lens, the second straight World Cup in which Nigeria got the better of them — after the Super Eagles' 3–0 win in the 1994 group stage. Bulgaria has never beaten Nigeria at a World Cup across two attempts."
+            },
+            {
+              "id": "stripped-back-puma-debut",
+              "label": "STRIPPED-BACK PUMA DEBUT",
+              "story": "Puma's first World Cup design for Bulgaria kept things plain — a mostly white shirt with green-on-dark-green shoulder panels and minimal trim, collectors now call the 'basic' template. It was a stark comedown from the flag-striped 1994 shirt Stoichkov had worn to the semi-finals four years earlier."
+            },
+            {
+              "id": "golden-generation-unravels",
+              "label": "GOLDEN GENERATION UNRAVELS",
+              "story": "Two years after the 1994 heroics, Bulgaria's federation fell behind on player salaries, triggering a squad strike and a group-stage exit at Euro 96 that cost coach Dimitar Penev his job. The fractured, unpaid team that arrived in France in 1998 bore little resemblance to the World Cup semi-finalists."
+            }
+          ]
         }
       }
     }

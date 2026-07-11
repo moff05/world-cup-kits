@@ -212,7 +212,7 @@
     "name": "Austria",
     "confederation": "UEFA",
     "worldCupsCount": 7,
-    "status": "backfill",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -220,7 +220,7 @@
     "name": "Romania",
     "confederation": "UEFA",
     "worldCupsCount": 7,
-    "status": "backfill",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -641,7 +641,7 @@
   },
   {
     "id": "curacao",
-    "name": "Curaçao",
+    "name": "Cura\u00e7ao",
     "confederation": "CONCACAF",
     "worldCupsCount": 1,
     "status": "done",
