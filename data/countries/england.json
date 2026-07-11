@@ -46,6 +46,23 @@
     "1950": {
       "result": "Group Stage",
       "headline": "Shock Defeat by the USA",
+      "annotations": [
+        {
+          "id": "the-impossible-score",
+          "label": "THE IMPOSSIBLE SCORE",
+          "story": "When the wire result reached London reading USA 1, England 0, editors assumed it was a transmission error for 10–1 and nearly printed the correction. Part-time New York dishwasher Joe Gaetjens' header stood, and England's tournament favorites tag evaporated in Belo Horizonte."
+        },
+        {
+          "id": "the-blue-shirt",
+          "label": "THE BLUE SHIRT",
+          "story": "For the clash with the United States, England swapped their familiar white for a royal blue change shirt, still paired with navy shorts and white socks. It's one of only two times England have worn blue at a World Cup, a color note lost beneath the result."
+        },
+        {
+          "id": "arriving-as-favorites",
+          "label": "ARRIVING AS FAVORITES",
+          "story": "England had snubbed the first three World Cups, content with the Home Championship and only rejoining FIFA in 1946. They finally showed up in Brazil as outsiders' favorites after a long sea and air journey, unacclimatized, and lasted three group games before flying home."
+        }
+      ],
       "story": "Stan Mortensen and Wilf Mannion goals sealed a comfortable 2–0 win over Chile in Rio. Four days later in Belo Horizonte, part-time player Joe Gaetjens headed in the only goal as the United States pulled off the biggest shock in World Cup history. Telmo Zarra's late strike for Spain finished the job, and England went out in the group stage of their World Cup debut.",
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": null,
