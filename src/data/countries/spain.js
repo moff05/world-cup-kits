@@ -80,9 +80,19 @@ export const spain = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ZAMORA'S INJURY, ITALY'S ESCAPE",
-              "story": "Isidro Lángara and a brace from Chirri sank Brazil 3–1 in Spain's World Cup debut. A bruising 1–1 draw with host Italy forced a next-day replay, and with legendary goalkeeper Ricardo Zamora ruled out by injury, the eventual champions escaped 1–0, ending Spain's run after just two matches."
+              "id": "battle-of-florence",
+              "label": "BATTLE OF FLORENCE",
+              "story": "The scoreless brawl that forced the replay was so vicious that history remembers it as the Battle of Florence — sliding tackles, elbows, and a battered Spanish side that limped into the next day's decider missing not just Zamora but several starters too bruised to walk out again."
+            },
+            {
+              "id": "the-divine-ones-jumper",
+              "label": "THE DIVINE ONE'S JUMPER",
+              "story": "While teammates wore plain red, keeper Ricardo Zamora patrolled his box in a cloth cap and thick white polo-neck jumper — a uniform so distinct that fans nicknamed him 'El Divino.' He'd broken his sternum for Spain once already, in a legendary 1929 win over England, and kept playing anyway."
+            },
+            {
+              "id": "mussolinis-stage",
+              "label": "MUSSOLINI'S STAGE",
+              "story": "Rome draped its stadiums in fascist salutes and Il Duce's portrait that summer, and whispers followed the hosts everywhere — including allegations that referee Ivan Eklind had been summoned to Mussolini's private box before matches. Nothing was ever proven, but Italy's suspiciously convenient path to the title still hasn't shaken the theory."
             }
           ]
         }
