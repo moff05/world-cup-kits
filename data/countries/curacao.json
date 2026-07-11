@@ -1,4 +1,4 @@
-export const curacao = {
+{
   "id": "curacao",
   "name": "Curaçao",
   "flagCode": "cw",
@@ -26,4 +26,4 @@ export const curacao = {
     }
   ],
   "kits": {}
-};
+}
