@@ -228,7 +228,7 @@
     "name": "Bulgaria",
     "confederation": "UEFA",
     "worldCupsCount": 7,
-    "status": "backfill",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -236,7 +236,7 @@
     "name": "Nigeria",
     "confederation": "CAF",
     "worldCupsCount": 7,
-    "status": "backfill",
+    "status": "done",
     "tier": "medium"
   },
   {

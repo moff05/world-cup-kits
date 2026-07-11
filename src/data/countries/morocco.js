@@ -73,6 +73,16 @@ export const morocco = {
               "id": "jarir-first-african-goal",
               "label": "FIRST AFRICAN GOAL AT A WORLD CUP",
               "story": "Houmane Jarir put Morocco ahead in the 21st minute against West Germany in León, becoming the first African player to score at a World Cup. West Germany rallied to win 2–1, but nine days later Morocco held Bulgaria 1–1, the first point an African nation had ever taken at the tournament."
+            },
+            {
+              "id": "unbranded-cotton-shirt",
+              "label": "NO BADGE, NO BRAND",
+              "story": "The shirt Jarir scored in carried no crest, no stripes, no manufacturer mark — just a deep red cotton weave with a green v-neck and cuffs, stitched for a squad drawn entirely from the domestic league. Commercial kit contracts were still years away; this was pure amateur-era football, built for León's altitude and heat."
+            },
+            {
+              "id": "coach-of-two-nations",
+              "label": "COACH OF TWO NATIONS",
+              "story": "Blagoje Vidinić, a Yugoslav goalkeeper who'd won Olympic gold in 1960, coached Morocco to its World Cup debut in 1970. Four years later he took the bench for Zaire at the 1974 tournament — the only man to coach two different African nations at the World Cup, a feat still unmatched over five decades on."
             }
           ]
         }
@@ -130,6 +140,11 @@ export const morocco = {
               "id": "matthaus-late-winner",
               "label": "MATTHÄUS'S LATE, LATE WINNER",
               "story": "One minute from full time in the Round of 16, Lothar Matthäus curled a free kick past goalkeeper Badou Zaki to end Morocco's run 1–0. It remains the closest an African team came to reaching the World Cup quarter-finals until 2022."
+            },
+            {
+              "id": "olympic-rings-badge",
+              "label": "BADGE BORROWED FROM THE OLYMPICS",
+              "story": "Adidas dressed Morocco's Mexico run in red with a wide green polo collar and shoulder trim, typical mid-'80s excess. The crest told its own story: the shirt carried the five interlocking Olympic rings, lent by the Moroccan Olympic Committee since the football federation had not yet issued its own dedicated World Cup badge."
             }
           ]
         }
@@ -170,7 +185,23 @@ export const morocco = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "nader-levels-it",
+              "label": "NADER'S FLEETING EQUALIZER",
+              "story": "Down 1-0 to the Netherlands in Orlando, Hassan Nader leveled it in the 47th minute, and Morocco stayed level with a side that had reached the semi-finals four years earlier. The tie held until Bryan Roy's 78th-minute strike settled it 2-1 — the closest scoreline of three straight one-goal group defeats."
+            },
+            {
+              "id": "fiorentina-template",
+              "label": "BORROWED FROM FIORENTINA",
+              "story": "Lotto's 1994 kit wasn't built from scratch — it recycled a template designed for Fiorentina, complete with a fading gradient across the chest that shaded from deep red toward pink. A giant federation crest anchored the design, while the matching goalkeeper shirt went further still: tribal-patterned panels in green, purple and yellow."
+            },
+            {
+              "id": "beaten-bid-to-host",
+              "label": "PLAYING WHERE THEY WANTED TO HOST",
+              "story": "Six years earlier, Morocco had bid to host this very tournament, only to lose a single Zurich vote 10-7 to the United States after inspectors flagged the nine stadiums it still needed to build. In 1994 the Atlas Lions arrived anyway, guests in the country that beat their bid, and left without a win."
+            }
+          ]
         }
       }
     },
@@ -214,6 +245,16 @@ export const morocco = {
               "id": "rout-of-scotland",
               "label": "BIGGEST WIN IN WORLD CUP HISTORY",
               "story": "Salaheddine Bassir scored twice and Abdeljalil Hadda added another as Morocco routed Scotland 3–0 in Saint-Étienne, still the biggest margin of victory in the nation's World Cup history. It came too late — Morocco had already been eliminated after losing to Brazil."
+            },
+            {
+              "id": "green-takes-lead-role",
+              "label": "GREEN TAKES THE LEAD ROLE",
+              "story": "Puma's 1998 home shirt flipped the usual formula: dark green became Morocco's primary World Cup color for the first time, with a white-outlined red stripe slashed across the chest. The away kit, worn against Brazil, ran the opposite way — white base, bold red band, green trim beneath the collar."
+            },
+            {
+              "id": "home-crowd-in-a-foreign-league",
+              "label": "A HOME CROWD ON FOREIGN SOIL",
+              "story": "France's stadiums turned red and green for every Morocco match, a product of the millions-strong Moroccan diaspora settled across the country since the 1960s. Fans in Saint-Étienne and Montpellier often outnumbered the actual home nation's supporters, giving the Atlas Lions something close to a home tournament abroad."
             }
           ]
         }
@@ -259,6 +300,16 @@ export const morocco = {
               "id": "bouhaddouz-own-goal",
               "label": "LATEST OWN GOAL IN WORLD CUP HISTORY",
               "story": "Substitute Aziz Bouhaddouz turned the ball into his own net in the fourth minute of stoppage time, handing Iran a 1–0 win in the tournament opener. It stood as the latest own goal ever to decide a World Cup match at the time, a cruel start to Morocco's return after 20 years away."
+            },
+            {
+              "id": "delayed-to-beat-the-fakes",
+              "label": "DELAYED TO BEAT THE FAKES",
+              "story": "Adidas built the 2018 kit off its Tabela 18 template, a red home shirt with white cuffs and a faint pinstripe. The federation and Adidas deliberately delayed its public unveiling as long as possible, wary that Morocco's thriving counterfeit-shirt trade would flood markets with fakes before the real jerseys had even shipped."
+            },
+            {
+              "id": "renard-two-nations-one-coach",
+              "label": "TWO NATIONS, ONE COACH, BACK TO BACK",
+              "story": "Hérvé Renard arrived in 2016 already the only coach to win the Africa Cup of Nations with two different countries, Zambia in 2012 and Ivory Coast in 2015. He built a third project in Morocco, guiding the Atlas Lions back to the World Cup after two decades away."
             }
           ]
         }
@@ -337,6 +388,11 @@ export const morocco = {
               "id": "en-nesyri-header",
               "label": "THE HEADER THAT TOPPLED PORTUGAL",
               "story": "Youssef En-Nesyri rose 2.78 meters off the ground to head in the only goal against Portugal, sending Cristiano Ronaldo and the pre-tournament favorites home. The header made Morocco the first African and first Arab team to reach a World Cup semi-final."
+            },
+            {
+              "id": "three-months-to-a-semifinal",
+              "label": "THREE MONTHS TO A SEMI-FINAL",
+              "story": "Walid Regragui took the job barely ten weeks before kickoff, part of a federation shakeup nobody saw coming. He built team unity by flying players' mothers in for the tournament, telling them family belonged pitchside — an unusual call that turned a patched-together squad into a fourth-place finisher."
             }
           ]
         }
