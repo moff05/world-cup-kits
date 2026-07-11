@@ -997,9 +997,19 @@ export const france = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "MBAPPÉ ANNOUNCES A GENERATION",
-              "story": "A 19-year-old Kylian Mbappé scored twice in a 4–3 thriller over Argentina, then struck again in the 4–2 final win over Croatia, becoming only the second teenager after Pelé to score in a World Cup final. Antoine Griezmann and Paul Pogba also found the net as France claimed its second title."
+              "id": "mbappe-brace-final",
+              "label": "MBAPPÉ'S BRACE IN THE FINAL",
+              "story": "A 19-year-old Kylian Mbappé scored twice in a 4–3 thriller over Argentina, then struck again in the 4–2 final win over Croatia, becoming only the second teenager after Pelé to score in a World Cup final. Antoine Griezmann and Paul Pogba also scored as France claimed its second title two decades after the first."
+            },
+            {
+              "id": "soundwave-sleeves",
+              "label": "SOUNDWAVE SLEEVES",
+              "story": "Nike printed a subtle light-blue soundwave pattern across the sleeves of France's 2018 home shirt, a design detail few noticed on television until the team started winning with it. It was the shirt Mbappé wore in the final, now one of the most collected France kits of the modern era."
+            },
+            {
+              "id": "second-manager-triple-crown",
+              "label": "DESCHAMPS JOINS ELITE CLUB",
+              "story": "By lifting the trophy as manager in 2018, Didier Deschamps became only the third man in history — after Mário Zagallo and Franz Beckenbauer — to win the World Cup as both player and manager, and only the second to have done it as captain first. Twenty years after 1998, he'd done it from the touchline."
             }
           ]
         }
