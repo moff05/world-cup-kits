@@ -80,6 +80,16 @@ export const nigeria = {
               "id": "yekini-first-goal",
               "label": "YEKINI'S NET-SHAKING CELEBRATION",
               "story": "Rashidi Yekini scored Nigeria's first-ever World Cup goal in the opener against Bulgaria, then sprinted to grab the net and scream into it, tears streaming down his face — an image that became one of football's most enduring celebrations. Nigeria won the match 3–0 and topped the group in its tournament debut."
+            },
+            {
+              "id": "sash-and-eagle-crest",
+              "label": "SASH AND EAGLE CREST",
+              "story": "Adidas built Nigeria's away shirt around a white body cut through by a diagonal green sash and the eagle crest, while the green home kit carried a bold geometric pattern drawn from traditional Nigerian textile design — arguably the standout African kit of the 1994 tournament, years before templates took over."
+            },
+            {
+              "id": "africas-champions-debut",
+              "label": "AFRICA'S CHAMPIONS DEBUT",
+              "story": "Nigeria arrived in the United States as reigning African champions, having beaten Zambia weeks earlier to win the 1994 Nations Cup in Tunisia, yet this was still the Super Eagles' first-ever World Cup appearance — a golden generation announcing itself on two continents in the same year."
             }
           ]
         }
@@ -132,6 +142,16 @@ export const nigeria = {
               "id": "nigeria-stuns-spain",
               "label": "OPENING UPSET OVER SPAIN",
               "story": "Mutiu Adepoju's strike, an Andoni Zubizarreta own goal, and a Sunday Oliseh finish sent Nigeria past pre-tournament favorites Spain 3–2 in Nantes, one of the biggest group-stage shocks of the 1998 tournament. It set up a second-straight World Cup win over Bulgaria before Paraguay and Denmark ended the run."
+            },
+            {
+              "id": "green-on-green",
+              "label": "GREEN ON GREEN",
+              "story": "Nike's 1998 shirt dropped the white-away contrast of 1994 for a monochrome look: deep green panels running down the sides and across the shoulders atop a lighter green body — a subdued follow-up to the geometric kit that had turned heads across the United States four years earlier."
+            },
+            {
+              "id": "bonus-row-then-rout",
+              "label": "BONUS ROW, THEN ROUT",
+              "story": "As would happen again in 2014, Nigeria's camp was disrupted by a dispute over unpaid bonuses before a knockout match — this time ahead of the Round of 16 against Denmark, who ran out 4–1 winners. The pattern of pre-match financial rows would repeat at the same stage sixteen years later."
             }
           ]
         }
@@ -172,7 +192,23 @@ export const nigeria = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "six-backflips-one-goal",
+              "label": "SIX BACKFLIPS, ONE GOAL",
+              "story": "Julius Aghahowa scored Nigeria's only goal of the tournament against Sweden, then peeled off into a run of six consecutive backflips before sticking the landing — a celebration so widely replayed it outlived the result and earned him the press nickname 'Agha-wonder' back home."
+            },
+            {
+              "id": "neon-green-coolmotion",
+              "label": "NEON GREEN, COOLMOTION TECH",
+              "story": "Nike cranked Nigeria's green to a saturated neon shade for 2002 and built the shirt around its new Coolmotion fabric — tapered side panels designed to vent air and combat the humidity of a World Cup hosted, for the first time, in the summer heat of East Asia."
+            },
+            {
+              "id": "chaos-before-kickoff",
+              "label": "CHAOS BEFORE KICKOFF",
+              "story": "Nigeria sacked both coaches who'd qualified the team after a Nations Cup semi-final loss months before the tournament, hired a replacement who was still learning players' names weeks out, and dropped captain Sunday Oliseh in the fallout — turmoil that left the squad short on cohesion in Japan and South Korea."
+            }
+          ]
         }
       }
     },
@@ -216,6 +252,16 @@ export const nigeria = {
               "id": "kaita-red-card",
               "label": "KAITA'S RED CARD UNDOES LEAD",
               "story": "Kalu Uche put Nigeria ahead inside 16 minutes against Greece, but Sani Kaita was sent off for kicking out at Vasilis Torosidis in the 33rd minute — the country's first-ever World Cup red card. Down to ten men, Nigeria conceded twice and lost 2–1, a result many Nigerians still blame for the group-stage exit."
+            },
+            {
+              "id": "white-shirt-silver-sash",
+              "label": "WHITE SHIRT, SILVER SASH",
+              "story": "Adidas dressed Nigeria in white for 2010, cutting a silver sash across the chest in place of the green geometry of previous tournaments — a muted, almost formal look for a squad that limped out of the group stage with a single point from three matches."
+            },
+            {
+              "id": "presidents-two-day-ban",
+              "label": "PRESIDENT'S TWO-DAY BAN",
+              "story": "After Nigeria finished bottom of its group, President Goodluck Jonathan suspended the national team from international football for two years, calling the campaign a national embarrassment. FIFA threatened to expel Nigeria over government interference, and the ban was quietly lifted within days once the federation issued a public apology."
             }
           ]
         }
@@ -268,6 +314,16 @@ export const nigeria = {
               "id": "musa-brace-argentina",
               "label": "MUSA'S HISTORIC DOUBLE",
               "story": "Ahmed Musa became the first Nigerian to score twice in a single World Cup match, netting both goals in a 3–2 loss to Argentina in Porto Alegre. It wasn't enough to change the result, but it announced Musa as Nigeria's newest attacking threat heading into the knockout round against France."
+            },
+            {
+              "id": "bright-green-returns",
+              "label": "BRIGHT GREEN RETURNS",
+              "story": "Adidas's Condivo 14 template brought back a lighter, brighter green for 2014 than Nigeria had worn in years, closer to the shade of the 1990s kits, finished with darker pinstripes, a banded shoulder yoke, and white sleeve stripes stitched over a two-tone sleeve split between light and dark green."
+            },
+            {
+              "id": "bonus-standoff-before-france",
+              "label": "BONUS STANDOFF BEFORE FRANCE",
+              "story": "Nigeria's players refused to train two days before their Round of 16 match against France, demanding partial payment of bonuses they feared wouldn't arrive from FIFA in time. President Goodluck Jonathan personally intervened to broker a truce; Nigeria trained on schedule but still lost 2–0."
             }
           ]
         }
@@ -313,6 +369,16 @@ export const nigeria = {
               "id": "musa-brace-iceland",
               "label": "MUSA KEEPS HOPES ALIVE",
               "story": "Needing a win to stay in contention, Ahmed Musa scored twice in a 2–0 defeat of Iceland in Volgograd, becoming the first Nigerian to score in back-to-back World Cups. It set up a win-or-go-home finale against Argentina, which Nigeria lost 2–1, ending the run of the tournament's most talked-about shirt."
+            },
+            {
+              "id": "bucket-hats-and-boardshorts",
+              "label": "BUCKET HATS AND BOARDSHORTS",
+              "story": "Nike didn't stop at the jersey — bucket hats, track jackets, and board shorts in the same green-and-white pattern went on sale June 1, 2018, and designer Matt Wolff's whole collection reportedly sold out in about three minutes, a lifestyle drop built around a single national team kit."
+            },
+            {
+              "id": "style-won-results-didnt",
+              "label": "STYLE WON, RESULTS DIDN'T",
+              "story": "Nike's design director later admitted Nigeria was the easiest kit of the collection to greenlight specifically because so little was expected of the team on the field. The freedom to experiment paid off commercially, but the Super Eagles still finished third in their group and went home after round one."
             }
           ]
         }
