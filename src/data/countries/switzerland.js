@@ -69,9 +69,19 @@ export const switzerland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "KIELHOLZ'S DOUBLE DEBUT",
-              "story": "Leopold Kielholz scored twice as Switzerland beat the Netherlands 3–2 in Milan for their first-ever World Cup win. Four days later, in the tournament's single-elimination format, Czechoslovakia's eventual runners-up edged them 3–2 in the quarter-final despite goals from Kielholz and Jäggi, ending a promising debut just one round short."
+              "id": "jaggi-late-strike",
+              "label": "JÄGGI'S LATE STRIKE",
+              "story": "Down 1–3 in the quarter-final against Czechoslovakia's eventual runners-up, Fritz Jäggi's 78th-minute strike pulled the score to 2–3 — but time ran out. In 1934's pure knockout format, with no group stage and no cushion for a bad day, that near-comeback was the difference between the semi-final and going home."
+            },
+            {
+              "id": "red-wool-no-sponsor",
+              "label": "NO LOGOS, JUST RED",
+              "story": "The shirt at Switzerland's first World Cup carried no sponsor and no manufacturer mark — just plain red wool with a small Swiss-cross crest over the heart, standard dress for 1930s international football. White shorts and red socks completed a look barely different from the kit the team wears nine decades later."
+            },
+            {
+              "id": "fascist-italy-backdrop",
+              "label": "A TOURNAMENT UNDER MUSSOLINI",
+              "story": "The Swiss arrived at their first-ever World Cup in Benito Mussolini's Italy, a tournament stage-managed by the fascist regime to project national strength — hosts Italy lifted the trophy amid persistent, still-debated claims of political pressure on referees. Switzerland's part in it was innocent: newcomers, thrilled just to have qualified."
             }
           ]
         }
