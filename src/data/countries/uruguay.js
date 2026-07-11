@@ -643,9 +643,19 @@ export const uruguay = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "A LONG-AWAITED RETURN",
-              "story": "After missing two straight tournaments, Uruguay returned to find Group A brutal. A 1–2 loss to Denmark started things off, and second-half comebacks salvaged draws with France and Senegal, including a wild 3–3 draw with the African debutants. It wasn't enough — Uruguay finished third, well outside the knockout places."
+              "id": "down-three-back-level",
+              "label": "THREE DOWN, THREE BACK",
+              "story": "Uruguay trailed African debutants Senegal 3–0 inside 40 minutes in the group finale, undone by a penalty and a Papa Bouba Diop strike. Richard Morales, Diego Forlán's chest-and-volley wonder goal, and an Álvaro Recoba penalty in the 88th minute completed one of the great World Cup comebacks — for a draw that still wasn't enough to advance."
+            },
+            {
+              "id": "l-sporto-local-supplier",
+              "label": "A LOCAL LABEL",
+              "story": "Rather than a global sportswear giant, Uruguay's 2002 shirt was produced by L-Sporto, a comparatively small outfitter — a modest arrangement for a country's first World Cup jersey of the new millennium, before Puma took over the kit deal a few years later."
+            },
+            {
+              "id": "banking-collapse-backdrop",
+              "label": "A COUNTRY ON EDGE",
+              "story": "Uruguay's players competed in Korea and Japan as their economy crept toward a full banking collapse back home — a crisis triggered by Argentina's 2001 meltdown that would freeze deposits and wipe out a third of the country's savings within weeks of the tournament ending. Football offered little relief once qualification for the knockouts slipped away."
             }
           ]
         }
