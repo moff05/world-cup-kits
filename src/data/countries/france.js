@@ -486,9 +486,19 @@ export const france = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "SEVILLE'S UNFORGETTABLE HEARTBREAK",
-              "story": "Michel Platini's France reached the semi-final in Seville, where Patrick Battiston was flattened by an uncarded challenge from goalkeeper Harald Schumacher. Les Bleus led 3–1 in extra time before West Germany equalized and won the World Cup's first-ever penalty shootout. A drained France then lost the third-place match to Poland 3–2."
+              "id": "seville-heartbreak",
+              "label": "SEVILLE HEARTBREAK",
+              "story": "Patrick Battiston was flattened by an uncarded challenge from goalkeeper Harald Schumacher, and France still led 3–1 in extra time before West Germany equalized and won the World Cup's first-ever penalty shootout. It remains one of the sport's most infamous semi-finals, decided as much by injustice as by football."
+            },
+            {
+              "id": "pinstripe-era",
+              "label": "THE PINSTRIPE ERA",
+              "story": "Le Coq Sportif dressed France in a blue shirt threaded with thin white and red pinstripes for 1982, its most detailed home design yet after decades of plain block color. The look matched the flair of Platini's generation — a team finally playing with enough style to deserve a shirt with some on it."
+            },
+            {
+              "id": "first-ever-shootout",
+              "label": "FIRST-EVER SHOOTOUT",
+              "story": "The 1982 semi-final between France and West Germany was the first World Cup match ever decided by penalties, a format FIFA had introduced only six years earlier in club football. France missed twice in the shootout and lost 5–4 — the price of being the sport's unlucky pioneers in a new kind of heartbreak."
             }
           ]
         }
