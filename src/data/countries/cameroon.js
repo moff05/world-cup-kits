@@ -450,13 +450,15 @@ export const cameroon = {
           "round": "Group Stage",
           "opponent": "Serbia",
           "score": "3–3",
-          "result": "D"
+          "result": "D",
+          "scorers": "Castelletto 29', Aboubakar 63', Choupo-Moting 66'"
         },
         {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Aboubakar 90+2'"
         }
       ],
       "kits": {
@@ -468,9 +470,19 @@ export const cameroon = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "FIRST AFRICAN WIN OVER BRAZIL",
-              "story": "Vincent Aboubakar's stoppage-time header beat Brazil 1–0, making Cameroon the first African team ever to defeat the five-time champions at a World Cup — then got him sent off for peeling off his shirt in celebration. A wild 3–3 draw with Serbia and a loss to Switzerland meant the historic win came too late to advance."
+              "id": "three-three-comeback",
+              "label": "THREE GOALS, SIX MINUTES SWING",
+              "story": "Down 3-1 after Aleksandar Mitrović's 53rd-minute strike, Cameroon leveled the scoreline twice as fast as Serbia had built it — Vincent Aboubakar in the 63rd minute, Eric Maxim Choupo-Moting three minutes later — turning a group-stage throwaway into the wildest 90 minutes of the entire tournament, a 3-3 classic nobody saw coming."
+            },
+            {
+              "id": "kit-deal-torn-up",
+              "label": "A KIT DEAL TORN UP MID-YEAR",
+              "story": "The federation ripped up its Le Coq Sportif contract in July and signed with One All Sports — a company better known for motorsport gear than football — leaving Cameroon's actual World Cup kit unveiled barely weeks before Qatar, one of the strangest last-minute switches of any nation at the tournament."
+            },
+            {
+              "id": "song-from-pitch-to-bench",
+              "label": "THE CAPTAIN BECOMES THE COACH",
+              "story": "Rigobert Song, who wore the armband — then lost it — across four World Cups as a player between 1994 and 2010, stood on the touchline this time as head coach, guiding a new generation to the upset over Brazil that his own playing career never quite delivered."
             }
           ]
         }
