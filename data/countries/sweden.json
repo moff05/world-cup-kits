@@ -479,6 +479,11 @@
     "2002": {
       "result": "Round of 16",
       "headline": "Golden Goal Heartbreak",
+      "annotations": [
+        { "id": "topped-group-of-death", "label": "GROUP OF DEATH WINNERS", "story": "Drawn with two former World Cup winners in England and Argentina, plus Nigeria, Sweden didn't beat either heavyweight — draws with both — but a win over Nigeria was enough. Tied on points with England, Sweden won Group F outright on goals scored, finishing above both former champions." },
+        { "id": "adidas-2002-collarless", "label": "NO COLLAR, VISIBLE UNDERSHIRT", "story": "Adidas dropped the traditional collar for Sweden's 2002 shirt, going with a simple round neck — part of a stripped-back look across the whole 2002 tournament. Mesh side panels let a contrasting compression layer show through underneath, a small technical flourish new to that generation of shirts." },
+        { "id": "dual-head-coaches", "label": "TWO MEN, ONE JOB", "story": "Sweden went into the 2002 World Cup with two head coaches sharing the job jointly — Tommy Söderberg and Lars Lagerbäck, an arrangement almost unheard of in international football. Whatever the oddity, it worked: their side topped the toughest group of the tournament." }
+      ],
       "story": "Anders Svensson's late equalizer salvaged a point against Argentina, and Henrik Larsson's brace beat Nigeria as Sweden advanced from a loaded group. Senegal ended the run in the Round of 16, snatching a golden-goal winner in extra time — one of the tournament's biggest upsets, and Sweden's earliest exit of the decade.",
       "homeColors": "yellow shirt, blue shorts, yellow socks (Adidas)",
       "awayColors": "blue shirt, yellow shorts, blue socks",
