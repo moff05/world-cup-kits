@@ -365,6 +365,23 @@
       "result": "Round of 16",
       "headline": "Six Goals, Then Heartbreak",
       "story": "A 6–0 demolition of Hungary — still the program's biggest World Cup win — headlined a perfect group stage in Mexico. Belgium ended the run in the Round of 16, winning a wild 4–3 extra-time thriller clouded by offside controversies that still rank among the tournament's most disputed results.",
+      "annotations": [
+        {
+          "id": "belanovs-losing-hat-trick",
+          "label": "BELANOV'S LOSING HAT-TRICK",
+          "story": "Igor Belanov scored three times in the extra-time thriller against Belgium, including a penalty and a curling solo run, yet still finished on the losing side of a 4–3 classic. It remains one of only a handful of hat-tricks ever scored in a losing World Cup knockout match."
+        },
+        {
+          "id": "the-biggest-routs-kit",
+          "label": "THE BIGGEST ROUT'S KIT",
+          "story": "Wearing the same red shirt and white shorts combination the team had used since 1958, the Soviets put six goals past Hungary in Irapuato — still the program's largest World Cup win. The shirt's simplicity stood in contrast to the flashier, sponsor-heavy kits debuting elsewhere at the tournament."
+        },
+        {
+          "id": "a-shock-ballon-dor",
+          "label": "A SHOCK BALLON D'OR",
+          "story": "Months after Belgium eliminated the Soviets, Igor Belanov beat England's Golden Boot winner Gary Lineker to the 1986 Ballon d'Or, a result so unexpected that European media openly questioned the vote. He remains one of the award's most obscure winners, remembered more for the surprise than the goals."
+        }
+      ],
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
       "image": null,
