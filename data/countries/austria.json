@@ -42,6 +42,16 @@
           "id": "fastest-goal-conceded",
           "label": "FASTEST GOAL CONCEDED",
           "story": "Ernst Lehner needed only 25 seconds to beat Austria in the third-place match in Naples — a record for the fastest goal in World Cup history that stood until 1962. It capped a bitter finish for Sindelar's Wunderteam, tournament favorites who fell just short of the final."
+        },
+        {
+          "id": "dollfuss-shadow",
+          "label": "A CHANCELLOR'S SHADOW",
+          "story": "Under Engelbert Dollfuss's authoritarian corporatist state, the Wunderteam played the 1934 tournament just six weeks before the chancellor was gunned down in a failed Nazi coup attempt at his own office in Vienna — a preview of the political turmoil that would consume Austrian football by decade's end."
+        },
+        {
+          "id": "plain-white-wool-kit",
+          "label": "NO LOGOS, ALL WOOL",
+          "story": "Pure white and cut from heavy wool, Austria's 1934 jersey carried no sponsor mark or squad number — just a federal eagle crest, the only decoration on a strip built for function, not identity, in an era before shirts advertised anything."
         }
       ],
       "homeColors": "white shirt, black shorts, white socks",
@@ -90,6 +100,16 @@
           "id": "highest-scoring-match",
           "label": "TWELVE GOALS IN LAUSANNE",
           "story": "Theodor Wagner scored a hat-trick and Alfred Körner added two more as Austria and host Switzerland traded blows in a quarter-final that finished 7–5 — still, seven decades later, the highest-scoring match in World Cup history. Austria trailed early before roaring back to win it outright."
+        },
+        {
+          "id": "cotton-and-heat",
+          "label": "COTTON IN THE HEAT",
+          "story": "Heavyweight cotton, not modern synthetic blend, made up the bronze medalists' shirts — fabric that could double its weight in sweat and rain. In the goal-drenched 7–5 quarter-final against Switzerland, players spent 90 minutes sprinting in kits soaked through by half-time, a toll today's polyester jerseys don't demand."
+        },
+        {
+          "id": "still-occupied-austria",
+          "label": "A NATION STILL DIVIDED",
+          "story": "When Austria won bronze in Switzerland, the country itself was still carved into four Allied occupation zones — American, British, French and Soviet — nine years after World War II's end. Full sovereignty wouldn't arrive until the State Treaty of 1955, a year after this tournament's underdog run united a fractured nation."
         }
       ],
       "homeColors": "white shirt, black shorts, white socks",
@@ -140,7 +160,23 @@
     "1958": {
       "result": "Group Stage",
       "headline": "England Draw, Still Eliminated",
-      "annotations": [],
+      "annotations": [
+        {
+          "id": "brazils-quiet-opener",
+          "label": "BRAZIL, BEFORE THE MAGIC",
+          "story": "José Altafini scored twice as Brazil opened their campaign with a 3–0 win over Austria in Uddevalla, but coach Vicente Feola kept a 17-year-old named Pelé and winger Garrincha on the bench that day — Austria faced Brazil before those two changed the tournament, and the sport, forever."
+        },
+        {
+          "id": "wiw-manufacturer",
+          "label": "VIENNA'S OWN TAILOR",
+          "story": "A Vienna manufacturer named WIW Sporttrikotagen supplied Austria's 1958 shirts, back when international sportswear giants hadn't yet swallowed up national kit contracts. The plain white jersey and black shorts were essentially unchanged from the Wunderteam era two decades earlier — homegrown tailoring for a team on the road in Sweden."
+        },
+        {
+          "id": "neutral-austria-meets-soviets",
+          "label": "NEUTRALITY MEETS THE SOVIETS",
+          "story": "Just three years after Soviet troops withdrew from occupied Austria under the 1955 State Treaty that made the country permanently neutral, Austria faced the USSR at the 1958 World Cup and lost 2–0. It was the first meeting between the two nations since the occupying soldiers had gone home."
+        }
+      ],
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
       "image": null,
@@ -180,6 +216,16 @@
           "id": "krankl-cordoba",
           "label": "KRANKL'S 87TH-MINUTE STRIKE",
           "story": "With commentator Edi Finger screaming 'Tor! Tor! Tor! I wer' narrisch!' into Austrian radios, Hans Krankl beat the West German defense in the 87th minute to complete a 3–2 comeback in Córdoba. The moment is remembered as Das Wunder von Córdoba — the Miracle of Córdoba."
+        },
+        {
+          "id": "only-puma-team-1978",
+          "label": "PUMA'S LONE ENTRY",
+          "story": "Puma outfitted only one nation at the 1978 World Cup: Austria, wearing 'Österreich' scripted across the chest in an era before replica shirts, sponsor logos, and multi-brand deals existed — a rare, low-key national contract for a team about to pull off the tournament's biggest shock."
+        },
+        {
+          "id": "twenty-year-wait",
+          "label": "TWENTY YEARS IN EXILE",
+          "story": "Two full decades passed between Austria's group-stage exit in 1958 and their return to the World Cup in 1978, missing four straight tournaments along the way. The Córdoba upset that announced their comeback was that much sweeter for a footballing nation that had spent a generation on the outside looking in."
         }
       ],
       "homeColors": "white shirt, black shorts, white socks",
@@ -242,6 +288,16 @@
           "id": "disgrace-of-gijon",
           "label": "THE NON-AGGRESSION PACT",
           "story": "Needing only a narrow West German win to send both European sides through at Algeria's expense, Austria and West Germany stopped attacking the moment West Germany scored early in Gijón. Spanish fans waved banknotes and white handkerchiefs in protest; Algerian supporters called the result 'the Anschluss.'"
+        },
+        {
+          "id": "schachner-double-header",
+          "label": "SCHACHNER STARTS THE RUN",
+          "story": "Walter Schachner scored in each of Austria's first two matches — the opener against Chile and then the clincher against Algeria in Oviedo — pushing Austria to four points from two games before the infamous finale in Gijón overshadowed everything that came before it."
+        },
+        {
+          "id": "federal-eagle-badge",
+          "label": "EAGLE ON THE CHEST",
+          "story": "Puma's plain white-and-black template got a small 1982 update: a more prominent Federal Eagle crest on the chest, the spread-winged emblem that's marked Austrian kits ever since. Otherwise the jersey looked almost identical to the one the Wunderteam wore fifty years earlier."
         }
       ],
       "homeColors": "white shirt, black shorts, white socks",
@@ -292,7 +348,23 @@
     "1990": {
       "result": "Group Stage",
       "headline": "One Win, Group Exit",
-      "annotations": [],
+      "annotations": [
+        {
+          "id": "beating-the-debutants",
+          "label": "SPOILING AMERICA'S RETURN",
+          "story": "The only win of Austria's 1990 campaign came against the United States, back at a World Cup for the first time since 1950. Andreas Ogris and Gerhard Rodax scored either side of the hour mark to seal it, denying the Americans a memorable start to their long-awaited return."
+        },
+        {
+          "id": "pumas-long-run",
+          "label": "PUMA'S DECADE-PLUS DEAL",
+          "story": "By 1990, Puma had outfitted Austria's kit for over a decade, spanning the 1978 Córdoba miracle, the 1982 Gijón scandal, and now Italy — the longest-running kit sponsorship in Austrian football history, all built around the same white shirt and black shorts template."
+        },
+        {
+          "id": "post-velvet-revolution-clash",
+          "label": "A NEIGHBOR REBORN",
+          "story": "Seven months after the Velvet Revolution ended four decades of communist rule in Czechoslovakia, the two neighbors met at the 1990 World Cup and Austria lost 0–1. The Iron Curtain had sealed their shared border for the whole of Austria's postwar history; in Italy, a newly free Czechoslovak side got the better of them on the pitch too."
+        }
+      ],
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
       "image": null,
@@ -327,7 +399,23 @@
     "1998": {
       "result": "Group Stage",
       "headline": "Herzog Shines, Still Eliminated",
-      "annotations": [],
+      "annotations": [
+        {
+          "id": "the-stoppage-time-team",
+          "label": "LAST-GASP, EVERY TIME",
+          "story": "Three group games in France, three stoppage-time goals: Toni Polster in the 90+1st minute against Cameroon, Ivica Vastić in the 90+2nd against Chile, Andreas Herzog in the 90+2nd against Italy. Austria still went out in the group all the same — a statistical oddity of heartbreak, precisely timed, three matches running."
+        },
+        {
+          "id": "away-shirt-red-flourish",
+          "label": "RED SNEAKS IN",
+          "story": "Puma made Austria's 1998 away shirt with a red-and-white embroidered crest that broke from the team's decades-long stark white-and-black look — a splash of the national flag's color that hinted at the shift to come, years before red became the team's primary shirt."
+        },
+        {
+          "id": "prohaska-full-circle",
+          "label": "CÓRDOBA HERO RETURNS",
+          "story": "The manager who guided Austria back to the World Cup in 1998 was Herbert Prohaska, a first-team fixture on the 1978 Córdoba side that beat West Germany 3–2 — Austria's most cherished football memory. Twenty years later, he was patrolling the touchline instead of the midfield, chasing another rare moment of glory."
+        }
+      ],
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
       "image": null,
