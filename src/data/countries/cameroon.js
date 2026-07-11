@@ -306,9 +306,19 @@ export const cameroon = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "SLEEVES ADDED, STILL ELIMINATED",
-              "story": "Fresh off winning the Africa Cup of Nations in a sleeveless shirt FIFA had just outlawed, Cameroon wore the same design with black sleeves stitched on and beat Saudi Arabia, but a draw with Ireland and a loss to eventual finalists Germany sent them out in the group stage."
+              "id": "klose-header-record",
+              "label": "KLOSE'S HEADER RECORD",
+              "story": "Marco Bode opened it, and Miroslav Klose nodded in his fifth headed goal of the tournament to finish off Cameroon 2-0 — the first player in World Cup history to score five goals with his head in a single edition, a record set at Cameroon's expense in Shizuoka."
+            },
+            {
+              "id": "theyre-not-shirts",
+              "label": "\"THEY'RE NOT SHIRTS\"",
+              "story": "FIFA's spokesman dismissed Puma's original design outright — \"they're not shirts, they're vests\" — before Cameroon stitched black sleeves onto the sleeveless template just in time to take the field. The patched-together compromise still won plenty of admirers, with some calling the Lions the best-dressed team in Asia that June."
+            },
+            {
+              "id": "coach-vs-fatherland",
+              "label": "A GERMAN COACH'S ROAD HOME",
+              "story": "Winfried Schäfer, the German who'd led Cameroon to the African Cup of Nations title that same year, stood on the opposite touchline from his own countrymen in the group finale. Germany beat his adopted team 2-0 and went all the way to the final; Schäfer's Cameroon went home."
             }
           ]
         }
