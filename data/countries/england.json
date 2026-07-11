@@ -98,6 +98,23 @@
     "1954": {
       "result": "Quarter-final",
       "headline": "Undone by Defending Champions",
+      "annotations": [
+        {
+          "id": "four-all-and-extra-time",
+          "label": "FOUR-ALL, THEN EXTRA TIME",
+          "story": "Ivor Broadis scored twice as England and Belgium traded four goals apiece, a scoreline so open the group-stage rules forced 30 extra minutes just to settle it. It set the tone for a tournament that ended with holders Uruguay grinding out a 4–2 quarter-final win."
+        },
+        {
+          "id": "umbros-first-stitch",
+          "label": "UMBRO'S FIRST STITCH",
+          "story": "1954 was the year the FA signed its first kit deal with Umbro, a relationship that, with gaps, would outfit England for the next three decades including the 1966 triumph. The Swiss tournament shirt looked plain, but it marked the start of something lasting."
+        },
+        {
+          "id": "still-reeling-from-budapest",
+          "label": "STILL REELING FROM BUDAPEST",
+          "story": "Three weeks before the tournament, Hungary thrashed England 7–1 in Budapest, a rematch of the 6–3 Wembley humiliation months earlier. The self-styled masters of the game arrived in Switzerland with their invincibility myth already in ruins."
+        }
+      ],
       "story": "Ivor Broadis scored twice in a wild 4–4 draw with Belgium that needed extra time under the tournament's group-stage rules. England eased past Switzerland 2–0 to reach the last eight, where holders Uruguay proved too strong. Tom Finney's 67th-minute strike made it 3–2, but Javier Ambrois restored the gap and Uruguay advanced 4–2.",
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": null,
