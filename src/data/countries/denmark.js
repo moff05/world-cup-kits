@@ -80,6 +80,16 @@ export const denmark = {
               "id": "carnival-suit-debut",
               "label": "THE CARNIVAL SUIT",
               "story": "Hummel's half-plain, half-pinstriped jersey stunned onlookers when unveiled — swiftly dubbed 'the carnival suit.' Ridiculed at first for its clashing panels and dark chevron sleeves, it became one of football's most coveted retro shirts, reissued by Hummel decades later and credited with changing kit design forever."
+            },
+            {
+              "id": "olsen-eriksen-topple-west-germany",
+              "label": "TOPPLING WEST GERMANY",
+              "story": "Beyond the famous 6–1 Uruguay rout, Denmark also beat West Germany 2–0 in the group stage: Jesper Olsen converted a 43rd-minute penalty, then John Eriksen headed in a Frank Arnesen cross — even with Arnesen later sent off. West Germany would go on to reach that year's final anyway."
+            },
+            {
+              "id": "roligans-coined-1986",
+              "label": "BIRTH OF THE ROLIGANS",
+              "story": "Danish tabloid B.T. coined 'roligan' — from 'rolig,' meaning calm — in 1985, and the label stuck once roughly 20,000 Danes traveled to Mexico for the 1986 World Cup. Preben Elkjær later said there wasn't a single problem among them, a peaceful-fan template still cited across European football."
             }
           ]
         }
@@ -134,7 +144,23 @@ export const denmark = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "laudrup-lie-down-celebration",
+              "label": "LAUDRUP'S LIE-DOWN",
+              "story": "Brian Laudrup leveled the quarter-final against Brazil at 2–2 in the 50th minute, then simply lay down on the turf, propped on one elbow. He later said his son had complained his goal celebrations were boring; Laudrup borrowed the pose from Chelsea's Roberto Di Matteo after watching him do it on TV."
+            },
+            {
+              "id": "hummel-red-white-1998",
+              "label": "HUMMEL'S RED RETURN",
+              "story": "After the two-tone 'Carnival Suit' shocked observers in 1986, Hummel's 1998 shirt played it straighter: a red body with white sleeves and the brand's chevron striping down the sides — a more conventional cut for a squad about to make one last deep run together."
+            },
+            {
+              "id": "laudrup-brothers-farewell-arc",
+              "label": "A DECADE-LONG ARC",
+              "story": "Michael Laudrup had walked away from the national team once before, quitting in 1990 over a dispute with coach Richard Møller Nielsen, before returning to captain Denmark to the 1995 Confederations Cup title. France '98 closed the loop: both Laudrup brothers retired from international football the moment Denmark's run ended."
+            }
+          ]
         }
       }
     },
@@ -180,7 +206,23 @@ export const denmark = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "rommedahl-tomasson-down-france",
+              "label": "CHAMPIONS ELIMINATED",
+              "story": "Dennis Rommedahl struck in the 22nd minute and Jon Dahl Tomasson added a second in the 67th as Denmark beat defending champions France 2–0, sending the reigning titleholders out in the group stage without scoring a single goal — the first time that had happened to a champion since Brazil in 1966."
+            },
+            {
+              "id": "adidas-template-2002",
+              "label": "A TEMPLATE SHIRT",
+              "story": "Denmark's 2002 shirt kept the traditional red base but fit the shared manufacturer template most European sides wore that year, trading Hummel's chevrons for a simpler, more corporate cut — a low-key middle chapter between the Carnival Suit era and Adidas's dashed-line design in 2010."
+            },
+            {
+              "id": "olsen-captain-to-coach",
+              "label": "CAPTAIN TURNED COACH",
+              "story": "Morten Olsen captained Denmark 50 times and played at the 1986 World Cup; sixteen years later, as head coach, he guided a new generation past France and into the last 16 — a full-circle return for one of the Danish Dynamite era's own."
+            }
+          ]
         }
       }
     },
@@ -219,7 +261,23 @@ export const denmark = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "honda-endo-free-kicks",
+              "label": "TWO FREE KICKS, ONE EXIT",
+              "story": "Denmark's group stage ended in a 3–1 defeat to Japan built almost entirely on dead balls: Keisuke Honda and Yasuhito Endo both scored direct free kicks in the first half, a template-perfect illustration of the set-piece frailty that had already cost Denmark against the Netherlands."
+            },
+            {
+              "id": "adidas-dashed-lines-2010",
+              "label": "ELEVEN DASHED LINES",
+              "story": "Adidas kept Denmark's red base for South Africa but ran eleven rows of dashed horizontal lines across the chest — one for each player on the pitch — built with ClimaCool venting for a shirt Adidas called minimal and futuristic."
+            },
+            {
+              "id": "eriksen-teenage-debut",
+              "label": "ERIKSEN'S TEENAGE BOW",
+              "story": "An 18-year-old Christian Eriksen made his World Cup debut off the bench in South Africa in 2010, years before he'd captain Denmark's midfield at two more tournaments and, in 2021, survive an on-field cardiac arrest that nearly ended his career entirely."
+            }
+          ]
         }
       }
     },
@@ -270,6 +328,16 @@ export const denmark = {
               "id": "schmeichel-saves-croatia",
               "label": "SCHMEICHEL DENIES CROATIA",
               "story": "Denmark missed three of five penalties — Christian Eriksen crashed one against the post, Lasse Schöne and Nicolai Jørgensen were both saved by Danijel Subašić — but Kasper Schmeichel matched him, denying Milan Badelj and Josip Pivarić, before Ivan Rakitić finally beat him to send Croatia through 3–2."
+            },
+            {
+              "id": "guards-lacing-away-kit",
+              "label": "ROYAL GUARD LACING",
+              "story": "Hummel's 2018 away shirt borrowed cross-lacing from the tunics of the Danish Royal Life Guard, rendered in all white with red chevrons on the sleeves — while the home red-and-white kit deliberately echoed the shirts worn in 1986 and at Denmark's title-winning Euro 92."
+            },
+            {
+              "id": "eriksen-schmeichel-new-generation",
+              "label": "A NEW GENERATION ARRIVES",
+              "story": "Twenty years after the Laudrup brothers retired following France '98, Christian Eriksen led a new Danish core to the round of 16 in Russia — Denmark's best World Cup finish since that same 1998 quarter-final run, before penalties against Croatia ended it."
             }
           ]
         }
@@ -310,7 +378,18 @@ export const denmark = {
             "player": null,
             "game": null
           },
-          "annotations": []
+          "annotations": [
+            {
+              "id": "hummel-blackout-kits",
+              "label": "THREE SHIRTS, ONE PROTEST",
+              "story": "Hummel muted its own logo and chevrons across all three Denmark kits for Qatar — a red home shirt echoing Euro 92, a monochrome grey change kit, and an all-black third strip 'to mourn the dead' — saying it didn't want visibility at a tournament that had cost migrant workers their lives."
+            },
+            {
+              "id": "group-stage-exit-defending-form",
+              "label": "FORM DESERTS THE DANES",
+              "story": "Fresh off reaching a Euro 2020 semi-final, Denmark arrived in Qatar as one of the tournament's trendy picks but left without a win — a draw with Tunisia and losses to France and Australia added up to Denmark's worst World Cup group-stage return since 2010."
+            }
+          ]
         }
       }
     }
