@@ -431,9 +431,19 @@ export const chile = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "SALAS SHINES, BRAZIL ENDS IT",
-              "story": "Marcelo Salas scored in every group match — a brace against Italy, one more against Austria — as Chile drew all three group games to sneak into the knockout stage unbeaten. Brazil, the eventual runners-up, ended the run 4–1 in Paris despite another Salas goal — Chile's first knockout match in 36 years."
+              "id": "salas-scores-every-match",
+              "label": "BACK IN THE KNOCKOUTS",
+              "story": "Thirty-six years after their bronze in 1962, Chile finally reached a knockout round again, unbeaten through the group. Brazil ended it fast in Paris, racing to a 4–1 win, but Marcelo Salas still found the net — his fourth goal of the tournament, capping a personal streak of scoring in every match Chile played."
+            },
+            {
+              "id": "return-from-rojas-ban",
+              "label": "RETURN OF THE BANNED",
+              "story": "Arriving in France meant returning at all — this team had missed the previous two World Cups entirely, a self-inflicted exile after goalkeeper Roberto 'Cóndor' Rojas faked a firework injury during 1989 qualifying against Brazil, was exposed by photographs, and got the team disqualified and banned outright. Nine years later, showing up already felt like redemption."
+            },
+            {
+              "id": "reebok-logo-shirt",
+              "label": "LOGO TAKES OVER SHIRT",
+              "story": "Reebok's home shirt kept the familiar scarlet base but stamped a giant white logo across the chest, brand statement first, badge second. Zamorano and Salas — a strike partnership fans nicknamed 'Sa-Za' — wore it through an unbeaten group stage, the boldest kit redesign yet doubling as a walking billboard for Chile's new sponsor."
             }
           ]
         }
