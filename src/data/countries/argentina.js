@@ -328,10 +328,10 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-N0704-308,_Fu%C3%9Fball-WM,_DDR_-_Argentinien_1-1.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Argentina vs East Germany, 1974 FIFA World Cup 2nd Round — CC BY-SA 3.0 DE / Bundesarchiv, Wikimedia Commons"
           },
           "annotations": [
             {
