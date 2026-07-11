@@ -593,9 +593,19 @@ export const sweden = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ANDERSSON'S SUMMER IN THE SUN",
-              "story": "Kennet Andersson scored five goals across the tournament, sharing the Bronze Boot, as Sweden survived a penalty shootout over Romania before eventual champions Brazil edged them 1–0 in the semi-final. Goals from Brolin, Mild, and a young Henrik Larsson crushed Bulgaria 4–0 in the third-place match, sealing Sweden's best finish since 1958."
+              "id": "larsson-first-wc-goal",
+              "label": "A LEGEND'S FIRST GOAL",
+              "story": "Henrik Larsson was twenty-two and largely unknown outside Sweden when he scored in the 4–0 third-place win over Bulgaria — his first-ever World Cup goal. It was a small line in a big tournament, but it previewed two decades of a career that would define Scottish and Swedish football."
+            },
+            {
+              "id": "adidas-eqt-1994",
+              "label": "A BREAK FROM CONVENTION",
+              "story": "Adidas rebuilt Sweden's shirt for USA '94 around the brand's EQT design language — bold royal-blue stripes cutting across a vivid yellow base, with the federation crest centered high on the chest. It was a deliberate departure from the muted, functional kits of the Adidas years before it."
+            },
+            {
+              "id": "eu-referendum-summer",
+              "label": "SUMMER BEFORE THE VOTE",
+              "story": "Sweden's bronze-medal summer in the US arrived four months before the country's most consequential political vote in decades — a November 1994 referendum on joining the European Union that passed with 53 percent support. The team's late-summer feel-good run gave the country a shared high point before that debate began in earnest."
             }
           ]
         }
