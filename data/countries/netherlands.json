@@ -278,6 +278,23 @@
       "result": "Round of 16",
       "headline": "Three Draws, Then Out",
       "story": "A flat title defense: three straight 1–1 or scoreless draws left the reigning European champions stumbling into the Round of 16 as one of the better third-placed teams. Ronald Koeman's free kick wasn't enough — West Germany, the eventual champions, eliminated the Dutch 2–1 in Milan, a game remembered for Frank Rijkaard's infamous spit at Rudi Völler.",
+      "annotations": [
+        {
+          "id": "decided-by-a-glass-bowl",
+          "label": "DECIDED BY A GLASS BOWL",
+          "story": "Netherlands and the Republic of Ireland finished dead level after three group games — same points, same goal difference, same 1–1 head-to-head result — so FIFA settled it the only way left: pulling balls from a glass bowl. Sepp Blatter drew the lots live on television, sending Ireland to Romania and the Dutch to a date with West Germany instead."
+        },
+        {
+          "id": "the-white-away-shirt",
+          "label": "WHITE WITH AN ORANGE COLLAR",
+          "story": "Adidas flipped the formula for the 1990 away kit: crisp white body, but a bold orange fold-down collar and orange stripes across the shoulders, with the KNVB lion crest and Adidas logo both rendered in orange instead of the usual black. It was the boldest inversion of the Oranje template in years — orange as accent, not base."
+        },
+        {
+          "id": "wanted-cruyff-got-beenhakker",
+          "label": "PLAYERS WANTED CRUYFF",
+          "story": "Netherlands arrived as reigning European champions with AC Milan's title-winning trio — Gullit, Van Basten, Rijkaard, nicknamed 'Tre Tulipani' by the Milan crowd — after their first World Cup appearance in twelve years. The squad reportedly wanted Johan Cruyff as manager and got Leo Beenhakker instead; rumors of a rift between Beenhakker and Van Basten shadowed the whole tournament."
+        }
+      ],
       "homeColors": "orange shirt, white shorts, orange socks (Adidas)",
       "awayColors": null,
       "image": null,
