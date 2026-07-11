@@ -587,9 +587,19 @@ export const serbia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "KOMLJENOVIĆ'S BREAKTHROUGH RUN",
-              "story": "Slobodan Komljenović scored the winner against the United States and struck again as the Netherlands eliminated FR Yugoslavia 2–1 in the Round of 16. Predrag Mijatović and Dragan Stojković had rescued a 2–2 draw with Germany in the group, but the Dutch ended the run in France."
+              "id": "komljenovics-double-duty",
+              "label": "KOMLJENOVIĆ'S BREAKTHROUGH",
+              "story": "Slobodan Komljenović's solitary strike beat the United States, and he found the net again against the Netherlands in the Round of 16 — but Edgar Davids's 92nd-minute winner sent the Dutch through 2–1. Predrag Mijatović and Dragan Stojković had earlier salvaged a 2–2 draw with Germany."
+            },
+            {
+              "id": "one-central-stripe",
+              "label": "ONE CENTRAL STRIPE",
+              "story": "The Adidas away shirt worn in France was mostly white with a single dark navy stripe running down the center, a V-neck trimmed in blue, white, and red, and matching three stripes on the shoulders — a design pared back from the loud graphics of 1990."
+            },
+            {
+              "id": "the-lost-generations-reunion",
+              "label": "THE LOST GENERATION'S REUNION",
+              "story": "UN sanctions had expelled Yugoslavia from all international football in 1992 over the Bosnian war, wiping out an entire golden generation that never played Euro 92 or USA 94. This was that generation's only real World Cup — reassembled under a new flag, a rump federation of just Serbia and Montenegro."
             }
           ]
         }
