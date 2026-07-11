@@ -572,7 +572,8 @@ export const switzerland = {
           "round": "Group Stage",
           "opponent": "Cameroon",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Embolo 48'"
         },
         {
           "round": "Group Stage",
@@ -584,13 +585,15 @@ export const switzerland = {
           "round": "Group Stage",
           "opponent": "Serbia",
           "score": "3–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Shaqiri 20', Embolo 44', Freuler 48'"
         },
         {
           "round": "Round of 16",
           "opponent": "Portugal",
           "score": "1–6",
-          "result": "L"
+          "result": "L",
+          "scorers": "Akanji 57'"
         }
       ],
       "kits": {
