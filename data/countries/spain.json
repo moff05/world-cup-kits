@@ -460,6 +460,23 @@
       "result": "Round of 16",
       "headline": "Míchel's Hat-Trick, Then Yugoslavia",
       "story": "Míchel's hat-trick demolished South Korea 3–1 to help Spain top the group, but Dragan Stojković tormented their defense in the Round of 16. Julio Salinas pulled one back, yet Spain fell 2–1 to Yugoslavia in Verona, one win short of matching the previous tournament's quarter-final run.",
+      "annotations": [
+        {
+          "id": "stojkovics-solo-audition",
+          "label": "STOJKOVIĆ'S SOLO SEMI-FINAL AUDITION",
+          "story": "Dragan Stojković scored twice to send Yugoslavia through, including a mazy solo run through half of Spain's defense in extra time that's still replayed as one of the great individual World Cup goals. Julio Salinas' equalizer had bought Spain thirty more minutes; Stojković needed only a few of them to end their tournament."
+        },
+        {
+          "id": "a-softer-collar-a-louder-number",
+          "label": "A SOFTER COLLAR, A LOUDER NUMBER",
+          "story": "Le Coq Sportif refreshed the kit for Italia '90 with a yellow-trimmed V-neck that gave Spain's shirt a rounder, more casual collar than anything Adidas had produced. On the back, Butragueño's flocked No. 9 — thick, chunky lettering typical of the era — became one of the most recognizable numbers of the tournament."
+        },
+        {
+          "id": "the-cup-that-rewrote-the-offside-law",
+          "label": "THE CUP THAT REWROTE THE OFFSIDE LAW",
+          "story": "Italia '90 finished as the lowest-scoring World Cup ever played, so defensive and cynical that FIFA rewrote the offside law and introduced the back-pass rule almost immediately afterward. Spain's six goals in four matches, built around one player's hat-trick, actually ranked among the tournament's livelier team performances by comparison."
+        }
+      ],
       "homeColors": "red shirt, blue shorts, black socks (Le Coq Sportif)",
       "awayColors": null,
       "image": null,
