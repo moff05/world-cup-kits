@@ -637,6 +637,23 @@
       "result": "Quarter-final",
       "headline": "Two Goals Wiped Off in Korea",
       "story": "Iker Casillas saved two penalties to beat the Republic of Ireland in the Round of 16, but the quarter-final against co-host South Korea turned sour. The referee disallowed two Spanish goals, and Joaquín's missed spot-kick sent South Korea through 5–3 on penalties in one of the tournament's most contested matches.",
+      "annotations": [
+        {
+          "id": "two-goals-zero-on-the-board",
+          "label": "TWO GOALS, ZERO ON THE BOARD",
+          "story": "Rubén Baraja's strike was ruled out for a foul only the referee seemed to see, and Fernando Morientes' follow-up was flagged offside on a call replays never supported — television showed the ball still in play when the cross went in. Spain lost the shootout still convinced both disallowed goals should have ended the match in regulation."
+        },
+        {
+          "id": "the-crown-restored",
+          "label": "THE CROWN, RESTORED",
+          "story": "By 2002 the badge over the heart bore the same royal crown it wears today — the last vestiges of the Francoist Eagle of Saint John had been retired years earlier as Spain's restored monarchy reclaimed its old symbols. Three generations of players had worn someone else's war on their chest without ever choosing to."
+        },
+        {
+          "id": "a-dropped-bottle-of-cologne",
+          "label": "A DROPPED BOTTLE OF COLOGNE",
+          "story": "First-choice keeper Santiago Cañizares was ruled out days before the tournament after dropping a glass aftershave bottle on his own foot and severing a tendon — a freak accident that handed the gloves to a 21-year-old reserve named Iker Casillas, who saved two penalties against Ireland and never gave the shirt back for a decade."
+        }
+      ],
       "homeColors": "red shirt, navy shorts, blue socks (Adidas)",
       "awayColors": null,
       "image": null,
