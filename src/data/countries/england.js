@@ -197,9 +197,19 @@ export const england = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "PLAYOFF ENDS WINLESS CAMPAIGN",
-              "story": "England drew all three group games, including a goalless stalemate with a Brazil side about to win its first title, making them the only team that year not to lose to the eventual champions. That consolation meant little after a playoff loss to the Soviet Union sent England home without a single win, still mourning players lost months earlier in the Munich air disaster."
+              "id": "unbeaten-still-eliminated",
+              "label": "UNBEATEN, STILL ELIMINATED",
+              "story": "Three draws and a playoff loss left England as the only side to leave the group stage without a single win, despite never actually losing to a group opponent. Holding the eventual champions Brazil scoreless meant nothing once the Soviet Union won the replay."
+            },
+            {
+              "id": "brazils-new-color",
+              "label": "BRAZIL'S NEW COLOR",
+              "story": "This was the tournament where Brazil abandoned their trauma-linked white shirts for the canary yellow that became iconic, after a fan design contest following their 1950 final collapse. England, by contrast, took the field in the same plain white and navy they'd worn since their debut."
+            },
+            {
+              "id": "playing-through-munichs-shadow",
+              "label": "PLAYING THROUGH MUNICH'S SHADOW",
+              "story": "Four months before the tournament, the Munich air disaster killed eight Manchester United players, including Duncan Edwards, a teenager many expected to anchor England's midfield for a decade. The squad that traveled to Sweden did so under a grief the results never quite explained."
             }
           ]
         }
