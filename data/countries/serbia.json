@@ -405,6 +405,23 @@
       "result": "Group Stage",
       "headline": "A Quiet Group Stage Exit",
       "story": "A scoreless draw with Northern Ireland opened Yugoslavia's tournament in Spain, and Petar Gudelj's strike against the hosts wasn't enough in a 2–1 loss. Petrović's goal beat Honduras to close the group, but goal difference eliminated Yugoslavia just short of the second round.",
+      "annotations": [
+        {
+          "id": "gudeljs-lone-strike",
+          "label": "GUDELJ'S LONE STRIKE",
+          "story": "Petar Gudelj's goal against host nation Spain wasn't enough to prevent a 2–1 loss, and a scoreless opener against Northern Ireland left little margin. Petrović's late winner beat Honduras to close the group, but the numbers didn't add up — Yugoslavia went out on goal difference."
+        },
+        {
+          "id": "pinstripes-and-three-stripes",
+          "label": "PINSTRIPES AND THREE STRIPES",
+          "story": "Yugoslavia's Adidas away kit in Spain was a white shirt threaded with thin blue pinstripes, a classic collar, and red-and-blue Adidas stripes across the shoulders — a subtler design than the plain navy home shirt the team had worn for half a century."
+        },
+        {
+          "id": "playing-in-mourning",
+          "label": "PLAYING IN MOURNING",
+          "story": "This was the first World Cup Yugoslavia entered after Josip Broz Tito's death in May 1980, the leader whose decades-long grip had held the country's six republics together. The quiet group-stage exit came as the nation he built began, almost imperceptibly, to drift toward the fractures of the following decade."
+        }
+      ],
       "homeColors": "dark blue shirt, white shorts, red socks",
       "awayColors": null,
       "image": null,
