@@ -59,9 +59,19 @@ export const poland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "WILIMOWSKI'S LONELY MASTERPIECE",
-              "story": "In Poland's first-ever World Cup match, Ernst Wilimowski scored four goals against Brazil in Strasbourg — still the only time anyone has managed four in a losing effort. Fryderyk Scherfke added a fifth, but Brazil matched fire with fire, and Poland fell 6–5 after extra time in the tournament's most chaotic single match."
+              "id": "1938-six-five-in-strasbourg",
+              "label": "SIX-FIVE IN STRASBOURG",
+              "story": "Ernst Wilimowski, only 21, scored four times in Strasbourg — 53', 59', 89', then again deep into extra time — and Fryderyk Scherfke added a fifth, yet Poland still lost 6–5 to Brazil. No one has scored four goals in a losing World Cup match before or since. It remains the tournament's most chaotic 120 minutes."
+            },
+            {
+              "id": "1938-eagle-no-sponsor",
+              "label": "EAGLE, NO SPONSOR",
+              "story": "The shirt was flag made literal: white cloth, red shorts, white socks, with nothing on the chest but the word POLSKA stacked above a crowned white eagle. There was no manufacturer's mark, no sponsor — professional football didn't sell chest space yet — just national colors, wool, and a coat of arms barely a decade old in its interwar form."
+            },
+            {
+              "id": "1938-wilimowski-defection",
+              "label": "THE WILIMOWSKI DEFECTION",
+              "story": "A year after Strasbourg, Nazi Germany invaded and annexed Wilimowski's native Katowice region. Ethnically German, he was reclassified as a citizen of the Reich and later played for Germany's wartime national team — a switch many Poles have never forgiven the man who scored four goals wearing the eagle just twelve months earlier."
             }
           ]
         }
