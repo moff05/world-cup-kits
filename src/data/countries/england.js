@@ -259,9 +259,19 @@ export const england = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "BRAZIL ENDS WINTERBOTTOM'S REIGN",
-              "story": "Ron Flowers, Bobby Charlton and Jimmy Greaves ran riot in a 3–1 win over Argentina, but a 2–1 loss to Hungary meant England finished second in the group. Holders Brazil awaited in the quarter-final at Viña del Mar, and Garrincha tormented England twice either side of a Gerry Hitchens equaliser as Brazil won 3–1, closing out Walter Winterbottom's 16 years in charge."
+              "id": "garrinchas-afternoon",
+              "label": "GARRINCHA'S AFTERNOON",
+              "story": "Manuel Francisco dos Santos, known simply as Garrincha, tortured England twice in the Viña del Mar quarter-final, bending the game with a bowed right leg that shouldn't have let him play football at all. Gerry Hitchens' equalizer barely registered against it."
+            },
+            {
+              "id": "unchanged-since-1950",
+              "label": "UNCHANGED SINCE 1950",
+              "story": "England traveled to Chile in essentially the same white shirt, navy shorts and white socks they'd debuted in Brazil twelve years earlier, still supplied by Umbro, still without a sponsor's name. The flashy, marketed redesigns of the 1970s were still a decade away."
+            },
+            {
+              "id": "winterbottoms-final-whistle",
+              "label": "WINTERBOTTOM'S FINAL WHISTLE",
+              "story": "Walter Winterbottom had managed England for sixteen years, the country's first-ever full-time national manager, since 1946. The quarter-final loss to Brazil closed out his reign, clearing the way for Alf Ramsey, who would win the World Cup on home soil four years later."
             }
           ]
         }
