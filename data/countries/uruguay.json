@@ -465,6 +465,23 @@
       "result": "Round of 16",
       "headline": "Fastest Red Card Ever",
       "story": "José Batista was sent off just 56 seconds into the Scotland match, still the fastest red card in World Cup history, yet ten men held out for a scoreless draw. A 6–1 thrashing by Denmark was the low point before Diego Maradona's Argentina eliminated them 1–0 in the Round of 16.",
+      "annotations": [
+        {
+          "id": "pasculli-ends-run",
+          "label": "PASCULLI ENDS THE RUN",
+          "story": "Maradona called this his best individual display of the tournament without even scoring — his midfield dummy sprung Sergio Batista forward, the ball found Jorge Burruchaga, and a deflected cross fell for Pedro Pasculli to finish just before halftime. That 42nd-minute strike was enough; Uruguay never found an equalizer against Argentina."
+        },
+        {
+          "id": "le-coq-sportif-era",
+          "label": "FRENCH STRIPES ON CELESTE",
+          "story": "Le Coq Sportif supplied Uruguay's kit for Mexico 1986, its final year before Puma took over the contract. The French brand's signature rooster logo sat beside the plain, still starless crest — a quietly odd pairing of a French sportswear brand and South America's oldest football jersey."
+        },
+        {
+          "id": "scum-of-world-football",
+          "label": "SCUM OF WORLD FOOTBALL",
+          "story": "Uruguay's disciplinary record in Mexico — four bookings and a sending-off against Denmark alone, then Batista's 56-second red against Scotland — provoked fury. Scotland manager Alex Ferguson said he was 'glad to be going home,' and the Scottish FA's Ernie Walker branded them 'the scum of world football,' a reputation coach Omar Borrás never fully shook."
+        }
+      ],
       "homeColors": "light blue (celeste) shirt, black shorts, black socks",
       "awayColors": null,
       "image": null,
