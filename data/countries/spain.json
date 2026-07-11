@@ -276,6 +276,23 @@
       "result": "Group Stage",
       "headline": "Same Script, Group Stage Again",
       "story": "Dani's consolation goal couldn't prevent a 2–1 opening loss to Austria in Buenos Aires, and although Asensi's strike beat Sweden and Spain held Brazil scoreless, the group's math left them short. It was the same story as 1966 and 1962 — group stage, then home.",
+      "annotations": [
+        {
+          "id": "spains-first-brazil-shutout",
+          "label": "SPAIN'S FIRST BRAZIL SHUTOUT",
+          "story": "Nobody remembers a scoreless draw, but this one mattered: it was the first time in four World Cup meetings that Spain had kept Brazil off the scoresheet entirely, after conceding nine goals combined in 1934 and 1950. It wasn't enough to advance, but it proved the age of Brazilian routs was over."
+        },
+        {
+          "id": "eagles-wings-open",
+          "label": "THE EAGLE'S WINGS OPEN",
+          "story": "A year earlier, in 1977, the federation quietly redesigned the crest on Spain's shirt — the Eagle of Saint John's wings drawn wider and more triumphant, even as Francisco Franco had been dead for three years and the eagle itself, a wartime relic, had only a few seasons left before it disappeared for good."
+        },
+        {
+          "id": "stadium-blocks-from-terror",
+          "label": "FOOTBALL NEXT DOOR TO TERROR",
+          "story": "General Jorge Videla's junta staged the tournament as a public-relations triumph while, seven hundred metres from the Buenos Aires stadium hosting the final, the Navy Mechanics School operated as one of the regime's deadliest torture centers. Players competed inside the same propaganda machine the Mothers of the Plaza de Mayo were already marching against."
+        }
+      ],
       "homeColors": "red shirt, blue shorts, black socks",
       "awayColors": null,
       "image": null,
