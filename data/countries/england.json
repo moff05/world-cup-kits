@@ -671,6 +671,23 @@
     "2002": {
       "result": "Quarter-final",
       "headline": "Beckham's Redemption, Brazil's Revenge",
+      "annotations": [
+        {
+          "id": "ronaldinhos-fluke-that-wasnt",
+          "label": "RONALDINHO'S FLUKE THAT WASN'T",
+          "story": "Forty yards out, Ronaldinho lined up a free kick that looked like a hopeful cross, until it dipped over a flat-footed David Seaman and in off the underside of the bar. Ronaldinho was sent off minutes later, but the damage, and Brazil's route to a fifth title, was done."
+        },
+        {
+          "id": "the-reversible-shirt",
+          "label": "THE REVERSIBLE SHIRT",
+          "story": "Umbro's 2002 away kit hid a trick: turned inside out, the red shirt showed a navy blue mirror image, both sides carrying the Umbro logo and England badge. Cuffs, collar and sock turnovers all repeated a St George's cross motif, first worn against Italy months earlier."
+        },
+        {
+          "id": "the-broken-metatarsal",
+          "label": "THE BROKEN METATARSAL",
+          "story": "Two months before the tournament, David Beckham fractured a metatarsal in his left foot in a Champions League tie, and the injury became a national obsession. Tabloids tracked his recovery daily, and he was cleared to start only after a fitness test days before the opener."
+        }
+      ],
       "story": "David Beckham exorcised his 1998 demons with the winning penalty against Argentina, then set up Michael Owen for the opener in the quarter-final against Brazil. Ronaldinho's speculative free kick looped over a stranded David Seaman for the equaliser, and Brazil went on to win 2–1 and the tournament itself, ending England's run in Shizuoka.",
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": "red shirt, navy blue shorts",
