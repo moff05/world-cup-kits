@@ -293,9 +293,19 @@ export const france = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "FONTAINE'S RECORD 13 GOALS",
-              "story": "Just Fontaine scored a still-unbroken 13 goals in a single World Cup, including a hat-trick past Paraguay and a record four in the third-place win over West Germany. Pelé's hat-trick ended France's run 5–2 in the semi-final, but Fontaine and Kopa had already carried Les Bleus to their best finish yet."
+              "id": "fontaines-thirteen",
+              "label": "FONTAINE'S THIRTEEN",
+              "story": "Just Fontaine scored a still-unmatched 13 goals across six matches, including four in the third-place demolition of West Germany, a record standing decades before shirt sponsors even existed. Pelé's hat-trick in the semi-final was the only thing that stopped an even bigger haul from a forward playing the tournament of his life."
+            },
+            {
+              "id": "borrowed-boots",
+              "label": "BORROWED BOOTS",
+              "story": "Fontaine's own boots split apart in training days before the tournament, and with no replacement pair available, reserve forward Stéphane Bruey — whose feet happened to match — handed over his spare pair without hesitation. Fontaine scored all 13 goals of his record haul wearing someone else's borrowed boots."
+            },
+            {
+              "id": "red-socks-arrive",
+              "label": "RED SOCKS ARRIVE",
+              "story": "For 1958 France finally paired its blue shirt and white shorts with red socks, completing the full tricolor at a World Cup for the first time. It was a small change that stuck: the blue-white-red combination became the standard template for the national kit across decades of tournaments to follow."
             }
           ]
         }
