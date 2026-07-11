@@ -1,4 +1,4 @@
-export const uzbekistan = {
+{
   "id": "uzbekistan",
   "name": "Uzbekistan",
   "flagCode": "uz",
@@ -26,4 +26,4 @@ export const uzbekistan = {
     }
   ],
   "kits": {}
-};
+}
