@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
 import { countries } from "../data/index.js";
 
@@ -48,13 +48,99 @@ function FeaturedCard({ id, year, result }) {
 }
 
 function FeaturedStrip() {
+  const scrollRef = useRef(null);
+  const rafRef = useRef(null);
+  const userActiveRef = useRef(false);
+  const userActiveTimer = useRef(null);
+  const dragRef = useRef(null); // { startX, startScroll }
+  const movedRef = useRef(false);
+  const [dragging, setDragging] = useState(false);
+
+  useEffect(() => {
+    const el = scrollRef.current;
+    if (!el) return;
+    const SPEED = 0.5;
+
+    const wrapScroll = () => {
+      const half = el.scrollWidth / 2;
+      if (half > 0 && el.scrollLeft >= half) el.scrollLeft -= half;
+    };
+
+    const tick = () => {
+      if (!userActiveRef.current) {
+        el.scrollLeft += SPEED;
+        wrapScroll();
+      }
+      rafRef.current = requestAnimationFrame(tick);
+    };
+    rafRef.current = requestAnimationFrame(tick);
+
+    const onScroll = () => {
+      wrapScroll();
+      userActiveRef.current = true;
+      clearTimeout(userActiveTimer.current);
+      userActiveTimer.current = setTimeout(() => { userActiveRef.current = false; }, 1500);
+    };
+    el.addEventListener("scroll", onScroll, { passive: true });
+
+    return () => {
+      cancelAnimationFrame(rafRef.current);
+      clearTimeout(userActiveTimer.current);
+      el.removeEventListener("scroll", onScroll);
+    };
+  }, []);
+
+  const onPointerDown = (e) => {
+    if (e.button !== 0) return;
+    const el = scrollRef.current;
+    movedRef.current = false;
+    dragRef.current = { startX: e.clientX, startScroll: el.scrollLeft };
+    userActiveRef.current = true;
+    el.setPointerCapture(e.pointerId);
+    setDragging(true);
+  };
+
+  const onPointerMove = (e) => {
+    if (!dragRef.current) return;
+    const el = scrollRef.current;
+    const delta = dragRef.current.startX - e.clientX;
+    if (Math.abs(delta) > 4) movedRef.current = true;
+    const half = el.scrollWidth / 2;
+    let next = dragRef.current.startScroll + delta;
+    if (next < 0) next += half;
+    if (next >= half) next -= half;
+    el.scrollLeft = next;
+  };
+
+  const onPointerUp = () => {
+    dragRef.current = null;
+    setDragging(false);
+    clearTimeout(userActiveTimer.current);
+    userActiveTimer.current = setTimeout(() => { userActiveRef.current = false; }, 800);
+  };
+
+  const onClickCapture = (e) => {
+    if (movedRef.current) {
+      e.preventDefault();
+      e.stopPropagation();
+    }
+  };
+
   return (
     <div className="featured-strip">
       <div className="featured-strip-header">
         <span className="featured-strip-title">Featured Stories</span>
       </div>
-      <div className="featured-strip-scroll">
-        <div className="featured-track" aria-hidden="false">
+      <div
+        className={`featured-strip-scroll${dragging ? " featured-strip-scroll--dragging" : ""}`}
+        ref={scrollRef}
+        onPointerDown={onPointerDown}
+        onPointerMove={onPointerMove}
+        onPointerUp={onPointerUp}
+        onPointerCancel={onPointerUp}
+        onClickCapture={onClickCapture}
+      >
+        <div className="featured-track">
           {FEATURED.map(({ id, year, result }) => (
             <FeaturedCard key={`a-${id}-${year}`} id={id} year={year} result={result} />
           ))}

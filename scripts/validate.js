@@ -15,13 +15,13 @@ const DATA_DIR = path.join(__dirname, "../data/countries");
 const VALID_CONFEDERATIONS = new Set(["CONMEBOL", "UEFA", "CONCACAF", "CAF", "AFC", "OFC"]);
 const VALID_RESULTS = new Set([
   "Champions", "Runners-up", "3rd Place", "4th Place",
-  "Semi-final", "Quarter-final", "Round of 16", "2nd Round", "Group Stage",
+  "Semi-final", "Quarter-final", "Round of 16", "Round of 32", "2nd Round", "Group Stage",
 ]);
 const VALID_WDL = new Set(["W", "D", "L"]);
 const ALL_WORLD_CUPS = new Set([
   1930, 1934, 1938, 1950, 1954, 1958, 1962, 1966,
   1970, 1974, 1978, 1982, 1986, 1990, 1994, 1998,
-  2002, 2006, 2010, 2014, 2018, 2022,
+  2002, 2006, 2010, 2014, 2018, 2022, 2026,
 ]);
 
 let errors = 0;
@@ -73,7 +73,7 @@ for (const filename of files) {
     err(f, "missing or empty `worldCups`");
   else {
     for (const y of data.worldCups) {
-      if (!ALL_WORLD_CUPS.has(y)) err(f, `invalid worldCups year ${y} (2026 not allowed)`);
+      if (!ALL_WORLD_CUPS.has(y)) err(f, `invalid worldCups year ${y}`);
     }
   }
 
