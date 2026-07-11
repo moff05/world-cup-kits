@@ -143,6 +143,23 @@
     "1954": {
       "result": "Runners-up",
       "headline": "The Golden Team's Heartbreak",
+      "annotations": [
+        {
+          "id": "twenty-minutes-to-heartbreak",
+          "label": "TWENTY MINUTES OF LEAD",
+          "story": "Twenty minutes in, Puskás and Czibor had Hungary 2–0 up in Bern and the trophy seemingly settled. Then Max Morlock, Helmut Rahn twice, and a defense that refused to break turned the final around; Rahn's 84th-minute winner ended a 31-match unbeaten run at the one moment it couldn't afford to end."
+        },
+        {
+          "id": "the-screw-in-studs",
+          "label": "THE SCREW-IN STUDS",
+          "story": "Legend credits West Germany's comeback partly to Adidas: Adi Dassler supplied his squad with new screw-in studs, adjustable for the rain-soaked Wankdorf turf, while Hungary's boots stayed fixed-stud. True or embellished, the story stuck — cherry red outplayed for an hour, then out-gripped in the mud."
+        },
+        {
+          "id": "riots-in-budapest",
+          "label": "RIOTS IN BUDAPEST",
+          "story": "News of the final loss reportedly sparked riots on the streets of Budapest, disillusioned crowds turning anger at the scoreline into anger at the regime itself. Some historians trace a thread from that August night to the uprising two years later — a football result absorbed into the era's deeper unrest."
+        }
+      ],
       "homeColors": "red shirt, white shorts, green socks",
       "awayColors": null,
       "image": "https://commons.wikimedia.org/wiki/File:Aranycsapat_fortepan_84717.jpg",

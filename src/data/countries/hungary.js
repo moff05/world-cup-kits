@@ -197,9 +197,19 @@ export const hungary = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "THE GOLDEN TEAM'S HEARTBREAK",
-              "story": "Sándor Kocsis scored eleven goals — still a Hungary record — as the Aranycsapat crushed South Korea 9–0, West Germany 8–3, and Brazil 4–2 in the brutal 'Battle of Berne.' Extra time beat Uruguay in the semi-final. Then, in the final, West Germany overturned a 2–0 deficit to win 3–2, ending a 31-game unbeaten run at the worst possible moment."
+              "id": "twenty-minutes-to-heartbreak",
+              "label": "TWENTY MINUTES OF LEAD",
+              "story": "Twenty minutes in, Puskás and Czibor had Hungary 2–0 up in Bern and the trophy seemingly settled. Then Max Morlock, Helmut Rahn twice, and a defense that refused to break turned the final around; Rahn's 84th-minute winner ended a 31-match unbeaten run at the one moment it couldn't afford to end."
+            },
+            {
+              "id": "the-screw-in-studs",
+              "label": "THE SCREW-IN STUDS",
+              "story": "Legend credits West Germany's comeback partly to Adidas: Adi Dassler supplied his squad with new screw-in studs, adjustable for the rain-soaked Wankdorf turf, while Hungary's boots stayed fixed-stud. True or embellished, the story stuck — cherry red outplayed for an hour, then out-gripped in the mud."
+            },
+            {
+              "id": "riots-in-budapest",
+              "label": "RIOTS IN BUDAPEST",
+              "story": "News of the final loss reportedly sparked riots on the streets of Budapest, disillusioned crowds turning anger at the scoreline into anger at the regime itself. Some historians trace a thread from that August night to the uprising two years later — a football result absorbed into the era's deeper unrest."
             }
           ]
         }
