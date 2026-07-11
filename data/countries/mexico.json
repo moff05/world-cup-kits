@@ -411,6 +411,23 @@
     "1978": {
       "result": "Group Stage",
       "headline": "Heaviest Defeat on Record",
+      "annotations": [
+        {
+          "id": "six-nil-in-cordoba",
+          "label": "SIX-NIL IN CÓRDOBA",
+          "story": "Defending champions West Germany routed Mexico 6–0 in Córdoba, still the heaviest defeat in the team's World Cup history. Bookended by losses to Tunisia and Poland, it capped a winless return to the tournament eight years after the 1970 quarter-final breakthrough."
+        },
+        {
+          "id": "a-denim-companys-first-jersey",
+          "label": "A DENIM COMPANY'S FIRST JERSEY",
+          "story": "Levi's — the jeans company — produced Mexico's kit for 1978, an unusual pairing years before sportswear giants locked up international football. It marked the federation's first formal kit-supply deal of any kind."
+        },
+        {
+          "id": "playing-inside-a-dictatorship",
+          "label": "PLAYING INSIDE A DICTATORSHIP",
+          "story": "Argentina's ruling military junta used the tournament to project legitimacy abroad while running a brutal crackdown at home, later known as the Dirty War. Mexico's players arrived into a host nation where the government's own atrocities were kept off the broadcast."
+        }
+      ],
       "story": "A brutal group draw put Mexico against reigning champions West Germany, who routed them 6–0 in Córdoba — still the heaviest defeat in Mexican World Cup history. Losses to Tunisia and Poland completed a winless group stage in Argentina, Mexico's first tournament since their 1970 quarter-final breakthrough.",
       "homeColors": "green shirt, white shorts, red socks (Levi's, first kit supplier deal)",
       "awayColors": null,
