@@ -128,6 +128,23 @@
       "result": "Group Stage",
       "headline": "France Ends It Fast",
       "story": "France needed just one match to see off Belgium, winning 1–3 in the tournament's opening round. It was Belgium's second straight single-match exit under the era's ruthless knockout format, a quiet World Cup that did little to ease the disappointment of 1934.",
+      "annotations": [
+        {
+          "id": "paris-elimination",
+          "label": "PARIS ENDS IT FAST",
+          "story": "Same format, same result: one match, one elimination. France needed only ninety minutes at the Stade Olympique Yves-du-Manoir to beat Belgium 3–1, continuing a run of first-round World Cup exits that had defined the Red Devils since their 1930 debut. No team had yet shown Belgium a second match."
+        },
+        {
+          "id": "amateur-era-kit",
+          "label": "STITCHED FOR AMATEURS",
+          "story": "Belgium's 1938 squad were still largely amateurs — clerks, students, tradesmen — who wore the same unadorned red jersey and knee-length white shorts their predecessors had worn in 1930 and 1934. No sponsor patches existed yet in international football; the crest was the only mark separating the shirt from a training top."
+        },
+        {
+          "id": "last-cup-before-war",
+          "label": "THE LAST CUP FOR 16 YEARS",
+          "story": "Nobody in Paris knew it yet, but 1938 would be the final World Cup before a sixteen-year gap. Within eighteen months, Belgium itself would be invaded and occupied by Germany — the same opponent that had eliminated the Red Devils from the previous tournament. Football in Europe simply stopped."
+        }
+      ],
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
       "image": null,
