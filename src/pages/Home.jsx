@@ -52,7 +52,6 @@ function FeaturedStrip() {
   const rafRef = useRef(null);
   const pausedRef = useRef(false);
   const dragRef = useRef(null);
-  const movedRef = useRef(false);
 
   useEffect(() => {
     const el = scrollRef.current;
@@ -90,19 +89,21 @@ function FeaturedStrip() {
     dragRef.current = null;
   };
 
-  // Click-drag for desktop (pointer events)
+  // Click-drag: only activate capture after confirmed movement so normal clicks reach the Link
   const onPointerDown = (e) => {
     if (e.button !== 0) return;
-    movedRef.current = false;
-    dragRef.current = { startX: e.clientX, startScroll: scrollRef.current.scrollLeft };
-    scrollRef.current.setPointerCapture(e.pointerId);
+    dragRef.current = { startX: e.clientX, startScroll: scrollRef.current.scrollLeft, captured: false };
   };
 
   const onPointerMove = (e) => {
     if (!dragRef.current) return;
     const el = scrollRef.current;
     const delta = dragRef.current.startX - e.clientX;
-    if (Math.abs(delta) > 4) movedRef.current = true;
+    if (!dragRef.current.captured && Math.abs(delta) > 6) {
+      dragRef.current.captured = true;
+      el.setPointerCapture(e.pointerId);
+    }
+    if (!dragRef.current.captured) return;
     const half = el.scrollWidth / 2;
     let next = dragRef.current.startScroll + delta;
     if (next < 0) next = 0;
@@ -111,10 +112,6 @@ function FeaturedStrip() {
   };
 
   const onPointerUp = () => { dragRef.current = null; };
-
-  const onClickCapture = (e) => {
-    if (movedRef.current) { e.preventDefault(); e.stopPropagation(); }
-  };
 
   return (
     <div className="featured-strip">
@@ -130,7 +127,6 @@ function FeaturedStrip() {
         onPointerMove={onPointerMove}
         onPointerUp={onPointerUp}
         onPointerCancel={onPointerUp}
-        onClickCapture={onClickCapture}
       >
         <div className="featured-track">
           {FEATURED.map(({ id, year, result }) => (
