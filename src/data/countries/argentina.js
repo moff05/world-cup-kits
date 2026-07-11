@@ -250,6 +250,16 @@ export const argentina = {
               "id": "stuck-on-goal-difference-1962",
               "label": "STUCK ON GOAL DIFFERENCE",
               "story": "A goalless draw with Hungary in Rancagua's wind left Argentina level on points with rivals in Group D. Only goal difference separated advancement from elimination, and Argentina came up short, exiting after the first round for a second straight World Cup."
+            },
+            {
+              "id": "still-unbranded-stripes-1962",
+              "label": "STILL UNBRANDED STRIPES",
+              "story": "A dozen years before Adidas signed on, Argentina's kit carried no manufacturer's logo at all — just heavy cotton stripes that soaked through in Rancagua's rain and wind. The shield badge introduced in 1958 remained the only branding on the shirt, sewn on by hand rather than woven in."
+            },
+            {
+              "id": "built-after-the-quake-1962",
+              "label": "BUILT AFTER THE QUAKE",
+              "story": "Chile hosted barely two years after the 1960 Valdivia earthquake, the most powerful ever recorded, which had flattened stadiums along with everything else. Argentina played its group matches at Rancagua's Estadio El Teniente, rebuilt specifically for the tournament as proof the country had recovered enough to host the world."
             }
           ]
         }
