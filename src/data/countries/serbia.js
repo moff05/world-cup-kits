@@ -325,9 +325,19 @@ export const serbia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "JERKOVIĆ'S GOLDEN BOOT RUN",
-              "story": "Dražan Jerković's four goals carried Yugoslavia past Uruguay and Colombia, then Milan Radaković's strike shocked West Germany 1–0 in the quarter-final in Chile. Czechoslovakia ended the run in the semi-final, and a weary Yugoslavia lost the third-place match to the hosts, settling for fourth again."
+              "id": "jerkovics-golden-run",
+              "label": "JERKOVIĆ'S GOLDEN RUN",
+              "story": "Dražan Jerković scored four times to fire Yugoslavia past Uruguay and Colombia, and Milan Radaković's 85th-minute strike stunned West Germany in the quarter-final. Czechoslovakia ended the run in the semi, and a spent Yugoslavia lost the third-place match to hosts Chile, settling for fourth again."
+            },
+            {
+              "id": "the-tricolor-crest",
+              "label": "THE TRICOLOR CREST",
+              "story": "Yugoslavia's away kit in Chile was a plain white jersey with a V-neck collar, still stitched in-house with no manufacturer's name, but its left-chest crest burst with red, yellow, and blue — the only vivid detail on an otherwise minimalist shirt."
+            },
+            {
+              "id": "a-year-after-belgrade",
+              "label": "A YEAR AFTER BELGRADE",
+              "story": "Just months after Belgrade hosted the founding summit of the Non-Aligned Movement in 1961, Tito's Yugoslavia arrived in South America positioning itself as a bridge between capitalist and communist blocs — a diplomatic balancing act mirrored by a football team that beat both West Germany and Uruguay."
             }
           ]
         }
