@@ -50,14 +50,10 @@
     "1934": {
       "result": "3rd Place",
       "headline": "First Try, Third Place",
-      "story": "Edmund Conen's hat-trick powered a 5–2 win over Belgium in Germany's World Cup debut. Czechoslovakia ended the run in the semi-final, but Rudolf Lehner's brace lifted Germany past Austria 3–2 in Naples for third place — a tidy finish in the tournament's first trip outside Uruguay.",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Round of 16",
@@ -87,19 +83,32 @@
           "result": "W",
           "scorers": "Lehner 1', Conen 27', Lehner 42'"
         }
+      ],
+      "annotations": [
+        {
+          "id": "conen-hat-trick-1934",
+          "label": "Conen's Debut Hat-Trick",
+          "story": "Germany's first-ever World Cup match was a Round of 16 tie against Belgium in Florence, and forward Edmund Conen made sure it was memorable: three goals, in the 66th, 70th and 87th minutes, in a 5–2 win. It set the tone for a tournament in which Germany, making its World Cup debut, reached third place without ever facing a genuine footballing superpower along the way."
+        },
+        {
+          "id": "germany-fell-czechoslovakia-1934",
+          "label": "The Semi-Final Wall",
+          "story": "Czechoslovakia, playing some of the most fluid football of the tournament, beat Germany 3–1 in the semi-final in Rome, with only a late strike from Noack offering resistance. Czechoslovakia went on to the final, where they lost to hosts Italy in extra time. Germany's consolation was a place in the third-place match — a modest finish that nonetheless matched the tournament's runners-up for quality of opposition survived."
+        },
+        {
+          "id": "lehner-brace-naples-1934",
+          "label": "Third in Naples",
+          "story": "The third-place match was played in Naples against Austria's celebrated 'Wunderteam,' one of the most admired sides in Europe through the early 1930s. Rudolf Lehner scored twice, either side of a Conen goal, for a 3–2 win. It gave Germany a top-three finish in the first World Cup it ever entered — a low-key marker that every subsequent German World Cup would arrive carrying more expectation than the last."
+        }
       ]
     },
     "1938": {
       "result": "Group Stage",
       "headline": "Gone in the Replay",
-      "story": "Freshly merged with an annexed Austria, Germany drew Switzerland 1–1 needing a late equalizer from Georg Gauchel. The mandatory replay four days later got away from them, 4–2, the Swiss finishing stronger. It was an early exit that stood alone in German World Cup history until 2018.",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Round of 16",
@@ -115,18 +124,34 @@
           "result": "L",
           "scorers": "Hahnemann 8', Lörtscher OG 22'"
         }
+      ],
+      "annotations": [
+        {
+          "id": "the-anschluss-squad-1938",
+          "label": "The Merged Squad",
+          "story": "Germany's 1938 squad was patched together only months after the Anschluss, the forced annexation of Austria, folding several players from Austria's celebrated 'Wunderteam' into the German setup on short notice. The blend never gelled on the pitch — barely rehearsed understanding between players who had been international rivals a year earlier showed up in a side that looked disjointed rather than reinforced, days before its opening match."
+        },
+        {
+          "id": "gauchel-equalizer-1938",
+          "label": "Gauchel's Late Save",
+          "story": "Germany's opening match against Switzerland in Paris looked to be slipping away when Switzerland took a second-half lead. Georg Gauchel's equalizer in the 29th minute forced a replay, mandatory under the era's rules for a knockout tie level after 90 minutes. It bought Germany four more days against the same opponent, but not much more form to go with them."
+        },
+        {
+          "id": "swiss-replay-defeat-1938",
+          "label": "Undone in the Replay",
+          "story": "The replay, four days later in the same stadium, fell apart for Germany. Switzerland, roared on by a crowd sympathetic to their underdog run, won 4–2, with Germany managing only an early goal from Hahnemann and an own goal credited to Lörtscher. It was the earliest exit in German World Cup history — a group-stage elimination that stood alone in the record book until South Korea repeated the trick, eighty years later, in 2018."
+        }
       ]
     },
     "1954": {
       "result": "Champions",
       "headline": "The Miracle of Bern",
-      "story": "Down 2–0 inside eight minutes to Hungary's unbeaten Golden Team, West Germany clawed level by the 18th minute, then Helmut Rahn buried the winner in the 84th at a rain-soaked Wankdorf. 'Rahn schießt — Tor!' became the most famous radio call in German sports history, the upset forever known as the Miracle of Bern.",
       "homeColors": "white shirt, black shorts, white socks (Leuzela)",
       "awayColors": "green shirt, white shorts",
-      "image": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fussball-Weltmeisterschaft_1954_(Com_M03-0108-005-0004).jpg",
       "imageCredit": {
         "player": null,
-        "game": null
+        "game": "1954 FIFA World Cup in Switzerland — ETH-Bibliothek Zürich / Comet Photo AG collection, CC BY-SA 4.0 / Wikimedia Commons."
       },
       "matches": [
         {
@@ -171,19 +196,32 @@
           "result": "W",
           "scorers": "Morlock 10', Rahn 18', Rahn 84'"
         }
+      ],
+      "annotations": [
+        {
+          "id": "the-turek-final-1954",
+          "label": "Turek's Wall",
+          "story": "West Germany's goalkeeper Toni Turek made a string of saves in the second half of the final that kept Hungary's comeback at bay, prompting radio commentator Herbert Zimmermann's famous mid-broadcast line: 'Toni! Toni! ... Turek, du bist ein Teufelskerl!' — 'Turek, you're a devil of a fellow!' When the final whistle blew, Zimmermann's cry of 'Aus! Aus! Aus! Das Spiel ist aus! Deutschland ist Weltmeister!' became the most replayed radio call in German broadcasting history."
+        },
+        {
+          "id": "herbergers-gambit-1954",
+          "label": "Herberger's Gambit",
+          "story": "Eleven days before the final, West Germany lost 8–3 to Hungary in the group stage — still the heaviest defeat in the team's World Cup history. Coach Sepp Herberger had rested several regulars, including captain Fritz Walter, calculating that the format let his team reach the knockout rounds through a play-off against Turkey regardless. Hungary took the result as proof of their superiority. West Germany took it as cover, hiding their real strength for the final both teams could sense was coming."
+        },
+        {
+          "id": "fritz-walter-wetter-1954",
+          "label": "Fritz-Walter-Wetter",
+          "story": "Rain lashed Bern's Wankdorf Stadium throughout the final, turning the pitch to mud — conditions West Germany's captain Fritz Walter thrived in so consistently that Germans still call heavy, wet weather 'Fritz-Walter-Wetter' decades later. Down 2–0 inside eight minutes, West Germany leveled by the 18th minute and won it with Helmut Rahn's 84th-minute strike, completing the upset the world remembers as the Miracle of Bern."
+        }
       ]
     },
     "1958": {
       "result": "4th Place",
       "headline": "Fontaine Ends the Defense",
-      "story": "Defending champions West Germany needed a play-off just to escape their group, then fell 1–3 to host Sweden in the semi-final. France's Just Fontaine, mid-way through his record 13-goal tournament, tortured a young Uwe Seeler and company in a 6–3 third-place defeat that closed out a fourth-place finish.",
       "homeColors": "white shirt, black shorts, white socks (Leuzela)",
       "awayColors": "green shirt, white shorts",
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -227,19 +265,32 @@
           "result": "L",
           "scorers": "Cieslarczyk 18', Rahn 52', Schäfer 84'"
         }
+      ],
+      "annotations": [
+        {
+          "id": "playoff-czechoslovakia-1958",
+          "label": "The Play-Off Squeak",
+          "story": "Defending champions West Germany finished level with Czechoslovakia in the group stage and needed an extra play-off match just to advance to the quarter-finals — a shaky start for the reigning champions. It set the tone for a tournament in which the age of the 1954 winners began to show, even as West Germany kept grinding forward all the way to a semi-final meeting with host nation Sweden."
+        },
+        {
+          "id": "fontaines-four-1958",
+          "label": "Fontaine's Four",
+          "story": "France's Just Fontaine scored four goals against West Germany in the third-place match alone, a personal haul that pushed his tournament total to a still-unbroken record of 13 goals in six games. West Germany lost 6–3, a chastening final scoreline for the reigning champions, with young forward Uwe Seeler unable to do much to stem the flow at the other end."
+        },
+        {
+          "id": "seeler-arrives-1958",
+          "label": "Seeler Arrives",
+          "story": "Uwe Seeler was 21 during the 1958 tournament, already a regular starter and the clearest sign of what German football would look like after the 1954 winners faded. He scored in the opening win over Argentina and again in the draw with Northern Ireland. Seeler would go on to play in four World Cups across twelve years, 1958 through 1970, longer than almost any other player of his generation."
+        }
       ]
     },
     "1962": {
       "result": "Quarter-final",
       "headline": "Stopped Cold by Yugoslavia",
-      "story": "Germany opened with a goalless bore against holders Italy, then squeezed past Switzerland and Chile to top the group. Yugoslavia shut them out 1–0 in the Santiago quarter-final, a tournament remembered more for its brutal, foul-strewn football than for Germany's efficient but unspectacular run to the last eight.",
       "homeColors": "white shirt, black shorts, white socks (Leuzela)",
       "awayColors": "green shirt, white shorts",
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -269,19 +320,32 @@
           "result": "L",
           "scorers": null
         }
+      ],
+      "annotations": [
+        {
+          "id": "cagey-opener-1962",
+          "label": "The Goalless Opener",
+          "story": "West Germany opened their title defense with a goalless draw against holders Italy in Santiago, a result that set the tone for a tournament remembered more for its caution and physicality than its football. Both sides were content to take the point; neither wanted to risk an early elimination in a format where only the group winner was guaranteed a favorable path forward."
+        },
+        {
+          "id": "yugoslavia-shutout-1962",
+          "label": "Shut Out by Yugoslavia",
+          "story": "Yugoslavia beat West Germany 1–0 in the quarter-final, playing some of the most inventive football of a tournament otherwise defined by defensive, often brutal matches elsewhere in the bracket. West Germany, efficient but toothless in front of goal, managed only four goals across four matches and went home with the same modest ambitions it had arrived with."
+        },
+        {
+          "id": "seeler-captain-1962",
+          "label": "Seeler's Steady Hand",
+          "story": "Uwe Seeler, now 25 and West Germany's talisman up front, scored in both group wins over Switzerland and Chile, keeping the tournament from being a total write-off in attack. The squad that traveled to Chile was transitional: too experienced to be young, not talented enough to be great, waiting for a new generation led by a barely-out-of-youth-football Franz Beckenbauer to arrive four years later in England."
+        }
       ]
     },
     "1966": {
       "result": "Runners-up",
       "headline": "The Ghost Goal Final",
-      "story": "Franz Beckenbauer and Helmut Haller each scored twice as West Germany reached the Wembley final, then trailed England 2–1 before Wolfgang Weber's stoppage-time strike forced extra time. Geoff Hurst's disputed 101st-minute shot off the crossbar — waved in after a linesman's nod — proved decisive in England's controversial 4–2 win.",
       "homeColors": "white shirt, black shorts, white socks (Umbro)",
       "awayColors": "green shirt, white shorts",
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -325,19 +389,32 @@
           "result": "L",
           "scorers": "Haller 12', Weber 89'"
         }
+      ],
+      "annotations": [
+        {
+          "id": "beckenbauer-arrival-1966",
+          "label": "Beckenbauer Arrives",
+          "story": "Franz Beckenbauer was 20 years old at his first World Cup and scored four goals from midfield, including two in the opening 5–0 win over Switzerland. He was already being talked about as the future of German football, a player equally comfortable defending and driving forward — a role nobody had quite defined yet, and which within a decade would be named 'libero' largely because of him."
+        },
+        {
+          "id": "hurst-ghost-goal-1966",
+          "label": "The Ghost Goal",
+          "story": "England's Geoff Hurst struck a shot in the 101st minute of the final that cannoned down off the crossbar. Whether it crossed the line has been argued for decades; Soviet linesman Tofiq Bahramov signaled it was a goal, referee Gottfried Dienst agreed, and West Germany's protests changed nothing. It put England 3–2 up in extra time, and Hurst added a fourth in the 120th minute to complete his hat-trick and seal a 4–2 defeat."
+        },
+        {
+          "id": "weber-equalizer-1966",
+          "label": "Weber's Stoppage-Time Save",
+          "story": "West Germany trailed England 2–1 with seconds remaining in normal time when Wolfgang Weber forced the ball home from close range to make it 2–2, sending the Wembley final into extra time. It bought the team thirty more minutes of hope — hope that expired against Hurst's disputed goal soon after, in a final that remains the most contested result in the tournament's history."
+        }
       ]
     },
     "1970": {
       "result": "3rd Place",
       "headline": "The Game of the Century",
-      "story": "Gerd Müller's hat-trick sank England in an extra-time quarter-final comeback from 2–0 down, but the semi-final against Italy became the 'Game of the Century' — five goals in extra time alone, Italy prevailing 4–3 in the Azteca heat. Müller's brace in the third-place win over Uruguay capped a 10-goal tournament for the young striker.",
       "homeColors": "white shirt, black shorts, white socks (Umbro)",
       "awayColors": "green shirt, white shorts",
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -381,18 +458,34 @@
           "result": "W",
           "scorers": "Overath 26'"
         }
+      ],
+      "annotations": [
+        {
+          "id": "muller-hat-trick-comeback-1970",
+          "label": "Müller's Comeback",
+          "story": "Down 2–0 to England in the quarter-final in León, West Germany looked finished until Beckenbauer pulled one back, Uwe Seeler leveled with a looping header, and Gerd Müller volleyed the winner in extra time. Müller finished the tournament with ten goals, a record that stood for 44 years, scoring in nearly every match West Germany played in Mexico — the most efficient run of finishing the tournament had ever seen."
+        },
+        {
+          "id": "game-of-century-1970",
+          "label": "The Game of the Century",
+          "story": "The semi-final against Italy in the Azteca's altitude and heat produced five goals in extra time alone, a spectacle still called the Game of the Century. Franz Beckenbauer played the final half hour with his arm in a makeshift sling, his shoulder dislocated in a collision, because West Germany had already used both permitted substitutes. Italy won 4–3. Beckenbauer went untreated until after the final whistle."
+        },
+        {
+          "id": "muller-tens-goals-1970",
+          "label": "Ten Goals, Third Place",
+          "story": "West Germany closed out the tournament with a 1–0 win over Uruguay in the third-place match, a subdued finish after the emotional collapse against Italy. It was the last World Cup for Uwe Seeler, who had debuted twelve years earlier in Sweden, and the final chapter of a generation that had rebuilt German football since 1954 — with a new one, led by Beckenbauer and Müller, already positioned to take over."
+        }
       ]
     },
     "1974": {
       "result": "Champions",
       "headline": "Breitner, Müller, and Home Soil",
-      "story": "An early sting from East Germany's Jürgen Sparwasser in the group stage barely dented West Germany's march at their own World Cup. Johan Cruyff's Netherlands scored inside two minutes of the final off a penalty before Paul Breitner leveled and Gerd Müller turned in the winner just before halftime, sealing a 2–1 win at Munich's Olympiastadion.",
       "homeColors": "white shirt, black shorts, white socks (Erima)",
       "awayColors": "green shirt, white shorts",
-      "image": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Finale_wereldkampioenschap_voetbal_1974_in_Munchen,_West_Duitsland_tegen_Nederla,_Bestanddeelnr_927-3073.jpg",
       "imageCredit": {
         "player": null,
-        "game": null
+        "game": "West Germany vs Netherlands, 1974 Final, Munich — Nationaal Archief / Anefo, CC0 / Wikimedia Commons."
       },
       "matches": [
         {
@@ -444,19 +537,32 @@
           "result": "W",
           "scorers": "Breitner 25', Müller 43'"
         }
+      ],
+      "annotations": [
+        {
+          "id": "sparwasser-goal-1974",
+          "label": "Sparwasser's Goal",
+          "story": "In the only competitive meeting between the two German states, East Germany's Jürgen Sparwasser scored the only goal of a group-stage match in Hamburg, sending West Germany to a rare home-soil defeat. The result caused brief alarm in the host camp, but barely mattered competitively — West Germany still advanced, the format sorting them into a more favorable second-round group as a direct consequence of the loss."
+        },
+        {
+          "id": "final-comeback-1974",
+          "label": "The Fastest Penalty Ever",
+          "story": "Johan Neeskens converted a penalty for the Netherlands just two minutes into the final, before a West German player had even touched the ball — the fastest goal in World Cup final history to that point. Paul Breitner leveled from the spot in the 25th minute after Bernd Hölzenbein was fouled, and Gerd Müller turned in the winner from close range in the 43rd, pivoting to shoot after the ball ran loose off a botched clearance."
+        },
+        {
+          "id": "beckenbauer-lifts-1974",
+          "label": "Beckenbauer Lifts It",
+          "story": "Franz Beckenbauer, now captain and playing the sweeper role he had pioneered since 1966, lifted the World Cup at Munich's Olympiastadion in front of a home crowd. It completed a rebuild that started with the disappointment of 1966 and a detour through 1970 — West Germany's second title, delivered on their own ground, with Sepp Maier untouched behind a defense built entirely around Beckenbauer's reading of the game."
+        }
       ]
     },
     "1978": {
       "result": "2nd Round",
       "headline": "A Flat Title Defense",
-      "story": "Defending champions West Germany limped through four scoreless draws in Argentina, including a stalemate with hosts Italy, and then lost the decisive second-round game 3–2 to Austria — the so-called 'Miracle of Córdoba' that eliminated them and delighted Austrians for a generation.",
       "homeColors": "white shirt, black shorts, white socks (Erima)",
       "awayColors": "green shirt, white shorts",
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -500,19 +606,32 @@
           "result": "L",
           "scorers": "Rummenigge 19', Hölzenbein 68'"
         }
+      ],
+      "annotations": [
+        {
+          "id": "four-scoreless-draws-1978",
+          "label": "Four Scoreless Draws",
+          "story": "Defending champions West Germany went scoreless in four different matches across the group and second round in Argentina, including goalless stalemates with Poland, Tunisia, and hosts Italy. Coach Helmut Schön's side looked stale and cautious next to Argentina's home-crowd intensity and the Netherlands' continuing Total Football, and German journalists openly questioned whether the champions had anything meaningful left to defend."
+        },
+        {
+          "id": "miracle-cordoba-1978",
+          "label": "The Miracle of Córdoba",
+          "story": "Already eliminated from advancing regardless of the result, Austria beat West Germany 3–2 in Córdoba, with Hans Krankl scoring twice, including the 87th-minute winner. It was Austria's first win over either German team in 47 years, still celebrated in Austria every June 21st as the 'Miracle of Córdoba' and mourned in Germany as the 'Disgrace of Córdoba' — a defeat that ended the champions' campaign in the second round."
+        },
+        {
+          "id": "rummenigge-emerges-1978",
+          "label": "Rummenigge's Wonder Strike",
+          "story": "Amid a disappointing tournament, 22-year-old Karl-Heinz Rummenigge scored a spectacular solo goal against Austria in Córdoba, cutting in from the right and finishing past the goalkeeper — one of the few bright individual moments in an otherwise flat title defense. Rummenigge would go on to become West Germany's talisman through two more World Cup finals, in 1982 and 1986."
+        }
       ]
     },
     "1982": {
       "result": "Runners-up",
       "headline": "The Disgrace of Gijón, Then Italy",
-      "story": "West Germany's tournament nearly ended after an opening loss to Algeria, before a blatantly choreographed 1–0 win over Austria — both teams content with a scoreline that eliminated Algeria — drew lasting condemnation as the 'Disgrace of Gijón.' Harald Schumacher's brutal foul on Patrick Battiston overshadowed a semi-final shootout win over France, and Italy routed a spent Germany 3–1 in the final.",
       "homeColors": "white shirt, black shorts, white socks (first Adidas kit)",
       "awayColors": "green shirt, white shorts",
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -563,19 +682,32 @@
           "result": "L",
           "scorers": "Breitner 83'"
         }
+      ],
+      "annotations": [
+        {
+          "id": "algeria-shock-1982",
+          "label": "The Algeria Shock",
+          "story": "Algeria beat West Germany 2–1 in the opening match in Gijón, the first time an African nation had ever defeated West Germany at a World Cup. It was treated as a minor sporting scandal back home — the defending finalists undone by a team many assumed would be there to make up the numbers — and it set up the manufactured result that would follow in West Germany's next match."
+        },
+        {
+          "id": "disgrace-of-gijon-1982",
+          "label": "The Disgrace of Gijón",
+          "story": "West Germany needed to beat Austria by a specific margin to eliminate Algeria on goal difference; instead, Horst Hrubesch scored inside ten minutes and both teams visibly stopped competing, protecting a 1–0 scoreline that suited them both perfectly. Broadcasters reportedly turned their cameras away from the non-action in protest. FIFA changed the rules afterward so both final group matches in future tournaments would kick off simultaneously."
+        },
+        {
+          "id": "schumacher-battiston-1982",
+          "label": "Schumacher's Foul",
+          "story": "In the semi-final against France, goalkeeper Harald Schumacher launched himself hip-first into an onrushing Patrick Battiston, knocking him unconscious and out several teeth without the referee awarding so much as a foul. West Germany won on penalties after trailing 3–1 in extra time, but the collision remains one of the most notorious incidents in World Cup history — Battiston needed oxygen on the pitch and missed the rest of the tournament."
+        }
       ]
     },
     "1986": {
       "result": "Runners-up",
       "headline": "Maradona's Argentina Gets Revenge",
-      "story": "West Germany scraped through the group in third place, then needed penalties past Mexico in the quarter-final. Down 2–0 to Argentina in the final, Karl-Heinz Rummenigge and Rudi Völler leveled it inside six minutes — before Diego Maradona's pass sent Jorge Burruchaga through for the 3–2 winner in Mexico City.",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": "green shirt, white shorts",
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -626,19 +758,32 @@
           "result": "L",
           "scorers": "Rummenigge 74', Völler 81'"
         }
+      ],
+      "annotations": [
+        {
+          "id": "penalties-past-mexico-1986",
+          "label": "Past Mexico on Penalties",
+          "story": "West Germany scraped through a goalless quarter-final against hosts Mexico in Monterrey, needing penalties to advance after normal and extra time produced nothing. It was a low-key survival for a squad that had finished only third in its group — a team playing its way into form one round at a time rather than arriving as anyone's favorite."
+        },
+        {
+          "id": "final-comeback-1986",
+          "label": "Down Two, Back to Level",
+          "story": "Argentina led 2–0 in the final in Mexico City when Karl-Heinz Rummenigge pulled one back in the 74th minute and Rudi Völler leveled it six minutes later, turning a rout into a genuine contest. The comeback lasted only until the 83rd minute, but for a stretch it looked as though West Germany might snatch a second straight final it had no business being in."
+        },
+        {
+          "id": "maradona-assist-1986",
+          "label": "Maradona's Assist",
+          "story": "With the final tied at 2–2, Diego Maradona collected the ball near the halfway line, drew two defenders, and slid a perfectly weighted pass through West Germany's defense for Jorge Burruchaga to run onto and finish. It was Maradona's only assist of the final — he had been closely marked all match — but it was enough to hand Argentina their second title and West Germany their second final defeat in three tournaments."
+        }
       ]
     },
     "1990": {
       "result": "Champions",
       "headline": "Brehme's Penalty in Rome",
-      "story": "Lothar Matthäus ran the tournament from midfield as West Germany avenged 1986 with a Round of 16 win over the Netherlands amid a Rijkaard-Völler spitting incident, then edged England on penalties in the semi-final. Andreas Brehme converted a controversial late penalty for the only goal of a bad-tempered final against ten-man Argentina, delivering West Germany's third title before reunification that October.",
       "homeColors": "white shirt with black, red, and gold trim; black shorts; white socks",
       "awayColors": "green shirt, white shorts",
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -689,19 +834,32 @@
           "result": "W",
           "scorers": "Brehme 85'"
         }
+      ],
+      "annotations": [
+        {
+          "id": "matthaus-tournament-1990",
+          "label": "Matthäus Runs the Show",
+          "story": "Lothar Matthäus played the tournament of his career, scoring four goals from midfield and dictating the tempo of nearly every match West Germany played in Italy. He was named the first-ever FIFA World Player of the Year that same year, largely on the strength of a World Cup in which he looked, at times, like the best player on the pitch regardless of opponent."
+        },
+        {
+          "id": "rijkaard-spit-1990",
+          "label": "Rijkaard's Spit",
+          "story": "In the round of 16 against the Netherlands, Frank Rijkaard spat in Rudi Völler's hair during a heated confrontation; both players were sent off minutes later after a second flashpoint. West Germany went on to win 2–1 without either man on the pitch, eliminating the reigning European champions on the way to a first World Cup title since reunification arrived that October."
+        },
+        {
+          "id": "brehme-penalty-1990",
+          "label": "Brehme's Deflected Penalty",
+          "story": "Andreas Brehme converted the only goal of a bad-tempered final against ten-man Argentina, a low penalty in the 85th minute that deflected off defender Roberto Sensini and wrong-footed goalkeeper Sergio Goycochea. It was West Germany's third title and the last before reunification — Franz Beckenbauer, now the manager, walked alone across the Olympic Stadium pitch afterward, becoming the first man to win the World Cup as both player and manager."
+        }
       ]
     },
     "1994": {
       "result": "Quarter-final",
       "headline": "Klinsmann's Diving Celebration",
-      "story": "Jürgen Klinsmann scored five goals and popularized his mocking swan-dive celebration — a response to accusations of diving — as Germany topped their group. Bulgaria's Yordan Letchkov, unmarked and half-bald, headed a stunning winner in the quarter-final upset that ended the defending champions' run in the United States.",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": "green shirt, white shorts",
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -738,19 +896,32 @@
           "result": "L",
           "scorers": "Matthäus 47'"
         }
+      ],
+      "annotations": [
+        {
+          "id": "klinsmann-dive-1994",
+          "label": "The Swan-Dive Celebration",
+          "story": "Jürgen Klinsmann had spent years being needled in England for supposedly exaggerating fouls, so after scoring against Mexico in the group stage he celebrated by sliding across the turf in a mocking swan dive, teammates piling on top of him. The gesture, aimed squarely at his critics, became one of the enduring images of his career and softened, almost overnight, a reputation that had followed him across two leagues."
+        },
+        {
+          "id": "letchkov-header-1994",
+          "label": "Letchkov's Header",
+          "story": "Bulgaria's Yordan Letchkov, bald and unmarked at the back post, rose to head in a stunning winner in the quarter-final in New Jersey, completing one of the biggest upsets of the tournament. It ended defending champions Germany's run in the United States and confirmed Bulgaria, inspired by Hristo Stoichkov, as the surprise package of the entire World Cup."
+        },
+        {
+          "id": "matthaus-libero-1994",
+          "label": "Matthäus Drops Back",
+          "story": "Lothar Matthäus, the midfield engine of 1990, was redeployed as a sweeper in the United States, a role forced by injuries elsewhere in defense. He still scored against Bulgaria in the quarter-final, but the reshuffled team never found the balance of four years earlier, and Klinsmann's five goals up front weren't enough to carry a side that looked, for the first time in years, ordinary."
+        }
       ]
     },
     "1998": {
       "result": "Quarter-final",
       "headline": "Croatia's Shock Upset",
-      "story": "Germany squeaked past Mexico in the Round of 16 despite trailing 1–0 with 20 minutes left. Croatia, in their World Cup debut, exposed an aging German side in the quarter-final, with Christian Wörns sent off before a rampant Croatia won 3–0 — a result that triggered a generational rebuild of German football.",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": "green and black shirt",
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -787,19 +958,32 @@
           "result": "L",
           "scorers": null
         }
+      ],
+      "annotations": [
+        {
+          "id": "mexico-scare-1998",
+          "label": "Nearly Undone by Mexico",
+          "story": "Germany trailed Mexico 1–0 with twenty minutes left in the round of 16 before Jürgen Klinsmann and substitute Oliver Bierhoff turned the match around late, winning 2–1. It papered over cracks that had been visible all tournament — an aging squad relying on individual moments rather than collective sharpness — cracks that would open completely against Croatia in the very next match."
+        },
+        {
+          "id": "wörns-red-card-1998",
+          "label": "Wörns Sees Red",
+          "story": "Croatia, playing in their first-ever World Cup as an independent nation, exposed Germany badly in the quarter-final. Defender Christian Wörns was sent off in the second half with the score still level, and Croatia scored three unanswered goals against ten men to win 3–0 — a scoreline that stunned German football and triggered a generational rebuild that took most of a decade to complete."
+        },
+        {
+          "id": "generational-turnover-1998",
+          "label": "The Old Guard's Last Stand",
+          "story": "The 1998 squad was the last World Cup for several players from West Germany's 1990-winning core, including Jürgen Klinsmann and Andreas Köpke. The 3–0 quarter-final defeat to Croatia became a symbol of a broader decline in German football through the late 1990s, one that the federation would spend the following decade addressing through youth academy reforms that eventually produced the 2014 winning generation."
+        }
       ]
     },
     "2002": {
       "result": "Runners-up",
       "headline": "Klose's Header Barrage",
-      "story": "Miroslav Klose scored all five of his tournament goals with his head, including a hat-trick in an 8–0 rout of Saudi Arabia. Oliver Kahn conceded once in six matches before the final, where a rare mistake let Ronaldo in for the second goal of a 2–0 Brazilian win that denied Germany a fifth star.",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": "green shirt, white shorts",
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -850,19 +1034,32 @@
           "result": "L",
           "scorers": null
         }
+      ],
+      "annotations": [
+        {
+          "id": "klose-headers-2002",
+          "label": "Klose's Headers",
+          "story": "Miroslav Klose scored all five of his tournament goals with his head, including a hat-trick in an 8–0 opening rout of Saudi Arabia, still Germany's largest World Cup win. It was a stunning introduction for a 24-year-old forward largely unknown outside Germany before the tournament, and it announced a goalscoring habit — heading, specifically — that would define his entire international career."
+        },
+        {
+          "id": "kahn-golden-ball-2002",
+          "label": "Kahn's Golden Ball",
+          "story": "Oliver Kahn conceded only one goal in six matches on the way to the final, a stoppage-time equalizer against the Republic of Ireland, and was named the tournament's best player — the only goalkeeper ever to win the Golden Ball. His form single-handedly carried a Germany squad that was, by broad consensus, less individually talented than the sides it beat to get there."
+        },
+        {
+          "id": "kahn-mistake-final-2002",
+          "label": "The One Mistake",
+          "story": "In the final against Brazil, Kahn spilled a low shot from Rivaldo directly into the path of Ronaldo, who tapped in the opener in the 67th minute — the single error in an otherwise flawless tournament. Ronaldo added a second in the 79th. Kahn called it his 'only mistake in the finals' afterward; it was also the only one that mattered, denying Germany a fifth star."
+        }
       ]
     },
     "2006": {
       "result": "3rd Place",
       "headline": "Summer Fairy Tale at Home",
-      "story": "Hosting for the first time since 1974, Germany rode a wave of national goodwill dubbed the 'Sommermärchen.' Jens Lehmann's cheat sheet of Argentine penalty tendencies helped win a quarter-final shootout, but Fabio Grosso's extra-time strike sent Italy through in the semi-final. Bastian Schweinsteiger scored twice in a third-place rout of Portugal to send the hosts out with pride intact.",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": "red shirt, black shorts (introduced 2005, unused at the tournament)",
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -913,19 +1110,32 @@
           "result": "W",
           "scorers": "Schweinsteiger 56', Petit OG 60', Schweinsteiger 78'"
         }
+      ],
+      "annotations": [
+        {
+          "id": "lehmann-cheat-sheet-2006",
+          "label": "Lehmann's Cheat Sheet",
+          "story": "Before the quarter-final penalty shootout against Argentina, goalkeeper Jens Lehmann pulled a small piece of paper from his sock with notes on Argentine takers' habits, scribbled that morning. He saved Roberto Ayala's attempt and Esteban Cambiasso never got to take his. Argentina's Juan Román Riquelme later insisted the note was mostly theater — meant to unsettle penalty-takers rather than genuinely predict them — but the shootout win sent host nation Germany through regardless."
+        },
+        {
+          "id": "grosso-strike-2006",
+          "label": "Grosso's Extra-Time Strike",
+          "story": "The semi-final against Italy stayed scoreless deep into extra time until Fabio Grosso curled a shot in from the edge of the area in the 119th minute, with Alessandro Del Piero adding a second in stoppage time. It ended the host nation's Sommermärchen — the 'summer fairy tale' of unexpected national goodwill that had carried Germany through a month of low expectations and high spirits."
+        },
+        {
+          "id": "schweinsteiger-breakout-2006",
+          "label": "Schweinsteiger's Breakout",
+          "story": "Bastian Schweinsteiger, 21 years old, scored twice in the third-place match against Portugal, a rout that sent the hosts home with pride restored after the semi-final heartbreak. It marked his arrival as a first-choice international, four years before he'd anchor Germany's midfield again in South Africa and eight before he'd lift the trophy itself in Brazil."
+        }
       ]
     },
     "2010": {
       "result": "3rd Place",
       "headline": "Young Guns Score Twice",
-      "story": "A youthful Germany, missing captain Michael Ballack to injury, blitzed England 4–1 and Argentina 4–0 in consecutive knockout routs built on quick counters from Thomas Müller and Mesut Özil. Spain's Carles Puyol headed the only goal of the semi-final, but Müller's tournament-best five goals carried Germany past Uruguay for third place.",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": "black shirt, worn with the home kit's black shorts at the tournament",
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -976,18 +1186,34 @@
           "result": "W",
           "scorers": "Müller 19', Jansen 56', Khedira 82'"
         }
+      ],
+      "annotations": [
+        {
+          "id": "lampard-ghost-goal-2010",
+          "label": "The Reverse Ghost Goal",
+          "story": "Frank Lampard's shot against Germany in the round of 16 clearly crossed the goal line, replays left no doubt, but the goal wasn't given, and Germany went on to win 4–1. Forty-four years after England's disputed 1966 final goal went their way in a similarly contested moment, the irony wasn't lost on anyone. FIFA introduced goal-line technology within four years, prompted in part by moments exactly like this one."
+        },
+        {
+          "id": "argentina-rout-2010",
+          "label": "Four Without Reply",
+          "story": "Germany dismantled Argentina 4–0 in the quarter-final, with Thomas Müller, Miroslav Klose twice, and Arne Friedrich scoring in a performance built on quick transitions from a compact defense into open space. It was a lopsided knockout-stage margin for a team that Argentina, managed by Diego Maradona, had been favored to at least trouble — and it established Germany's young squad as the tournament's most feared counter-attacking side."
+        },
+        {
+          "id": "muller-suspended-2010",
+          "label": "Müller's Missed Semi",
+          "story": "Thomas Müller, the tournament's leading scorer to that point, was suspended for the semi-final against Spain after picking up a second yellow card in the quarter-final rout of Argentina. Without their most incisive attacker, Germany lost 1–0 to a single Carles Puyol header from a corner — the only goal of a semi-final in which Müller, absent for the biggest match, still finished the tournament with the Golden Boot."
+        }
       ]
     },
     "2014": {
       "result": "Champions",
       "headline": "Götze's Extra-Time Winner",
-      "story": "Germany dismantled hosts Brazil 7–1 in a semi-final rout that included five goals in 18 first-half minutes, an all-time World Cup humiliation. Substitute Mario Götze settled the final itself, chesting down André Schürrle's cross and volleying past Sergio Romero in the 113th minute for the only goal against Argentina at the Maracanã — Germany's fourth title and first as a reunified nation.",
       "homeColors": "white shirt, white shorts (switched from traditional black under FIFA's kit-clash rule), black socks",
       "awayColors": null,
-      "image": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Germany_World_Cup_Champion_-_The_2014_FIFA_World_Cup_Final_140713-8419-jikatu_(14472409489).jpg",
       "imageCredit": {
         "player": null,
-        "game": null
+        "game": "Germany celebrates winning the 2014 FIFA World Cup Final against Argentina, Maracanã, Rio de Janeiro — CC BY-SA 2.0 / Wikimedia Commons (photo: Jimmy Baikovicius)."
       },
       "matches": [
         {
@@ -1039,19 +1265,32 @@
           "result": "W",
           "scorers": "Götze 113'"
         }
+      ],
+      "annotations": [
+        {
+          "id": "mineirazo-2014",
+          "label": "The Mineirazo",
+          "story": "Germany scored five goals in eighteen minutes against host nation Brazil in the semi-final — Müller in the 11th, then Klose, Kroos twice, and Khedira in a span from the 23rd to the 29th minute alone — on the way to a 7–1 win still referred to in Brazil as the Mineirazo. Klose's goal, his second of the match, was also his 16th career World Cup goal, breaking Ronaldo's all-time scoring record in the same game his opponents were being humiliated in."
+        },
+        {
+          "id": "gotze-winner-2014",
+          "label": "Götze's Winner",
+          "story": "Substitute Mario Götze controlled André Schürrle's cross on his chest just inside the penalty area and volleyed it left-footed past Sergio Romero in the 113th minute, the only goal of the final against Argentina. Götze was 22 and had only recently come on, and he delivered the goal that gave reunified Germany its first title, 24 years after West Germany's last one."
+        },
+        {
+          "id": "kit-clash-white-2014",
+          "label": "White Instead of Black",
+          "story": "FIFA's kit-clash rules forced Germany out of their traditional black shorts for the final against Argentina's blue and white stripes, so the team wore all-white instead, with black socks the only holdover from the usual look. It was a minor wardrobe footnote to a tournament remembered for almost everything else, but it meant the shirt Götze wore when he scored the winning goal wasn't the one most fans associate with the team."
+        }
       ]
     },
     "2018": {
       "result": "Group Stage",
       "headline": "Reigning Champions, First Out",
-      "story": "The defending champions lost their opener to Mexico, then needed a stoppage-time Toni Kroos free kick to beat Sweden and stay alive. South Korea eliminated them anyway, scoring twice in second-half stoppage time — the first time Germany had failed to escape a World Cup group since 1938.",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": "green shirt",
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -1074,37 +1313,70 @@
           "result": "L",
           "scorers": null
         }
+      ],
+      "annotations": [
+        {
+          "id": "mexico-opener-loss-2018",
+          "label": "Lost to Mexico",
+          "story": "Defending champions Germany opened the tournament with a 1–0 defeat to Mexico, undone by a rapid counter-attack finished by Hirving Lozano. It was the first time Germany had lost their opening World Cup match since 1982, and it put a squad many considered among the tournament favorites on the back foot before they'd played a second game."
+        },
+        {
+          "id": "kroos-free-kick-2018",
+          "label": "Kroos's Stoppage-Time Save",
+          "story": "With Germany staring at elimination against Sweden, Toni Kroos curled a stoppage-time free kick into the top corner in the 96th minute, finding a gap in Sweden's defensive wall to win the match 2–1 and keep Germany's tournament alive by the barest possible margin, for one more game."
+        },
+        {
+          "id": "south-korea-elimination-2018",
+          "label": "Neuer Forward, Then Gone",
+          "story": "Needing a win against South Korea to survive, Germany pushed everyone forward, including goalkeeper Manuel Neuer, who joined the attack late in the match. South Korea broke instead: Kim Young-gwon scored off a loose ball in stoppage time, and Son Heung-min ran the length of the empty pitch to finish into an unguarded net moments later. Germany's group-stage exit was their first since 1938."
+        }
       ]
     },
     "2022": {
       "result": "Group Stage",
       "headline": "Group Stage, Again",
-      "story": "Japan's second-half comeback stunned Germany 2–1 in the opener, a repeat of the shock that had ended their 2018 campaign. A 1–1 draw with Spain and a 4–2 win over Costa Rica weren't enough on goal difference, sending Germany out in the group stage for the second straight World Cup — a first in the country's history.",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": "black shirt",
       "image": null,
-      "imageCredit": {
-        "player": null,
-        "game": null
-      },
+      "imageCredit": null,
       "matches": [
         {
           "round": "Group Stage",
           "opponent": "Japan",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Gündoğan 33'"
         },
         {
           "round": "Group Stage",
           "opponent": "Spain",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Füllkrug 83'"
         },
         {
           "round": "Group Stage",
           "opponent": "Costa Rica",
           "score": "4–2",
-          "result": "W"
+          "result": "W",
+          "scorers": "Gnabry 10', Havertz 73', Havertz 85', Füllkrug 89'"
+        }
+      ],
+      "annotations": [
+        {
+          "id": "hands-over-mouths-2022",
+          "label": "Hands Over Mouths",
+          "story": "Before their opening match against Japan, Germany's starting eleven posed for the team photo with their hands covering their mouths, a protest after FIFA threatened to book any captain who wore the pro-inclusion 'OneLove' armband, which Germany had planned for captain Manuel Neuer. The gesture was meant to say the team was being silenced. Germany lost the match anyway, 1–2, despite İlkay Gündoğan's early penalty."
+        },
+        {
+          "id": "japan-comeback-2022",
+          "label": "Japan's Comeback",
+          "story": "Germany led 1–0 through Gündoğan's 33rd-minute penalty and looked comfortable until Japan scored twice in the second half, Ritsu Dōan finishing a rebound and Takuma Asano beating the offside line to finish past Neuer at the near post. It was Germany's first World Cup opening-match defeat since Mexico in 2018, and eerily similar in shape: dominant for long stretches, undone by two sharp counters."
+        },
+        {
+          "id": "eliminated-goal-difference-2022",
+          "label": "Out on Goal Difference",
+          "story": "Germany beat Costa Rica 4–2 in their final group match, with Niclas Füllkrug's late goal capping a Kai Havertz brace, but it wasn't enough — Spain's simultaneous 1–1 draw with Japan meant Germany finished third on goal difference. It was the first time in the country's history that Germany had gone out in the group stage in consecutive World Cups, a fall from grace that triggered a wholesale reassessment of German football's development pipeline."
         }
       ]
     }
