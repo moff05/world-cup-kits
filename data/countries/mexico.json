@@ -942,6 +942,23 @@
     "2022": {
       "result": "Group Stage",
       "headline": "Group Stage on Goal Difference",
+      "annotations": [
+        {
+          "id": "two-goals-too-late",
+          "label": "TWO GOALS, TOO LATE",
+          "story": "Needing a big win in the finale, Henry Martín poked in a 47th-minute finish and Luis Chávez curled a 35-yard free kick into the top corner in the 52nd, beating Saudi Arabia 2–1. It still wasn't enough — goal difference sent Mexico home instead."
+        },
+        {
+          "id": "quetzalcoatl-on-the-chest",
+          "label": "QUETZALCÓATL ON THE CHEST",
+          "story": "Adidas built the 2022 away kit around Mesoamerican mythology: a conch shell representing the god of dawn, a spiral motif for truth and song, and imagery tied to Quetzalcóatl himself — pre-Hispanic symbolism folded into a modern jersey for the first time."
+        },
+        {
+          "id": "first-group-exit-since-78",
+          "label": "FIRST GROUP EXIT SINCE '78",
+          "story": "The elimination snapped a streak of reaching the knockout rounds in every tournament since 1994 and marked Mexico's first group-stage exit since 1978 — a result that triggered a wholesale rebuild of the national program in the years that followed."
+        }
+      ],
       "story": "A goalless draw with Poland opened the tournament, and a 2–1 comeback win over Saudi Arabia — sparked by goals from Martín and Luis Chávez's thunderous free kick — arrived too late. Lionel Messi's Argentina had already beaten Mexico 2–0, and goal difference sent El Tri home in the group stage for the first time since 1978.",
       "homeColors": "green shirt, white shorts, red socks (Adidas)",
       "awayColors": "black shirt (Adidas)",
