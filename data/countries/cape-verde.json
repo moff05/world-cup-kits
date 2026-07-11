@@ -1,4 +1,4 @@
-export const capeVerde = {
+{
   "id": "cape-verde",
   "name": "Cape Verde",
   "flagCode": "cv",
@@ -26,4 +26,4 @@ export const capeVerde = {
     }
   ],
   "kits": {}
-};
+}
