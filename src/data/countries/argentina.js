@@ -471,6 +471,16 @@ export const argentina = {
               "id": "kempes-decides-it-at-home-1978",
               "label": "KEMPES DECIDES IT AT HOME",
               "story": "Playing under a military dictatorship and a wall of home noise at the Monumental, Mario Kempes scored twice in extra time of the final against the Netherlands. Daniel Bertoni added a third in a 3–1 win that gave Argentina its first World Cup title."
+            },
+            {
+              "id": "shield-earns-its-star-1978",
+              "label": "SHIELD EARNS ITS STAR",
+              "story": "Argentina's badge had carried its laurel wreath for years but no stars — there had never been a title to mark. After Kempes lifted the trophy at the Monumental, the AFA added a single gold star above the shield, the first of what are now three, stitched onto every shirt since."
+            },
+            {
+              "id": "shadows-over-the-monumental-1978",
+              "label": "SHADOWS OVER THE MONUMENTAL",
+              "story": "Blocks from the stadium where Argentina lifted the trophy, the ESMA naval school operated as one of the dictatorship's largest clandestine detention centers, where thousands of political prisoners were held and killed. The World Cup's images of celebration coexisted with atrocities the regime worked hard to keep hidden from foreign cameras."
             }
           ]
         }
