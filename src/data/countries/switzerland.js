@@ -296,9 +296,19 @@ export const switzerland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "WINLESS IN CHILE",
-              "story": "Switzerland lost all three group games in Chile — to Chile, West Germany, and Italy — scoring just twice and finishing bottom of the group without a point. It was a forgettable return after missing the 1958 tournament entirely, and worse was still to come four years later."
+              "id": "two-goals-three-losses",
+              "label": "TWO GOALS, THREE LOSSES",
+              "story": "Wüthrich scored inside six minutes against the hosts, and Schneiter struck in the 73rd against West Germany — brief leads in matches Switzerland ultimately lost anyway. Bottom of the group without a single point, without a single draw, it was the emptiest campaign of any Swiss World Cup before or since."
+            },
+            {
+              "id": "last-kit-before-sponsors",
+              "label": "THE LAST UNBRANDED ERA",
+              "story": "The red shirt and white shorts were unchanged from the 1930s — sponsor-free, as they'd remained since Switzerland's debut — making 1962 one of the last World Cups before shirt sponsorship began creeping into the European game. In Chile, the jersey was still just the flag, nothing more."
+            },
+            {
+              "id": "playoff-past-sweden",
+              "label": "PLAYOFF JUST TO QUALIFY",
+              "story": "Getting to Chile at all took a fight: Switzerland and Sweden finished level in qualifying and had to settle it with a neutral-ground playoff, which the Swiss won. The reward was a brutal group stacked with the hosts, Italy, and West Germany — no easy games anywhere on the schedule."
             }
           ]
         }
