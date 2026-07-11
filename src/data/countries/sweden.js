@@ -510,9 +510,19 @@ export const sweden = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "WINLESS IN ITALY",
-              "story": "Tomas Brolin's strike against Brazil gave brief hope, but Sweden lost all three group games — including a shock defeat to Costa Rica — to finish without a point. It remains the low point of the team's World Cup history, a group-stage sweep with nothing to show for it."
+              "id": "costa-rica-debut-shock",
+              "label": "A DEBUTANT'S UPSET",
+              "story": "Costa Rica were making their first-ever World Cup appearance in 1990, and they left with one of the tournament's biggest shocks: a win over Sweden. For the debutants it was a historic scalp; for a two-time World Cup medalist, it was the low point of a winless group stage."
+            },
+            {
+              "id": "adidas-long-run",
+              "label": "THREE DECADES OF ADIDAS",
+              "story": "Sweden's 1990 shirt continued an unbroken run with Adidas that stretched from 1974 all the way to 2002 — nearly three decades under one manufacturer, longer than any stretch before or since, spanning the team's best and worst World Cup finishes alike."
+            },
+            {
+              "id": "brolin-breakthrough",
+              "label": "A TEENAGER'S CALLING CARD",
+              "story": "No player in Sweden's 1990 squad had turned 31; this was a young, largely untested team thrown into a brutal group. Twenty-year-old Tomas Brolin, still playing in the Allsvenskan, scored against Brazil and used the tournament as a showcase — within months, Parma had signed him."
             }
           ]
         }
