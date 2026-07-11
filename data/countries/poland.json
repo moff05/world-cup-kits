@@ -158,6 +158,23 @@
       "result": "2nd Round",
       "headline": "Golden Generation, Fading Light",
       "story": "Poland won their group behind Grzegorz Lato and a breakout Zbigniew Boniek, but Argentina awaited in the second round: a 2–0 loss to the hosts and a 3–1 defeat to Brazil overshadowed a win over Peru, ending the golden generation's title hopes one round short of the final for the second straight tournament.",
+      "annotations": [
+        {
+          "id": "1978-boniek-announces-himself",
+          "label": "BONIEK ANNOUNCES HIMSELF",
+          "story": "Twenty-two years old and playing his first World Cup, Zbigniew Boniek scored twice in a 3–1 win over Mexico, the goal that introduced the man who'd carry Polish football through the next decade. Poland topped their group unbeaten, then lost in the second round — one match short of the final for a second straight tournament."
+        },
+        {
+          "id": "1978-crownless-eagle",
+          "label": "THE CROWNLESS EAGLE",
+          "story": "Same white shirt, same Adidas trefoil creeping onto the sleeve, but the crest told its own political story: a white eagle stripped of its crown, the design Communist authorities had mandated since 1955 to erase any hint of monarchy. Players wore it without comment. The crown wouldn't return to Polish shirts until 1990."
+        },
+        {
+          "id": "1978-shadow-of-the-junta",
+          "label": "SHADOW OF THE JUNTA",
+          "story": "Argentina's military junta, three years into a dictatorship that disappeared thousands of its own citizens, hosted the tournament as a propaganda showcase — the same event remembered for the junta's stage-managed 6–0 win over Peru. Poland, traveling from behind the Iron Curtain, faced Cold War-era visa and logistics headaches most Western teams never had to navigate."
+        }
+      ],
       "homeColors": "white shirt, red shorts, white socks",
       "awayColors": null,
       "image": null,
