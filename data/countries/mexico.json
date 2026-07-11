@@ -300,6 +300,23 @@
     "1966": {
       "result": "Group Stage",
       "headline": "Draws Bookend a Wembley Loss",
+      "annotations": [
+        {
+          "id": "shut-out-at-wembley",
+          "label": "SHUT OUT AT WEMBLEY",
+          "story": "Bobby Charlton and Roger Hunt scored either side of halftime as hosts England beat Mexico 2–0 at Wembley. Sandwiched by scoreless bookend draws against France and Uruguay, it left Mexico without a win for the fourth straight tournament."
+        },
+        {
+          "id": "the-same-shirt-since-58",
+          "label": "THE SAME SHIRT SINCE '58",
+          "story": "Mexico wore essentially the same heavy green weave it had debuted eight years earlier — same crest, no piping, no branding — even as kit design elsewhere in the tournament began edging toward something more modern."
+        },
+        {
+          "id": "cinco-copas-completes-the-set",
+          "label": "CINCO COPAS COMPLETES THE SET",
+          "story": "This was Antonio Carbajal's fifth and final World Cup, closing out a streak that began at an unfinished Maracanã sixteen years earlier. No goalkeeper — no outfield player, either — had ever played in five World Cups before him."
+        }
+      ],
       "story": "Héctor Borja's equalizer salvaged a 1–1 draw with France in Mexico's opener, and a scoreless stalemate with Uruguay closed the group. Sandwiched between them was a 2–0 loss to eventual champions England at Wembley, leaving Mexico with two draws and a defeat — still no wins on the board.",
       "homeColors": "green shirt, white shorts, red socks",
       "awayColors": null,
