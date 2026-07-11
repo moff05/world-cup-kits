@@ -142,9 +142,19 @@ export const poland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "THE GOLDEN GENERATION ARRIVES",
-              "story": "Grzegorz Lato, Kazimierz Deyna, and Andrzej Szarmach powered Poland through a perfect first group — beating Argentina, routing Haiti 7–0, and toppling Italy — then past Sweden and Yugoslavia in the second round. Only hosts West Germany, 1–0 on a rain-soaked pitch, stood between Poland and the final; Lato's tournament-topping seven goals helped seal third place instead, past Brazil in the play-off."
+              "id": "1974-frankfurt-flood",
+              "label": "THE FRANKFURT FLOOD",
+              "story": "Fire crews drove trucks onto the running track and hosed the pitch after days of rain turned it into a lake. Poland, the faster team, needed the water to slow West Germany down — instead Gerd Müller scored the only goal in the mud. That single defeat cost them a place in the final."
+            },
+            {
+              "id": "1974-adidas-no-crown",
+              "label": "ADIDAS, NO CROWN",
+              "story": "1974 marked the first year Adidas supplied the kit — white shirt, red shorts, white socks — replacing the old state manufacturer. On the chest sat a crownless white eagle, the emblem Communist authorities had stripped of its royal crown back in 1955. Grzegorz Lato wore it to seven goals, still Poland's record for a single tournament."
+            },
+            {
+              "id": "1974-pride-behind-curtain",
+              "label": "PRIDE BEHIND THE CURTAIN",
+              "story": "Third place was the best finish Communist Poland ever produced, arriving at a moment when little else crossed the Iron Curtain as unambiguous good news back home. Lato, Deyna, and much of the squad had come up through state-run sports schools built specifically to manufacture international success on demand."
             }
           ]
         }
