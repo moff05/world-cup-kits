@@ -3,8 +3,10 @@
   "name": "Uzbekistan",
   "flagCode": "uz",
   "confederation": "AFC",
-  "worldCups": [],
-  "bestResult": "Have Not Yet Qualified (through 2022)",
+  "worldCups": [
+    2026
+  ],
+  "bestResult": "Group Stage (2026)",
   "stats": {
     "matches": 0,
     "wins": 0,
@@ -25,5 +27,14 @@
       "story": "Long before independence, there was the Uzbekistan Soviet Socialist Republic side, one of six core football centers of the USSR alongside Russia, Ukraine, and Georgia. In 1928, wearing the republic's colors at the Spartakiade, the team played its first-ever international match — against Switzerland — and won 8–4. That result stood as a high point for decades: Uzbekistan didn't take the field as an independent nation until June 1992, a 2–2 draw with Tajikistan in Dushanbe, months after the Soviet Union that had once fielded them ceased to exist."
     }
   ],
-  "kits": {}
+  "kits": {
+    "2026": {
+      "result": "Group Stage",
+      "headline": null,
+      "homeColors": null,
+      "awayColors": null,
+      "matches": [],
+      "annotations": []
+    }
+  }
 }

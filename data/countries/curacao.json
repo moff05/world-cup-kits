@@ -3,8 +3,10 @@
   "name": "Curaçao",
   "flagCode": "cw",
   "confederation": "CONCACAF",
-  "worldCups": [],
-  "bestResult": "Have Not Yet Qualified (through 2022)",
+  "worldCups": [
+    2026
+  ],
+  "bestResult": "Group Stage (2026)",
   "stats": {
     "matches": 0,
     "wins": 0,
@@ -25,5 +27,14 @@
       "story": "Curaçao's rise came fast for such a young federation. After winning the 2017 Caribbean Cup by beating Jamaica, the team earned its first-ever CONCACAF Gold Cup berth, then lost all three group games in its 2017 debut. Two years later, in 2019, Curaçao reached the Gold Cup quarterfinals — a remarkable leap for an island of roughly 150,000 people fielding one of the region's newest federations."
     }
   ],
-  "kits": {}
+  "kits": {
+    "2026": {
+      "result": "Group Stage",
+      "headline": null,
+      "homeColors": null,
+      "awayColors": null,
+      "matches": [],
+      "annotations": []
+    }
+  }
 }

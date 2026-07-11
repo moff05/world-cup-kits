@@ -3,8 +3,10 @@
   "name": "Cape Verde",
   "flagCode": "cv",
   "confederation": "CAF",
-  "worldCups": [],
-  "bestResult": "Have Not Yet Qualified (through 2022)",
+  "worldCups": [
+    2026
+  ],
+  "bestResult": "Group Stage (2026)",
   "stats": {
     "matches": 0,
     "wins": 0,
@@ -25,5 +27,14 @@
       "story": "Cape Verde's football boom traces to a deliberate strategy: recruiting players from the Cape Verdean diaspora in Portugal, France, and the Netherlands to strengthen a nation of roughly half a million people. It paid off in 2013, when the Blue Sharks made their Africa Cup of Nations debut and stunned the continent by reaching the quarterfinals, falling only to Ghana in Port Elizabeth. That diaspora pipeline became the blueprint for every squad that followed."
     }
   ],
-  "kits": {}
+  "kits": {
+    "2026": {
+      "result": "Group Stage",
+      "headline": null,
+      "homeColors": null,
+      "awayColors": null,
+      "matches": [],
+      "annotations": []
+    }
+  }
 }

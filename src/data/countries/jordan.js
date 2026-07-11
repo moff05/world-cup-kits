@@ -3,8 +3,10 @@ export const jordan = {
   "name": "Jordan",
   "flagCode": "jo",
   "confederation": "AFC",
-  "worldCups": [],
-  "bestResult": "Have Not Yet Qualified (through 2022)",
+  "worldCups": [
+    2026
+  ],
+  "bestResult": "Group Stage (2026)",
   "stats": {
     "matches": 0,
     "wins": 0,
@@ -25,5 +27,20 @@ export const jordan = {
       "story": "Jordan's breakthrough arrived at the 2023 AFC Asian Cup in Qatar, under Moroccan coach Hussein Ammouta. The Chivalrous Ones beat Tajikistan in the quarterfinal and South Korea 2–0 in the semifinal to reach their first continental final in history, before falling 3–1 to hosts Qatar at Lusail Stadium. It remains the biggest result in Jordanian football history, decades after their first World Cup qualifying attempt back in 1985."
     }
   ],
-  "kits": {}
+  "kits": {
+    "2026": {
+      "result": "Group Stage",
+      "headline": null,
+      "homeColors": null,
+      "awayColors": null,
+      "matches": [],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": null,
+          "annotations": []
+        }
+      }
+    }
+  }
 };
