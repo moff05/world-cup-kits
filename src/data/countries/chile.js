@@ -259,9 +259,19 @@ export const chile = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ONE POINT, LONG TRIP HOME",
-              "story": "Chile crossed the world to defend their 1962 bronze and found only frustration: a 2–0 opening loss to Italy, then Marcos's penalty salvaged a 1–1 draw with North Korea before his second goal of the tournament wasn't enough as the Soviet Union won 2–1 — three games, one point, and an early flight out of England."
+              "id": "marcos-double-scorer",
+              "label": "MARCOS SPARES A POINT",
+              "story": "The only points Chile managed in England came off the boot of one man. Marcos converted a penalty to draw 1–1 with North Korea, then scored again in a 2–1 defeat to the Soviet Union. Two goals, a single point, and an early flight home for the defending bronze medalists."
+            },
+            {
+              "id": "socks-revert-to-white",
+              "label": "SOCKS BACK TO WHITE",
+              "story": "The shirt stayed the same defiant scarlet, but the socks flipped back from Santiago's blue to plain white, worn again with blue shorts — the classic combination Chile would wear, with only minor tweaks, through the next two decades of World Cup appearances."
+            },
+            {
+              "id": "santiago-rematch-italy",
+              "label": "THE SANTIAGO REMATCH",
+              "story": "Four years after 'the Battle of Santiago' — a brawl so ugly that the referee later helped invent yellow and red cards to control games like it — Chile met Italy again, this time in Sunderland. Italy won 2–0, and Italian newspapers openly framed it as payback, a grudge carried across continents and half a decade."
             }
           ]
         }
