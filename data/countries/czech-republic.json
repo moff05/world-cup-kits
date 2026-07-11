@@ -497,6 +497,23 @@
     "2006": {
       "result": "Group Stage",
       "headline": "Rosický's Brace, Brief Return",
+      "annotations": [
+        {
+          "id": "an-independent-debut",
+          "label": "AN INDEPENDENT DEBUT",
+          "story": "Tomáš Rosický scored twice in a 3–0 opening win over the United States, the Czech Republic's first World Cup match as an independent nation. Losses to Ghana and Italy in Cologne and Hamburg sent the Czechs home after the group stage, their only appearance since the 1993 split still without a knockout match."
+        },
+        {
+          "id": "seventy-years-of-white-ends",
+          "label": "SEVENTY YEARS OF WHITE ENDS",
+          "story": "Puma dressed the Czech Republic in red shirts with white trim for 2006 — the first World Cup kit built around red as the primary color rather than white, closing out the seventy-year white-shirt tradition the team had carried since 1934."
+        },
+        {
+          "id": "the-golden-generation",
+          "label": "THE GOLDEN GENERATION",
+          "story": "The Czech Republic's 'Golden Generation' of Rosický, Nedvěd, and Koller arrived in Germany ranked second in the world, the country's football ambitions matching its post-1993 economic rise. A group-stage exit against tougher-than-expected Ghana and Italy sides fell well short of expectations for a team many picked as dark horses."
+        }
+      ],
       "homeColors": "red shirt, white shorts",
       "awayColors": null,
       "image": null,
