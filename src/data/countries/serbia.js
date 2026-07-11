@@ -804,9 +804,19 @@ export const serbia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "MITROVIĆ'S LATE CAMEROON RESCUE",
-              "story": "Aleksandar Mitrović's stoppage-time header salvaged a wild 3–3 draw with Cameroon after Richarlison had sunk Serbia against Brazil. Xherdan Shaqiri's Switzerland struck again in a 2–3 finale loss, and Serbia went out on goal difference for the third straight tournament."
+              "id": "the-cameroon-thriller",
+              "label": "THE GAME OF THE TOURNAMENT",
+              "story": "Two stoppage-time goals from Strahinja Pavlović and Sergej Milinković-Savić, plus a Mitrović finish early in the second half, pulled Serbia back from 2–1 down to lead Cameroon 3–1 — only for two late Cameroon goals to salvage a wild 3–3 draw, one of the tournament's highest-scoring games."
+            },
+            {
+              "id": "the-lowest-rated-shirt",
+              "label": "THE LOWEST-RATED SHIRT",
+              "story": "Puma's Serbia away kit for Qatar, a white-and-gold design dominated by a boxy front panel meant to frame the squad numbers, went on to become one of the worst-reviewed jerseys in the entire Football Kit Archive database, drawing barely 2 out of 5 across more than 1,300 votes."
+            },
+            {
+              "id": "the-locker-room-banner",
+              "label": "THE LOCKER ROOM BANNER",
+              "story": "Before facing Brazil, Serbia's federation hung a map of Serbia including Kosovo, captioned 'No Surrender,' inside the team's locker room. FIFA charged the federation for the political display after Kosovo's government called it hateful — reviving a dispute rooted in the 1998–99 war that had never fully cooled."
             }
           ]
         }
