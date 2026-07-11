@@ -321,9 +321,19 @@ export const hungary = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "TICHY'S TEAM, ONE ROUND SHORT",
-              "story": "Flórián Albert announced himself with a hat-trick in a 6–1 rout of Bulgaria, and Lajos Tichy's goals in a win over England and a scoreless draw with Argentina carried Hungary into the knockouts. But Czechoslovakia's quarter-final defense held firm, a 1–0 loss in Rancagua ending Hungary's run just short of the final four."
+              "id": "alberts-hat-trick",
+              "label": "ALBERT'S HAT-TRICK",
+              "story": "Flórián Albert scored a hat-trick in a 6–1 rout of Bulgaria and Lajos Tichy added goals against England, carrying Hungary through the group unbeaten. Czechoslovakia's defense shut the door in the quarter-final, though — a single goal in Rancagua enough to end Hungary's run one match short of the semis."
+            },
+            {
+              "id": "red-in-black-and-white",
+              "label": "RED IN BLACK AND WHITE",
+              "story": "1962 was the last World Cup before color broadcasts reached most of Europe — Hungary's cherry red, white, and green read as shades of grey on the black-and-white sets tuned in back home, the shirt's actual hue a matter of memory and match-day programs rather than the screen."
+            },
+            {
+              "id": "stadiums-rebuilt-from-rubble",
+              "label": "STADIUMS BUILT FROM RUBBLE",
+              "story": "Chile rebuilt its stadiums from scratch after the 1960 earthquake, the strongest ever recorded, turning the tournament into a point of national pride as much as sport. Hungary's brief run through Rancagua and Santiago played out inside that recovery story, a footnote to a much larger rebuilding effort."
             }
           ]
         }
