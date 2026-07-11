@@ -270,6 +270,11 @@
     "1974": {
       "result": "2nd Round",
       "headline": "Edström's Golden Run",
+      "annotations": [
+        { "id": "holding-cruyff-scoreless", "label": "STALLING TOTAL FOOTBALL", "story": "Sweden's opening group included the tournament's eventual runners-up, the Netherlands, playing the Total Football that dazzled the rest of 1974. Sweden held Johan Cruyff and company scoreless for 90 minutes — the only team in the entire tournament to keep them off the scoresheet." },
+        { "id": "adidas-debut-1974", "label": "THREE STRIPES ARRIVE", "story": "1974 brought Sweden's first Adidas kit: yellow shirt, blue V-neck collar, blue cuffs, and three blue stripes running down each shoulder — a template Adidas used across most of the tournament's 16 teams, including champions West Germany. It replaced Umbro after just one World Cup cycle." },
+        { "id": "pros-abroad-generation", "label": "FIRST FULLY PROFESSIONAL SQUAD", "story": "By 1974, the amateur restrictions that had barred Sweden's biggest stars in 1950 were long gone — Swedish football had fully professionalized in 1967, and this squad, with Ralf Edström playing his club football in the Netherlands, was the country's first fully open, foreign-based generation at a World Cup." }
+      ],
       "story": "Ralf Edström scored four goals across the tournament, including two in a 3–0 win over Uruguay that carried Sweden through their first group unbeaten. In the second-round group, hosts West Germany survived a Swedish fightback to win 4–2, and despite beating Yugoslavia, Sweden's run ended one round short of the semi-finals.",
       "homeColors": "yellow shirt, blue shorts, yellow socks (Adidas)",
       "awayColors": "blue shirt, yellow shorts, blue socks",
