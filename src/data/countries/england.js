@@ -535,9 +535,19 @@ export const england = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "MARADONA'S HAND AND GENIUS",
-              "story": "After an opening loss to Portugal and a Ray Wilkins red card against Morocco, Gary Lineker's hat-trick against Poland revived England's run through the Round of 16. Diego Maradona ended it in the quarter-final, punching in the Hand of God before slaloming past five England players for the Goal of the Century in a 2–1 win. Lineker still finished the tournament as top scorer."
+              "id": "the-first-red-in-england-history",
+              "label": "THE FIRST RED IN HISTORY",
+              "story": "Ray Wilkins hurled the ball at the referee in frustration against Morocco and became the first England player ever sent off at a World Cup. It happened moments after Bobby Robson's side had gone behind, turning a bad afternoon into a genuinely alarming one."
+            },
+            {
+              "id": "pinstripes-in-the-heat",
+              "label": "PINSTRIPES IN THE HEAT",
+              "story": "Umbro wove a subtle grey pinstripe into the white 1986 shirt, with 'FIFA World Cup Mexico 86' stitched beneath the crest. It was a quiet, understated design, utterly overshadowed by what happened in it at the Azteca against Argentina."
+            },
+            {
+              "id": "the-first-meeting-since-the-war",
+              "label": "FIRST MEETING SINCE THE WAR",
+              "story": "Four years after Britain and Argentina fought over the Falklands, the countries met on a football pitch for the first time in the Azteca quarter-final, a match already loaded with meaning before Maradona ever punched the ball past Peter Shilton."
             }
           ]
         }
