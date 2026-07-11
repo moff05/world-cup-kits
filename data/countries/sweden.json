@@ -169,6 +169,11 @@
     "1958": {
       "result": "Runners-up",
       "headline": "So Close, On Home Soil",
+      "annotations": [
+        { "id": "pele-chip-final", "label": "A SEVENTEEN-YEAR-OLD'S CHIP", "story": "Brazil's second goal in the final has outlived the scoreline: Pelé took a high ball on his chest, flicked it over a defender's head, and volleyed home before it landed — at seventeen, in front of Sweden's own crowd. It remains one of the most replayed goals in World Cup history." },
+        { "id": "last-homemade-kit", "label": "THE FINAL HOMEMADE SHIRT", "story": "As hosts, Sweden wore their familiar unbranded yellow — the last World Cup they'd play in a shirt made entirely in-house. Within two tournaments, Umbro had taken over production; 1958 marked the end of an era where the federation cut and stitched every jersey itself." },
+        { "id": "brazil-borrows-blue", "label": "BRAZIL'S BORROWED BLUE", "story": "Both finalists' first-choice shirts were yellow, so a draw decided who kept theirs — Brazil lost it and had no alternate strip prepared. Staff scrambled to buy 22 blue T-shirts and sewed on the crest by hand; Brazil beat Sweden in a kit assembled the night before the match." }
+      ],
       "story": "Hosting the tournament, Sweden beat Hungary, drew Wales, and eliminated the Soviet Union before stunning defending champions West Germany 3–1 in the semi-final at Råsunda. In the final, a 17-year-old Pelé scored twice as Brazil won 5–2 in Stockholm — the best finish in Swedish football history, delivered in front of a home crowd.",
       "homeColors": "yellow shirt, blue shorts, yellow socks (unbranded, hosts' kit)",
       "awayColors": "blue shirt, yellow shorts, blue socks",
