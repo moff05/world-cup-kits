@@ -845,9 +845,19 @@ export const france = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "THE KNYSNA MUTINY",
-              "story": "France's campaign collapsed off the pitch before it did on it: after Nicolas Anelka was sent home for insulting coach Raymond Domenech at halftime, players staged a training boycott at their Knysna base. Winless in three matches and beaten by host South Africa, Les Bleus finished bottom of their group."
+              "id": "knysna-collapse",
+              "label": "KNYSNA COLLAPSE",
+              "story": "After Nicolas Anelka was sent home for insulting coach Raymond Domenech at halftime, the entire France squad staged a training boycott, refusing to leave their bus at the Knysna base while photographers captured the standoff. Winless and beaten by hosts South Africa, France finished bottom of their group in disgrace."
+            },
+            {
+              "id": "gold-trimmed-collapse",
+              "label": "GOLD-TRIMMED COLLAPSE",
+              "story": "Adidas dressed France's 2010 away shirt in alternating red-and-blue pinstripes with gold trim meant to evoke past glories — instead it became the shirt worn during the most humiliating collapse in the team's World Cup history, a kit nobody remembers for its looks rather than its context."
+            },
+            {
+              "id": "minister-flies-in",
+              "label": "A MINISTER FLIES IN",
+              "story": "The mutiny became a genuine political crisis back home: France's sports minister flew to South Africa to intervene directly, and the federation later handed suspensions to five players, including an 18-match ban for Anelka. It remains the only World Cup scandal in French football to trigger direct government involvement."
             }
           ]
         }
