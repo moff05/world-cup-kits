@@ -961,6 +961,16 @@ export const argentina = {
               "id": "cambiassos-24-pass-goal-2006",
               "label": "CAMBIASSO'S 24-PASS GOAL",
               "story": "Against Serbia and Montenegro, Esteban Cambiasso finished a 24-pass team move in a 6–0 rout, a goal still shown as a passing masterclass. Germany eliminated Argentina in the quarter-final on penalties, Jens Lehmann's cheat-sheet on their takers proving decisive in a 4–2 shootout."
+            },
+            {
+              "id": "a-cooler-tighter-fit-2006",
+              "label": "A COOLER TIGHTER FIT",
+              "story": "Adidas introduced its ClimaCool ventilation technology to Argentina's 2006 shirt, mesh panels built to move heat off the body during Germany's summer matches. It was a small but permanent shift in how national-team kits were engineered, treating the shirt as performance gear rather than just a branded uniform."
+            },
+            {
+              "id": "a-rivalry-renewed-2006",
+              "label": "A RIVALRY RENEWED",
+              "story": "The penalty shootout loss to Germany was the two countries' first World Cup knockout meeting since the bitter 1990 final, and it reopened a rivalry that would define the next two tournaments: Germany eliminating Argentina again in 2010, then beating them in the 2014 final at the Maracanã."
             }
           ]
         }
