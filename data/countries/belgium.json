@@ -527,6 +527,23 @@
       "result": "Group Stage",
       "headline": "Unbeaten, Still Eliminated",
       "story": "Three straight draws — against the Netherlands, Mexico, and South Korea — made Belgium one of only three teams at the tournament never to lose, alongside champions France and Italy. It wasn't enough to escape the group. Enzo Scifo and Franky Van der Elst became the first Belgians capped at four World Cups.",
+      "annotations": [
+        {
+          "id": "unbeaten-and-out",
+          "label": "UNDEFEATED, ELIMINATED ANYWAY",
+          "story": "Three straight draws — Netherlands, Mexico, South Korea — made Belgium one of only three teams at France '98 never to lose a match, alongside eventual champions France and finalists Brazil. It didn't matter. Without a single win, the Red Devils finished third in their group and flew home unbeaten and out."
+        },
+        {
+          "id": "black-shorts-first",
+          "label": "BLACK SHORTS, FIRST TIME",
+          "story": "Belgium's 1998 away kit paired a white shirt with black shorts — a color combination the team had never worn at a World Cup before, breaking from the red-and-white pairing that had defined every away option since the 1980s. Diadora kept the manufacturer contract from 1994 but changed almost everything else."
+        },
+        {
+          "id": "four-cup-club",
+          "label": "FOUR WORLD CUPS EACH",
+          "story": "Enzo Scifo and Franky Van der Elst became the first Belgians ever to play at four separate World Cups, a milestone that quietly marked the end of an era — the golden generation of 1986 finally aging out of the squad that had carried Belgium to its best-ever finish twelve years earlier."
+        }
+      ],
       "homeColors": "red shirt, white shorts, red socks (Diadora)",
       "awayColors": "white shirt, black shorts",
       "image": null,
