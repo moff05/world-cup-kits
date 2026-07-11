@@ -529,9 +529,19 @@ export const usa = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "DONOVAN'S STOPPAGE-TIME MIRACLE",
-              "story": "Landon Donovan's stoppage-time winner against Algeria — arguably the most celebrated goal in U.S. soccer history — completed a group-stage comeback after draws with England and Slovenia. Ghana ended the run in extra time in the Round of 16, but Donovan's goal alone made 2010 unforgettable."
+              "id": "howards-fifty-yard-outlet",
+              "label": "HOWARD'S FIFTY-YARD OUTLET",
+              "story": "The winning sequence started in Tim Howard's hands — he caught a header, then launched a throw nearly fifty yards upfield to a sprinting Landon Donovan before the broadcast cameras even found it. Donovan fed Altidore, Altidore squared it, Dempsey's shot was saved, and Donovan buried the rebound to beat Algeria 1–0."
+            },
+            {
+              "id": "eight-bottles-per-jersey",
+              "label": "EIGHT BOTTLES PER JERSEY",
+              "story": "Nike built every one of its 2010 national team jerseys, including the U.S. kit, from recycled polyester — roughly eight plastic bottles melted down and rewoven per shirt, much of it sourced from landfill sites in Japan and Taiwan. It was the first American World Cup jersey made from literal garbage."
+            },
+            {
+              "id": "group-winners-since-1930",
+              "label": "GROUP WINNERS SINCE 1930",
+              "story": "Beating Algeria didn't just cap a comeback through a draw-heavy group — it made the Americans group winners for the first time since the inaugural 1930 tournament, eighty years earlier, setting up a more favorable Round of 16 draw that still ended in extra-time heartbreak against Ghana."
             }
           ]
         }
