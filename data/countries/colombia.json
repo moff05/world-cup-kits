@@ -148,6 +148,23 @@
       "result": "Group Stage",
       "headline": "Escobar's Own Goal, Then Tragedy",
       "story": "Billed as dark-horse title contenders after a 5–0 demolition of Argentina in qualifying, Colombia collapsed instead — Andrés Escobar's own goal sank them against the United States, and early elimination followed. Ten days later, Escobar was shot dead in Medellín, a tragedy that overshadowed the entire tournament.",
+      "annotations": [
+        {
+          "id": "harkes-cross-own-goal",
+          "label": "THE 35TH MINUTE",
+          "story": "Stretching to intercept a low cross from American midfielder John Harkes in the 35th minute, Andrés Escobar turned the ball into his own net at the Rose Bowl — the only goal of the first half, and the moment that turned a group-stage loss to the host nation into catastrophe."
+        },
+        {
+          "id": "umbro-ghosted-crest",
+          "label": "GHOSTED CREST KIT",
+          "story": "Umbro, who held Colombia's kit contract from 1993 to 1997, dressed the team in gold shot through with a subtle interlocking-ball print and a translucent, oversized crest ghosted into the fabric — finished for the first time with red socks, completing the full yellow-blue-red tricolor across the kit."
+        },
+        {
+          "id": "bomb-threats-before-cup",
+          "label": "BOMB THREATS",
+          "story": "Weeks before the tournament, anonymous callers faxed and phoned coach Francisco Maturana and defender Gabriel Jaime Gómez with bomb threats, warning of explosions at both men's houses if Gómez took the field — a preview of the darker forces already circling a squad that had arrived as everyone's dark-horse pick."
+        }
+      ],
       "homeColors": "yellow shirt, navy shorts",
       "awayColors": null,
       "image": null,
