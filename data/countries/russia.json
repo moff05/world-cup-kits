@@ -632,6 +632,23 @@
       "result": "Quarter-final",
       "headline": "Akinfeev's Shootout Heroics",
       "story": "Hosting the tournament as the lowest-ranked team in the field, Russia opened with a 5–0 rout of Saudi Arabia and stunned Spain on penalties in the Round of 16, Igor Akinfeev saving twice at Luzhniki Stadium. Croatia ended the run in a 2–2 quarter-final thriller, winning the shootout 4–3 in Sochi — Russia's best finish since the Soviet breakup.",
+      "annotations": [
+        {
+          "id": "an-instant-impact",
+          "label": "AN INSTANT IMPACT",
+          "story": "Alan Dzagoev's hamstring gave out in the 24th minute of the opener, and his replacement Denis Cheryshev scored twice within the hour to spark a 5–0 rout of Saudi Arabia. Cheryshev finished the tournament as Russia's top scorer with four goals despite starting only two of the five matches."
+        },
+        {
+          "id": "a-nod-to-88-gold",
+          "label": "A NOD TO '88 GOLD",
+          "story": "Adidas modeled the 2018 home kit on the shirt worn by the Soviet Union's gold medal-winning Olympic team of 1988, reviving red-and-white as the host nation's color scheme for the first time in decades — a deliberate callback for a country reintroducing itself to the world as tournament host."
+        },
+        {
+          "id": "a-cloud-then-cleared",
+          "label": "A CLOUD, THEN CLEARED",
+          "story": "Days before kickoff, FIFA closed its investigation into alleged doping violations by Russian players named in a McLaren Report that had already gutted Russia's Olympic team, citing insufficient evidence. The football team took the field under a lifted, if not fully erased, cloud that had shadowed the host nation for two years."
+        }
+      ],
       "homeColors": "red shirt with white shoulder stripes, echoing the USSR's 1988 Olympic kit",
       "awayColors": "white shirt with grey architectural-pattern graphic",
       "image": null,
