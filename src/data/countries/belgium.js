@@ -408,9 +408,19 @@ export const belgium = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "FOURTH PLACE, FOREVER FAMOUS",
-              "story": "Belgium survived the group stage, then stunned the Soviet Union 4–3 in extra time despite an Igor Belanov hat-trick, and outlasted Spain on penalties. Diego Maradona scored twice in a 2–0 semi-final loss to eventual champions Argentina, and France won the third-place match 4–2 after extra time — still Belgium's best World Cup finish for 32 years."
+              "id": "fourth-place-run",
+              "label": "FOUR GAMES FROM THE FINAL",
+              "story": "Belgium beat the Soviet Union 4–3 in extra time despite an Igor Belanov hat-trick, then outlasted Spain on penalties to reach the semi-final. Diego Maradona, fresh off the Hand of God against England, scored twice more to end Belgium's run 2–0 — their best World Cup finish for thirty-two years."
+            },
+            {
+              "id": "rare-adidas-shirt",
+              "label": "A SHIRT COLLECTORS CHASE",
+              "story": "The 1986 home jersey — red with white trim, an Adidas three-stripe shoulder cut — has become one of the most sought-after vintage Belgium shirts in existence, prized by collectors precisely because it was worn during the country's best-ever World Cup run. Enzo Scifo, just 20, wore it to the tournament's Best Young Player award."
+            },
+            {
+              "id": "mexico-heat-again",
+              "label": "MEXICO, TWICE IN 16 YEARS",
+              "story": "Mexico became the first country to host two World Cups when it stepped in after original hosts Colombia withdrew, citing financial strain, four years before kickoff. Belgium had already learned Mexico's altitude the hard way in 1970; this time the thin air and midday kickoffs, scheduled for European television, worked in nobody's favor evenly."
             }
           ]
         }
