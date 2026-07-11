@@ -314,9 +314,19 @@ export const chile = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "CASZELY'S RED CARD HISTORY",
-              "story": "Carlos Caszely became the first player ever sent off with a red card at a World Cup, dismissed in the 80th minute of a 1–0 loss to hosts West Germany. Draws with East Germany and Australia added a point apiece, but Chile's return to the finals after eight years away ended without a single win."
+              "id": "caszely-first-red-card",
+              "label": "THE FIRST RED CARD",
+              "story": "Red and yellow cards had sat unused since their 1970 debut until referee Doğan Babacan reached for one in the 80th minute against West Germany. Carlos Caszely became the first player ever sent off with a red card at a World Cup — a footnote now permanently attached to a 1–0 loss to the hosts."
+            },
+            {
+              "id": "soviet-forfeit-walkover",
+              "label": "WALKOVER INTO THE FINALS",
+              "story": "A scoreless draw in Moscow left the return leg to settle it. But the Soviet Union refused to play at Santiago's National Stadium, used to detain and torture prisoners since the coup two months earlier. FIFA ordered the match played anyway; the Soviets forfeited, and a walkover carried the team through qualifying."
+            },
+            {
+              "id": "la-roja-nickname-born",
+              "label": "'LA ROJA' IS BORN",
+              "story": "Little changed visually: the same scarlet shirt, blue shorts and white socks Chile had worn since the 1950s. But it was around this era that 'La Roja' — simply 'The Red One' — hardened into the team's permanent nickname, a plain uniform worn under some of the most politically loaded circumstances any team has faced at a World Cup."
             }
           ]
         }
