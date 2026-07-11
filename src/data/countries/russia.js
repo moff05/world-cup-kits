@@ -475,9 +475,19 @@ export const russia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "A FLAT FAREWELL AS USSR",
-              "story": "Diego Maradona's Argentina beat the Soviets 2–0 to open their final tournament as one nation, and a 2–0 loss to Romania sealed a group-stage exit despite a 4–0 thumping of Cameroon in between. It marked the last World Cup appearance for the Soviet Union before its dissolution the following year."
+              "id": "the-lone-bright-spot",
+              "label": "THE LONE BRIGHT SPOT",
+              "story": "A 4–0 demolition of Cameroon was the Soviets' only win in Italy, sandwiched between defeats to Romania and Diego Maradona's Argentina that eliminated them at the group stage for the only time in their World Cup history. It was a strange high point in an otherwise forgettable farewell tournament."
+            },
+            {
+              "id": "the-red-meat-shirt",
+              "label": "THE 'RED MEAT' SHIRT",
+              "story": "Adidas produced a bold marbled-red home shirt for the 1989-91 cycle, nicknamed the 'Red Meat' shirt by collectors decades later for its streaky pattern. It's now regarded as one of the most iconic designs ever made for a team that would cease to exist within eighteen months of wearing it."
+            },
+            {
+              "id": "the-last-time-as-one",
+              "label": "THE LAST TIME AS ONE",
+              "story": "Italy 1990 was the final World Cup for the Soviet Union, Yugoslavia and Czechoslovakia alike, three Eastern Bloc nations that would fracture within years of the closing whistle. The Soviets even qualified for Euro 1992, but by then the shirt read something else entirely — the CIS took their place."
             }
           ]
         }
