@@ -887,7 +887,7 @@ export const england = {
             {
               "id": "1966-reissued",
               "label": "1966, REISSUED",
-              "story": "Umbro's all-red 2010 away kit deliberately echoed the shirt England wore to win the 1966 final, complete with a single gold star stitched above the crest. It was worn only once, in the group-stage draw with Algeria and the defeat that ended the tournament."
+              "story": "Umbro's all-red 2010 away kit deliberately echoed the shirt England wore to win the 1966 final, complete with a single gold star stitched above the crest. It was worn just twice, the final group win over Slovenia and the round of 16 defeat that ended the tournament."
             },
             {
               "id": "the-sound-of-south-africa",
