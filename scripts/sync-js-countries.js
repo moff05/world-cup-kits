@@ -31,7 +31,6 @@ const MENS_YEARS = new Set([
 const TEAM_NAME_TO_ID = {
   "Angola": "angola",
   "Bosnia and Herzegovina": "bosnia-and-herzegovina",
-  "Brazil": "brazil",
   "China": "china",
   "Cuba": "cuba",
   "Dutch East Indies": "indonesia",

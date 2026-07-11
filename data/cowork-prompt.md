@@ -81,17 +81,19 @@ Each annotation has:
 - `label`: 2–4 words ALL CAPS (e.g. `"THE HAND OF GOD"`, `"THE KIT"`, `"HOW IT ENDED"`)
 - `story`: 30–60 words. One specific moment, one specific detail. Magazine voice.
 
-The 3 annotations must cover 3 different angles — do not write 3 variations of the same topic:
-1. **The result / key moment** — what happened on the pitch, the defining match or player
-2. **The kit** — something specific and visual about what they wore that year (colors, badge, sponsor, design detail)
-3. **The context** — a political, cultural, or off-pitch story that made that tournament unique for this country
+The 3 annotations must cover 3 genuinely different angles. Read all 3 together before finalizing — if they could be mistaken for variations on the same topic, they are wrong:
+1. **The result / key moment** — what happened on the pitch, the defining match or player. A specific score, a specific minute, a specific name.
+2. **The kit** — something specific and visual: colors, badge detail, shirt number style, sponsor, a manufacturing story, a kit swap. Not "they wore yellow." A fact someone wouldn't already know.
+3. **The context** — a political, cultural, economic, or off-pitch story that made that tournament unique for this country. If the country had no significant context, find a player biography angle, a travel story, or a stadium detail.
+
+**Self-check before writing:** Label each annotation with its angle (moment / kit / context). If two share an angle, replace one. If all three are about match results, start over.
 
 **Strict field limits:**
 - `headline`: 3–6 words
 - Each `annotation.story`: 30–60 words
 - `facts[].story`: 60–90 words each
 
-**Writing test:** If you could find the sentence on Wikipedia verbatim, rewrite it. Sports Illustrated voice — vivid, specific, surprising. Never "the team showed resilience." Never "played a pivotal role."
+**Writing test:** If you could find the sentence on Wikipedia verbatim, rewrite it. Sports Illustrated voice — vivid, specific, surprising. Never "the team showed resilience." Never "played a pivotal role." Never open with the country name.
 
 Output file: `/Users/nmoff/Desktop/Claude Projects/world-cup-kits/data/countries/[country-id].json`
 
