@@ -259,9 +259,19 @@ export const hungary = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "WALES TWICE, NO ESCAPE",
-              "story": "József Bozsik's equalizer salvaged a 1–1 draw with Wales, and Lajos Tichy's brace routed Mexico 4–0, but a 2–1 loss to Sweden forced a playoff rematch with Wales. Tichy scored again, but it wasn't enough — a 2–1 defeat sent Hungary home in the group stage as the Golden Team's era neared its end."
+              "id": "a-team-grown-thin",
+              "label": "A TEAM GROWN THIN",
+              "story": "József Bozsik's equalizer against Wales masked how thin this Hungary had become. A group-stage exit was sealed in a playoff rematch with Wales — the same opponent, the same 1–1 scoreline pattern, but this time a 2–1 loss, without the players who'd made the team feared four years earlier."
+            },
+            {
+              "id": "the-same-shirt-new-cast",
+              "label": "SAME SHIRT, NEW CAST",
+              "story": "The cherry red shirt stayed exactly as it had been in 1954 — same collar, same shade, same crest — but the players wearing it had changed entirely. Only four of the Golden Team's regulars remained, the uniform now a costume from a show whose stars had all left."
+            },
+            {
+              "id": "a-boycott-in-protest",
+              "label": "A BOYCOTT IN PROTEST",
+              "story": "Hungary arrived in Sweden barely two years after the 1956 revolution, having lost Puskás, Kocsis, and Czibor to defection. Their playoff against Wales fell a day after Soviet forces executed former premier Imre Nagy — a detail so raw that Swedish fans boycotted the match in protest."
             }
           ]
         }
