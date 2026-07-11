@@ -647,6 +647,23 @@
     "2002": {
       "result": "Round of 16",
       "headline": "USA Ends the Golden Run",
+      "annotations": [
+        {
+          "id": "dos-a-cero-is-born",
+          "label": "'DOS A CERO' IS BORN",
+          "story": "Brian McBride and Landon Donovan scored in a 2–0 win for the United States at Jeonju, a scoreline that became shorthand — 'Dos a Cero' — for a rivalry that would define CONCACAF headlines for the next two decades."
+        },
+        {
+          "id": "a-domestic-brand-on-blancos-back",
+          "label": "A DOMESTIC BRAND ON BLANCO'S BACK",
+          "story": "Atletica, a Mexican company, supplied the shirt worn by Cuauhtémoc Blanco, whose calm penalty conversion against Croatia embodied a team built around flair and improvisation rather than raw power."
+        },
+        {
+          "id": "kickoff-before-sunrise",
+          "label": "KICKOFF BEFORE SUNRISE",
+          "story": "The first World Cup jointly hosted by two nations, and the first held in Asia, put Mexico's group games on unusual pre-dawn kickoff times back home — fans setting alarms for matches that kicked off while Mexico City still slept."
+        }
+      ],
       "story": "Cuauhtémoc Blanco's calm and Jared Borgetti's finishing carried Mexico through a group with Italy and Croatia, including Borgetti's opener in a 2–1 win over Ecuador. Their fiercest CONCACAF rival, the United States, ended the run 2–0 in the Round of 16 at Jeonju — a loss still felt across Mexican football.",
       "homeColors": "green shirt, white shorts, red socks (Atletica)",
       "awayColors": null,
