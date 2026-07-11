@@ -431,9 +431,19 @@ export const czechRepublic = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "PANENKA'S PENALTIES, NO WINS",
-              "story": "Antonín Panenka scored both Czechoslovak goals from the penalty spot — equalizing draws against Kuwait and France — but a 2–0 loss to England sandwiched between them meant Czechoslovakia finished without a win. Two draws and a defeat were enough only for an early flight home from Spain."
+              "id": "two-chips-no-win",
+              "label": "TWO CHIPS, NO WIN",
+              "story": "Antonín Panenka scored both of Czechoslovakia's goals from the penalty spot — a chipped equalizer against Kuwait, then another against France — but a 2–0 loss to England sandwiched between them left the team without a win. Two draws and a defeat were enough only for an early flight home."
+            },
+            {
+              "id": "a-name-turned-verb",
+              "label": "A NAME TURNED VERB",
+              "story": "Panenka's signature chipped penalty, first made famous at Euro 1976, had by 1982 turned his name into a verb across world football — meaning his white Czechoslovak shirt carried more symbolic weight walking to the penalty spot than almost any other jersey on the pitch that summer."
+            },
+            {
+              "id": "a-stranger-story-nearby",
+              "label": "A STRANGER STORY NEARBY",
+              "story": "Kuwait's appearance as a World Cup debutant made global headlines that tournament for a sideline incident — a royal official invading the pitch to protest a goal against France. Czechoslovakia's own group games played out in the shadow of a much stranger story involving their opponents."
             }
           ]
         }
