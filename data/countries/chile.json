@@ -40,6 +40,23 @@
       "result": "Group Stage",
       "headline": "First Miss, First Win",
       "story": "In Chile's first-ever World Cup match, Guillermo Subiabre missed a penalty against France — the tournament's first missed spot-kick — then scored the winner anyway in a 1–0 win. Bata Vidal's brace had already sunk Mexico 3–0, but Argentina's 3–1 victory in the finale eliminated Chile from the inaugural tournament.",
+      "annotations": [
+        {
+          "id": "subiabre-penalty-then-winner",
+          "label": "MISS, THEN MATCH-WINNER",
+          "story": "Guillermo Subiabre stepped up against France and put his penalty wide — the first missed spot-kick in World Cup history. Ten minutes later he atoned, poking home the goal that beat France 1–0 and kept the campaign alive, redemption arriving inside the same half as the mistake."
+        },
+        {
+          "id": "gath-chaves-beige-kit",
+          "label": "BUTTONED UP IN BEIGE",
+          "story": "No scarlet yet. In Montevideo, Chile played in a long-sleeved, button-collared shirt in plain brown-beige wool, stitched by Gath & Chaves — an Argentine department store that outfitted rival federations too. Function over identity: the famous red 'La Roja' look was still two decades from being invented."
+        },
+        {
+          "id": "three-week-boat-crossing",
+          "label": "THE THREE-WEEK CROSSING",
+          "story": "FIFA's first World Cup landed in Montevideo partly because Uruguay agreed to cover travel costs and had just won consecutive Olympic golds. Most European federations balked at a three-week transatlantic crossing, leaving a field stacked with South American sides — Chile among thirteen teams gambling a ship voyage on history."
+        }
+      ],
       "homeColors": null,
       "awayColors": null,
       "image": null,
