@@ -248,6 +248,23 @@
     "1962": {
       "result": "Group Stage",
       "headline": "Breaking the Winless Streak",
+      "annotations": [
+        {
+          "id": "fifteen-seconds-then-a-comeback",
+          "label": "FIFTEEN SECONDS, THEN A COMEBACK",
+          "story": "Czechoslovakia's Václav Mašek scored in a record 15 seconds, the fastest goal the World Cup had seen. Mexico answered anyway — Isidoro Díaz, Alfredo del Águila, and a Salvador Hernández penalty turned an early disaster into the team's first-ever win, 3–1."
+        },
+        {
+          "id": "no-mark-on-the-chest",
+          "label": "NO MARK ON THE CHEST",
+          "story": "The green shirt was unchanged from 1958 — no sponsor, no manufacturer's mark, nothing but the federation crest. Mexico wouldn't sign its first kit-supply deal, with Levi's, until 1978, sixteen years and four tournaments away."
+        },
+        {
+          "id": "because-we-have-nothing",
+          "label": "\"BECAUSE WE HAVE NOTHING\"",
+          "story": "Chile hosted just two years after the most powerful earthquake ever recorded flattened much of the country's south. Organizers rebuilt stadiums from rubble under the motto \"porque nada tenemos, lo haremos todo\" — because we have nothing, we will do everything — and pulled the tournament off on schedule."
+        }
+      ],
       "story": "Mexico finally ended a winless World Cup streak stretching back to 1930, hammering Czechoslovakia 3–1 as Isidoro Díaz, Alfredo del Águila, and Salvador Hernández all found the net. Losses to Brazil and Spain around that breakthrough win meant it still wasn't enough to escape the group.",
       "homeColors": "green shirt, white shorts, red socks",
       "awayColors": null,
