@@ -717,9 +717,19 @@ export const sweden = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "PEAK IN THE GROUP",
-              "story": "Freddie Ljungberg's goal beat Paraguay, and a spirited 2–2 draw with England kept Sweden in contention, but the group stage proved to be the peak. Hosts Germany eliminated them 2–0 in the Round of 16, a fourth straight World Cup ending without reaching the quarter-finals."
+              "id": "first-shutout-knockout",
+              "label": "FIRST KNOCKOUT SHUTOUT",
+              "story": "Sweden had never been shut out in a World Cup knockout match until Germany's defense did it in the 2006 Round of 16 — a first in ten previous tournament appearances stretching back to 1934. The hosts won 2–0 in front of a Munich crowd thick with traveling Swedes."
+            },
+            {
+              "id": "umbro-shoulder-cross",
+              "label": "CROSS ON THE SHOULDER",
+              "story": "Umbro's 2006 design kept the yellow base but added a bold cross-like graphic across the shoulders and ribbed panels down each side — a departure from the plainer Adidas templates of the previous three decades, and Umbro's only World Cup as Sweden's kit maker before Adidas eventually returned."
+            },
+            {
+              "id": "home-away-crowd",
+              "label": "A HOME GAME ABROAD",
+              "story": "Playing next door, in Germany, meant Sweden's traveling support could cross the border by car or short flight rather than long-haul travel. Coordinated chants and Viking helmets became a familiar sight, and away games felt closer to home fixtures than any World Cup before."
             }
           ]
         }
