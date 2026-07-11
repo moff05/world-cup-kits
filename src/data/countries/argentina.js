@@ -140,6 +140,16 @@ export const argentina = {
               "id": "one-match-then-home-1934",
               "label": "ONE MATCH, THEN HOME",
               "story": "A rift over paying amateur players stripped Argentina's roster before they'd even landed in Italy. Ernesto Belis and Alberto Galateo both scored against Sweden, but the tournament's single-match knockout format meant a 3–2 loss ended Argentina's World Cup after just one game."
+            },
+            {
+              "id": "no-crest-no-badge-1934",
+              "label": "NO CREST NO BADGE",
+              "story": "Argentina's shirts in Italy were still bare cotton stripes — no shield, no stars, no manufacturer's mark. The AFA wouldn't add its now-famous badge for another 24 years, meaning the jersey that lost to Sweden looked almost identical to the one worn at the very first World Cup in 1930."
+            },
+            {
+              "id": "mussolinis-propaganda-showcase-1934",
+              "label": "MUSSOLINI'S PROPAGANDA SHOWCASE",
+              "story": "Benito Mussolini treated the tournament as a stage for Fascist Italy, packing stadiums with Blackshirts and leaning on officials to favor the host nation. Argentina, gutted by its dispute over paying amateur players, arrived under-strength into that atmosphere and lasted one match before the long boat ride home."
             }
           ]
         }
