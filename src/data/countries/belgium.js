@@ -801,9 +801,19 @@ export const belgium = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "COMEBACK IN KAZAN, BRONZE IN PETERSBURG",
-              "story": "Down 0–2 to Japan in the Round of 16, Belgium scored three times in the final 21 minutes, Nacer Chadli's stoppage-time strike completing the greatest comeback of the tournament. Kevin De Bruyne and Marouane Fellaini toppled Brazil in the quarter-final before France's Samuel Umtiti header ended the run in the semi. Belgium beat England again for third place — the best finish in Belgian history."
+              "id": "kazan-comeback",
+              "label": "DOWN TWO, UP THREE",
+              "story": "Belgium trailed Japan 0–2 with barely twenty minutes left in the Round of 16. Jan Vertonghen, Marouane Fellaini, and a stoppage-time Nacer Chadli goal turned it into 3–2 — the greatest comeback of the tournament. Belgium then beat Brazil and England again for bronze, the best finish in the country's history."
+            },
+            {
+              "id": "hidden-flag-diamond",
+              "label": "A FLAG HIDDEN IN THE FABRIC",
+              "story": "Adidas wove a diamond-patterned Belgian flag graphic directly into the fabric of the 2018 home shirt, visible only at certain angles under stadium lighting — a design nod to the Euro 1994 qualifying kit. The away shirt went further: Belgium's first-ever yellow jersey, borrowed from a 1984 goalkeeper design nobody expected to return."
+            },
+            {
+              "id": "best-generation-tag",
+              "label": "THE 'BEST GENERATION' LABEL STICKS",
+              "story": "By Russia 2018, pundits had started calling this Belgian squad — De Bruyne, Hazard, Courtois, Lukaku — the golden generation's true peak, a label the team spent the tournament trying to justify. Third place matched their federation's greatest fear and greatest hope in one result: proof of world class, one step short of a final."
             }
           ]
         }
