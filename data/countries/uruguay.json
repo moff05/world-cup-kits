@@ -715,6 +715,23 @@
       "result": "Round of 16",
       "headline": "The Bite Heard Round the World",
       "story": "Luis Suárez sank his teeth into Giorgio Chiellini's shoulder in the group finale against Italy, a moment that overshadowed his two goals against England days earlier and got him banned before the Round of 16. Without him, James Rodríguez's Colombia eliminated a toothless Uruguay 2–0.",
+      "annotations": [
+        {
+          "id": "suarez-knee-surgery-return",
+          "label": "BACK FROM SURGERY, DECISIVE",
+          "story": "Just 23 days after knee surgery in Montevideo, Luis Suárez returned to score twice against England — a header past Joe Hart before halftime, then an 84th-minute winner blasted through the middle. It was one of the great forced-comeback performances in World Cup history, before the same player's tournament unraveled days later."
+        },
+        {
+          "id": "heritage-collar-2014",
+          "label": "A HERITAGE COLLAR",
+          "story": "Puma's 2014 home shirt drew its cutout collar, trimmed in white and gold, from Uruguayan football fashion of decades past — a deliberate nod to heritage rather than a clean-sheet redesign. The away kit flipped the formula: mostly white, with sky blue reduced to a V-neck trim and side stripes."
+        },
+        {
+          "id": "mujica-defends-suarez",
+          "label": "THE PRESIDENT WEIGHS IN",
+          "story": "Uruguay's president José Mujica, informed of Suárez's ban, told reporters FIFA's leadership were 'a bunch of old sons of bitches,' then grinned and said 'publish it' when asked to walk it back. He admitted Suárez deserved punishment but called the severity 'fascist' — a head of state weighing in on a bite."
+        }
+      ],
       "homeColors": "light blue (celeste) shirt, black shorts, black socks",
       "awayColors": null,
       "image": null,
