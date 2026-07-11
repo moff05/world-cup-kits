@@ -147,9 +147,19 @@ export const uruguay = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "SILENCING THE MARACANÃ",
-              "story": "Trailing Brazil's daunting home run and needing only a draw to hand the hosts the title, Uruguay went scoreless into the second half of the decisive match. Juan Alberto Schiaffino equalized, and with 11 minutes left, Alcides Ghiggia beat the goalkeeper at his near post to silence 173,000 fans inside the Maracanã, sealing Uruguay's second title 2–1."
+              "id": "three-who-silenced-maracana",
+              "label": "THE POPE AND SINATRA",
+              "story": "Alcides Ghiggia later joked that only three people had ever silenced the Maracanã: the Pope, Frank Sinatra, and him. His low finish at the near post in the 79th minute did exactly that to 200,000 stunned Brazilians, turning a coronation into the most famous silence in football history."
+            },
+            {
+              "id": "plain-collar-no-fixed-numbers",
+              "label": "NO FIXED NUMBERS YET",
+              "story": "Uruguay's celeste jersey in 1950 carried a plain white ribbed collar and a modest embroidered badge — no gold stars, no sponsor. Squad numbers weren't yet mandatory or permanent across a tournament; that rule, tying one man to one digit for all matches, wouldn't arrive until the following World Cup in 1954."
+            },
+            {
+              "id": "varela-newspaper-protest",
+              "label": "HEADLINES PRINTED TOO SOON",
+              "story": "Rio's O Mundo printed a pre-match edition captioned 'these are the world champions' beside a photo of Brazil's squad. Uruguay's captain Obdulio Varela bought up copies, spread them across a bathroom floor, and had teammates walk over them — fuel for the upset that followed hours later at the Maracanã."
             }
           ]
         }
