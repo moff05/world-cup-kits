@@ -786,9 +786,19 @@ export const sweden = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "FORSBERG'S STRIKE, THEN ENGLAND",
-              "story": "Emil Forsberg's second-half strike beat Switzerland in the Round of 16, sending Sweden to their first World Cup quarter-final since 1994. Ola Toivonen's outrageous chip had rattled Germany in the group stage, and wins over South Korea and Mexico carried the run — until England ended it 2–0 in the quarter-final."
+              "id": "first-knockout-win-since-94",
+              "label": "FIRST WIN SINCE '94",
+              "story": "Emil Forsberg's 66th-minute strike past Switzerland wasn't just a quarter-final ticket — it was Sweden's first World Cup knockout victory in twenty-four years, since the run to the 1994 semi-final. A generation of Swedish fans had never seen the team win a match that mattered this much."
+            },
+            {
+              "id": "sverige-collar-graphic",
+              "label": "'SVERIGE' ON THE COLLAR",
+              "story": "Adidas's 2018 home shirt leaned on nostalgia: tonal diagonal stripes echoing the shirt from the late 1980s and early '90s, a woven crest on the chest, and the word 'Sverige' heat-pressed just below the back of the collar — a quiet, specific detail unique to that jersey."
+            },
+            {
+              "id": "without-zlatan",
+              "label": "SUCCESS WITHOUT THEIR STAR",
+              "story": "Zlatan Ibrahimović, Sweden's all-time leading scorer, had retired from international football after Euro 2016 and stayed retired despite speculation he'd return. Sweden reached the quarter-final anyway — their best World Cup finish since 1994 — built on a collective unit rather than one dominant personality."
             }
           ]
         }
