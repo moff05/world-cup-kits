@@ -25,17 +25,16 @@ export const brazil = {
     2010,
     2014,
     2018,
-    2022,
-    2026
+    2022
   ],
   "bestResult": "5× World Champions",
   "stats": {
-    "matches": 119,
-    "wins": 79,
-    "draws": 20,
-    "losses": 20,
-    "goalsFor": 247,
-    "goalsAgainst": 112
+    "matches": 114,
+    "wins": 76,
+    "draws": 19,
+    "losses": 19,
+    "goalsFor": 237,
+    "goalsAgainst": 108
   },
   "facts": [
     {
@@ -53,7 +52,7 @@ export const brazil = {
     "1930": {
       "result": "Group Stage",
       "headline": "The Debut That Ended in Groups",
-      "homeColors": null,
+      "homeColors": "white shirt with blue collar, white shorts, white socks",
       "awayColors": null,
       "matches": [
         {
@@ -73,12 +72,8 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/1930-team.jpg",
-          "imageCredit": {
-            "player": null,
-            "game": "Brazil squad, 1930 FIFA World Cup, Montevideo. Public domain.",
-            "license": "Public domain"
-          },
+          "image": null,
+          "imageCredit": null,
           "annotations": [
             {
               "id": "white-debut-1930",
@@ -102,7 +97,7 @@ export const brazil = {
     "1934": {
       "result": "Round of 16",
       "headline": "One Match. One Defeat. Home.",
-      "homeColors": null,
+      "homeColors": "white shirt with blue collar, white shorts, white socks",
       "awayColors": null,
       "matches": [
         {
@@ -143,7 +138,7 @@ export const brazil = {
     "1938": {
       "result": "3rd Place",
       "headline": "Leônidas and the Blunder That Cost a Final",
-      "homeColors": null,
+      "homeColors": "white shirt with blue collar, white shorts, white socks",
       "awayColors": null,
       "matches": [
         {
@@ -184,12 +179,8 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/1938-poland.jpg",
-          "imageCredit": {
-            "player": null,
-            "game": "Pre-match lineup, Brazil vs. Poland, Round of 16 — 1938 FIFA World Cup, Strasbourg. Both teams wore white. Public domain.",
-            "license": "Public domain"
-          },
+          "image": null,
+          "imageCredit": null,
           "annotations": [
             {
               "id": "poland-six-five",
@@ -213,7 +204,7 @@ export const brazil = {
     "1950": {
       "result": "Runners-up",
       "headline": "The White That Was Never Worn Again",
-      "homeColors": null,
+      "homeColors": "white shirt with blue collar, white shorts, white socks",
       "awayColors": null,
       "matches": [
         {
@@ -289,8 +280,8 @@ export const brazil = {
     "1954": {
       "result": "Quarter-final",
       "headline": "Yellow for the First Time. The Battle of Bern.",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -316,12 +307,8 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/1954-hungary.jpg",
-          "imageCredit": {
-            "player": null,
-            "game": "Hungary vs. Brazil, Quarterfinal — 1954 FIFA World Cup, Bern. Public domain.",
-            "license": "Public domain"
-          },
+          "image": null,
+          "imageCredit": null,
           "annotations": [
             {
               "id": "first-yellow-1954",
@@ -345,8 +332,8 @@ export const brazil = {
     "1958": {
       "result": "Champions",
       "headline": "Pelé Was 17. Brazil Was Unstoppable.",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt with white trim, white shorts, blue socks (worn in the final vs Sweden due to a color clash)",
       "matches": [
         {
           "round": "Group Stage",
@@ -421,8 +408,8 @@ export const brazil = {
     "1962": {
       "result": "Champions",
       "headline": "Garrincha's World Cup",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -469,12 +456,8 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/1962-squad.jpg",
-          "imageCredit": {
-            "player": null,
-            "game": "Brazil 1962 FIFA World Cup squad — Werner Haberkorn / Instituto Moreira Salles. Public domain.",
-            "license": "Public domain"
-          },
+          "image": null,
+          "imageCredit": null,
           "annotations": [
             {
               "id": "pele-injury-1962",
@@ -498,8 +481,8 @@ export const brazil = {
     "1966": {
       "result": "Group Stage",
       "headline": "Pelé Kicked Out of His Last World Cup",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -525,12 +508,8 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/1966-jacket.jpg",
-          "imageCredit": {
-            "player": null,
-            "game": "1966 FIFA World Cup Brazil jacket — Maracanã Walk of Fame, Rio de Janeiro. CC BY-SA 4.0.",
-            "license": "CC BY-SA 4.0"
-          },
+          "image": null,
+          "imageCredit": null,
           "annotations": [
             {
               "id": "defending-1966",
@@ -554,8 +533,8 @@ export const brazil = {
     "1970": {
       "result": "Champions",
       "headline": "The Kit That Became a Religion",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -602,12 +581,8 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/1970-home.jpg",
-          "imageCredit": {
-            "player": null,
-            "game": "Brazil in action, 1970 FIFA World Cup, Mexico. Public domain.",
-            "license": "Public domain"
-          },
+          "image": null,
+          "imageCredit": null,
           "annotations": [
             {
               "id": "pele-return-1970",
@@ -631,8 +606,8 @@ export const brazil = {
     "1974": {
       "result": "4th Place",
       "headline": "The Post-1970 Hangover",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -686,12 +661,8 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/1974-ddr.jpg",
-          "imageCredit": {
-            "player": null,
-            "game": "Brazil vs. East Germany (DDR), Second Round — 1974 FIFA World Cup, Gelsenkirchen — Bundesarchiv. CC BY-SA 3.0 de.",
-            "license": "CC BY-SA 3.0 de"
-          },
+          "image": null,
+          "imageCredit": null,
           "annotations": [
             {
               "id": "total-football-1974",
@@ -715,8 +686,8 @@ export const brazil = {
     "1978": {
       "result": "3rd Place",
       "headline": "Argentina's Junta. Goal Difference. Third.",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -770,12 +741,8 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/1978-peru.jpg",
-          "imageCredit": {
-            "player": null,
-            "game": "Héctor Chumpitaz (Peru) vs Brazilian player, Group Stage — 1978 FIFA World Cup, Argentina. Public domain.",
-            "license": "Public domain"
-          },
+          "image": null,
+          "imageCredit": null,
           "annotations": [
             {
               "id": "argentina-peru-1978",
@@ -799,8 +766,8 @@ export const brazil = {
     "1982": {
       "result": "2nd Round",
       "headline": "The Greatest Team to Never Win",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -840,12 +807,8 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/1982-nz.jpg",
-          "imageCredit": {
-            "player": null,
-            "game": "Brazil vs. New Zealand, Group Stage — 1982 FIFA World Cup, Spain. Public domain.",
-            "license": "Public domain"
-          },
+          "image": null,
+          "imageCredit": null,
           "annotations": [
             {
               "id": "midfield-1982",
@@ -869,8 +832,8 @@ export const brazil = {
     "1986": {
       "result": "Quarter-final",
       "headline": "Sócrates' Miss. France's Victory.",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -935,8 +898,8 @@ export const brazil = {
     "1990": {
       "result": "Round of 16",
       "headline": "Maradona's Pass. Caniggia's Goal. Out.",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -997,8 +960,8 @@ export const brazil = {
     "1994": {
       "result": "Champions",
       "headline": "24 Years. Romário. Bebeto. Four Stars.",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -1052,12 +1015,8 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/1994-taffarel-front.jpg",
-          "imageCredit": {
-            "player": "Taffarel (goalkeeper)",
-            "game": "1994 FIFA World Cup goalkeeper jersey — Museu do Futebol, São Paulo. CC BY 2.0.",
-            "license": "CC BY 2.0"
-          },
+          "image": null,
+          "imageCredit": null,
           "annotations": [
             {
               "id": "romario-bebeto-1994",
@@ -1081,8 +1040,8 @@ export const brazil = {
     "1998": {
       "result": "Runners-up",
       "headline": "Ronaldo's Seizure. France's Night.",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -1164,8 +1123,8 @@ export const brazil = {
     "2002": {
       "result": "Champions",
       "headline": "Ronaldo's Comeback. Five Stars.",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -1219,11 +1178,8 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/2002-ronaldo.jpg",
-          "imageCredit": {
-            "player": "Ronaldo",
-            "game": "2002 FIFA World Cup, Japan/South Korea — CC BY-SA 3.0 / Ricardo Stuckert / Agência Brasil."
-          },
+          "image": null,
+          "imageCredit": null,
           "annotations": [
             {
               "id": "comeback-2002",
@@ -1247,8 +1203,8 @@ export const brazil = {
     "2006": {
       "result": "Quarter-final",
       "headline": "Ronaldo's Record. Zidane's Exit.",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -1288,12 +1244,8 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/2006-ghana.jpg",
-          "imageCredit": {
-            "player": null,
-            "game": "Brazil vs. Ghana, Round of 16 — 2006 FIFA World Cup, Dortmund. Brazil in yellow (right), Ghana in white (left). CC BY 2.0 / Django_il_bastardo via Flickr.",
-            "license": "CC BY 2.0"
-          },
+          "image": null,
+          "imageCredit": null,
           "annotations": [
             {
               "id": "record-2006",
@@ -1317,8 +1269,8 @@ export const brazil = {
     "2010": {
       "result": "Quarter-final",
       "headline": "Africa's First. Holland's Counter.",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -1358,11 +1310,8 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/2010-robinho.jpg",
-          "imageCredit": {
-            "player": "Robinho",
-            "game": "Brazil vs. Chile, Round of 16 — 2010 FIFA World Cup, South Africa — CC BY 3.0 BR / Marcello Casal Jr / Agência Brasil"
-          },
+          "image": null,
+          "imageCredit": null,
           "annotations": [
             {
               "id": "africa-2010",
@@ -1386,8 +1335,8 @@ export const brazil = {
     "2014": {
       "result": "4th Place",
       "headline": "7-1. At Home.",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -1441,11 +1390,8 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/2014-croatia.jpg",
-          "imageCredit": {
-            "player": null,
-            "game": "Brazil vs. Croatia, Group A — 2014 FIFA World Cup, São Paulo — CC BY 3.0 BR / Agência Brasil"
-          },
+          "image": null,
+          "imageCredit": null,
           "annotations": [
             {
               "id": "home-2014",
@@ -1469,8 +1415,8 @@ export const brazil = {
     "2018": {
       "result": "Quarter-final",
       "headline": "Neymar's Russia. Belgium's Ambush.",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -1510,11 +1456,8 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/2018-museum.jpg",
-          "imageCredit": {
-            "player": null,
-            "game": "2018 FIFA World Cup kit — Museu do Futebol, São Paulo — CC BY 2.0 / Governo do Estado de São Paulo"
-          },
+          "image": null,
+          "imageCredit": null,
           "annotations": [
             {
               "id": "rolling-2018",
@@ -1538,8 +1481,8 @@ export const brazil = {
     "2022": {
       "result": "Quarter-final",
       "headline": "The Bicycle Kick. Croatia's Penalties.",
-      "homeColors": null,
-      "awayColors": null,
+      "homeColors": "yellow shirt with green trim, blue shorts, white socks",
+      "awayColors": "blue shirt, white shorts, blue socks",
       "matches": [
         {
           "round": "Group Stage",
@@ -1574,11 +1517,8 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "/kits/brazil/2022-richarlison.jpg",
-          "imageCredit": {
-            "player": "Richarlison",
-            "game": "2022 FIFA World Cup, Qatar — CC BY-SA 4.0 / Hossein Zohrevand"
-          },
+          "image": null,
+          "imageCredit": null,
           "annotations": [
             {
               "id": "bicycle-2022",
@@ -1594,70 +1534,6 @@ export const brazil = {
               "id": "croatia-2022",
               "label": "Croatia's Miracle",
               "story": "In the quarterfinal against Croatia at Education City Stadium, Brazil couldn't score in 90 minutes. In extra time, Neymar — returning from a serious ankle injury — scored in the 105th minute to put Brazil 1-0 ahead. It lasted twelve minutes. Bruno Petković equalized for Croatia in the 117th minute, sending the match to penalties. Marquinhos hit the post on Brazil's fourth kick. Croatia won 4-2 on penalties. Neymar collapsed on the pitch. He later said it was 'the saddest moment' of his career. Brazil's sixth World Cup title remains the most elusive prize in football."
-            }
-          ]
-        }
-      }
-    },
-    "2026": {
-      "result": "Round of 16",
-      "headline": "Haaland's Night. Out in the Round of 16.",
-      "homeColors": null,
-      "awayColors": null,
-      "matches": [
-        {
-          "round": "Group Stage",
-          "opponent": "Morocco",
-          "score": "1–1",
-          "result": "D"
-        },
-        {
-          "round": "Group Stage",
-          "opponent": "Haiti",
-          "score": "3–0",
-          "result": "W"
-        },
-        {
-          "round": "Group Stage",
-          "opponent": "Scotland",
-          "score": "3–0",
-          "result": "W"
-        },
-        {
-          "round": "Round of 32",
-          "opponent": "Japan",
-          "score": "2–1",
-          "result": "W"
-        },
-        {
-          "round": "Round of 16",
-          "opponent": "Norway",
-          "score": "1–2",
-          "result": "L"
-        }
-      ],
-      "kits": {
-        "home": {
-          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Team_Brazil_at_2026_FIFA_World_Cup_by_YantsImages.jpg",
-          "imageCredit": {
-            "player": null,
-            "game": "Brazil squad before the 2026 FIFA World Cup Group Stage match vs. Morocco — MetLife Stadium, East Rutherford, New Jersey, June 13, 2026. CC BY-SA 4.0 / YantsImages (Asatur Yesayants)."
-          },
-          "annotations": [
-            {
-              "id": "favorites-2026",
-              "label": "Favorites in New York",
-              "story": "Brazil arrived at the 2026 World Cup in the United States as one of the shortest-priced favorites in years. Vinicius Júnior was playing the best football of his life. Rodrygo, Endrick, and Raphinha gave them depth in attack that most squads couldn't match. Their group-stage games at MetLife Stadium in New Jersey drew some of the largest crowds of the tournament — the Brazilian diaspora in New York turned the stadium yellow. A 1-1 draw against Morocco was the only stumble. They beat Haiti 3-0 and Scotland 3-0, then eliminated Japan 2-1 in the Round of 32. Norway was next."
-            },
-            {
-              "id": "haaland-2026",
-              "label": "Haaland's Night",
-              "story": "On July 5 at SoFi Stadium in Los Angeles, Erling Haaland scored twice against Brazil in the Round of 16. Both goals were Haaland at his most direct — composed, inevitable, exactly the type of threat Brazil's defense had no answer for. Brazil scored through a Neymar penalty, but Norway held. Norway 2, Brazil 1. The Seleção went home before the quarterfinals for the first time since 1990, beaten by a team they had never lost to at a World Cup before. 'The best night of my football life,' Haaland said afterward."
-            },
-            {
-              "id": "kit-2026",
-              "label": "The 2026 Kit",
-              "story": "Nike built the 2026 shirt around two shades of blue in the collar and trim — Light Mint and Geode Teal — referencing the palette of Brazil's rivers. The green side panels are a deliberate echo of the 1970 kit's inserts. The fabric carries an all-over print of the Brazilian flag in distorted outline, woven into the yellow and invisible at match distance. It is the most detailed Brazil shirt Nike has produced. It was worn in five matches across New Jersey and Los Angeles. None of them ended in a title."
             }
           ]
         }
