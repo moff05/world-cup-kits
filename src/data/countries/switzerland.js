@@ -413,9 +413,19 @@ export const switzerland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "BACK AFTER 28 YEARS",
-              "story": "Switzerland ended a 28-year World Cup absence with a Georges Bregy-led draw against the United States and a 4–1 win over Romania — Adrian Knup scoring twice — to reach the Round of 16. Spain ended the run 3–0 in Washington, but reaching the knockout stage felt like a result in itself."
+              "id": "indoor-world-cup-opener",
+              "label": "FOOTBALL UNDER A ROOF",
+              "story": "The comeback tournament opened indoors: a 1–1 draw with the United States at Detroit's Pontiac Silverdome, the only World Cup match ever played beneath a roof. Georges Bregy's equalizer set the tone for a run that ended a 28-year absence and carried the Swiss into the knockout rounds."
+            },
+            {
+              "id": "lotto-cross-shoulder",
+              "label": "CROSS ACROSS THE SHOULDER",
+              "story": "Italian manufacturer Lotto took over the kit for the comeback tournament, running a white Swiss cross diagonally off the left shoulder against an all-red body — a sharper, more graphic take than the plain shirts of the pre-1966 era. Stéphane Chapuisat and Ciriaco Sforza wore it into the Round of 16."
+            },
+            {
+              "id": "englishman-in-charge",
+              "label": "AN ENGLISHMAN IN CHARGE",
+              "story": "An Englishman, Roy Hodgson, took over a moribund program in 1992 and within a year had Switzerland ranked third in the world — a rise so unlikely it startled European football. He'd guide the team to its first World Cup appearance in 28 years, then to the knockout stage in his first attempt."
             }
           ]
         }
