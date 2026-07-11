@@ -474,6 +474,23 @@
       "result": "Group Stage",
       "headline": "Bednarek's Consolation Winner",
       "story": "Already eliminated after losses to Senegal and Colombia, Poland closed the group with pride: Jan Bednarek's second-half header beat already-qualified Japan 1–0, Poland's first World Cup win since 2006. It came too late for their own hopes but ended a group-stage exit streak stretching back three tournaments.",
+      "annotations": [
+        {
+          "id": "2018-win-too-late",
+          "label": "A WIN, TOO LATE",
+          "story": "Already eliminated, Poland closed the group with pride: Jan Bednarek turned in Rafał Kurzawa's free-kick from six yards in the 59th minute to beat an already-through Japan side 1–0. It meant little in the standings but ended a run of three straight group-stage exits with Poland's first World Cup win since 2006."
+        },
+        {
+          "id": "2018-sash-on-the-badge",
+          "label": "SASH ON THE BADGE",
+          "story": "Nike's 2018 template ran a subtle grey sash straight through the crest, echoing the diagonal band on Poland's coat of arms, with a zig-zag knit pattern woven into both sleeves. It marked one of the boldest visual updates to a kit that, in its basic white-shirt-red-shorts form, had barely changed since 1938."
+        },
+        {
+          "id": "2018-lewandowski-silent-tournament",
+          "label": "LEWANDOWSKI'S SILENT TOURNAMENT",
+          "story": "Robert Lewandowski arrived as one of the world's most feared strikers, fresh off another prolific Bundesliga season, and left Russia without a single goal — blanked across three matches by Senegal, Colombia, and a Japan side already through. It was the strangest form slump of his career, over almost as soon as it began."
+        }
+      ],
       "homeColors": "white shirt, red shorts, white socks",
       "awayColors": null,
       "image": null,
