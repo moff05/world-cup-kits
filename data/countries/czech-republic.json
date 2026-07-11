@@ -195,6 +195,23 @@
     "1958": {
       "result": "Group Stage",
       "headline": "Zikán's Six-Goal Burst",
+      "annotations": [
+        {
+          "id": "the-biggest-win-and-a-playoff-loss",
+          "label": "BIGGEST WIN, BITTER EXIT",
+          "story": "Zdeněk Zikán and Václav Hovorka combined for four goals in a 6–1 rout of Argentina, Czechoslovakia's biggest-ever World Cup win, salvaging hope after a draw with West Germany. A playoff rematch with Northern Ireland, needed after both finished level, went to extra time and ended 2–1 — Zikán's goal not enough."
+        },
+        {
+          "id": "two-decades-unchanged",
+          "label": "TWO DECADES UNCHANGED",
+          "story": "Sweden's cool 1958 climate suited the heavy wool-blend kit Czechoslovakia had worn for two decades; the white shirt and red shorts hadn't changed since before the war, even as football itself was entering the era of European club competition and televised matches."
+        },
+        {
+          "id": "a-shared-screen",
+          "label": "A SHARED SCREEN",
+          "story": "Sweden 1958 was the first World Cup broadcast internationally on any real scale, meaning Czechoslovakia's win over Argentina and playoff defeat to Northern Ireland reached television screens across Communist and Western Europe alike — a rare shared moment across a continent otherwise divided by the Cold War."
+        }
+      ],
       "homeColors": "white shirt, red shorts, blue socks",
       "awayColors": null,
       "image": null,
