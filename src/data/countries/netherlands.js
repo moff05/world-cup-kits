@@ -738,31 +738,36 @@ export const netherlands = {
           "round": "Group Stage",
           "opponent": "Senegal",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Gakpo 84', Klaassen 90+9'"
         },
         {
           "round": "Group Stage",
           "opponent": "Ecuador",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Gakpo 5'"
         },
         {
           "round": "Group Stage",
           "opponent": "Qatar",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Gakpo 26', de Jong 49'"
         },
         {
           "round": "Round of 16",
           "opponent": "United States",
           "score": "3–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Depay 10', Blind 45+1', Dumfries 81'"
         },
         {
           "round": "Quarter-final",
           "opponent": "Argentina",
           "score": "2–2 (3–4 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": "Weghorst 83', Weghorst 90+11'"
         }
       ],
       "kits": {
