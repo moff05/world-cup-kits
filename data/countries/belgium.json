@@ -211,6 +211,23 @@
       "result": "Group Stage",
       "headline": "White Devils, First Win",
       "story": "Playing in all-white for the first time, Belgium beat El Salvador 3–0 for their first-ever World Cup victory, forty years after their debut. The good feeling didn't last: the Soviet Union routed them 4–1 and hosts Mexico added a 1–0 defeat, sending the newly christened 'White Devils' out in the group stage.",
+      "annotations": [
+        {
+          "id": "first-ever-win",
+          "label": "FORTY YEARS FOR ONE WIN",
+          "story": "Four decades and eight matches after their 1930 debut, Belgium finally won a World Cup game — 3–0 over El Salvador, with two goals from Wilfried Van Moer. The Soviet Union crushed the feeling four days later, 4–1, and a single Mexican goal sent the Red Devils home regardless."
+        },
+        {
+          "id": "white-devils-debut",
+          "label": "THE FIRST ALL-WHITE KIT",
+          "story": "For the first time in their history, Belgium walked out in all white — shirt, shorts, and socks — a strip that started as an away option and became their World Cup identity for the entire decade. Journalists needed a new nickname fast; 'White Devils' stuck almost as quickly as the jersey change did."
+        },
+        {
+          "id": "altitude-and-color-tv",
+          "label": "HIGH ALTITUDE, NEW CAMERAS",
+          "story": "Mexico 1970 was the first World Cup broadcast in color worldwide and the first to allow substitutions and yellow and red cards. Belgium's squad, like every European team, also had to adjust to Mexico City and Puebla's thin air — a physical toll that hit visiting sides much harder than hosts."
+        }
+      ],
       "homeColors": "white shirt, white shorts, white socks (the all-white 'White Devils' kit, worn as home strip 1970–1979)",
       "awayColors": "red shirt, white shorts",
       "image": null,
