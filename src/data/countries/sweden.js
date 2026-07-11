@@ -455,9 +455,19 @@ export const sweden = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "A DRAW, THEN SILENCE",
-              "story": "Sjöberg's equalizer salvaged a 1–1 draw with eventual bronze medalists Brazil in the opener, but back-to-back 1–0 losses to Austria and Spain sent Sweden home without a win — a quiet World Cup that did little to build on the promise of the opening result."
+              "id": "three-one-goal-losses",
+              "label": "DECIDED BY ONE GOAL",
+              "story": "Every result in Sweden's group was tight: a 1–1 draw with Brazil, then 0–1 defeats to both Austria and Spain. Three matches, three one-goal margins — Sweden never lost by more than a single strike, yet still went home after the first round without a win."
+            },
+            {
+              "id": "adidas-1978-kit",
+              "label": "SECOND SEASON IN STRIPES",
+              "story": "Sweden's kit stayed with Adidas for a second straight World Cup, still yellow with blue trim and the three stripes on each shoulder. The look was barely changed from 1974 — Adidas wouldn't overhaul Sweden's template again until the following decade."
+            },
+            {
+              "id": "argentina-junta-backdrop",
+              "label": "PLAYING UNDER A DICTATORSHIP",
+              "story": "Argentina hosted under a military dictatorship two years into its rule, and several European federations debated boycotting over its human rights record. Sweden played its group games in Mar del Plata, on a pitch so rough that organizers were criticized for fielding matches on what one report called 'nearly unplayable' turf."
             }
           ]
         }
