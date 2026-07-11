@@ -321,9 +321,19 @@ export const czechRepublic = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "MASOPUST'S SILVER BALL RUN",
-              "story": "Josef Masopust won the Silver Ball as Czechoslovakia beat Spain, drew Brazil, then edged Hungary and Yugoslavia to reach a second World Cup final. Masopust himself put them ahead inside 16 minutes against Brazil in Santiago, but Amarildo, Zito, and Vavá turned it around, Brazil winning 3–1 to claim their second straight title."
+              "id": "sixteen-minutes-ahead",
+              "label": "SIXTEEN MINUTES AHEAD",
+              "story": "Josef Masopust put Czechoslovakia ahead inside 16 minutes of the final in Santiago, the high point of a run that included wins over Hungary and Yugoslavia. Amarildo, Zito, and Vavá turned the match around for Brazil, who won 3–1 to claim back-to-back titles — Masopust's strike the closest Czechoslovakia came to gold since 1934."
+            },
+            {
+              "id": "the-most-photographed-shirt",
+              "label": "THE MOST PHOTOGRAPHED SHIRT",
+              "story": "Masopust's performance in Chile won him the Ballon d'Or that December — the first, and to date only, Czechoslovak to claim it — the same white shirt with number 4 on the back becoming the most photographed kit in the country's football history."
+            },
+            {
+              "id": "a-nation-patched-back-together",
+              "label": "A NATION REBUILDING",
+              "story": "Chile staged the tournament just two years after the strongest earthquake ever recorded devastated the country, rebuilding stadiums as a matter of national pride. Czechoslovakia's run to a second World Cup final unfolded inside a host nation still visibly patching itself back together."
             }
           ]
         }
