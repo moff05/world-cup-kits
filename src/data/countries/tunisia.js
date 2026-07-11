@@ -78,6 +78,11 @@ export const tunisia = {
               "id": "holding-the-champions",
               "label": "HOLDING THE CHAMPIONS",
               "story": "Three days after that historic win, Tunisia held defending champions West Germany scoreless for ninety minutes, salvaging a 0–0 draw. It was enough to finish third in Group 2 above Mexico — and pundits noticed: Africa's contingent at the World Cup increased for the very next tournament."
+            },
+            {
+              "id": "adidas-flag-shirt-1978",
+              "label": "ADIDAS FLAG COLORS",
+              "story": "Adidas supplied Tunisia's kit for their 1978 debut: a white home shirt and red away change strip lifted directly from the national flag, with no crest embellishment beyond the federation badge — a plain template Tunisia wore into the history books against Mexico."
             }
           ]
         }
@@ -123,6 +128,16 @@ export const tunisia = {
               "id": "souayahs-consolation",
               "label": "SOUAYAH'S CONSOLATION",
               "story": "Down 0–2 to England and 0–1 to Colombia, Tunisia's World Cup return after twenty years threatened total blankness until the final group match. Skander Souayah converted a 12th-minute penalty against Romania, salvaging a 1–1 draw and Tunisia's only goal of France '98 — a lone flare in an otherwise dark comeback tournament."
+            },
+            {
+              "id": "lotto-red-return-1998",
+              "label": "LOTTO'S RETURN JERSEY",
+              "story": "Twenty years after their Adidas debut, Tunisia returned to the World Cup in a Lotto-made red home shirt, worn just once, in the opening loss to England at Marseille's Stade Vélodrome — a shirt now considered one of the rarer World Cup jerseys among collectors."
+            },
+            {
+              "id": "kasperczak-ends-drought",
+              "label": "KASPERCZAK'S RETURN",
+              "story": "Polish coach Henryk Kasperczak, who had built his reputation managing clubs across French football, ended Tunisia's twenty-year World Cup absence by qualifying them for France '98 — the country's second-ever appearance, two decades after their pioneering 1978 debut."
             }
           ]
         }
@@ -168,6 +183,16 @@ export const tunisia = {
               "id": "bouzaiene-levels-belgium",
               "label": "BOUZAIENE LEVELS BELGIUM",
               "story": "Beaten by Russia in the opener, Tunisia responded against Belgium when Raouf Bouzaiene struck in the 17th minute for a 1–1 draw — the team's only goal of a tournament played entirely on Japanese soil. It wasn't enough; a loss to co-host Japan sent Tunisia out at the bottom of Group H."
+            },
+            {
+              "id": "puma-red-panels-2002",
+              "label": "PUMA'S RED PANELS",
+              "story": "Puma dressed Tunisia in white for 2002, with a red V-neck collar and red panels running from the underarms down the sides — a cleaner, more angular update from the plain shirts of the 1990s, worn entirely on Japanese soil since all of Group H's matches were hosted there."
+            },
+            {
+              "id": "sellimi-european-generation",
+              "label": "A EUROPEAN-BUILT SQUAD",
+              "story": "Captain Adel Sellimi, who had played in France's Ligue 1 and Germany's Bundesliga with Werder Bremen, led a 2002 squad built increasingly around Tunisian pros based in Europe — a shift from the largely domestic-league roster that had made history in 1978."
             }
           ]
         }
@@ -218,6 +243,11 @@ export const tunisia = {
               "id": "mnari-stuns-spain",
               "label": "MNARI STUNS SPAIN",
               "story": "Jawhar Mnari drilled Tunisia ahead inside eight minutes against a Spain side stacked with Raúl, Casillas and Puyol. Spain leveled inside the hour, Fernando Torres restored the lead, and a 90th-minute penalty finished it at 3–1 — leaving Tunisia needing a win over Ukraine they never got."
+            },
+            {
+              "id": "lemerre-double-continental-coach",
+              "label": "LEMERRE'S DOUBLE CROWN",
+              "story": "Roger Lemerre, sacked by France after their disastrous 2002 title defense, rebuilt his career in Tunis — winning the 2004 Africa Cup of Nations to become the first coach ever to win two different continental championships, then leading Tunisia to the 2006 World Cup."
             }
           ]
         }
@@ -268,6 +298,11 @@ export const tunisia = {
               "id": "kane-breaks-tunisian-hearts",
               "label": "KANE BREAKS TUNISIAN HEARTS",
               "story": "Ferjani Sassi's penalty had Tunisia level with England inside twenty-one minutes, and the equalizer held deep into stoppage time. Then Harry Maguire flicked on a corner and Harry Kane, left unmarked at the back post, headed home the winner in the first minute of injury time — the cruelest possible ending."
+            },
+            {
+              "id": "uhlsport-dotted-gradient",
+              "label": "UHLSPORT'S DOTTED FADE",
+              "story": "German manufacturer Uhlsport's 2018 shirt ran a dotted gradient pattern fading in from the sides of an otherwise plain white home jersey, red crew collar and cuffs completing the look — a design that drew mixed reviews during Uhlsport's three-year run supplying the federation."
             }
           ]
         }
@@ -318,6 +353,11 @@ export const tunisia = {
               "id": "denmark-two-near-misses",
               "label": "TWO NEAR MISSES",
               "story": "Christian Eriksen forced a save from goalkeeper Aymen Dahmen, and moments later Andreas Cornelius rose unmarked at the far post but could only crash his header off the frame of the goal. Both misses kept the opener goalless. Aïssa Laïdouni's display in midfield earned him the match's man-of-the-match award."
+            },
+            {
+              "id": "ksour-essef-cuirass-kit",
+              "label": "THE CARTHAGINIAN CUIRASS",
+              "story": "Kappa's 2022 kits carried a tonal print of the Ksour Essef cuirass, a 3rd-century-BC bronze breastplate unearthed in Tunisia in 1909 and linked to Hannibal's Second Punic War campaigns — home and away shirts swapped the red-and-white balance, while the third kit rendered it in olive green."
             }
           ]
         }
