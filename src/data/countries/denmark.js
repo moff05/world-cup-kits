@@ -388,6 +388,11 @@ export const denmark = {
               "id": "group-stage-exit-defending-form",
               "label": "FORM DESERTS THE DANES",
               "story": "Fresh off reaching a Euro 2020 semi-final, Denmark arrived in Qatar as one of the tournament's trendy picks but left without a win — a draw with Tunisia and losses to France and Australia added up to Denmark's worst World Cup group-stage return since 2010."
+            },
+            {
+              "id": "eriksen-returns-qatar",
+              "label": "ERIKSEN'S RETURN",
+              "story": "Eighteen months after his heart stopped on the pitch at Euro 2020 and he was resuscitated in front of a stunned stadium, Christian Eriksen started all three of Denmark's group games in Qatar — playing with an implanted defibrillator, back in the shirt he'd worn as an 18-year-old debutant in 2010."
             }
           ]
         }
