@@ -524,6 +524,23 @@
       "result": "Round of 16",
       "headline": "Rome Ends Their Run",
       "story": "Uruguay stumbled through the group stage, needing a late Daniel Fonseca goal to beat South Korea and sneak through in third place. Italy, the host nation riding a wave of momentum, shut them out 2–0 in Rome's Round of 16 in front of a hostile crowd.",
+      "annotations": [
+        {
+          "id": "schillaci-serena-seal-it",
+          "label": "SCHILLACI BREAKS THE DEADLOCK",
+          "story": "A scoreless first half in Rome's Olimpico gave Uruguay hope, but Salvatore Schillaci — Italy's surprise breakout scorer all tournament — broke through in the 65th minute, and Aldo Serena doubled it in the 85th. Uruguay never mustered a reply in front of a crowd solidly behind the hosts."
+        },
+        {
+          "id": "puma-brief-tenure",
+          "label": "PUMA DRESSES THE CELESTE",
+          "story": "Puma had supplied Uruguay's kit since 1987, and Italia '90 marked the brand's only World Cup appearance with the team before another switch mid-decade. The celeste shirt stayed plain — still no stars on the crest, two years before FIFA would recognize Uruguay's Olympic titles and let the badge finally reflect four championships instead of two."
+        },
+        {
+          "id": "young-democracy-team",
+          "label": "A YOUNG DEMOCRACY'S TEAM",
+          "story": "This squad represented a Uruguay barely five years removed from twelve years of military dictatorship, which had ended in 1985 with the return of elected government. Football carried outsized weight in that transition — a rare source of unified national pride while the country still worked through the wounds of the era."
+        }
+      ],
       "homeColors": "light blue (celeste) shirt, black shorts, black socks",
       "awayColors": null,
       "image": null,
