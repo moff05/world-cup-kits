@@ -394,6 +394,23 @@
       "result": "Quarter-final",
       "headline": "Butragueño's Four-Goal Night",
       "story": "Emilio 'El Buitre' Butragueño scored four goals in a stunning 5–1 demolition of Denmark in the Round of 16, one of the tournament's signature performances. Belgium eliminated Spain on penalties in the quarter-final after Antonio Señor's equalizer forced extra time, the shootout ending 5–4 to the Belgians.",
+      "annotations": [
+        {
+          "id": "the-miss-that-sent-belgium-through",
+          "label": "THE MISS THAT SENT BELGIUM THROUGH",
+          "story": "Antonio Señor's 85th-minute equalizer forced extra time, but in the shootout it was 19-year-old substitute Eloy Olaya, the youngest man on the pitch, who saw his low effort saved by Jean-Marie Pfaff. Belgium converted their next kick and eliminated the team that had just put five goals past Denmark two rounds earlier."
+        },
+        {
+          "id": "spain-switches-suppliers",
+          "label": "SPAIN SWITCHES SUPPLIERS",
+          "story": "For the first time since 1981, Spain took the field without Adidas's three stripes — French brand Le Coq Sportif had taken over the kit contract in 1984, dressing Butragueño's team in a red shirt with the brand's rooster crest woven quietly into the collar, a detail most fans never even noticed."
+        },
+        {
+          "id": "the-vulture-and-his-quinta",
+          "label": "THE VULTURE AND HIS QUINTA",
+          "story": "Butragueño's four goals against Denmark came from a nickname earned at Real Madrid — 'El Buitre,' the Vulture, for his predatory finishing inside the box. He was the most famous face of La Quinta del Buitre, five academy products who'd just taken over Real Madrid's midfield and attack, several of whom lined up alongside him in Mexico that summer."
+        }
+      ],
       "homeColors": "red shirt, blue shorts, black socks (Le Coq Sportif)",
       "awayColors": null,
       "image": null,
