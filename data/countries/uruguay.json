@@ -163,6 +163,23 @@
       "result": "4th Place",
       "headline": "The Unbeaten Run Ends",
       "story": "Uruguay hadn't lost a single World Cup match in 24 years before Hungary's 'Golden Team' finally beat them 4–2 after extra time in a raging Basel semi-final. Juan Hohberg forced extra time with a stunning equalizer, but Sándor Kocsis's two late goals ended the run. A weary Uruguay then lost the third-place match to Austria 3–1.",
+      "annotations": [
+        {
+          "id": "hohberg-collapse",
+          "label": "COLLAPSE AND KEEP PLAYING",
+          "story": "Juan Hohberg leveled Hungary at 2-2 in the 87th minute, then collapsed face-first in his teammates' celebratory pile-up, apparently from a heart episode. Trainers revived him on the sideline; ignoring advice to stop, he played all of extra time, but Sándor Kocsis's late double still ended Uruguay's 24-year unbeaten run 4–2."
+        },
+        {
+          "id": "first-fixed-squad-numbers",
+          "label": "NUMBERS FINALLY FIXED",
+          "story": "Switzerland 1954 was the first World Cup where each Uruguayan wore one number for the whole tournament, 1 through 22, rather than shirts reshuffled match to match. It was a small bureaucratic shift that made the celeste shirt, still plain and starless, feel for the first time like a real uniform rather than a costume."
+        },
+        {
+          "id": "unbeaten-run-since-1930",
+          "label": "TWENTY-FOUR YEARS UNBEATEN",
+          "story": "Uruguay arrived in Switzerland having never lost a single World Cup match across three prior tournaments, a run stretching back to the first ball kicked in 1930. Basel's semi-final against Hungary's 'Golden Team' — unbeaten for four years themselves — was less a game than a collision of two invincibility myths, and only one survived."
+        }
+      ],
       "homeColors": "light blue (celeste) shirt, black shorts, black socks",
       "awayColors": null,
       "image": null,
