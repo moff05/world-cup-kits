@@ -592,9 +592,19 @@ export const switzerland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "SHAQIRI'S HAT-TRICK HERO",
-              "story": "Xherdan Shaqiri scored a hat-trick in a 3–0 win over Honduras to send Switzerland through to the Round of 16, after an opening win over Ecuador and a heavy 5–2 loss to France. Ángel Di María's 118th-minute goal ended the run against Argentina — Switzerland's best finish in eight years."
+              "id": "seferovic-stoppage-winner",
+              "label": "A STOPPAGE-TIME WINNER",
+              "story": "Ecuador led early, but Mehmedi's 48th-minute equalizer set up Haris Seferovic's stoppage-time header — a winner arriving in the sixth minute of injury time, turning a hard-fought point into an opening victory. It was the same late-drama script Switzerland would face again in the Round of 16, this time on the losing end."
+            },
+            {
+              "id": "cross-as-watermark",
+              "label": "A CROSS AS WATERMARK",
+              "story": "Puma's evoPOWER template put a tonal Swiss cross across the chest as a watermark, visible only at certain angles, with thin broken white lines running down each side echoing the flag. The away shirt flipped it to all white, sharing a base pattern with the Italy kit released the same season."
+            },
+            {
+              "id": "shaqiri-refugee-childhood",
+              "label": "FROM KOSOVO TO SWITZERLAND",
+              "story": "Xherdan Shaqiri's family fled Kosovo for Switzerland when he was an infant, one of thousands of ethnic Albanians who left during the unrest of the late 1980s and 1990s. Two decades later, the boy from a refugee household delivered Switzerland's second-ever World Cup hat-trick, sixty years after Josef Hügi's in 1954."
             }
           ]
         }
