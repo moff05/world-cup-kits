@@ -467,9 +467,19 @@ export const usa = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "GROUP OF DEATH, NO WINS",
-              "story": "Drawn into a brutal group with Italy, Czech Republic, and Ghana, the U.S. lost the opener 3–0, salvaged a draw with eventual champions Italy on a Cristian Zaccardo own goal, then fell to Ghana 2–1 in the finale — a group-stage exit that undid the promise of 2002."
+              "id": "nine-men-hold-italy",
+              "label": "NINE MEN HOLD ITALY",
+              "story": "Pablo Mastroeni and Eddie Pope were both sent off, leaving the Americans a man light for more than 45 minutes against Italy, who themselves played most of the second half down to ten after Daniele De Rossi elbowed Brian McBride bloody. Down to nine men, the U.S. still salvaged a 1–1 draw."
+            },
+            {
+              "id": "the-1950-stripe-returns",
+              "label": "THE 1950 STRIPE RETURNS",
+              "story": "Nike's home shirt quietly revived the diagonal stripe from the 1950 sash — thinner this time, dark red and navy running beneath the crest rather than across the whole chest — while the navy away shirt paired an oversized white collar with a thick horizontal band broken by the player's own number."
+            },
+            {
+              "id": "ranking-that-lied",
+              "label": "THE RANKING THAT LIED",
+              "story": "The Americans arrived in Germany having been ranked fourth in the world that spring, a number almost nobody inside the sport actually believed. It evaporated fast — a 3–0 opening loss to the Czechs, then a group-stage exit against Ghana, dropping the team to 31st by year's end, the sharpest ranking collapse in program history."
             }
           ]
         }
