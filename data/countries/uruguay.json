@@ -413,6 +413,23 @@
       "result": "Group Stage",
       "headline": "A Quiet European Exit",
       "story": "A rebuilding Uruguay, missing the golden generation's old guard, managed only a draw with Bulgaria and losses to the Netherlands and Sweden in West Germany. Johan Cruyff's soon-to-be-legendary Dutch side beat them 2–0, and Uruguay finished bottom of their group without scoring more than a single goal all tournament.",
+      "annotations": [
+        {
+          "id": "cruyff-total-football-arrives",
+          "label": "TOTAL FOOTBALL ARRIVES",
+          "story": "Johan Cruyff's Netherlands used their opening match against Uruguay to showcase what the world would soon call Total Football on its biggest stage — fluid, interchanging positions that no defense had prepared for. Uruguay lost 2–0 and never solved the puzzle, a preview of the tactical revolution that would carry the Dutch to the final."
+        },
+        {
+          "id": "adidas-arrives-1974",
+          "label": "ADIDAS TAKES OVER",
+          "story": "West Germany 1974 marked Uruguay's first tournament dressed by Adidas, beginning an eight-year kit-supply relationship. The switch to a global manufacturer brought Uruguay's celeste jersey in line with the three-stripe template sweeping international football, even as the team on the field was a rebuilding side with none of 1950's stars left."
+        },
+        {
+          "id": "twelve-year-drought-begins",
+          "label": "A LONG ABSENCE BEGINS",
+          "story": "This quiet, low-scoring exit was the last Uruguay would manage for over a decade — after 1974, the celeste failed to qualify for either 1978 or 1982, their longest World Cup drought. It would take twelve years and a new generation to bring them back, at Mexico 1986."
+        }
+      ],
       "homeColors": "light blue (celeste) shirt, black shorts, black socks",
       "awayColors": null,
       "image": null,
