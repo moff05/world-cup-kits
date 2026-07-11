@@ -829,7 +829,8 @@ export const belgium = {
           "round": "Group Stage",
           "opponent": "Canada",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Batshuayi 44'"
         },
         {
           "round": "Group Stage",
