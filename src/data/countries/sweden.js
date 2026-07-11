@@ -124,9 +124,19 @@ export const sweden = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "EIGHT GOALS, THEN A COLLAPSE",
-              "story": "Austria's forced withdrawal after the Anschluss gave Sweden a bye into the quarter-finals, where they demolished Cuba 8–0 — still their biggest World Cup win, built on hat-tricks from Harry Andersson and Gustav Wetterström. Hungary ended the run 5–1 in the semi-final, and a tired Sweden lost the third-place match to Brazil 4–2."
+              "id": "double-hat-trick-cuba",
+              "label": "TWO HAT-TRICKS, ONE DAY",
+              "story": "Harry Andersson marked his international debut with a hat-trick against Cuba, and Gustav Wetterström matched him with three of his own in the same match — a rare double hat-trick that built Sweden's 8–0 quarter-final, still their biggest World Cup win on record."
+            },
+            {
+              "id": "in-house-1938-kit",
+              "label": "NO SPONSOR, JUST WOOL",
+              "story": "Sweden's kit remained entirely in-house through 1938 — no outside manufacturer, no logo, just the federation's own tailoring in yellow and blue with the three-crowns crest. That homemade approach to the shirt held for two more decades, all the way through the 1958 final on home soil."
+            },
+            {
+              "id": "last-cup-before-war",
+              "label": "LAST CUP BEFORE WAR",
+              "story": "France 1938 turned out to be the final World Cup for twelve years — the next one wasn't played until 1950, after the war swallowed the tournament whole. Sweden's fourth-place finish, built on the Cuba rout and the Anschluss bye, stood as their best result for an entire generation."
             }
           ]
         }
