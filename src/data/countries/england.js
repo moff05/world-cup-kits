@@ -618,9 +618,19 @@ export const england = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "GAZZA'S TEARS, PENALTY HEARTBREAK",
-              "story": "David Platt's extra-time volley beat Belgium, and two Gary Lineker penalties saw off Cameroon, sending England to a semi-final against West Germany. Paul Gascoigne's booking meant he'd miss a final he never got to play in, as the game finished 1–1 and West Germany won the shootout 4–3 after Stuart Pearce and Chris Waddle both missed. Italy beat England in the third-place match."
+              "id": "platts-last-gasp-volley",
+              "label": "PLATT'S LAST-GASP VOLLEY",
+              "story": "With penalties two minutes away against Belgium, David Platt spun onto Paul Gascoigne's free kick and volleyed it into the roof of the net in the 119th minute. It was the latest World Cup winner England had ever scored, and it kept their run alive."
+            },
+            {
+              "id": "diamonds-in-the-weave",
+              "label": "DIAMONDS IN THE WEAVE",
+              "story": "Umbro hid its double-diamond logo inside the fabric itself, weaving an abstract geometric pattern into the white and red Italia '90 shirts that was nearly invisible from a distance but unmistakable up close, a design flourish that made the kit an instant collector's item."
+            },
+            {
+              "id": "world-in-motion",
+              "label": "WORLD IN MOTION",
+              "story": "With English clubs still banned from Europe after Heysel, New Order's official tournament song 'World in Motion,' featuring a rap verse from John Barnes, became an unlikely number one single and helped rebrand English football as something worth celebrating again."
             }
           ]
         }
