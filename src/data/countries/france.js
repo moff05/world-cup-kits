@@ -652,9 +652,19 @@ export const france = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ZIDANE'S TWO HEADERS AT HOME",
-              "story": "On home soil at the Stade de France, Zinedine Zidane scored twice with headers off corners in the first half of the final, and Emmanuel Petit added a stoppage-time third as France routed holders Brazil 3–0. It was France's first World Cup title, capping a tournament in which they'd conceded just twice in seven matches."
+              "id": "zidanes-two-headers",
+              "label": "ZIDANE'S TWO HEADERS",
+              "story": "On home soil at the Stade de France, Zinedine Zidane scored twice with headers off corners inside the first 45 minutes of the final, and Emmanuel Petit added a stoppage-time third as France routed holders Brazil 3–0 for a first World Cup title, conceding only twice across the entire tournament."
+            },
+            {
+              "id": "tricolor-stripe",
+              "label": "THE TRICOLOR STRIPE",
+              "story": "Adidas ran a thick red stripe down the center of France's blue shirt for 1998, flanked by thin white lines — the tricolor rendered directly onto the fabric rather than left to shorts and socks. It became the most recognizable France kit ever made, forever tied to the 3–0 final win over Brazil."
+            },
+            {
+              "id": "built-for-the-cup",
+              "label": "BUILT FOR THE CUP",
+              "story": "The Stade de France was constructed specifically to host the 1998 tournament, opening barely a year before kickoff at enormous cost to the French state. France then delivered the storybook ending organizers hoped for, winning the trophy in the stadium built to hold it, in front of a home crowd for the first time."
             }
           ]
         }
