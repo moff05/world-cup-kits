@@ -466,9 +466,19 @@ export const england = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "UNBEATEN, YET ELIMINATED EARLY",
-              "story": "Debuting Admiral's bold red-and-blue trimmed kit, England won all three group games, Bryan Robson scoring after just 27 seconds against France, then the fastest goal in World Cup history at that point. The second group phase brought only two scoreless draws, against West Germany and Spain, and England went home unbeaten but empty-handed, needing a two-goal win over Spain that never came."
+              "id": "twenty-seven-seconds",
+              "label": "TWENTY-SEVEN SECONDS",
+              "story": "Bryan Robson met a knock-down from a throw-in and half-volleyed it past France's goalkeeper before the opening minute was even up, the fastest goal in World Cup history at that point. It stood as the record for two decades until Turkey's Hakan Şükür broke it in 2002."
+            },
+            {
+              "id": "selling-the-shirt",
+              "label": "SELLING THE SHIRT",
+              "story": "Admiral, England's kit supplier since 1974, redesigned the strip repeatedly through the late seventies and into 1982 not for performance but for retail, pioneering the idea of the England shirt as a product fans would buy for themselves rather than just watch on television."
+            },
+            {
+              "id": "a-nation-at-war",
+              "label": "A NATION AT WAR",
+              "story": "Argentine forces surrendered in the Falklands only three weeks before the tournament kicked off in Spain. England traveled under real diplomatic tension with Argentina also in the field, though the draw and Argentina's early elimination kept the two sides from ever meeting on the pitch."
             }
           ]
         }
