@@ -41,6 +41,16 @@
           "id": "gonzalez-header",
           "label": "TEENAGE HEADER",
           "story": "Nineteen-year-old Ronald González rose to head in Costa Rica's only goal of the round of 16 mauling by Czechoslovakia, becoming the youngest goalscorer of the 1990 tournament. It was scant consolation as Tomáš Skuhravý's hat-trick ended the run, but it capped a stunning debut for a team given no chance of even qualifying."
+        },
+        {
+          "id": "cayasso-topples-scotland",
+          "label": "CAYASSO SHOCKS SCOTLAND",
+          "story": "Costa Rica opened their World Cup existence by beating Scotland — a five-time-consecutive qualifier — 1–0 in Genoa. Juan Cayasso struck first-time past goalkeeper Jim Leighton, a result so unthinkable that Scotland boss Andy Roxburgh turned visibly tetchy fielding questions about it afterward."
+        },
+        {
+          "id": "president-corolla-gift",
+          "label": "A PRESIDENT'S GIFT",
+          "story": "Cayasso's winner over Scotland turned him into a national hero overnight; Costa Rica's president rewarded him with a brand-new Toyota Corolla. For a squad given no realistic chance of even qualifying, the win reframed an entire nation's relationship with the World Cup."
         }
       ],
       "homeColors": "red shirt, blue shorts, white socks (Lotto)",
@@ -84,7 +94,23 @@
     "2002": {
       "result": "Group Stage",
       "headline": "So Close, Edged on Goals",
-      "annotations": [],
+      "annotations": [
+        {
+          "id": "wanchope-gomez-vs-brazil",
+          "label": "TWO PAST THE CHAMPIONS",
+          "story": "Costa Rica lost 5–2 to eventual champions Brazil, but Paulo Wanchope and Rónald Gómez both beat Marcos to become two of only a handful of players to score against Brazil's title-winning defense that summer — a rare crack in a team that conceded just four goals all tournament."
+        },
+        {
+          "id": "plain-lotto-post-1997",
+          "label": "THE STRIPES ARE GONE",
+          "story": "By 2002, the black-and-white striped away shirt that had defined Costa Rica since 1990 was long retired, replaced in 1997 by a plainer all-white change kit. Lotto's home shirt kept the flag's red and blue but dropped the Partizan-inspired flourish entirely."
+        },
+        {
+          "id": "guimaraes-player-to-coach",
+          "label": "GUIMARÃES'S FULL CIRCLE",
+          "story": "Alexandre Guimarães came on as a substitute in the 1990 win over Scotland and again against Brazil under Bora Milutinović. Twelve years later he led Costa Rica back to the World Cup himself — this time from the touchline, as head coach for the 2002 campaign."
+        }
+      ],
       "homeColors": "red shirt, blue shorts, white socks",
       "awayColors": null,
       "image": null,
@@ -119,7 +145,23 @@
     "2006": {
       "result": "Group Stage",
       "headline": "Wanchope's Brace, Opening Rout",
-      "annotations": [],
+      "annotations": [
+        {
+          "id": "wanchope-record-opener",
+          "label": "HIGHEST-SCORING OPENER",
+          "story": "Paulo Wanchope's brace in Costa Rica's 4–2 defeat to hosts Germany produced the highest-scoring World Cup opening match since the tournament adopted a standalone opener in 1974, with Philipp Lahm and Miroslav Klose among the scorers for the hosts on the other end."
+        },
+        {
+          "id": "joma-brushstroke-shirt",
+          "label": "JOMA'S BRUSHSTROKE",
+          "story": "Joma's 2006 shirt ran a horizontal band of white-and-blue brushstroke marks across the chest of an otherwise plain red jersey, with blue trim on the round collar and cuffs — a subtler design than the flag-referencing kits that came before or after it."
+        },
+        {
+          "id": "winless-and-pointless-2006",
+          "label": "NO POINTS, NO GOALS CONCEDED SPARED",
+          "story": "Sixteen years after their miracle debut run to the round of 16, Costa Rica left Germany 2006 without a single point — their first winless, pointless World Cup group stage, a stark reversal from the team Bora Milutinović had guided past Scotland and Sweden in 1990."
+        }
+      ],
       "homeColors": "red shirt with white and blue brushstroke trim, blue shorts, white socks (Joma)",
       "awayColors": "white shirt with blue vertical stripes, white shorts (Joma)",
       "image": null,
@@ -164,6 +206,11 @@
           "id": "krul-substitution",
           "label": "THE GOALKEEPER SWAP",
           "story": "With the quarter-final locked at 0-0 after extra time, Dutch manager Louis van Gaal used his final substitution to bring on Tim Krul purely for the penalty shootout. Krul saved from Bryan Ruiz and Michael Umaña, and the gamble sent the Netherlands through 4-3 on kicks."
+        },
+        {
+          "id": "lotto-commemorative-jersey",
+          "label": "A JERSEY FOR THE RUN",
+          "story": "Lotto's 2014 kit paired traditional home red with blue-and-white accents, and after Los Ticos' shock run to the quarter-finals, the Italian manufacturer issued a special commemorative jersey to mark the achievement — a rare honor for a team seeded to finish last in its group."
         }
       ],
       "homeColors": "red shirt with blue front stripe, blue shorts, red socks (Lotto)",
@@ -219,6 +266,16 @@
           "id": "sommer-own-goal",
           "label": "BAR, HEAD, GOAL",
           "story": "Bryan Ruiz's stoppage-time penalty against Switzerland cannoned back off the crossbar and struck goalkeeper Yann Sommer's head on the way in, credited as an own goal. It salvaged a 2-2 draw and made Sommer only the third goalkeeper in World Cup history to score an own goal."
+        },
+        {
+          "id": "new-balance-debut-2018",
+          "label": "NEW BALANCE'S FIRST CUP",
+          "story": "2018 marked New Balance's first World Cup as Costa Rica's kit supplier, dressing a squad built around the same Bryan Ruiz and Keylor Navas generation that had stunned the world in Brazil four years earlier, this time exiting without a win."
+        },
+        {
+          "id": "navas-real-madrid-keeper",
+          "label": "A CHAMPIONS LEAGUE KEEPER",
+          "story": "Keylor Navas started 2018 fresh off winning a third consecutive Champions League with Real Madrid — the first Costa Rican to hold Europe's biggest club prize — only to concede seven goals in three World Cup games as the team's defense collapsed after their 2014 heroics."
         }
       ],
       "homeColors": "red shirt, blue shorts, white socks — 'Declare Your DNA' design (New Balance)",
@@ -260,6 +317,16 @@
           "id": "record-tying-rout",
           "label": "SEVEN WITHOUT REPLY",
           "story": "Spain scored with each of their first seven shots on target, romping to a 7-0 win that equaled Costa Rica's worst defeat in team history, a 1975 loss to Mexico. Costa Rica did not manage a single shot of their own across the full ninety minutes."
+        },
+        {
+          "id": "new-balance-final-cup",
+          "label": "NEW BALANCE'S LAST DANCE",
+          "story": "Qatar 2022 was New Balance's final World Cup as Costa Rica's kit maker before Adidas took over in 2023 — a quiet sign-off after a tournament that opened with the joint-heaviest defeat in the team's history."
+        },
+        {
+          "id": "fuller-stuns-japan",
+          "label": "FULLER'S FLASH",
+          "story": "Four days after conceding seven to Spain, Costa Rica beat Japan 1–0 on a second-half strike from Keysher Fuller — a result that briefly kept their knockout hopes alive and remains one of the most improbable turnarounds of the group stage."
         }
       ],
       "homeColors": "red shirt with blue sleeve cuffs, blue shorts (New Balance)",
