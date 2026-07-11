@@ -128,9 +128,19 @@ export const chile = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ROBLEDO'S ROUT, EARLY EXIT",
-              "story": "George Robledo, born in England to a Chilean father, starred in a 5–2 demolition of the United States in Recife, with Robledo, Riera, and Prieto all on the scoresheet. But back-to-back 2–0 losses to England and Spain had already ended Chile's run in the round-robin final group."
+              "id": "robledo-header-vs-usa",
+              "label": "ROBLEDO OPENS THE FLOOD",
+              "story": "George Robledo — born in Yorkshire to a Chilean father, the season's top scorer at Newcastle United — headed Chile ahead inside sixteen minutes against the United States. Four more goals followed in a 5–2 rout, the tournament's only win, before back-to-back 2–0 defeats to England and Spain ended the run."
+            },
+            {
+              "id": "red-shirt-debut-1950",
+              "label": "THE RED FINALLY ARRIVES",
+              "story": "Twenty years after debuting in buttoned beige wool, Chile arrived in Brazil wearing the scarlet shirt, blue shorts and white socks that would become its permanent identity — no sponsor, no elaborate crest, just color. The switch stuck: every Chile World Cup shirt since has kept red as its base."
+            },
+            {
+              "id": "postwar-world-cup-return",
+              "label": "FOOTBALL RETURNS AFTER WAR",
+              "story": "This was the first World Cup in twelve years — the tournament returning to a changed map, hosts Brazil rushing to finish the vast, unfinished Maracanã in time. Chile's group matches played out dwarfed by the scale of it, crowds past seventy thousand watching a team that had waited as long as everyone else just to play again."
             }
           ]
         }
