@@ -167,6 +167,23 @@
       "result": "4th Place",
       "headline": "Fourth Place, Forever Best",
       "story": "Three straight group wins and a quarter-final upset of Hungary carried the Soviets to their first World Cup semi-final. Franz Beckenbauer's strike sent West Germany through 2–1 at Goodison Park, and Eusébio's Portugal denied them bronze in the third-place match. Fourth place in England remains the best finish in Soviet or Russian history.",
+      "annotations": [
+        {
+          "id": "the-italy-shock",
+          "label": "THE ITALY SHOCK",
+          "story": "Igor Chislenko's 57th-minute strike beat Italy 1–0 in the group stage, a defeat so humiliating back home that the Italian squad reportedly returned to a hail of rotten tomatoes at the airport. It was the springboard for the best run in Soviet or Russian World Cup history."
+        },
+        {
+          "id": "olimpiadas-steady-kit",
+          "label": "OLIMPIADA'S STEADY KIT",
+          "story": "Produced under the domestic Olimpiada label rather than a Western manufacturer, the 1966 kit kept the same red shirt, white shorts and red socks the Soviets had worn at every tournament since their 1958 debut — a rare thread of consistency for a team that later experimented with navy and maroon."
+        },
+        {
+          "id": "down-to-ten-men",
+          "label": "DOWN TO TEN MEN",
+          "story": "Trailing West Germany 1–0 in the semi-final at Goodison Park, the Soviets lost Igor Chislenko to a red card moments later and had to play the tournament's biggest match a man light with no substitutes allowed under 1966 rules. Beckenbauer doubled the lead soon after, and the run ended 2–1."
+        }
+      ],
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
       "image": null,
