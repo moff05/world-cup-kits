@@ -50,54 +50,52 @@ function FeaturedCard({ id, year, result }) {
 function FeaturedStrip() {
   const scrollRef = useRef(null);
   const rafRef = useRef(null);
-  const userActiveRef = useRef(false);
-  const userActiveTimer = useRef(null);
-  const dragRef = useRef(null); // { startX, startScroll }
+  const pausedRef = useRef(false);
+  const dragRef = useRef(null);
   const movedRef = useRef(false);
-  const [dragging, setDragging] = useState(false);
 
   useEffect(() => {
     const el = scrollRef.current;
     if (!el) return;
     const SPEED = 0.5;
 
-    const wrapScroll = () => {
-      const half = el.scrollWidth / 2;
-      if (half > 0 && el.scrollLeft >= half) el.scrollLeft -= half;
-    };
-
     const tick = () => {
-      if (!userActiveRef.current) {
+      if (!pausedRef.current) {
         el.scrollLeft += SPEED;
-        wrapScroll();
+        const half = el.scrollWidth / 2;
+        if (half > 0 && el.scrollLeft >= half) el.scrollLeft -= half;
       }
       rafRef.current = requestAnimationFrame(tick);
     };
     rafRef.current = requestAnimationFrame(tick);
 
+    // Wrap when user scrolls past the halfway loop point
     const onScroll = () => {
-      wrapScroll();
-      userActiveRef.current = true;
-      clearTimeout(userActiveTimer.current);
-      userActiveTimer.current = setTimeout(() => { userActiveRef.current = false; }, 1500);
+      const half = el.scrollWidth / 2;
+      if (half > 0 && el.scrollLeft >= half) el.scrollLeft -= half;
+      if (el.scrollLeft <= 0 && pausedRef.current) el.scrollLeft = half - 2;
     };
     el.addEventListener("scroll", onScroll, { passive: true });
 
     return () => {
       cancelAnimationFrame(rafRef.current);
-      clearTimeout(userActiveTimer.current);
       el.removeEventListener("scroll", onScroll);
     };
   }, []);
 
+  // Pause auto-scroll while mouse is inside
+  const onMouseEnter = () => { pausedRef.current = true; };
+  const onMouseLeave = () => {
+    pausedRef.current = false;
+    dragRef.current = null;
+  };
+
+  // Click-drag for desktop (pointer events)
   const onPointerDown = (e) => {
     if (e.button !== 0) return;
-    const el = scrollRef.current;
     movedRef.current = false;
-    dragRef.current = { startX: e.clientX, startScroll: el.scrollLeft };
-    userActiveRef.current = true;
-    el.setPointerCapture(e.pointerId);
-    setDragging(true);
+    dragRef.current = { startX: e.clientX, startScroll: scrollRef.current.scrollLeft };
+    scrollRef.current.setPointerCapture(e.pointerId);
   };
 
   const onPointerMove = (e) => {
@@ -107,23 +105,15 @@ function FeaturedStrip() {
     if (Math.abs(delta) > 4) movedRef.current = true;
     const half = el.scrollWidth / 2;
     let next = dragRef.current.startScroll + delta;
-    if (next < 0) next += half;
+    if (next < 0) next = 0;
     if (next >= half) next -= half;
     el.scrollLeft = next;
   };
 
-  const onPointerUp = () => {
-    dragRef.current = null;
-    setDragging(false);
-    clearTimeout(userActiveTimer.current);
-    userActiveTimer.current = setTimeout(() => { userActiveRef.current = false; }, 800);
-  };
+  const onPointerUp = () => { dragRef.current = null; };
 
   const onClickCapture = (e) => {
-    if (movedRef.current) {
-      e.preventDefault();
-      e.stopPropagation();
-    }
+    if (movedRef.current) { e.preventDefault(); e.stopPropagation(); }
   };
 
   return (
@@ -132,8 +122,10 @@ function FeaturedStrip() {
         <span className="featured-strip-title">Featured Stories</span>
       </div>
       <div
-        className={`featured-strip-scroll${dragging ? " featured-strip-scroll--dragging" : ""}`}
+        className="featured-strip-scroll"
         ref={scrollRef}
+        onMouseEnter={onMouseEnter}
+        onMouseLeave={onMouseLeave}
         onPointerDown={onPointerDown}
         onPointerMove={onPointerMove}
         onPointerUp={onPointerUp}
