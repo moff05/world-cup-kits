@@ -311,9 +311,19 @@ export const colombia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "JAMES ARRIVES, DEBUT QUARTER-FINAL",
-              "story": "James Rodríguez scored in every match and won the Golden Boot, highlighted by a chest-and-volley strike against Uruguay that later won the Puskás Award. Colombia reached the quarter-finals for the first time in history before Brazil's Thiago Silva and David Luiz ended the run 2–1 in Fortaleza."
+              "id": "zuniga-neymar-injury",
+              "label": "THE ZÚÑIGA CHALLENGE",
+              "story": "Colombia's exit came wrapped in a bigger story: Juan Camilo Zúñiga's knee drove into Neymar's lower back during the second half, fracturing a vertebra and ending the host nation's tournament outright — an image that outlasted James Rodríguez's late consolation goal as the lasting memory from Fortaleza."
+            },
+            {
+              "id": "sombrero-condor-kit",
+              "label": "FOLKLORE ON THE SHIRT",
+              "story": "Adidas wove Colombian folklore into the home shirt: the rings of the sombrero vueltiao, the woven hat native to the Caribbean coast, radiate from the crest across a blue chest band, while a red Andean condor spreads its wings across the back above the phrase \"Unidos por un país.\""
+            },
+            {
+              "id": "falcao-torn-acl",
+              "label": "FALCAO'S SADDEST DAY",
+              "story": "The team playing the best football in Colombian history did it without its best player: Radamel Falcao tore his ACL in a January warm-up match, and manager José Pékerman called cutting him from the squad \"the saddest day\" of his tenure — a wound James Rodríguez's Golden Boot run couldn't fully heal."
             }
           ]
         }
