@@ -99,6 +99,16 @@ export const argentina = {
               "id": "stabile-hat-trick-debut-1930",
               "label": "STÁBILE'S HAT-TRICK DEBUT",
               "story": "Guillermo Stábile was a late replacement, uncapped before the tournament began. He scored a hat-trick against Mexico in his international debut and finished as the World Cup's top scorer with eight goals — all of it in the only tournament he ever played for Argentina."
+            },
+            {
+              "id": "numbered-by-the-alphabet-1930",
+              "label": "NUMBERED BY THE ALPHABET",
+              "story": "Squad numbers were still a novelty in 1930 — players were numbered 1 through 22 by their spot on the official roster list, not by playing position, and wore that same number for every match. Argentina's shirts carried no crest, no sponsor, just plain sky-blue-and-white stripes."
+            },
+            {
+              "id": "crossing-the-river-plate-1930",
+              "label": "CROSSING THE RIVER PLATE",
+              "story": "Most European federations balked at the three-week boat trip to Uruguay, leaving a mostly South American field for the inaugural tournament. Thousands of Argentine supporters crossed the Río de la Plata by ferry to Montevideo for the final, only to sail home after a tense 4–2 loss to the hosts."
             }
           ]
         }
