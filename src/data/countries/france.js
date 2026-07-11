@@ -914,9 +914,19 @@ export const france = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "STEADY RUN ENDS IN RIO",
-              "story": "Karim Benzema scored twice in a 3–0 opener over Honduras and Les Bleus routed Switzerland 5–2, restoring credibility after 2010's collapse. A Mats Hummels header at the Maracanã ended the run 1–0 to eventual champions Germany in the quarter-final, France's deepest run since 2006."
+              "id": "hummels-header",
+              "label": "HUMMELS' HEADER",
+              "story": "Karim Benzema scored twice in a 3–0 opener over Honduras and France routed Switzerland 5–2, restoring credibility after 2010's collapse. A Mats Hummels header at the Maracanã ended the run 1–0 to eventual champions Germany in the quarter-final — France's deepest run since the 2006 final, but still a floor below."
+            },
+            {
+              "id": "navy-return",
+              "label": "THE NAVY RETURN",
+              "story": "Nike took over France's kit for 2014 and abandoned the bright royal blue of previous decades for a darker navy shirt with a white collar, a subtler look than anything Adidas had produced. It signaled a quieter, more disciplined identity for a team still rebuilding trust after Knysna four years earlier."
+            },
+            {
+              "id": "deschamps-rebuild",
+              "label": "DESCHAMPS' REBUILD",
+              "story": "Didier Deschamps took over as manager after the Laurent Blanc era and the wreckage of 2010, tasked with restoring a federation and a fanbase that had turned on its own team. The 2014 quarter-final was the first proof his rebuild was working — a younger, more humble squad supporters could stand behind again."
             }
           ]
         }
