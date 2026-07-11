@@ -635,6 +635,23 @@
       "result": "4th Place",
       "headline": "Suárez's Handball Saves Them",
       "story": "Diego Forlán's brilliance carried Uruguay through a golden run, but the quarter-final against Ghana turned on Luis Suárez's deliberate handball on the line in extra time, saving a certain goal. Asamoah Gyan missed the resulting penalty, and Uruguay won the shootout 4–2. The Netherlands ended the dream run in the semi-final, 3–2.",
+      "annotations": [
+        {
+          "id": "forlan-thunderbolt",
+          "label": "FORLÁN'S THUNDERBOLT",
+          "story": "Down 1-0 to the Netherlands in the semi-final, Diego Forlán leveled with a left-footed strike from 25 yards that flew dead center past the keeper. It was the emotional high point of a tournament that later crowned him the Golden Ball winner as the competition's best player, even in a losing cause."
+        },
+        {
+          "id": "gold-kit-fan-backlash",
+          "label": "FANS FORCE A REDESIGN",
+          "story": "Puma's original away kit for South Africa was gold, a design fans of 'La Celeste' revolted against as a betrayal of the team's sky-blue identity. Puma and the federation scrapped it and released a white shirt with light-blue panels arcing from the underarms to the hem instead, a rare case of supporters winning a kit fight."
+        },
+        {
+          "id": "suarez-hero-villain-split",
+          "label": "HERO HOME, VILLAIN ABROAD",
+          "story": "Luis Suárez's goal-line handball against Ghana turned him into a reviled figure across the rest of the continent and a folk hero back home, mobbed by fans on his return to Montevideo. The same instant produced opposite verdicts on either side of the Atlantic — pure villainy in Accra, calculated heroism in Uruguay."
+        }
+      ],
       "homeColors": "light blue (celeste) shirt, black shorts, black socks",
       "awayColors": null,
       "image": null,
