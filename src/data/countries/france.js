@@ -80,9 +80,19 @@ export const france = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "FIRST GOAL IN WORLD CUP HISTORY",
-              "story": "On 13 July 1930 in Montevideo, Lucien Laurent turned in a cross to score the first goal in World Cup history, sparking a 4–1 win over Mexico that also featured Marcel Langiller and a brace from André Maschinot. Back-to-back 1–0 losses to Argentina and Chile then sent France home without another point."
+              "id": "first-goal-ever",
+              "label": "FIRST GOAL EVER",
+              "story": "Nineteen minutes into the sport's first-ever World Cup match, Lucien Laurent met a cross from the right and drilled it home left-footed. Nobody in Montevideo realized they'd just watched history happen — Laurent later shrugged the goal off for decades before recognition of what he'd done finally caught up with him."
+            },
+            {
+              "id": "shoestring-blues",
+              "label": "SHOESTRING BLUES",
+              "story": "France's kit was assembled on a shoestring: plain dark blue shirts with a simple crest, no manufacturer name anywhere on the fabric because no manufacturer was paying for the privilege yet. Several squad members had to negotiate unpaid leave from ordinary day jobs just to make the boat that carried them to Uruguay."
+            },
+            {
+              "id": "fifteen-days-at-sea",
+              "label": "FIFTEEN DAYS AT SEA",
+              "story": "France's squad shared the Conte Verde with FIFA president Jules Rimet for a fifteen-day Atlantic crossing to Montevideo, the actual World Cup trophy reportedly riding the whole voyage in his suitcase. Most of Europe had refused the trip entirely, wary of the cost and distance — France sailed anyway."
             }
           ]
         }
