@@ -26,15 +26,19 @@ Process them in order. First pending = highest priority.
 Search: **"[Country name] at the FIFA World Cup" site:en.wikipedia.org**
 
 From this page, extract:
-- Every World Cup year they participated in (1930–2022 only, ignore 2026)
-- Their result each year (e.g. Champions, Quarter-final, Group Stage)
+- Every World Cup year they participated in (1930–2026)
+- Their result each year (e.g. Champions, Quarter-final, Group Stage, Round of 32)
 - Overall totals: matches played, wins, draws, losses, goals for, goals against
+
+**2026 World Cup note:** The 2026 tournament uses a 48-team format with a Round of 32 knockout round after the group stage. Valid 2026 result values: `Group Stage`, `Round of 32`, `Round of 16`, `Quarter-final`, `Semi-final`, `Runners-up`, `Champions`. Search "2026 FIFA World Cup" to get current results — the tournament may still be in progress.
+
+**If a country is still active in the 2026 tournament (not yet eliminated):** add their completed matches to `matches[]` and set `result` to their current furthest stage, but leave `headline` and `annotations` as `null` — do not write their story until their run is complete.
 
 ### Source B — Match-by-match data
 For each tournament year, search: **"[Country] [YEAR] FIFA World Cup" site:en.wikipedia.org**
 
 From each tournament page, extract every single match:
-- Round (Group Stage / Round of 16 / Quarter-final / Semi-final / Final / 3rd Place / 2nd Round)
+- Round (Group Stage / Round of 32 / Round of 16 / Quarter-final / Semi-final / Final / 3rd Place / 2nd Round)
 - Opponent name as they were known at the time
 - Score using en-dash: `2–1`. Penalty shootouts: `1–1 (4–2 pens)`
 - Result: W / D / L — **penalty shootout matches are always D, never W or L**

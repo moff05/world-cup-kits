@@ -76,7 +76,7 @@ function resultBadgeClass(result) {
   if (result === "Runners-up") return "result--final";
   if (result.includes("3rd") || result.includes("4th") || result === "Semi-final") return "result--semi";
   if (result.includes("Quarter")) return "result--quarter";
-  if (result.includes("Round of 16") || result.includes("2nd Round")) return "result--r16";
+  if (result.includes("Round of 16") || result.includes("Round of 32") || result.includes("2nd Round")) return "result--r16";
   return "result--group";
 }
 
