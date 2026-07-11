@@ -73,6 +73,16 @@ export const iran = {
               "id": "danaeifard-debut-leveler",
               "label": "A DEBUT LEVELER",
               "story": "In Iran's first ever World Cup match, Iraj Danaeifard leveled against Scotland in the 60th minute in Córdoba, securing a 1–1 draw in only their second game of the tournament. It remains one of the few bright spots from a debut campaign otherwise defined by heavy defeats to the Netherlands and Peru."
+            },
+            {
+              "id": "adidas-three-stripes",
+              "label": "THREE STRIPES ABROAD",
+              "story": "Adidas supplied Iran's kit at Argentina '78, three stripes running down the sides of a shirt indistinguishable from a dozen other adidas-sponsored nations that summer. It would be one of the last times Team Melli wore an off-the-rack foreign design before political isolation pushed the federation toward bespoke, symbol-laden kits decades later."
+            },
+            {
+              "id": "shah-era-swan-song",
+              "label": "A MONARCHY ON THE CLOCK",
+              "story": "Argentina '78 pitted Iran, still ruled by the faltering Pahlavi monarchy, against a host nation controlled by a military junta that had seized power two years earlier. Within a year the Shah had fled Tehran, revolution swept the country, and Iran would not return to a World Cup for twenty years."
             }
           ]
         }
@@ -123,6 +133,11 @@ export const iran = {
               "id": "white-roses-ceremony",
               "label": "ROSES BEFORE THE WHISTLE",
               "story": "Before kickoff, Iran's players carried white roses onto the Stade de Gerland turf and posed for a joint photograph with the American team, a choreographed peace gesture ordered from the top down. FIFA later awarded both nations its Fair Play Award, a rare moment of harmony inside a match built on decades of hostility."
+            },
+            {
+              "id": "puma-plain-white",
+              "label": "PLAIN WHITE PUMA",
+              "story": "Puma dressed Team Melli in France, a plain white home shirt trimmed simply in green and red, understated kit design for a squad about to produce the tournament's most politically loaded fixture. The Puma contract lasted only that cycle before Iran moved on to another manufacturer."
             }
           ]
         }
@@ -168,6 +183,16 @@ export const iran = {
               "id": "nike-to-puma-swap",
               "label": "A LAST-MINUTE SWITCH",
               "story": "Iran qualified for Germany 2006 in Nike gear, but a late contractual dispute forced a switch to Puma before the tournament itself. The white shirt Iran actually wore in Germany was, in effect, a stopgap — one of the odder footnotes in the team's kit history."
+            },
+            {
+              "id": "golmohammadi-equalizer",
+              "label": "OLDEST DEBUT SCORER",
+              "story": "Down 2-0 before halftime against Mexico in Nuremberg, 34-year-old defender Yahya Golmohammadi met a corner header in the 36th minute, becoming the oldest player to score on a World Cup debut start. Mexico pulled away for a 3-1 win, and it stood as one of only two goals Iran managed all tournament."
+            },
+            {
+              "id": "nuremberg-flashpoint",
+              "label": "A NUREMBERG FLASHPOINT",
+              "story": "Iran's opener against Mexico was staged in Nuremberg, a former Nazi stronghold, and organizers braced for clashes: Jewish groups protested the presence of Iran's vice president amid president Mahmoud Ahmadinejad's Holocaust-denial rhetoric and calls to eliminate Israel. Security around the match dwarfed anything else in the group stage."
             }
           ]
         }
@@ -218,6 +243,11 @@ export const iran = {
               "id": "ghoochannejhad-consolation",
               "label": "ONE GOAL, ALL TOURNAMENT",
               "story": "Reza Ghoochannejhad's 82nd-minute strike against Bosnia and Herzegovina was Iran's only goal of the entire 2014 World Cup, coming after a goalless stalemate with Nigeria and a stubborn, ultimately losing rearguard action against Lionel Messi's Argentina."
+            },
+            {
+              "id": "not-enough-shirts",
+              "label": "NOT ENOUGH SHIRTS",
+              "story": "Squeezed by sanctions that blocked roughly \u0000,000 in sponsor payments, Iran's federation ordered cut-rate kits for Brazil and told players not to swap jerseys with opponents afterward, breaking a World Cup tradition of sportsmanship simply because the squad didn't have enough shirts to spare."
             }
           ]
         }
@@ -268,6 +298,11 @@ export const iran = {
               "id": "beiranvand-saves-ronaldo",
               "label": "BEIRANVAND DENIES RONALDO",
               "story": "Goalkeeper Alireza Beiranvand saved Cristiano Ronaldo's stoppage-time penalty against Portugal, keeping the score level moments before Karim Ansarifard converted his own spot kick to make it 1–1. The draw briefly put Iran on the brink of the knockout stage before Spain's win eliminated them on goal difference."
+            },
+            {
+              "id": "nike-boot-withdrawal",
+              "label": "NIKE PULLS THE BOOTS",
+              "story": "Days before kickoff, Nike withdrew its boot supply to Iran's squad, citing US sanctions reinstated under President Trump, a reversal from 2014, when the same sanctions hadn't stopped deliveries. Manager Carlos Queiroz called the move ridiculous, and several players scrambled to borrow boots from club teammates just to have footwear that fit."
             }
           ]
         }
@@ -318,6 +353,11 @@ export const iran = {
               "id": "cheshmi-rezaeian-double",
               "label": "STOPPAGE-TIME HISTORY",
               "story": "Rouzbeh Cheshmi and Ramin Rezaeian scored in the 90+8th and 90+11th minutes to beat Wales 2–0, Iran's first ever World Cup win over a European nation. The two late goals turned a tense, goalless contest into a rout in the space of three minutes of stoppage time."
+            },
+            {
+              "id": "majid-domestic-kit",
+              "label": "MADE IN IRAN",
+              "story": "For the first time, an Iranian company supplied the World Cup kit: Majid, a domestic sportswear manufacturer, produced the Qatar 2022 shirts after years of foreign brands growing wary of sanctions-related complications. The design carried tonal cheetah-spot patterning on the sleeves, a quiet callback to the endangered-species motif introduced in 2014."
             }
           ]
         }

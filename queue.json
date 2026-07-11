@@ -260,7 +260,7 @@
     "name": "Croatia",
     "confederation": "UEFA",
     "worldCupsCount": 6,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -268,7 +268,7 @@
     "name": "Denmark",
     "confederation": "UEFA",
     "worldCupsCount": 6,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -276,7 +276,7 @@
     "name": "Costa Rica",
     "confederation": "CONCACAF",
     "worldCupsCount": 6,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -284,7 +284,7 @@
     "name": "Tunisia",
     "confederation": "CAF",
     "worldCupsCount": 6,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
