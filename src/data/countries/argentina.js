@@ -892,6 +892,16 @@ export const argentina = {
               "id": "golden-generation-goes-home-early-2002",
               "label": "GOLDEN GENERATION GOES HOME",
               "story": "Built around Batistuta, Verón, and Crespo, Argentina lost their opener to David Beckham's penalty and could only draw Sweden despite dominating possession. The so-called golden generation crashed out in the group stage, one of the tournament's biggest upsets."
+            },
+            {
+              "id": "shoulder-stripes-on-navy-2002",
+              "label": "SHOULDER STRIPES ON NAVY",
+              "story": "Argentina's away kit for the 2002 World Cup ditched the Reebok-era design entirely: a navy-blue shirt with light-blue-and-white stripes angled across the shoulders and patterned side panels, an Adidas template shared with several other national teams that summer in Japan and South Korea."
+            },
+            {
+              "id": "playing-through-the-collapse-2002",
+              "label": "PLAYING THROUGH THE COLLAPSE",
+              "story": "Argentina's golden generation traveled to Asia only months after the country's catastrophic 2001 economic collapse, which froze bank accounts, wiped out savings, and cycled through five presidents in two weeks. Millions back home who'd lost everything still tuned in, hoping the team could offer one thing the government hadn't: a win."
             }
           ]
         }
