@@ -982,19 +982,22 @@
           "round": "Group Stage",
           "opponent": "Costa Rica",
           "score": "7–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Olmo 11', Asensio 21', Torres 31', Torres 54', Gavi 74', Soler 90', Morata 90'+2'"
         },
         {
           "round": "Group Stage",
           "opponent": "Germany",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Morata 62'"
         },
         {
           "round": "Group Stage",
           "opponent": "Japan",
           "score": "1–2",
-          "result": "L"
+          "result": "L",
+          "scorers": "Morata 11'"
         },
         {
           "round": "Round of 16",
