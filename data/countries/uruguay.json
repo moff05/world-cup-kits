@@ -340,6 +340,23 @@
       "result": "4th Place",
       "headline": "The Disputed Ghost Goal",
       "story": "Ladislao Mazurkiewicz anchored tight defending as Uruguay ground through the group stage, then Víctor Espárrago settled a brutal, foul-riddled quarter-final against the Soviet Union with a 117th-minute winner the Soviets swore never should have counted. Brazil's eventual champions ended the run in the semi-final 3–1, and West Germany beat Uruguay again in the third-place match.",
+      "annotations": [
+        {
+          "id": "pele-dummy-mazurkiewicz",
+          "label": "PELÉ'S FAMOUS DUMMY",
+          "story": "In the semi-final, Pelé received a long ball with Ladislao Mazurkiewicz rushing out, let it run past both himself and the goalkeeper without touching it, then curled his shot just wide from an impossible angle. Even in defeat, Uruguay's part in one of football's most replayed moments outlived the 3–1 scoreline."
+        },
+        {
+          "id": "sanz-hermanos-tailored-celeste",
+          "label": "A DARKER CELESTE",
+          "story": "Local outfitter Sanz Hermanos supplied Uruguay's 1970 shirt, a more tailored cut than the boxy jerseys of the 1950s, in a deeper, more saturated celeste blue. It was among the last kits Uruguay wore before international sportswear brands like Adidas took over supply later in the decade."
+        },
+        {
+          "id": "tupamaros-backdrop",
+          "label": "GUERRILLA WAR BACK HOME",
+          "story": "While the team chased a fifth World Cup semi-final in Mexico, the Tupamaros urban guerrilla movement was nearing the peak of its campaign back in Montevideo, kidnapping officials and rattling a fragile government. Uruguayan football offered a rare unifying distraction from a country sliding toward the dictatorship that would follow within four years."
+        }
+      ],
       "homeColors": "light blue (celeste) shirt, black shorts, black socks",
       "awayColors": null,
       "image": null,
