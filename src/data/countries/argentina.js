@@ -312,6 +312,16 @@ export const argentina = {
               "id": "rattins-wembley-stand-off-1966",
               "label": "RATTÍN'S WEMBLEY STAND-OFF",
               "story": "Sent off in the quarter-final against England at Wembley, captain Antonio Rattín refused to leave the pitch, delaying the match for several minutes before finally walking off past the Royal Box. England won 1–0, a result manager Alf Ramsey later soured by calling Argentina's players 'animals.'"
+            },
+            {
+              "id": "the-last-homemade-kit-1966",
+              "label": "THE LAST HOMEMADE KIT",
+              "story": "England '66 was Argentina's final World Cup before Adidas took over kit production in 1974. The shirts were still tailored domestically, plain sky-blue-and-white stripes with the AFA shield and no outside sponsor, a look that would seem almost quaint next to the branded strips of the following decade."
+            },
+            {
+              "id": "the-animals-fallout-1966",
+              "label": "THE 'ANIMALS' FALLOUT",
+              "story": "Alf Ramsey's comment ignited a genuine diplomatic spat — Argentine newspapers ran furious editorials, the AFA lodged formal protests with FIFA, and Britain's ambassador in Buenos Aires had to publicly distance himself from the remark. The insult calcified into one of football's most enduring national rivalries."
             }
           ]
         }
