@@ -585,6 +585,23 @@
       "result": "Group Stage",
       "headline": "Nigeria's Opening Day Shock",
       "story": "Nigeria stunned Spain 3–2 in the opener despite goals from Fernando Hierro and a teenage Raúl. José Luis Chilavert frustrated them to a 0–0 draw with Paraguay, and although Spain routed Bulgaria 6–1 in the finale, Nigeria's group-stage upset had already ended the tournament before it truly began.",
+      "annotations": [
+        {
+          "id": "the-comeback-that-fell-short",
+          "label": "TWO GOALS, ALWAYS CHASING",
+          "story": "Hierro pulled one back in the 21st minute and Raúl added a second just after the restart, but Nigeria's night was already won — the decisive third goal arrived before either build could matter, sealing the opening upset that undid Spain's entire campaign before it started."
+        },
+        {
+          "id": "navy-panels-yellow-stitching",
+          "label": "NAVY PANELS, YELLOW STITCHING",
+          "story": "Adidas broke from Spain's usual solid red with bold navy panels running down each side of the 1998 shirt, picked out in yellow stitching that echoed the flag more than any kit in a decade. It was a sharper, more angular look for a squad that, on the pitch, still played with 1980s directness."
+        },
+        {
+          "id": "hierros-third-shot",
+          "label": "HIERRO'S THIRD SHOT",
+          "story": "Fernando Hierro had already played in 1990 and 1994 by the time Nigeria caught Spain cold in Nantes — a full World Cup cycle of near-misses stacking up behind him. He'd finish his career with four World Cups and never get past a quarter-final, the defining frustration of Spain's pre-golden-generation era."
+        }
+      ],
       "homeColors": "red shirt, navy shorts, blue socks (Adidas)",
       "awayColors": null,
       "image": null,
