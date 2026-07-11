@@ -116,7 +116,7 @@
     "name": "Netherlands",
     "confederation": "UEFA",
     "worldCupsCount": 11,
-    "status": "backfill",
+    "status": "done",
     "tier": "medium"
   },
   {
@@ -124,7 +124,7 @@
     "name": "United States",
     "confederation": "CONCACAF",
     "worldCupsCount": 11,
-    "status": "backfill",
+    "status": "done",
     "tier": "medium"
   },
   {
