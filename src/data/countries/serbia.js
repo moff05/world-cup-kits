@@ -780,19 +780,22 @@ export const serbia = {
           "round": "Group Stage",
           "opponent": "Brazil",
           "score": "0–2",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Cameroon",
           "score": "3–3",
-          "result": "D"
+          "result": "D",
+          "scorers": "Pavlović 45+1', Milinković-Savić 45+3', Mitrović 53'"
         },
         {
           "round": "Group Stage",
           "opponent": "Switzerland",
           "score": "2–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Mitrović 26', Vlahović 35'"
         }
       ],
       "kits": {
