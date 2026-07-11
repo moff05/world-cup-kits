@@ -369,9 +369,19 @@ export const chile = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "THREE GAMES, THREE DEFEATS",
-              "story": "Chile's return to the finals in Spain brought three straight losses: 1–0 to Austria, a Mario Moscoso stoppage-time strike wasn't enough in a 4–1 defeat to West Germany, and a back-and-forth 3–2 loss to Algeria despite goals from Juan Carlos Letelier and a Neira penalty. First World Cup without a single win or draw."
+              "id": "algeria-comeback-fails",
+              "label": "TWO GOALS, NOT ENOUGH",
+              "story": "Down against Algeria, Chile clawed back twice — Alberto Neira converting a penalty, then Juan Carlos Letelier finishing off a move — and still lost 3–2. It summed up the whole tournament: a team that could still find the net in patches but never once escaped a match with anything to show for it."
+            },
+            {
+              "id": "first-winless-exit",
+              "label": "THE FIRST WINLESS EXIT",
+              "story": "Three matches, three defeats — the first time in the country's World Cup history that Chile left without a single win or even a draw. It came two decades after the euphoria of hosting in 1962; Spain '82 instead produced the bleakest scoreline in the team's tournament history, still invoked whenever Chilean football wants to name its rock bottom."
+            },
+            {
+              "id": "unchanged-kit-worse-results",
+              "label": "SAME RED, HARDER YEAR",
+              "story": "Same scarlet shirt, same blue shorts, same white socks Chile had worn since the 1950s — visually nothing had moved, even as the results collapsed underneath it. No sponsor branding crossed the front yet, just a crest and a manufacturer's mark, a shirt that photographed identically whether the scoreline read a win or, this time, three straight losses."
             }
           ]
         }
