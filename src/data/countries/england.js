@@ -680,9 +680,19 @@ export const england = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "OWEN'S WONDER, BECKHAM'S RED CARD",
-              "story": "Eighteen-year-old Michael Owen scored a mazy solo goal against Romania that still wasn't enough to avoid defeat. Against Argentina, David Beckham was sent off in the 47th minute for a kick on Diego Simeone, and ten men held out through a 2–2 draw and extra time. Goalkeeper Carlos Roa saved David Batty's decisive penalty, sending Argentina through 4–3 on kicks."
+              "id": "owens-solo-wonder",
+              "label": "OWEN'S SOLO WONDER",
+              "story": "Sixteen minutes into the Argentina round of 16 tie, eighteen-year-old Michael Owen collected the ball inside his own half, skipped past José Chamot and Roberto Ayala, and drilled it in off the underside of the bar, the goal that made him a global name overnight."
+            },
+            {
+              "id": "the-buttoned-collar",
+              "label": "THE BUTTONED COLLAR",
+              "story": "Umbro gave the 1998 shirt a buttoned collar with the Three Lions badge sitting on its own patch of extra fabric above the placket, 'FIFA World Cup France 1998' stitched beneath, a fussier, more tailored look than the plain crew-necks of the previous decade."
+            },
+            {
+              "id": "ten-lions-one-villain",
+              "label": "TEN LIONS, ONE VILLAIN",
+              "story": "After Beckham's sending-off against Argentina, English tabloids turned on him instantly, the Mirror's front page reading 'Ten Heroic Lions, One Stupid Boy,' and an effigy of him was hanged outside a London pub, a backlash severe enough to reshape tabloid coverage of players for years."
             }
           ]
         }
