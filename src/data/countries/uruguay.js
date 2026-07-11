@@ -857,9 +857,19 @@ export const uruguay = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "CAVANI'S DOUBLE, FRANCE ENDS IT",
-              "story": "A perfect group stage, including a 3–0 rout of host Russia, set up a Round of 16 date with Portugal, which Edinson Cavani beat almost single-handedly with two goals. An injured Cavani couldn't finish the quarter-final against France, and Uruguay's best modern run ended 2–0 in Nizhny Novgorod."
+              "id": "ronaldo-helps-cavani-off",
+              "label": "A RIVAL'S HELPING HAND",
+              "story": "Edinson Cavani curled in the winner in the 62nd minute against Portugal, his second of the match, then pulled up with a calf injury he couldn't run off. Cristiano Ronaldo, the man Cavani had just eliminated, jogged over and helped him limp to the sideline — a rare grace note in the middle of a knockout defeat."
+            },
+            {
+              "id": "four-stars-quiet-era",
+              "label": "FOUR STARS, NO QUESTIONS",
+              "story": "By Russia 2018, Uruguay's four gold stars had sat undisputed above the crest for over a quarter-century — a rare stretch of peace before FIFA's marketing department would question them again in 2021. The shirt itself was pure Puma template: light blue body, dark trim, a modest cut built for South America's most disciplined defense."
+            },
+            {
+              "id": "tabarez-cane-sideline",
+              "label": "A COACH'S OWN BATTLE",
+              "story": "Óscar Tabárez, 71, needed a cane to cross the touchline throughout the tournament, first seen using walking sticks in 2016 qualifiers as chronic neuropathy eroded his mobility. He never missed a match in the dugout, guiding Uruguay's best modern run while managing a body that increasingly wouldn't cooperate."
             }
           ]
         }
