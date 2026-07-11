@@ -271,9 +271,19 @@ export const uruguay = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "WORST FINISH IN CHILE",
-              "story": "A win over Colombia couldn't save Uruguay from a rough Group Stage in windswept Chile. Losses to Yugoslavia and the Soviet Union, by a combined 2–5, sent them home after the first round, one of the more forgettable showings of the golden generation's fading years."
+              "id": "cubilla-sasia-arica-win",
+              "label": "A LONE BRIGHT SPOT",
+              "story": "Luis Cubilla and Domingo Sasía scored 19 minutes apart to see off Colombia 2–1 in Arica, a desert port city near the Peruvian border chosen as one of four World Cup host venues. It proved the only Uruguayan win of the tournament before back-to-back defeats sent the golden generation home early."
+            },
+            {
+              "id": "in-house-shirt-1962",
+              "label": "A HOMEMADE SHIRT",
+              "story": "No foreign manufacturer touched Uruguay's kit in 1962 — the celeste jersey was produced domestically, still years from the crest's four stars or any sponsor logo. The shirt's simplicity mirrored a squad in transition, its 1950 heroes retired or aging, with only a handful of survivors from the golden era still on the field."
+            },
+            {
+              "id": "chile-rebuilt-after-earthquake",
+              "label": "A HOST STILL REBUILDING",
+              "story": "Chile staged the tournament barely two years after the largest earthquake ever recorded, a 9.5-magnitude quake that flattened stadium towns. Organizer Carlos Dittborn's rallying cry — 'because we have nothing, we will do everything' — became the tournament's slogan; he died a month before kickoff and never saw Uruguay's brief, forgettable stay in his rebuilt country."
             }
           ]
         }
