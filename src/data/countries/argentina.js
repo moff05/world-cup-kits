@@ -195,6 +195,16 @@ export const argentina = {
               "id": "heaviest-defeat-ever-1958",
               "label": "HEAVIEST DEFEAT EVER",
               "story": "Already eliminated after two matches, Argentina met Czechoslovakia in Helsingborg and collapsed 6–1, still the biggest loss in the national team's World Cup history. Omar Corbatta's consolation goal in the 65th minute was the only bright spot in a tournament already lost."
+            },
+            {
+              "id": "the-shield-arrives-1958",
+              "label": "THE SHIELD ARRIVES",
+              "story": "Argentina's players wore an official crest for the first time at this tournament — a sky-blue shield bearing the federation's initials, still without the laurel wreath or stars that would come later. It's the same badge, twice evolved since, that sits on every Argentina jersey today."
+            },
+            {
+              "id": "the-airport-reception-1958",
+              "label": "THE AIRPORT RECEPTION",
+              "story": "News of the 6–1 humiliation to Czechoslovakia reached Buenos Aires before the players did, and an angry crowd met the squad on arrival. Newspapers ran mock obituaries for Argentine football, and the disgrace pushed the AFA toward a wholesale overhaul of how the national team was coached and selected."
             }
           ]
         }
