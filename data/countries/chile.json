@@ -432,6 +432,23 @@
       "result": "Round of 16",
       "headline": "Bielsa's Brand, Brazil Again",
       "story": "Marcelo Bielsa's attacking Chile beat Honduras and Switzerland to reach the knockout stage for the first time since 1998, only for Spain's eventual champions to edge them 2–1 in the group finale. Brazil, again, proved the ceiling — a 3–0 Round of 16 defeat in Johannesburg matched the familiar script from 1998.",
+      "annotations": [
+        {
+          "id": "gonzalez-seals-knockouts",
+          "label": "KNOCKOUTS AGAIN UNDER BIELSA",
+          "story": "Mark González's strike beat Switzerland 1–0, following an opening win over Honduras, and sent Chile into the second round for the first time in twelve years. Marcelo Bielsa's relentless, high-press system had turned a modest qualifying campaign into the most entertaining Chilean side in a generation — undone soon after by a 3–0 loss to Brazil."
+        },
+        {
+          "id": "february-2010-earthquake",
+          "label": "A COUNTRY STILL SHAKING",
+          "story": "Just over three months before the opening match, an 8.8-magnitude earthquake — one of the strongest ever recorded — killed more than five hundred people and flattened towns across central Chile. The team's run to the knockout stage became something bigger than football: a rare piece of good news for a country still clearing rubble back home."
+        },
+        {
+          "id": "brooks-kit-sponsor",
+          "label": "BROOKS ON THE BADGE",
+          "story": "While rivals wore Nike or Adidas, Chile's shirt in South Africa carried the name of Brooks — a company better known worldwide for running shoes than football kits. The red home jersey, blue shorts and white socks stayed traditional; the branding was the outlier, a regional supplier stepping in where the usual global giants hadn't bothered to bid."
+        }
+      ],
       "homeColors": "red shirt, blue shorts, white socks (Brooks Sports)",
       "awayColors": null,
       "image": null,
