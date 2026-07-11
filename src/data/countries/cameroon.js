@@ -361,9 +361,19 @@ export const cameroon = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "FIRST TEAM ELIMINATED",
-              "story": "Samuel Eto'o scored in back-to-back losses to Denmark and the Netherlands, but Cameroon's group-stage collapse — capped by an opening defeat to Japan — made them the first team eliminated from the tournament, a bitter finish for African football's most decorated program."
+              "id": "van-persie-huntelaar-seal-it",
+              "label": "DUTCH GOALS BOOKEND IT",
+              "story": "Robin van Persie broke the deadlock in the 36th minute in Cape Town, Samuel Eto'o's penalty briefly threatened a comeback, and Klaas-Jan Huntelaar iced it late — a 2-1 defeat that confirmed what a Japan loss and a Denmark collapse had already signaled: Cameroon would be the first team out of the entire World Cup."
+            },
+            {
+              "id": "africa-unity-kit-unused",
+              "label": "THE KIT MADE FROM SOIL",
+              "story": "Puma dyed a special third kit using actual soil samples from Cameroon, Ghana, Ivory Coast and South Africa, fading from brown to sky-blue across the shirt. It was cleared for the World Cup as Cameroon's emergency third choice — and then never once left the equipment bag during the tournament itself."
+            },
+            {
+              "id": "armband-taken-from-song",
+              "label": "THE ARMBAND SWITCH",
+              "story": "New coach Paul Le Guen's first move on the job was stripping Rigobert Song of the captaincy he'd held for years and handing it to Samuel Eto'o. Teammates who'd played under Song for a decade never fully bought in, and Cameroon crashed out winless with the dressing room reportedly split down the middle."
             }
           ]
         }
