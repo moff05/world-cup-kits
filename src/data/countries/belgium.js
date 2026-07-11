@@ -325,9 +325,19 @@ export const belgium = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "VANDENBERGH STUNS THE CHAMPIONS",
-              "story": "Erwin Vandenbergh's goal beat defending champions Argentina 1–0 in the tournament opener at Camp Nou, one of Belgium's most celebrated World Cup wins. A second-round hat-trick from Zbigniew Boniek and a Soviet Union defeat followed, but Belgium had already delivered its statement result before exiting."
+              "id": "camp-nou-shock",
+              "label": "THE OPENER THAT STUNNED SPAIN",
+              "story": "Belgium had never beaten a reigning World Cup champion. Erwin Vandenbergh's 62nd-minute strike at a packed Camp Nou changed that, sinking defending champions Argentina 1–0 in the tournament's very first match. Diego Maradona left the pitch that night having lost his World Cup debut to unfancied Belgium."
+            },
+            {
+              "id": "adidas-three-stripes",
+              "label": "ADIDAS TAKES OVER",
+              "story": "By 1982, Adidas had taken over Belgium's kit contract, adding the brand's signature three stripes down each sleeve of the familiar red shirt. It was a small design change with a big symbolic one: Belgium's shirt now looked like the rest of Europe's biggest football nations, all dressed by the same German company."
+            },
+            {
+              "id": "twenty-four-team-era",
+              "label": "A BIGGER WORLD CUP",
+              "story": "1982 was the first World Cup expanded to 24 teams, up from 16, opening the door to smaller footballing nations. Belgium's opening upset over Argentina became the template underdog story for the new format — proof the bigger tournament could still produce shocks nobody saw coming from outside the traditional powers."
             }
           ]
         }
