@@ -475,9 +475,19 @@ export const switzerland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "UNBEATEN, STILL ELIMINATED",
-              "story": "Switzerland didn't concede a single goal in regulation, shutting out France, Togo, and South Korea to win the group, then held Ukraine scoreless through extra time in the Round of 16. They lost the shootout 3–0 without converting a single kick — a statistical oddity, eliminated while still unbeaten."
+              "id": "freis-brace",
+              "label": "FREI DOES IT TWICE",
+              "story": "Alexander Frei scored the only goal that mattered in two different group games — 16th minute against Togo, 77th minute against South Korea — turning a cautious Swiss side into group winners without conceding once. It set up a Round of 16 meeting with Ukraine that would end in the cruelest possible way."
+            },
+            {
+              "id": "puma-era-begins",
+              "label": "PUMA TAKES OVER",
+              "story": "Puma supplied the kit for this tournament: a clean red home shirt with white trim that stayed remarkably unblemished — no goals conceded across four matches. It marked the start of a Puma–Swiss federation partnership that would outlast the next five World Cups, still running into the 2020s."
+            },
+            {
+              "id": "most-multicultural-squad",
+              "label": "THE MOST MULTICULTURAL SQUAD",
+              "story": "Barely a decade after fielding an entirely Swiss-born roster in 1994, this squad drew roughly half its players from immigrant families — sons of the Balkan, African, and Turkish migration that reshaped the country through the 1990s and 2000s. It was, at the time, the most multinational team at the tournament."
             }
           ]
         }
