@@ -61,9 +61,19 @@ export const netherlands = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ONE MATCH, THEN GONE",
-              "story": "Netherlands' first-ever World Cup match was also their last: Kick Smit and Leen Vente both scored in Milan, but Switzerland answered twice more and won 3–2. There was no group stage to fall back on — a single elimination game, a single afternoon, and Oranje's tournament was over before it had really started."
+              "id": "smit-and-vente-strike",
+              "label": "TWO GOALS, ONE EXIT",
+              "story": "Kick Smit broke the deadlock in the 29th minute and Leen Vente leveled again in the 69th, but Switzerland answered twice in the final ten minutes to win 3–2 in Milan. There was no group stage cushion — ninety minutes, one match, and Oranje's entire World Cup was finished before the day was."
+            },
+            {
+              "id": "plain-cotton-and-a-lion",
+              "label": "NO LOGOS, JUST A LION",
+              "story": "Long before Adidas stripes or Nike swooshes, the 1934 shirt was unadorned cotton — laced collar, orange body, white shorts, light blue socks, and nothing on the chest but the KNVB's rampant lion crest. Sponsorship on football shirts was still four decades away; this jersey was built for function, not marketing."
+            },
+            {
+              "id": "amateurs-who-had-to-qualify",
+              "label": "AMATEURS WHO EARNED IT",
+              "story": "1934 was the first World Cup that made nations qualify rather than simply inviting them, and the Dutch had to beat Belgium and the Irish Free State in a group just to reach Italy. The entire squad was amateur — clerks and tradesmen who caught trains to matches and were back at their day jobs within the week."
             }
           ]
         }
