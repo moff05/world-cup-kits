@@ -71,9 +71,19 @@ export const belgium = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "THE FIRST WHISTLE EVER",
-              "story": "Belgium and the United States kicked off what is credited as the first-ever World Cup match on 13 July 1930, a contest Belgium lost 3–0. Referee John Langenus, a Belgian, went on to officiate the tournament's final. A second scoreless defeat to Paraguay sent the Red Devils home from the inaugural tournament without a goal to their name."
+              "id": "scoreless-debut",
+              "label": "SCORELESS IN URUGUAY",
+              "story": "Belgium became a footnote in history on 13 July 1930, kicking off the very first World Cup match and losing 3–0 to the United States. Four days later Paraguay beat them 1–0. Two matches, zero goals scored — the Red Devils' entire opening World Cup summed up in a single blank scoreline."
+            },
+            {
+              "id": "laced-collar-red",
+              "label": "THE LACED COLLAR",
+              "story": "Belgium's 1930 shirt was heavy cotton, dyed deep red, buttoned at a laced V-collar with no crest, no sponsor, no numbers stitched to the back for most of the tournament. It was the same plain jersey clubs across Europe wore that decade — functional wool-blend cloth built for mud, not television cameras."
+            },
+            {
+              "id": "the-conte-verde",
+              "label": "FIFTEEN DAYS AT SEA",
+              "story": "To reach Uruguay, Belgium's squad boarded the liner Conte Verde in Barcelona, sharing the ship with France, Romania, three referees, FIFA president Jules Rimet, and the World Cup trophy itself. Belgian vice-president Rodolphe Seeldrayers had helped talk Europe into sending anyone at all — the fifteen-day crossing nearly outlasted the tournament."
             }
           ]
         }
