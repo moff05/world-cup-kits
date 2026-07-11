@@ -217,9 +217,19 @@ export const france = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "KOPA SHINES, GROUP STAGE ENDS IT",
-              "story": "A young Raymond Kopa scored as France beat Mexico 3–2 in Geneva, a preview of the playmaker who'd soon join Real Madrid and lead France's golden generation. But an opening 1–0 loss to Yugoslavia, in a tournament that seeded rivals apart until late rounds, was enough to eliminate Les Bleus after just two matches."
+              "id": "kopa-arrives",
+              "label": "KOPA ARRIVES",
+              "story": "An emerging Raymond Kopa scored the clinching goal in a 3–2 win over Mexico, the first glimpse of the playmaker who'd soon join Real Madrid and captain France's golden generation. It came too late to matter: an opening loss to Yugoslavia under the tournament's seeding format had already ended France's Cup."
+            },
+            {
+              "id": "coq-sportif-debut",
+              "label": "LE COQ SPORTIF DEBUT",
+              "story": "France began wearing Le Coq Sportif in 1954, a French sportswear brand whose own logo happened to be a rooster — doubling up with the crowing cockerel already stitched into the national crest. Two roosters, one shirt, entirely by coincidence, for a partnership that would outfit Les Bleus for nearly three decades."
+            },
+            {
+              "id": "miners-son",
+              "label": "A MINER'S SON",
+              "story": "Kopa was born Kopaszewski to Polish immigrants in the coal town of Nœux-les-Mines, where his father and grandfather both worked the pits. He followed them underground at fourteen before football pulled him out — by 1954 the miner's son was already the most gifted playmaker France had produced."
             }
           ]
         }
