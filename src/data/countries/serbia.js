@@ -249,9 +249,19 @@ export const serbia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "PETAKOVIĆ CAN'T BREAK GERMANY",
-              "story": "Aleksandar Petaković scored in three straight matches as Yugoslavia scraped through a tricky group with Scotland, France, and Paraguay. West Germany's defense proved the difference in the quarter-final, though, with Yugoslavia falling 1–0 despite a spirited showing in Sweden."
+              "id": "petakovics-streak",
+              "label": "PETAKOVIĆ'S SCORING STREAK",
+              "story": "Aleksandar Petaković found the net in three consecutive matches, dragging Yugoslavia through a bruising group against Scotland, France, and Paraguay that finished with two draws and a win. West Germany's back line proved the one defense he couldn't crack, shutting him out 1–0 in the quarter-final."
+            },
+            {
+              "id": "the-plain-white-change",
+              "label": "THE PLAIN WHITE CHANGE",
+              "story": "Yugoslavia's away kit in Sweden was a plain white long-sleeved jersey with a V-neck collar, still made in-house, with a multicolored crest stitched prominently on the left chest — the only splash of color on an otherwise stripped-down, unbranded shirt."
+            },
+            {
+              "id": "a-bridge-across-blocs",
+              "label": "A BRIDGE ACROSS BLOCS",
+              "story": "Tito's independent socialist line kept Yugoslavia diplomatically useful to both Cold War camps, and its footballers reflected that: a communist-governed side sharing a group with Scotland and France, comfortably embedded in a Western European tournament calendar that shut out most of the Eastern Bloc."
             }
           ]
         }
