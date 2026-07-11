@@ -463,6 +463,23 @@
     "1986": {
       "result": "Quarter-final",
       "headline": "Negrete's Scissor-Kick Wonder",
+      "annotations": [
+        {
+          "id": "the-goal-nobody-forgets",
+          "label": "THE GOAL NOBODY FORGETS",
+          "story": "Manuel Negrete's scissor-kick volley against Bulgaria in the Round of 16 is still replayed as one of the tournament's iconic moments — a mid-air strike that helped carry Mexico to the quarter-finals on home soil for the second time."
+        },
+        {
+          "id": "three-stripes-arrive",
+          "label": "THREE STRIPES ARRIVE",
+          "story": "Adidas's three white stripes framed the green shirt for the first time in 1986, a template so beloved it's been reissued in commemorative kits decades later. It replaced the plain, unbranded crest-only jerseys of the previous two decades."
+        },
+        {
+          "id": "hosting-eight-months-after-the-quake",
+          "label": "HOSTING EIGHT MONTHS AFTER THE QUAKE",
+          "story": "A magnitude-8.1 earthquake killed thousands in Mexico City in September 1985, just eight months before kickoff. The Azteca, built on volcanic rock rather than the city's soft lakebed soil, survived largely undamaged and hosted the final anyway."
+        }
+      ],
       "story": "Hosting for a second time, Mexico topped Group B behind Fernando Quirarte's goals in wins over Belgium and Iraq. Manuel Negrete's scissor-kick volley against Bulgaria in the Round of 16 remains one of the tournament's iconic goals, before West Germany eliminated El Tri on penalties after a scoreless quarter-final.",
       "homeColors": "green shirt with white trim and three white stripes, white shorts, red socks (Adidas)",
       "awayColors": null,
