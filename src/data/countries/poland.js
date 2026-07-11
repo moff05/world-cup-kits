@@ -495,7 +495,8 @@ export const poland = {
           "round": "Round of 16",
           "opponent": "France",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Lewandowski 90+9' (pen)"
         }
       ],
       "kits": {
