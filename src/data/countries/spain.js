@@ -1025,7 +1025,8 @@ export const spain = {
           "round": "Round of 16",
           "opponent": "Morocco",
           "score": "0–0 (0–3 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         }
       ],
       "kits": {
