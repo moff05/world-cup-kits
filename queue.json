@@ -636,7 +636,7 @@
     "name": "Cape Verde",
     "confederation": "CAF",
     "worldCupsCount": 1,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -644,7 +644,7 @@
     "name": "Curaçao",
     "confederation": "CONCACAF",
     "worldCupsCount": 1,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -652,7 +652,7 @@
     "name": "Jordan",
     "confederation": "AFC",
     "worldCupsCount": 1,
-    "status": "pending",
+    "status": "done",
     "tier": "small"
   },
   {

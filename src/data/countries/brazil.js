@@ -51,8 +51,10 @@ export const brazil = {
   ],
   "kits": {
     "1930": {
-      "headline": "The Debut That Ended in Groups",
       "result": "Group Stage",
+      "headline": "The Debut That Ended in Groups",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -98,8 +100,10 @@ export const brazil = {
       }
     },
     "1934": {
-      "headline": "One Match. One Defeat. Home.",
       "result": "Round of 16",
+      "headline": "One Match. One Defeat. Home.",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Round of 16",
@@ -137,8 +141,10 @@ export const brazil = {
       }
     },
     "1938": {
-      "headline": "Leônidas and the Blunder That Cost a Final",
       "result": "3rd Place",
+      "headline": "Leônidas and the Blunder That Cost a Final",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Round of 16",
@@ -205,8 +211,10 @@ export const brazil = {
       }
     },
     "1950": {
-      "headline": "The White That Was Never Worn Again",
       "result": "Runners-up",
+      "headline": "The White That Was Never Worn Again",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -279,8 +287,10 @@ export const brazil = {
       }
     },
     "1954": {
-      "headline": "Yellow for the First Time. The Battle of Bern.",
       "result": "Quarter-final",
+      "headline": "Yellow for the First Time. The Battle of Bern.",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -333,8 +343,10 @@ export const brazil = {
       }
     },
     "1958": {
-      "headline": "Pelé Was 17. Brazil Was Unstoppable.",
       "result": "Champions",
+      "headline": "Pelé Was 17. Brazil Was Unstoppable.",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -407,8 +419,10 @@ export const brazil = {
       }
     },
     "1962": {
-      "headline": "Garrincha's World Cup",
       "result": "Champions",
+      "headline": "Garrincha's World Cup",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -482,8 +496,10 @@ export const brazil = {
       }
     },
     "1966": {
-      "headline": "Pelé Kicked Out of His Last World Cup",
       "result": "Group Stage",
+      "headline": "Pelé Kicked Out of His Last World Cup",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -536,8 +552,10 @@ export const brazil = {
       }
     },
     "1970": {
-      "headline": "The Kit That Became a Religion",
       "result": "Champions",
+      "headline": "The Kit That Became a Religion",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -611,8 +629,10 @@ export const brazil = {
       }
     },
     "1974": {
-      "headline": "The Post-1970 Hangover",
       "result": "4th Place",
+      "headline": "The Post-1970 Hangover",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -693,8 +713,10 @@ export const brazil = {
       }
     },
     "1978": {
-      "headline": "Argentina's Junta. Goal Difference. Third.",
       "result": "3rd Place",
+      "headline": "Argentina's Junta. Goal Difference. Third.",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -775,8 +797,10 @@ export const brazil = {
       }
     },
     "1982": {
-      "headline": "The Greatest Team to Never Win",
       "result": "2nd Round",
+      "headline": "The Greatest Team to Never Win",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -843,8 +867,10 @@ export const brazil = {
       }
     },
     "1986": {
-      "headline": "Sócrates' Miss. France's Victory.",
       "result": "Quarter-final",
+      "headline": "Sócrates' Miss. France's Victory.",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -907,8 +933,10 @@ export const brazil = {
       }
     },
     "1990": {
-      "headline": "Maradona's Pass. Caniggia's Goal. Out.",
       "result": "Round of 16",
+      "headline": "Maradona's Pass. Caniggia's Goal. Out.",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -967,8 +995,10 @@ export const brazil = {
       }
     },
     "1994": {
-      "headline": "24 Years. Romário. Bebeto. Four Stars.",
       "result": "Champions",
+      "headline": "24 Years. Romário. Bebeto. Four Stars.",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -1049,8 +1079,10 @@ export const brazil = {
       }
     },
     "1998": {
-      "headline": "Ronaldo's Seizure. France's Night.",
       "result": "Runners-up",
+      "headline": "Ronaldo's Seizure. France's Night.",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -1130,8 +1162,10 @@ export const brazil = {
       }
     },
     "2002": {
-      "headline": "Ronaldo's Comeback. Five Stars.",
       "result": "Champions",
+      "headline": "Ronaldo's Comeback. Five Stars.",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -1211,8 +1245,10 @@ export const brazil = {
       }
     },
     "2006": {
-      "headline": "Ronaldo's Record. Zidane's Exit.",
       "result": "Quarter-final",
+      "headline": "Ronaldo's Record. Zidane's Exit.",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -1279,8 +1315,10 @@ export const brazil = {
       }
     },
     "2010": {
-      "headline": "Africa's First. Holland's Counter.",
       "result": "Quarter-final",
+      "headline": "Africa's First. Holland's Counter.",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -1346,8 +1384,10 @@ export const brazil = {
       }
     },
     "2014": {
-      "headline": "7-1. At Home.",
       "result": "4th Place",
+      "headline": "7-1. At Home.",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -1427,8 +1467,10 @@ export const brazil = {
       }
     },
     "2018": {
-      "headline": "Neymar's Russia. Belgium's Ambush.",
       "result": "Quarter-final",
+      "headline": "Neymar's Russia. Belgium's Ambush.",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -1494,8 +1536,10 @@ export const brazil = {
       }
     },
     "2022": {
-      "headline": "The Bicycle Kick. Croatia's Penalties.",
       "result": "Quarter-final",
+      "headline": "The Bicycle Kick. Croatia's Penalties.",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
@@ -1556,8 +1600,10 @@ export const brazil = {
       }
     },
     "2026": {
-      "headline": "Haaland's Night. Out in the Round of 16.",
       "result": "Round of 16",
+      "headline": "Haaland's Night. Out in the Round of 16.",
+      "homeColors": null,
+      "awayColors": null,
       "matches": [
         {
           "round": "Group Stage",
