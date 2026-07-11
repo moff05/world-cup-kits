@@ -390,9 +390,19 @@ export const spain = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "HOSTS FALL SHORT AT HOME",
-              "story": "Hosting their first World Cup since Franco's death, Spain stumbled early as Northern Ireland beat them 1–0 despite playing a man down. Jesús María Zamora's goal wasn't enough in a 2–1 second-round loss to West Germany, and a goalless stalemate with England sent the hosts out before the semi-finals."
+              "id": "ten-men-one-goal-enough",
+              "label": "TEN MEN, ONE GOAL, ENOUGH",
+              "story": "Mal Donaghy was sent off in the 62nd minute for a foul the referee didn't even see himself — he trusted his linesman — and Northern Ireland still nursed a 1–0 lead to the final whistle. Playing the last half-hour a man light against the hosts remains one of the great backs-to-the-wall World Cup jobs."
+            },
+            {
+              "id": "an-orange-in-a-spain-shirt",
+              "label": "AN ORANGE IN A SPAIN SHIRT",
+              "story": "The tournament mascot, Naranjito, was a grinning cartoon orange dressed in the exact red shirt and blue shorts the players wore that summer — sportswear as advertising, designed to make the host's colors feel modern and cheerful barely a year after a coup attempt had nearly derailed the whole country."
+            },
+            {
+              "id": "sixteen-months-after-the-coup",
+              "label": "SIXTEEN MONTHS AFTER THE COUP",
+              "story": "On 23 February 1981, Civil Guard officers stormed the Spanish parliament with rifles raised, an attempted coup that came within hours of dragging the country back toward military rule. Sixteen months later, the World Cup arrived instead — a tournament staged, deliberately, as proof the young democracy could hold."
             }
           ]
         }
