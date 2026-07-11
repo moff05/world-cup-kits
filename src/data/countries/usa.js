@@ -619,25 +619,29 @@ export const usa = {
           "round": "Group Stage",
           "opponent": "Wales",
           "score": "1–1",
-          "result": "D"
+          "result": "D",
+          "scorers": "Weah 36'"
         },
         {
           "round": "Group Stage",
           "opponent": "England",
           "score": "0–0",
-          "result": "D"
+          "result": "D",
+          "scorers": null
         },
         {
           "round": "Group Stage",
           "opponent": "Iran",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Pulisic 38'"
         },
         {
           "round": "Round of 16",
           "opponent": "Netherlands",
           "score": "1–3",
-          "result": "L"
+          "result": "L",
+          "scorers": "Wright 76'"
         }
       ],
       "kits": {
@@ -649,9 +653,19 @@ export const usa = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "PULISIC'S COSTLY WINNER",
-              "story": "Christian Pulisic's goal against Iran — scored on a play where he suffered a pelvic injury crashing into the goalkeeper — sent the U.S. through as runners-up in a tight group with England and Wales. The Netherlands ended the run 3–1 in the Round of 16, Haji Wright's goal the lone U.S. reply."
+              "id": "wrights-accidental-finish",
+              "label": "WRIGHT'S ACCIDENTAL GOAL",
+              "story": "Down 2–0 to the Netherlands in the Round of 16, Haji Wright had already seen one shot cleared off the line before Christian Pulisic's low cross deflected off his foot and looped over goalkeeper Andries Noppert in the 76th minute — the only American goal of the knockout round, in a game decided minutes later."
+            },
+            {
+              "id": "the-ice-dye-jersey",
+              "label": "THE ICE-DYE JERSEY",
+              "story": "Nike dyed the away shirt with an ice-dye technique that left every jersey with a slightly different tie-dye pattern in royal and navy blue, meant to represent the range of communities inside the national team, while the oversized centered crest borrowed its scale directly from basketball jerseys rather than soccer convention."
+            },
+            {
+              "id": "the-altered-iranian-flag",
+              "label": "THE ALTERED IRANIAN FLAG",
+              "story": "Days before facing Iran, U.S. Soccer briefly posted social graphics with Iran's flag stripped of its Islamic Republic emblem, saying it stood in solidarity with women protesting after Mahsa Amini's death in police custody. Iranian officials accused the federation of erasing God from their flag, and the post was pulled within 24 hours."
             }
           ]
         }
