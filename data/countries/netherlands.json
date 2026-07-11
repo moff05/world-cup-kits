@@ -403,6 +403,23 @@
       "result": "4th Place",
       "headline": "Bergkamp's Touch, Then Heartbreak",
       "story": "Edgar Davids' 90th-minute winner over FR Yugoslavia and Dennis Bergkamp's sublime touch-and-finish against Argentina sent the Netherlands to the semi-final. Brazil survived on penalties after a 1–1 draw, and a tired Dutch side lost the third-place match to Croatia, closing a heartbreaking summer just short of the podium.",
+      "annotations": [
+        {
+          "id": "two-missed-penalties",
+          "label": "TWO MISSES, ONE OUT",
+          "story": "Deadlocked with Brazil 1–1 after 120 minutes in Marseille, the semi-final came down to penalties — and Netherlands missed two of theirs, Phillip Cocu and Ronald de Boer both stopped by Cláudio Taffarel. Brazil converted four straight. It remains the shootout Dutch fans point to as the true final they never got to play."
+        },
+        {
+          "id": "black-panels-white-cuffs",
+          "label": "BLACK PANELS, WHITE CUFFS",
+          "story": "The 1998 shirt paired the familiar orange body with black side panels and a black polo collar trimmed in white, plus white cuffs on the sleeves — a sharper, more angular update from the plain jerseys of the early '90s. Edgar Davids wore his with wraparound protective goggles, forced by a detached retina that nearly ended his career two years earlier."
+        },
+        {
+          "id": "the-surinamese-golden-generation",
+          "label": "ORANJE'S SURINAMESE CORE",
+          "story": "Davids, Seedorf, Kluivert, Reiziger, Winter, Hasselbaink, and Bogarde — seven of the 1998 squad's key contributors traced their roots to Suriname, the former Dutch colony in South America that had gained independence just 23 years earlier. It was the clearest sign yet that post-colonial migration, not just Total Football tactics, had reshaped who wore the Oranje shirt."
+        }
+      ],
       "homeColors": "orange shirt, black shorts, orange socks (Lotto)",
       "awayColors": null,
       "image": null,
