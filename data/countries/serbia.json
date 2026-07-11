@@ -686,6 +686,23 @@
       "result": "Group Stage",
       "headline": "Kolarov's Free Kick Opener",
       "story": "Aleksandar Kolarov's free kick beat Costa Rica in Serbia's opener, but Xherdan Shaqiri's late winner sent Switzerland to a 2–1 comeback win, and Brazil closed out Serbia 2–0 in Moscow. A promising start faded fast in a tightly bunched Group E.",
+      "annotations": [
+        {
+          "id": "kolarovs-opener",
+          "label": "KOLAROV'S FREE-KICK OPENER",
+          "story": "Aleksandar Kolarov's dead-ball strike in the 56th minute beat Costa Rica to open the tournament well, but it unraveled fast: Xherdan Shaqiri's late winner flipped a 1–0 lead into a 2–1 loss to Switzerland, and Brazil closed the book with a 2–0 win in Moscow."
+        },
+        {
+          "id": "the-twenty-euro-jersey",
+          "label": "THE TWENTY-EURO TEMPLATE",
+          "story": "Puma's debut Serbia kit was built directly on the brand's cheap 'Liga' teamwear template — the same generic block sold to amateur clubs for roughly €20 — leaving a shirt so plain and unbranded-looking that it ranks among the lowest-rated World Cup jerseys ever cataloged."
+        },
+        {
+          "id": "shaqiris-double-eagle",
+          "label": "SHAQIRI'S DOUBLE EAGLE",
+          "story": "After scoring the winner, Xherdan Shaqiri — born in Kosovo to ethnic Albanian parents — crossed his hands to mimic the double-headed eagle of the Albanian flag, a gesture teammate Granit Xhaka repeated moments later. The celebration reignited raw tensions from the 1998–99 Kosovo war on football's biggest stage."
+        }
+      ],
       "homeColors": "red shirt, blue shorts, white socks",
       "awayColors": null,
       "image": null,
