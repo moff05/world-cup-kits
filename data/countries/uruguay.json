@@ -281,6 +281,23 @@
       "result": "Quarter-final",
       "headline": "Nine Men, Wembley Injustice",
       "story": "Stubborn draws with England and Mexico carried Uruguay through the group unbeaten. In the quarter-final, referee Jim Finney waved off a blatant Karl-Heinz Schnellinger handball on the goal line, then sent off Horacio Troche and Héctor Silva within ten minutes of the second half. West Germany punished the nine men, scoring three late goals in a 4–0 rout.",
+      "annotations": [
+        {
+          "id": "dog-track-win",
+          "label": "THE DOG TRACK WIN",
+          "story": "Uruguay's group opener against France wasn't played at Wembley at all — it moved to White City Stadium because the arena's owners wouldn't cancel a greyhound race booked for that evening. Uruguay won 2–1 among the dog track's floodlights, a strange staging note before the tournament's real controversy arrived in the quarter-final."
+        },
+        {
+          "id": "branded-negative-by-press",
+          "label": "BRANDED NEGATIVE BY PRESS",
+          "story": "Jimmy Greaves complained that 'Uruguay's negative tactics soon choked the life out of the game' after the goalless draw with England, and English papers piled on with words like 'dour' and 'frustrating.' The defensive reputation stuck even as Uruguay advanced unbeaten from the group, undefeated until West Germany's quarter-final ambush."
+        },
+        {
+          "id": "in-house-celeste-1966",
+          "label": "STILL HOME-PRODUCED",
+          "story": "By 1966, most European sides had signed with outside kit makers, but Uruguay's celeste jersey remained an in-house production, plain and unbranded. The shirt carried no stars, no sponsor, nothing but the small national crest — a holdover from an amateur-adjacent era just before Adidas and Puma began dressing entire federations."
+        }
+      ],
       "homeColors": "light blue (celeste) shirt, black shorts, black socks",
       "awayColors": null,
       "image": null,
