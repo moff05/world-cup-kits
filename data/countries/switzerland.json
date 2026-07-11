@@ -463,6 +463,11 @@
     "2018": {
       "result": "Round of 16",
       "headline": "Forsberg Ends the Run",
+      "annotations": [
+        { "id": "double-eagle-celebration", "label": "THE DOUBLE-EAGLE CELEBRATION", "story": "When Granit Xhaka and Xherdan Shaqiri scored against Serbia, both crossed their hands into the shape of Albania's double-headed eagle — a nod to their Kosovo-Albanian roots, aimed squarely at a Serbian opponent. FIFA fined each player 10,000 Swiss francs for what officials called political provocation on the pitch." },
+        { "id": "suisse-on-the-back", "label": "'SUISSE' ACROSS THE SHOULDERS", "story": "Puma's 2018 away shirt went nearly all white, with a rounded neckline in red and the word 'SUISSE' printed across the upper back below the collar — a rare instance of Switzerland's kit spelling out its name in French rather than showing only the cross badge." },
+        { "id": "first-cup-in-russia", "label": "FIRST CUP IN RUSSIA", "story": "2018 marked the first World Cup ever held in Eastern Europe, awarded to Russia amid controversy over the bidding process and staged against a backdrop of Western sanctions and diplomatic tension following the 2014 annexation of Crimea. FIFA's showcase event unfolded in a host country most of Europe was busy sanctioning." }
+      ],
       "story": "Granit Xhaka and Xherdan Shaqiri each scored in a 2–1 win over Serbia, sandwiched between a draw with Brazil and a Blerim Džemaili equalizer against Costa Rica. Sweden's Emil Forsberg then ended the run 1–0 in the Round of 16, the same margin Switzerland had used to beat Serbia.",
       "homeColors": "red shirt, white shorts, red socks (Puma)",
       "awayColors": "white shirt, red shorts, white socks",
