@@ -241,9 +241,19 @@ export const switzerland = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "SEVEN-FIVE, STILL THE RECORD",
-              "story": "Hosting the tournament, Switzerland beat Italy twice — including a play-off after a tied group — to reach the quarter-final in Lausanne. Austria won a track meet of a match 7–5, still the highest-scoring game in World Cup history; Robert Ballaman and Josef Hügi combined for five of Switzerland's goals in the defeat."
+              "id": "heat-battle-of-lausanne",
+              "label": "HEAT BATTLE OF LAUSANNE",
+              "story": "Played in 40°C heat, the Austria quarter-final became known in German as the 'Hitzeschlacht von Lausanne' — the Heat Battle of Lausanne. Robert Ballaman and Josef Hügi combined for all five Swiss goals, but a barrage of Austrian goals after the break settled a match that still holds the World Cup scoring record seven decades on."
+            },
+            {
+              "id": "first-televised-cup",
+              "label": "FIRST CUP ON TELEVISION",
+              "story": "Hosting gave Switzerland first pick of colors, and their plain red shirt and white shorts — no crest embellishment, no sponsor — were beamed across the continent for the first time: 1954 was the first World Cup broadcast live via the new Eurovision network, putting Swiss red on television screens across Europe."
+            },
+            {
+              "id": "neutral-host-postwar-europe",
+              "label": "NEUTRAL GROUND, DIVIDED CONTINENT",
+              "story": "Untouched by the fighting, Switzerland was the natural host for the World Cup's return to Europe after a 16-year gap — the first tournament to welcome West Germany back, while East Germany stayed away entirely amid Cold War tension. A neutral country hosted a continent still sorting through its aftermath."
             }
           ]
         }
