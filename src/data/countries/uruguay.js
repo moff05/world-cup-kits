@@ -897,7 +897,8 @@ export const uruguay = {
           "round": "Group Stage",
           "opponent": "Ghana",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "de Arrascaeta 26', de Arrascaeta 31'"
         }
       ],
       "kits": {
