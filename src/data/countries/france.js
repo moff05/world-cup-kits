@@ -790,9 +790,19 @@ export const france = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "THE HEADBUTT FINAL",
-              "story": "Zinedine Zidane's cheeky Panenka penalty opened the final before Marco Materazzi equalized, and in extra time Zidane head-butted Materazzi in the chest and was sent off in what would be his final match. Italy won the shootout 5–3, denying France a second title in Zidane's last game for Les Bleus."
+              "id": "headbutt-and-out",
+              "label": "THE HEADBUTT AND OUT",
+              "story": "Zinedine Zidane's cheeky Panenka penalty opened the final before Marco Materazzi equalized, and in extra time Zidane head-butted Materazzi in the chest and was sent off in what would be his final match. Italy won the shootout 5–3, denying France a second title in Zidane's very last game for Les Bleus."
+            },
+            {
+              "id": "gradient-away-kit",
+              "label": "THE GRADIENT AWAY KIT",
+              "story": "Adidas dressed France's 2006 away shirt in a gradient running from pale blue to bright red across the chest, one of the more experimental designs in the team's history. It never got a final outing — France wore blue at home throughout the tournament, right up to the shootout defeat in Berlin."
+            },
+            {
+              "id": "veterans-return",
+              "label": "THE VETERANS RETURN",
+              "story": "Zidane, Claude Makélélé, and Lilian Thuram had all announced their international retirements after a poor Euro 2004, only to be talked back for a faltering 2006 qualifying campaign. The trio's return steadied a sinking ship and carried France, against every preseason expectation, all the way to the final in Germany."
             }
           ]
         }
