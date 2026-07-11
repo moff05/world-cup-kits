@@ -77,9 +77,19 @@ export const serbia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "TEENAGERS TOPPLE BRAZIL",
-              "story": "Yugoslavia's squad, the youngest at the inaugural tournament with an average age near 22, opened with a stunning 2–1 win over Brazil in Montevideo behind goals from Aleksandar Tirnanić and Ivan Bek. A 4–0 win over Bolivia followed. Host Uruguay ended the run 6–1 in the semi-final, but Uruguayan fans had already nicknamed them 'Los Ichachos.'"
+              "id": "the-vanishing-goal",
+              "label": "THE VANISHING GOAL",
+              "story": "Down 3–1 to Uruguay in the semi-final, Yugoslavia had a goal waved off just before halftime on a tight offside call, and one account has a policeman kicking a stray ball back into play to help set up a Uruguayan strike. Furious, Yugoslavia refused to contest the third-place match entirely."
+            },
+            {
+              "id": "no-logo-no-sponsor",
+              "label": "NO LOGO, NO SPONSOR",
+              "story": "The dark blue jersey worn in Montevideo carried no manufacturer's mark of any kind — Yugoslavia's kits stayed entirely in-house, stitched without a single brand stripe or crest sponsor, for 38 more years. Not until 1968 would a commercial kit maker's name ever touch the shirt."
+            },
+            {
+              "id": "three-weeks-by-sea",
+              "label": "THREE WEEKS BY SEA",
+              "story": "With the passenger liner Conte Verde already booked solid by France, Belgium, and Romania, Yugoslavia's squad took a three-day train to Marseille and boarded the pleasure cruiser Florida alone. Egypt was meant to join them; their own ship was delayed by weather and the Florida sailed without them."
             }
           ]
         }
