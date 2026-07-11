@@ -72,9 +72,19 @@ export const cameroon = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "THREE DRAWS, NO WAY THROUGH",
-              "story": "Cameroon's World Cup debut produced scoreless stalemates against Peru and Poland before Grégoire M'Bida finally broke through against Italy, hooking home the country's first-ever World Cup goal a minute after conceding. Three draws were somehow not enough — Cameroon went out on goals scored, undefeated and eliminated."
+              "id": "nkono-shutout-streak",
+              "label": "N'KONO'S SHUTOUT STREAK",
+              "story": "Captain Thomas N'Kono kept a defense so tight that Cameroon conceded exactly once across three matches — Italy's equalizer being the sole crack. Espanyol came calling within months, plucking N'Kono for Spain's La Liga off the strength of a debut tournament where the country's own net barely got touched."
+            },
+            {
+              "id": "rooster-and-lion-1982",
+              "label": "NO SPONSOR, NO PROBLEM",
+              "story": "Le Coq Sportif's rooster crest sat above a plain round federation badge — no other branding in sight, since almost no African federation carried a shirt sponsor in 1982. It's the only World Cup kit in Cameroon's history not made by Adidas or Puma, a one-tournament partnership that never returned."
+            },
+            {
+              "id": "ahidjo-last-tournament",
+              "label": "A PRESIDENCY ENDING",
+              "story": "President Ahmadou Ahidjo watched his country's World Cup debut in June 1982; by November he had resigned, citing exhaustion, and handed power to his prime minister, Paul Biya. It remains the only Cameroon World Cup played under Ahidjo, who ruled for 22 years before that surprise, still-debated handover."
             }
           ]
         }
