@@ -96,9 +96,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "HOME SOIL, FIRST TITLE",
-              "story": "With temperatures around 40°C, Italy needed extra time to beat Czechoslovakia in the final. Angelo Schiavio settled it in the 95th minute after Raimundo Orsi's swerving equalizer had canceled out a first-half Czech lead, delivering the first World Cup ever won on home soil."
+              "id": "1934-schiavio-extra-time-winner",
+              "label": "EXTRA-TIME CHAMPIONS",
+              "story": "Extra time, roughly 40°C heat, and a home crowd holding its breath: Raimundo Orsi curled in a freakish equalizer, then five minutes from the end Angelo Schiavio drove home the winner past Czechoslovakia's keeper. The hosts became world champions on their own turf under a scoreboard soaked in sweat."
+            },
+            {
+              "id": "1934-fascio-littorio-badge",
+              "label": "FASCIST EMBLEM ADDED",
+              "story": "Stitched onto the shirt for these finals was a new coat of arms: the royal Savoy cross fused with the Fascio Littorio, the bundled rods and axe that were the regime's own emblem. Blue jersey, white shorts, black socks — a kit carrying both the monarchy and Mussolini's state on the same patch of cloth."
+            },
+            {
+              "id": "1934-mussolini-propaganda-stage",
+              "label": "MUSSOLINI'S PROPAGANDA STAGE",
+              "story": "Benito Mussolini treated the tournament as a soundstage, attending every match and blanketing the country with roughly 300,000 posters of Hercules giving the fascist salute over a football. Players saluted from the podium as photographers worked the crowd — a title won under a spotlight built entirely for the regime."
             }
           ]
         }
@@ -148,9 +158,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "DEFENDING THE CROWN IN BLACK",
-              "story": "Italy became the first team to defend a World Cup title, riding two goals apiece from Gino Colaussi and Silvio Piola in a 4–2 final win over Hungary in Paris. A tense quarter-final against France saw the Azzurri forced into all-black shirts after losing a coin toss — and win 3–1 anyway."
+              "id": "1938-back-to-back-champions",
+              "label": "BACK-TO-BACK CHAMPIONS",
+              "story": "Gino Colaussi struck inside the first two minutes, Silvio Piola matched him goal for goal, and by full time each had a brace in a 4-2 final rout of Hungary. No side had ever defended the World Cup before; this one did it playing some of the tournament's most fluid football."
+            },
+            {
+              "id": "1938-black-shirt-coin-toss",
+              "label": "BLACK SHIRT, LOST TOSS",
+              "story": "A lost coin toss before the quarter-final against France scrapped plans for a white second kit — the team took the field instead in all black, a Fascio Littorio emblem stitched to the breast, evoking Mussolini's blackshirt militia. The borrowed color did nothing to slow them down; they won 3-1 anyway."
+            },
+            {
+              "id": "1938-marseille-exile-jeers",
+              "label": "JEERED BY EXILES",
+              "story": "The tournament opener in Marseille put the Azzurri in front of some 10,000 Italian anti-fascist exiles who had fled the regime. When coach Vittorio Pozzo ordered his players to repeat the Roman salute toward the crowd, he was answered with a wall of whistles and insults that echoed the wider war closing in on Europe."
             }
           ]
         }
@@ -186,9 +206,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "A TEAM IN MOURNING",
-              "story": "A year after the Superga air disaster wiped out the great Torino side that had supplied most of the national team, a grief-stricken and hastily rebuilt Italy traveled to Brazil by boat, refusing to fly. They lost the opener to Sweden 2–3, then beat Paraguay, but the two-time champions couldn't survive the group stage."
+              "id": "1950-group-stage-exit",
+              "label": "GRIEF-STRICKEN EARLY EXIT",
+              "story": "Barely a year removed from tragedy, a scratch-built squad opened with a 3-2 defeat to Sweden, recovered to beat Paraguay 2-0, and still went home after the group stage — a quiet, grief-heavy exit for the two-time defending champions."
+            },
+            {
+              "id": "1950-black-mourning-armband",
+              "label": "BLACK MOURNING ARMBAND",
+              "story": "For a full year after the Superga crash wiped out the Torino side that had stocked the national team, the Azzurri played in shirts carrying a black mourning armband stitched to the left sleeve. One such jersey, worn by defender Carlo Parola, now sits preserved in Italy's football museum."
+            },
+            {
+              "id": "1950-atlantic-crossing",
+              "label": "TWO WEEKS BY SEA",
+              "story": "Too shaken to fly after the disaster that killed 31 people including most of their teammates, the squad crossed the Atlantic by ocean liner, a two-week voyage that left them seasick, undertrained, and nowhere near fit by the time Brazil's heat and Sweden's forwards were waiting."
             }
           ]
         }
@@ -231,9 +261,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "UNDONE BY A PLAY-OFF",
-              "story": "Italy beat Belgium 4–1 but fell to Switzerland 1–2, forcing a winner-take-all play-off for the group's other spot. Playing in front of a hostile crowd in Basel four days later, the Swiss routed a shell-shocked Italy 4–1, sending the two-time champions home before the knockout rounds even began."
+              "id": "1954-basel-playoff-rout",
+              "label": "ROUTED IN THE REPLAY",
+              "story": "A 4-1 win over Belgium promised more than the two-time champions delivered: a 1-2 loss to Switzerland forced a playoff, and days later in Basel the Swiss demolished them 4-1, ending the tournament before the knockout stage even began."
+            },
+            {
+              "id": "1954-round-neck-gold-italia",
+              "label": "ROUND NECK, GOLD BADGE",
+              "story": "The shirt changed shape for Switzerland '54: a round neck replaced the old collar, and above the tricolour shield the badge now carried the word 'ITALIA' spelled out in gold — the Savoy cross long gone with the monarchy it once represented."
+            },
+            {
+              "id": "1954-eurovision-broadcast",
+              "label": "FIRST LIVE BROADCAST",
+              "story": "This was the first World Cup fans could watch unfold live, carried into homes via the new Eurovision network barely five months after state broadcaster RAI had switched on its national television signal — a technological leap that made the group-stage collapse in Basel sting in real time."
             }
           ]
         }
@@ -276,9 +316,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "THE BATTLE OF SANTIAGO'S SHADOW",
-              "story": "Italy's group finale against hosts Chile became known as the Battle of Santiago, a brawl-filled 2–0 defeat with two Italians sent off, refereed by an Englishman who later admitted losing control inside the first minute. A stalemate with West Germany and a win over Switzerland weren't enough to survive the group."
+              "id": "1962-battle-of-santiago",
+              "label": "BATTLE OF SANTIAGO",
+              "story": "Hosts Chile won 2-0 in a match remembered for chaos rather than football — English referee Ken Aston lost control inside the first minute, two players were sent off, and police intervened four times. A draw with West Germany and a win over Switzerland weren't enough; the group stage ended it."
+            },
+            {
+              "id": "1962-polo-collar-kit",
+              "label": "POLO COLLAR SWITCH",
+              "story": "The plain round neck gave way to a buttoned, polo-style collar for the Chile finals, the felt tricolour shield still stitched by hand onto blue cloth — a small design tweak on a jersey that, for one afternoon in Santiago, mattered far less than what happened around it."
+            },
+            {
+              "id": "1962-press-war-chile",
+              "label": "PRESS WAR IN CHILE",
+              "story": "Weeks before kickoff, two Italian journalists filed dispatches mocking Santiago as backward and poverty-stricken, one comparing Chile hosting the tournament to Mussolini's air force being sent to bomb London. Chilean papers fired back calling the Italians fascists and cheats, and the brawl on the pitch was, in part, a grudge match already lit."
             }
           ]
         }
@@ -321,9 +371,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "SUNK BY NORTH KOREA",
-              "story": "Already needing just a draw against amateur part-timers North Korea to advance, Italy lost 1–0 to Pak Doo-ik's 42nd-minute strike at Ayresome Park — one of the greatest upsets in World Cup history. The humiliated squad flew home to a hail of rotten tomatoes from furious fans waiting at the airport."
+              "id": "1966-north-korea-upset",
+              "label": "STUNNED BY NORTH KOREA",
+              "story": "Amateurs from North Korea, most of them soldiers and factory workers, won 1-0 at Ayresome Park when Pak Doo-ik slipped a shot past the keeper in the 42nd minute — still ranked among the sport's most stunning upsets, delivered by the two-time champions' own opponents."
+            },
+            {
+              "id": "1966-marango-sport-kit",
+              "label": "MADE BY MARANGO SPORT",
+              "story": "The blue shirts worn in that infamous defeat weren't made by any of the sportswear giants circling the game but by Marango Sport, a small Italian manufacturer — the last World Cup played in a kit without a recognizable international label attached to it."
+            },
+            {
+              "id": "1966-rotten-tomatoes-homecoming",
+              "label": "ROTTEN TOMATO HOMECOMING",
+              "story": "There was no heroes' welcome. Furious fans mobbed the airport back home and pelted the returning squad with rotten tomatoes, forcing the team to slip away from the crowds — a humiliation so raw it changed how Italian football treated failure for a generation."
             }
           ]
         }
@@ -387,9 +447,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "THE GAME OF THE CENTURY",
-              "story": "Gianni Rivera's stoppage-time winner capped an unforgettable 4–3 extra-time semi-final over West Germany at the Azteca, still called the Game of the Century, with five goals coming after the 90th minute. An exhausted Italy had nothing left for the final, falling 4–1 to Pelé's Brazil three days later."
+              "id": "1970-game-of-the-century",
+              "label": "GAME OF THE CENTURY",
+              "story": "Five goals fell in extra time alone as the Azzurri beat West Germany 4-3 in the 'Game of the Century,' Gianni Rivera prodding in the winner in the dying seconds. The final told a different story: Pelé's Brazil brushed them aside 4-1 under the Azteca sun."
+            },
+            {
+              "id": "1970-unbranded-euro68-shirt",
+              "label": "UNBRANDED AZZURRI BLUE",
+              "story": "The same round-collared cotton jersey worn to the European Championship title two years earlier reappeared in Mexico — blue, gold-shielded 'ITALIA' badge, no manufacturer's mark anywhere on it. It was the last shirt to go unbranded before Adidas took over the kit deal in 1974."
+            },
+            {
+              "id": "1970-staffetta-controversy",
+              "label": "THE STAFFETTA SPLIT",
+              "story": "Coach Ferruccio Valcareggi's 'staffetta' — hauling off Sandro Mazzola at halftime of every match in favor of Gianni Rivera — enraged fans and pundits throughout the tournament. Even Rivera's extra-time winner against West Germany couldn't settle the argument over which playmaker actually deserved the shirt."
             }
           ]
         }
@@ -432,9 +502,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "A QUIET ELIMINATION",
-              "story": "A workmanlike win over Haiti and a draw with Argentina put Italy in control of their group, but a 2–1 loss to Poland's Grzegorz Lato-led side ended the campaign on goal difference. It was a disappointing follow-up for a team that had reached the final just four years earlier."
+              "id": "1974-eliminated-goal-difference",
+              "label": "OUT ON GOAL DIFFERENCE",
+              "story": "A 3-1 win over World Cup debutants Haiti and a 1-1 draw with Argentina weren't enough to survive a 1-2 defeat to Grzegorz Lato's Poland — the two-time champions went out on goal difference without ever losing to the group's weakest side."
+            },
+            {
+              "id": "1974-adidas-no-branding",
+              "label": "ADIDAS, INVISIBLY WORN",
+              "story": "Adidas manufactured the kit for the first time this year, but federation rules still banned any visible branding, so the famous three stripes and trefoil were nowhere to be seen — a modern sportswear deal wearing the disguise of the old amateur-era shirt."
+            },
+            {
+              "id": "1974-years-of-lead",
+              "label": "YEARS OF LEAD BACKDROP",
+              "story": "The squad flew into West Germany with home barely two weeks removed from the Piazza della Loggia bombing in Brescia, where a neo-fascist attack on an anti-fascist rally killed eight people — a grim reminder of the terrorism gripping the country through its 'Years of Lead.'"
             }
           ]
         }
@@ -505,9 +585,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ROSSI ARRIVES, FALLS SHORT",
-              "story": "A 21-year-old Paolo Rossi scored three times as Italy topped a group featuring Argentina and reached the second round unbeaten in five. The Netherlands' Arie Haan curled in a 30-yard rocket to eliminate them 2–1, and Brazil beat a tired Italy 2–1 in the third-place match to leave the Azzurri fourth."
+              "id": "1978-rossi-breakout",
+              "label": "ROSSI ANNOUNCES HIMSELF",
+              "story": "Twenty-one-year-old Paolo Rossi scored three times as the Azzurri went five matches unbeaten, topping a group that included Argentina. Then Dutch midfielder Arie Haan struck from thirty yards, a shot that dipped violently past the keeper, ending the run 2-1 in the second round. Brazil closed it out in the third-place game."
+            },
+            {
+              "id": "1978-baila-blank-shirt",
+              "label": "BADGE, NO BRAND",
+              "story": "The shirt Italy wore in Argentina came from Baila, an obscure manufacturer whose name appeared nowhere on the fabric — just a plain sheet of azzurro blue with the tricolore shield stitched over the heart. No stars flanked the crest yet; despite two prior titles, the federation wouldn't add championship stars to the badge for another five years."
+            },
+            {
+              "id": "1978-coba-boycott",
+              "label": "NAMED IN THE BOYCOTT",
+              "story": "Months before kickoff, a Paris-based coalition called COBA urged six nations — Italy among them — to boycott Argentina rather than play amid the concentration camps and torture chambers of a military dictatorship. More than two hundred solidarity chapters sprang up across Europe. The Azzurri traveled anyway, into a tournament the generals hoped would launder their image."
             }
           ]
         }
@@ -578,9 +668,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ROSSI'S REDEMPTION, TARDELLI'S ROAR",
-              "story": "Paolo Rossi, just back from a two-year betting-scandal ban and scoreless through three draws, exploded with a hat-trick to eliminate Brazil 3–2, then scored both goals to beat Poland in the semi-final. He opened the scoring in the final too, and Marco Tardelli's guttural, tear-streaked celebration became the tournament's defining image as Italy beat West Germany 3–1."
+              "id": "1982-rossi-redemption",
+              "label": "ROSSI'S REDEMPTION",
+              "story": "Paolo Rossi returned from a two-year betting-scandal suspension rusty and jeered, drawing blanks through three group-stage draws. Then he detonated: a hat-trick that eliminated a fancied Brazil 3-2, both goals in a semi-final win over Poland, and the opener in the final. Marco Tardelli's scream after his goal against West Germany became the tournament's defining image as Italy won 3-1."
+            },
+            {
+              "id": "1982-crest-no-stars",
+              "label": "NO STARS YET",
+              "story": "The shirt Dino Zoff lifted the trophy in, made by French firm Le Coq Sportif, carried a crest reading only ITALIA — no stars, despite earlier titles in 1934 and 1938. The federation didn't add championship stars to the badge until the following year, creating three at once, including the one just won."
+            },
+            {
+              "id": "1982-silenzio-stampa",
+              "label": "SILENZIO STAMPA",
+              "story": "Barely two years earlier, Paolo Rossi had been banned over his alleged role in the Totonero betting scandal, his career seemingly finished. Bearzot recalled him anyway, then weathered such savage press criticism that the squad staged a self-imposed media blackout for the tournament's second half. Rossi silenced everyone the only way that mattered."
             }
           ]
         }
@@ -630,9 +730,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "PLATINI ENDS THE DEFENSE",
-              "story": "Alessandro Altobelli scored in each of Italy's first three matches to nudge the defending champions through a tricky group, but France's Michel Platini set up Yannick Stopyra to open a 2–0 Round of 16 win in Mexico City, ending Italy's title defense in the last 16."
+              "id": "1986-title-defense-ends",
+              "label": "REIGN ENDS IN MEXICO",
+              "story": "Alessandro Altobelli found the net in each of Italy's first three matches as the defending champions eased through the group. In Mexico City's round of sixteen, Michel Platini slipped a pass for Yannick Stopyra to open the scoring, and France closed out a 2-0 win that ended the Azzurri's reign without much of a fight."
+            },
+            {
+              "id": "1986-diadora-debut",
+              "label": "DIADORA COMES HOME",
+              "story": "After six years in French Le Coq Sportif colors and a brief stint with Ennerre, the federation brought the kit contract home in 1986, signing Treviso-based Diadora. The shirt now carried three gold stars above the shield for the first time at a World Cup — one for each title, freshly added to the badge after the 1982 win."
+            },
+            {
+              "id": "1986-bearzot-veterans",
+              "label": "TOO MUCH FAITH",
+              "story": "Coach Enzo Bearzot leaned heavily on the same names who had won it all four years earlier, and critics said so loudly even before a ball was kicked, still smarting from a failure to qualify for the 1984 Euros. When France ended the title defense, the press turned on both team and coach; Bearzot resigned after 104 games in charge."
             }
           ]
         }
@@ -703,9 +813,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "TOTÒ SCHILLACI'S SUMMER",
-              "story": "An unheralded 25-year-old Salvatore Schillaci, with barely a cap to his name before the tournament, came off the bench to score the opener against Austria and never stopped, finishing top scorer with six goals as host Italy reached the semi-final unbeaten. Argentina stunned the Azzurri on penalties in Naples, Diego Maradona's adopted home, denying Italy a home final."
+              "id": "1990-schillaci-naples",
+              "label": "TOTÒ'S SUMMER",
+              "story": "Salvatore Schillaci, barely known before the tournament, came off the bench to score against Austria and never stopped, finishing as top scorer with six goals. Italy reached the semi-final without losing a match, only for Diego Maradona's adopted city of Naples to host the downfall — Argentina won on penalties, and the home final never happened."
+            },
+            {
+              "id": "1990-recycled-shirt",
+              "label": "SAME SHIRT, FLIPPED COLLAR",
+              "story": "Diadora barely touched the design that had carried Italy through 1986 and Euro 88 — the home shirt for Italia '90 was, in essence, four years old. The one change was almost invisible: on the players' collars, the order of the tricolore trim was flipped so red sat on the outside, a detail absent from the shirts sold in shops."
+            },
+            {
+              "id": "1990-stadium-debt",
+              "label": "THE BILL FOR HOSTING",
+              "story": "Hosting came with a bill nobody wanted to look at closely: the renovation program for Italia '90 ran 84 percent over budget, funded partly by the Italian Olympic Committee. Rail stations built for the tournament were left half-finished or barely used, and the country didn't finish paying off the debt until 2017, twenty-seven years after the final whistle."
             }
           ]
         }
@@ -776,9 +896,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "BAGGIO CARRIES, BAGGIO MISSES",
-              "story": "Roberto Baggio dragged a struggling Italy through the knockout rounds almost single-handedly, scoring twice to beat Nigeria from behind, then twice more to eliminate Spain and Bulgaria. Exhausted in the final against Brazil, Baggio skied the decisive penalty over the bar in the first shootout in World Cup final history, handing Brazil the title."
+              "id": "1994-baggio-penalty-miss",
+              "label": "BAGGIO CARRIES, THEN MISSES",
+              "story": "Roberto Baggio dragged Italy through the knockout rounds almost alone — two goals to erase a deficit against Nigeria, two more to eliminate Spain and Bulgaria. By the final against Brazil, exhausted from carrying the weight of the tournament, he skied the decisive kick over the bar in the first shootout ever to decide a World Cup final."
+            },
+            {
+              "id": "1994-diadora-relief-crest",
+              "label": "A CREST YOU FEEL",
+              "story": "For Diadora's last World Cup with Italy before Nike took over, the federation unveiled a new FIGC emblem molded into the shirt fabric in relief rather than printed flat, creating a subtle, almost polka-dotted texture across the chest — a small flourish on a jersey that ended up soaked in Pasadena heat and penalty-shootout sweat."
+            },
+            {
+              "id": "1994-sacchi-baggio-rift",
+              "label": "COACH AT WAR",
+              "story": "Arrigo Sacchi built his rigid 4-4-2 around pressing and discipline, and Roberto Baggio — Italy's most gifted improviser — never fit comfortably inside it. The relationship curdled through the tournament, and after the final defeat, players pushed for Sacchi to resign. Federation president Antonio Matarrese had tied his own job to Sacchi's, so the coach stayed on, bruised but employed."
             }
           ]
         }
@@ -835,9 +965,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "OUT ON PENALTIES, AGAIN",
-              "story": "Christian Vieri's five goals carried Italy through the group and past Norway in the Round of 16, but the quarter-final against France went scoreless through 120 minutes at the Stade de France. Luigi Di Biagio's shot cannoned off the crossbar in the shootout, sending host France through and Italy home in another penalty heartbreak."
+              "id": "1998-crossbar-exit",
+              "label": "STOPPED BY THE CROSSBAR",
+              "story": "Christian Vieri scored five times through the group stage and a round-of-sixteen win over Norway, looking like the tournament's most dangerous forward. Then came a scoreless 120 minutes against France at Stade de France, and a shootout where Luigi Di Biagio's attempt cannoned off the crossbar, sending the host nation through and Italy home."
+            },
+            {
+              "id": "1998-shirt-no-logo",
+              "label": "SHIRT WITHOUT A LOGO",
+              "story": "Nike's deal with the federation was expiring as 1998 arrived, and the shirt the squad wore in France carried no visible Swoosh anywhere — the last World Cup jersey the Azzurri would wear without a manufacturer's logo on the chest or sleeve. Underneath the blank cotton was the same shiny azure worn since the late eighties."
+            },
+            {
+              "id": "1998-maldini-father-son",
+              "label": "FATHER COACHES, SON CAPTAINS",
+              "story": "Cesare Maldini took charge of the national team just as his son Paolo, already the Azzurri's defensive rock, was named captain — an arrangement with essentially no precedent. Critics accused the elder Maldini of overly cautious tactics, particularly his reluctance to field both Baggio and Del Piero together, and the quarter-final exit sharpened the debate."
             }
           ]
         }
@@ -887,9 +1027,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "GOLDEN GOAL HEARTBREAK IN DAEJEON",
-              "story": "Christian Vieri's early goal wasn't enough as South Korea's Ahn Jung-hwan headed in a golden-goal winner in extra time, in a Round of 16 upset marred by a disallowed Damiano Tommasi goal and Francesco Totti's controversial second-yellow ejection for diving. Italy had needed Alessandro Del Piero's stoppage-time equalizer against Mexico just to escape a rocky group stage."
+              "id": "2002-golden-goal-exit",
+              "label": "GOLDEN GOAL, RED CARD",
+              "story": "Christian Vieri's early strike wasn't enough to hold off South Korea, who leveled and won it in extra time on Ahn Jung-hwan's golden-goal header. The match was already poisoned by a disallowed Damiano Tommasi goal and Francesco Totti's second yellow for an alleged dive — Italy had needed a late Del Piero equalizer against Mexico just to survive the group."
+            },
+            {
+              "id": "2002-kappa-kombat",
+              "label": "BUILT TO EXPOSE FOULS",
+              "story": "The shirt Italy wore in South Korea was Kappa's Kombat design, cut so skintight from spandex-heavy fabric it could stretch thirty centimeters without losing shape. Kappa's pitch was that the fit exposed defenders tugging at shirts — fouls a baggier jersey would hide. It became a global fashion moment even as the team wearing it crashed out early."
+            },
+            {
+              "id": "2002-ahn-perugia-fallout",
+              "label": "COST OF A GOAL",
+              "story": "Furious Italian fans didn't stop at the scoreboard. Ahn Jung-hwan, who played his club football at Perugia, saw his contract terminated within days of scoring the winner against Italy. FIFA's inbox took a beating too — roughly 400,000 emails accusing the referee of bias flooded in after the match, crashing servers under the weight of complaints."
             }
           ]
         }
@@ -960,9 +1110,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ZIDANE'S HEADBUTT, ITALY'S FOURTH",
-              "story": "Marco Materazzi was at the center of the final's defining moments — he conceded the early penalty Zinedine Zidane converted, equalized with a header of his own, and needled Zidane into the headbutt that saw the French captain sent off. Fabio Grosso buried the winning penalty in a 5–3 shootout, delivering Italy's fourth star amid the Calciopoli scandal engulfing Italian football back home."
+              "id": "2006-materazzi-zidane-final",
+              "label": "MATERAZZI BAITS A LEGEND",
+              "story": "Marco Materazzi conceded the penalty Zinedine Zidane converted in the final, then equalized himself with a header, then said something that made Zidane turn and headbutt him out of the match. Fabio Grosso buried the winning kick in a 5-3 shootout, and Italy lifted a fourth trophy in a tournament that had begun under a cloud of scandal back home."
+            },
+            {
+              "id": "2006-puma-gold-navy-kit",
+              "label": "GOLD TRIM, BLUE SHORTS",
+              "story": "Puma's championship shirt broke from decades of tradition by pairing the blue jersey with matching blue shorts instead of the customary white, while navy gradients streaked down the torso and the Puma logo and squad numbers were rendered in metallic gold rather than plain white. Seams were heat-bonded instead of stitched to shave weight off the players' backs."
+            },
+            {
+              "id": "2006-calciopoli-backdrop",
+              "label": "CHAMPIONS AMID SCANDAL",
+              "story": "Weeks before the tournament, wiretaps exposed Juventus executive Luciano Moggi fixing referee appointments, a scandal that would strip the club of two league titles and send it down to Serie B. Several of Italy's starters — Buffon, Cannavaro, Zambrotta, Camoranesi — were Juventus players, lifting the World Cup while their own club's league standing collapsed back home."
             }
           ]
         }
@@ -1005,9 +1165,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "DEFENDING CHAMPIONS, FIRST OUT",
-              "story": "Defending champions Italy limped through two draws against Paraguay and New Zealand before Slovakia, playing in only their second-ever World Cup, beat them 3–2 to send the four-time champions out in the group stage — the first time that had happened to Italy since 1974."
+              "id": "2010-slovakia-group-exit",
+              "label": "OUT IN THE GROUP",
+              "story": "Draws against Paraguay and New Zealand left the defending champions needing something from their final group game, and Slovakia — in just their second-ever World Cup — beat them 3-2 to send Italy out at the first hurdle. It was the first time since 1974 the Azzurri had failed to escape the group, a collapse nobody saw coming."
+            },
+            {
+              "id": "2010-boxer-belt-shorts",
+              "label": "A BOXER'S BELT",
+              "story": "Puma dressed the defending champions in shorts with a wide waistband styled after a boxing champion's belt, an unmistakable nod to Italy's status as the team to beat. The collar carried a tricolore star pattern, echoing the crest's four gold stars — one added after the 2006 win — on a squad about to be humbled in the group stage."
+            },
+            {
+              "id": "2010-recycled-champions",
+              "label": "RECYCLING THE CHAMPIONS",
+              "story": "Marcello Lippi built his squad almost entirely around the players who won it all in 2006, even as several arrived off miserable club seasons — Fabio Cannavaro's Juventus defense had gone twenty straight league games without a clean sheet. Lippi shouldered the blame afterward, sparing his successor the scapegoating that had dogged Italy's previous title defense."
             }
           ]
         }
@@ -1050,9 +1220,19 @@ export const italy = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "BALOTELLI'S HEADER, THEN SILENCE",
-              "story": "Mario Balotelli's second-half header beat England in the tournament opener in steamy Manaus, but Italy managed just one goal across their next two matches. Losses to Costa Rica and Uruguay — the latter overshadowed by Luis Suárez biting Giorgio Chiellini — sent Italy out in the group stage for the first time since 2010."
+              "id": "2014-balotelli-suarez-bite",
+              "label": "ONE HEADER, THEN COLLAPSE",
+              "story": "Mario Balotelli rose to head in the winner against England in the Amazonian heat of Manaus, but the goals dried up after — just one in the next two games. Losses to Costa Rica and Uruguay, the latter remembered for Luis Suárez sinking his teeth into Giorgio Chiellini's shoulder, sent Italy out in the group stage again."
+            },
+            {
+              "id": "2014-puma-actv-fabric",
+              "label": "A SHIRT THAT MASSAGES",
+              "story": "Puma's 2014 kit came with taping sewn directly into the fabric — PWR ACTV technology, designed to compress the midriff and deliver what the brand called micro-massages to the skin during the match, supposedly easing breathing and pushing blood to working muscles. Ventilated side panels and a mesh back rounded out a shirt engineered more like sportswear than a jersey."
+            },
+            {
+              "id": "2014-balotelli-symbol",
+              "label": "SYMBOL ON THE PITCH",
+              "story": "Born in Palermo to Ghanaian parents, Mario Balotelli grew up hearing he'd never wear the shirt, then became the first Black player to start for Italy at a major tournament. Racist abuse from Italian stands had trailed him for years; his header against England was seized on, briefly, as proof the Azzurri could look like the country they represented."
             }
           ]
         }

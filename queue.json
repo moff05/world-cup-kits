@@ -1,5 +1,13 @@
 [
   {
+    "id": "argentina",
+    "name": "Argentina",
+    "confederation": "CONMEBOL",
+    "worldCupsCount": 19,
+    "status": "backfill",
+    "tier": "large"
+  },
+  {
     "id": "brazil",
     "name": "Brazil",
     "confederation": "CONMEBOL",
@@ -13,14 +21,6 @@
     "confederation": "UEFA",
     "worldCupsCount": 20,
     "status": "done",
-    "tier": "large"
-  },
-  {
-    "id": "argentina",
-    "name": "Argentina",
-    "confederation": "CONMEBOL",
-    "worldCupsCount": 19,
-    "status": "backfill",
     "tier": "large"
   },
   {
@@ -641,7 +641,7 @@
   },
   {
     "id": "curacao",
-    "name": "Cura\u00e7ao",
+    "name": "Curaçao",
     "confederation": "CONCACAF",
     "worldCupsCount": 1,
     "status": "done",
