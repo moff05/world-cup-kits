@@ -327,6 +327,23 @@
     "1970": {
       "result": "Group Stage",
       "headline": "Petráš Scores, Little Else",
+      "annotations": [
+        {
+          "id": "consolation-goals-only",
+          "label": "CONSOLATION GOALS ONLY",
+          "story": "Ladislav Petráš scored in back-to-back losses to Brazil and Romania in Guadalajara, but a 1–0 defeat to England in the finale sealed a winless exit. Pelé's Brazil, en route to a third title, proved simply too strong for a Czechoslovak side without its 1962 spark."
+        },
+        {
+          "id": "dressed-for-autumn-in-summer",
+          "label": "DRESSED FOR THE WRONG SEASON",
+          "story": "Mexico's altitude and heat pushed several teams toward lighter kits in 1970, but Czechoslovakia's white-and-red remained largely traditional wool-cotton blends — a team still dressed for European autumns competing in Latin American summer conditions, the same uniform serving three very different matches."
+        },
+        {
+          "id": "the-first-color-broadcast",
+          "label": "THE FIRST COLOR BROADCAST",
+          "story": "1970 was the first World Cup broadcast in color worldwide, meaning Czechoslovakia's white shirts appeared on television screens exactly as they looked in person for the first time — though a winless group stage meant few viewers outside Czechoslovakia had much reason to watch closely."
+        }
+      ],
       "homeColors": "white shirt, red shorts, blue socks",
       "awayColors": null,
       "image": null,
