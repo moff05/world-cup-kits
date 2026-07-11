@@ -976,9 +976,19 @@ export const spain = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "FIRED COACH, THEN PENALTIES",
-              "story": "Julen Lopetegui was fired as coach two days before the opener after secretly signing with Real Madrid, and Diego Costa's brace salvaged a 3–3 draw with a Cristiano Ronaldo-inspired Portugal. Under interim boss Fernando Hierro, Spain lost on penalties to host Russia in the Round of 16, ending Andrés Iniesta's final World Cup."
+              "id": "ronaldos-hat-trick-last-kick",
+              "label": "RONALDO'S HAT-TRICK, LAST KICK",
+              "story": "Diego Costa's second goal put Spain 3-2 up with the clock running out, and it looked like a statement debut for the interim regime — until Cristiano Ronaldo curled a free kick over the wall in the final minute to complete his own hat-trick and steal a point that felt, in the chaos of that week, like a defeat."
+            },
+            {
+              "id": "a-love-letter-to-94",
+              "label": "A LOVE LETTER TO '94",
+              "story": "The home shirt's diamond-shaped flash of yellow, blue, and red down the right side wasn't new — it was a direct homage to the shirt Spain wore at USA '94, right down to moving the Adidas logo back to the chest's center, exactly where it sat twenty-four years earlier. Adidas insisted it was pure nostalgia."
+            },
+            {
+              "id": "forty-eight-hours-notice",
+              "label": "FORTY-EIGHT HOURS' NOTICE",
+              "story": "Fernando Hierro had never managed a senior team above Spain's third tier when RFEF president Luis Rubiales handed him the job — with the opening match forty-eight hours away and a locker room still reeling from watching its actual coach get fired live on Spanish television for signing with Real Madrid."
             }
           ]
         }
