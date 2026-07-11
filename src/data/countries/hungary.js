@@ -493,9 +493,19 @@ export const hungary = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "KISS'S TEN-GOAL EXPLOSION",
-              "story": "László Kiss came off the bench to score a hat-trick — still the fastest in World Cup history — in a 10–1 demolition of El Salvador, the tournament's biggest-ever win. Diego Maradona's Argentina answered with a 4–1 defeat, and a draw with Belgium wasn't enough; Hungary's group-stage exit couldn't dim Kiss's record night."
+              "id": "eight-minutes-off-the-bench",
+              "label": "EIGHT MINUTES OFF THE BENCH",
+              "story": "László Kiss came off the bench in the 55th minute against El Salvador and scored three goals in eight minutes — still the fastest hat-trick in World Cup history — as Hungary ran up a 10–1 win, the tournament's biggest-ever scoreline, before Maradona's Argentina brought them back to earth."
+            },
+            {
+              "id": "three-stripes-arrive",
+              "label": "THREE STRIPES ARRIVE",
+              "story": "By 1982, Hungary's cherry red carried Adidas's three white sleeve stripes for the first time at a World Cup, the shirt's silhouette modernized even as the color stayed loyal to the flag it had represented since the 1930s — a small concession to a decade turning kits into marketing."
+            },
+            {
+              "id": "goulash-communism-abroad",
+              "label": "GOULASH COMMUNISM ABROAD",
+              "story": "Hungary traveled to Spain under 'goulash communism' — János Kádár's relatively liberal economic model that made Hungary the most open Eastern Bloc state, letting far more ordinary fans cross the border to follow the team than any Warsaw Pact neighbor's supporters could manage that summer."
             }
           ]
         }
