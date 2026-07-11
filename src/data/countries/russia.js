@@ -151,9 +151,19 @@ export const russia = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "COLOMBIA'S MIRACLE COMEBACK",
-              "story": "Valentin Ivanov's goals couldn't spare the Soviets from history: up 4–1 on Colombia, they conceded a corner that curled straight in — the first Olympic goal in World Cup history — and settled for a stunning 4–4 draw. Chile ended the run in the quarter-final, 2–1, with an ailing Yashin beaten twice in Arica."
+              "id": "ivanovs-colombia-double",
+              "label": "IVANOV'S COLOMBIA DOUBLE",
+              "story": "Valentin Ivanov scored twice in the opening eleven minutes against Colombia, staking the Soviets to what looked like a comfortable lead before the second-half collapse that produced the most famous own-inflicted draw in World Cup history. His four goals in Chile made him the Soviets' top scorer of the tournament."
+            },
+            {
+              "id": "black-spiders-myth",
+              "label": "THE BLACK SPIDER'S MYTH",
+              "story": "Lev Yashin's goalkeeper jersey read black on grainy broadcasts, but the shirt was actually a deep navy blue worn beneath the same CCCP crest as his outfield teammates. The mismatch between color and nickname never mattered — 'Black Spider' stuck with him for the rest of his career."
+            },
+            {
+              "id": "fading-force-verdict",
+              "label": "THE 'FADING FORCE' VERDICT",
+              "story": "After a rough tournament that included what Yashin himself called his worst performance, in the quarter-final loss to Chile, French paper L'Équipe wrote him off as a spent force. He answered by winning the 1963 Ballon d'Or — still the only goalkeeper in history to claim it."
             }
           ]
         }
