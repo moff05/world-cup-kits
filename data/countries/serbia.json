@@ -96,6 +96,23 @@
       "result": "Group Stage",
       "headline": "Denied By Rio Heartbreak",
       "story": "Yugoslavia thrashed Switzerland 3–0 and Mexico 4–1 to open Brazil's tournament, needing just a draw against the hosts to reach the final round-robin. Brazil beat them 2–0 in Rio de Janeiro instead, eliminating Yugoslavia on goal difference in one of the tightest group finishes of the era.",
+      "annotations": [
+        {
+          "id": "ten-men-in-rio",
+          "label": "TEN MEN IN RIO",
+          "story": "Captain Rajko Mitić gashed his head on a low iron beam leaving the tunnel before kickoff against Brazil and had to be stitched up pitchside. The referee refused to delay kickoff, so Yugoslavia played the opening minutes with ten men and never fully recovered, losing 2–0."
+          },
+        {
+          "id": "the-colors-that-survived",
+          "label": "THE COLORS THAT SURVIVED",
+          "story": "Twenty years after the team's first match, the same dark blue shirt, white shorts, and red socks took the field in Brazil — unchanged through a world war, a Nazi occupation, and the collapse of the monarchy into a socialist republic under Tito."
+        },
+        {
+          "id": "breaking-from-moscow",
+          "label": "BREAKING FROM MOSCOW",
+          "story": "Two years after Stalin's Cominform expelled Yugoslavia over Tito's refusal to bow to Soviet control, triggering a crushing economic embargo, Yugoslavia was the only Eastern Bloc nation to show up in Brazil — the USSR, Hungary, and Czechoslovakia all stayed home."
+        }
+      ],
       "homeColors": "dark blue shirt, white shorts, red socks",
       "awayColors": null,
       "image": null,
