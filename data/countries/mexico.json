@@ -99,6 +99,23 @@
     "1950": {
       "result": "Group Stage",
       "headline": "Overwhelmed in Brazil",
+      "annotations": [
+        {
+          "id": "debut-at-an-unfinished-stadium",
+          "label": "DEBUT AT AN UNFINISHED STADIUM",
+          "story": "Antonio Carbajal made his international debut in goal against Brazil at a Maracanã that wasn't even finished being built. Ademir's brace and strikes from Jair and Baltazar buried Mexico 4–0, the opening loss of a run that would eventually make Carbajal the first man to play five World Cups."
+        },
+        {
+          "id": "still-maroon",
+          "label": "STILL MAROON",
+          "story": "Mexico's second World Cup shirt looked almost identical to its first: maroon, with black or dark blue shorts depending on the match, years before the flag's colors took over. The tricolor switch was still half a decade away."
+        },
+        {
+          "id": "the-long-way-to-rio",
+          "label": "THE LONG WAY TO RIO",
+          "story": "Mexico qualified by finishing above the United States and Cuba in the North American zone, then spent weeks crossing by ship to reach Brazil. Coach Octavio Vial had barely any international friendlies to prepare his squad — just domestic matches and a long boat ride."
+        }
+      ],
       "story": "Mexico's second World Cup ended in three lopsided defeats, outscored 10–2 across matches with Brazil, Yugoslavia, and Switzerland. Héctor Ortiz's goal against Yugoslavia and a late strike versus Switzerland were the only bright spots in a tournament that never got Mexico off the bottom of the group.",
       "homeColors": "maroon shirt, black or dark blue shorts (pre-tricolor era)",
       "awayColors": null,
