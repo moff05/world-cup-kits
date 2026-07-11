@@ -524,6 +524,23 @@
       "result": "Round of 16",
       "headline": "The Group of Death, Survived",
       "story": "Clint Dempsey scored eight seconds into the opener against Ghana, and a late John Brooks header sealed the win. A Portugal stoppage-time equalizer and a loss to Germany followed, but the U.S. escaped the 'Group of Death' anyway. Belgium ended the run in extra time in the Round of 16.",
+      "annotations": [
+        {
+          "id": "thirty-second-opener",
+          "label": "THIRTY SECONDS TO SCORE",
+          "story": "Thirty seconds after kickoff against Ghana, Clint Dempsey collected a loose ball at the top of the box and drilled it low past the goalkeeper — the fifth-fastest goal in World Cup history, confirmed by FIFA after early broadcasts had clocked it even quicker. It set the tone for the self-declared Group of Death."
+        },
+        {
+          "id": "the-bomb-pop-jersey",
+          "label": "THE BOMB POP JERSEY",
+          "story": "Nike's away shirt split blue over red with a white stripe cutting the middle, and fans nicknamed it the 'Bomb Pop' after the popsicle almost instantly. The name stuck so well that Nike leaned into the comparison in later marketing, even though the company never actually confirmed the ice-cream truck staple as inspiration."
+        },
+        {
+          "id": "the-secretary-of-defense-meme",
+          "label": "THE SECRETARY OF DEFENSE",
+          "story": "After Tim Howard's record 16 saves against Belgium, internet users edited his Wikipedia page to name him U.S. Secretary of Defense. The joke traveled far enough that a White House press secretary fielded questions about it, and Pentagon chief Chuck Hagel called Howard personally, telling him he could 'someday' land the real job."
+        }
+      ],
       "homeColors": "white shirt, navy blue collar and trim (Nike)",
       "awayColors": "'Bomb Pop' — blue top, red bottom, white stripe divider (Nike)",
       "image": null,
