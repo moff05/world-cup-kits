@@ -649,9 +649,19 @@ export const belgium = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "THE DISALLOWED GOAL",
-              "story": "Marc Wilmots scored in all three group matches, including the decisive 3–2 win over Russia that sent Belgium through. In the Round of 16 against eventual champions Brazil, referee Peter Prendergast chalked off a Wilmots header for a phantom foul before Brazil won 2–0. Belgium still walked away with the tournament's Fair Play award."
+              "id": "wilmots-disallowed",
+              "label": "THE GOAL THAT WASN'T GIVEN",
+              "story": "Marc Wilmots scored in all three group matches, including the winner against Russia that carried Belgium through. Then, against eventual champions Brazil, referee Peter Prendergast chalked off a clean Wilmots header for an invisible foul. Brazil won 2–0 regardless, and Belgium left Japan with only FIFA's Fair Play award for consolation."
+            },
+            {
+              "id": "nike-template-red",
+              "label": "ONE TEMPLATE, EVERY NATION",
+              "story": "Nike outfitted dozens of 2002 World Cup teams from a shared design template, arguing identical technology gave every squad equal advantage regardless of budget. Belgium's shirt came out in one of the tournament's boldest, most saturated reds — striking on camera, and visually similar to several other Nike-sponsored nations that summer."
+            },
+            {
+              "id": "first-asian-cohost",
+              "label": "FOOTBALL'S FIRST CO-HOSTS",
+              "story": "2002 was the first World Cup ever shared by two host nations and the first held in Asia, with matches split between Japan and South Korea. Belgium's group games meant crossing between the two countries and adjusting to a time zone roughly seven hours ahead of Brussels — a logistical puzzle every European team faced equally."
             }
           ]
         }
