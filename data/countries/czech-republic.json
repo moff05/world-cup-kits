@@ -39,6 +39,23 @@
     "1934": {
       "result": "Runners-up",
       "headline": "Nejedlý's Furious Final Run",
+      "annotations": [
+        {
+          "id": "nejedlys-five-goals",
+          "label": "NEJEDLÝ'S FIVE GOALS",
+          "story": "Oldřich Nejedlý terrorized the tournament with five goals, three of them alone in a 3–1 semi-final demolition of Germany. In Rome's final, Antonín Puč's early strike had Czechoslovakia ahead until Raimundo Orsi's equalizer and Angelo Schiavio's extra-time winner handed the host nation the trophy, 2–1."
+        },
+        {
+          "id": "a-young-tricolor",
+          "label": "A YOUNG TRICOLOR",
+          "story": "Czechoslovakia wore plain white shirts with red shorts and blue socks — no sponsor, no player names, just the national tricolor split across three garments, a design echoing a flag that had existed for barely sixteen years since the country's 1918 founding."
+        },
+        {
+          "id": "football-under-il-duce",
+          "label": "FOOTBALL UNDER IL DUCE",
+          "story": "Mussolini's Italy hosted the tournament as a stage for Fascist prestige, and questions still surround the semi-final referee's performance against Czechoslovakia's opponents. The visiting Czechoslovaks reached the final anyway, only to lose to a host side that some contemporaries believed had been given every advantage the regime could arrange."
+        }
+      ],
       "homeColors": "white shirt, red shorts, blue socks",
       "awayColors": null,
       "image": null,
