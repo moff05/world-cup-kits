@@ -416,9 +416,19 @@ export const cameroon = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "BONUS DISPUTE, GROUP EXIT",
-              "story": "A dispute over unpaid bonuses nearly derailed the campaign before it started, and results followed suit: Mexico and Croatia both beat Cameroon comfortably, and a 4–1 loss to Brazil in which Joël Matip's late goal was a lone footnote closed out a group-stage exit with nothing to show for it."
+              "id": "dos-santos-disallowed-twice",
+              "label": "TWO GOALS THAT NEVER COUNTED",
+              "story": "Giovani dos Santos had two Mexico goals wrongly ruled out for offside before Oribe Peralta's 61st-minute strike finally stood, sinking Cameroon 1-0. FIFA pulled assistant referee Humberto Clavijo from the rest of the tournament days later — small consolation for a Cameroon side that never got the linesman's flag to go its way."
+            },
+            {
+              "id": "lion-map-and-stars",
+              "label": "A LION HIDDEN IN THE PATTERN",
+              "story": "Puma buried a roaring lion silhouette, the outline of Cameroon's own borders, and stars lifted straight off the national flag into an all-over tonal print across the green shirt — one of the most intricately patterned kits of the entire Brazil tournament, worn by a team unraveling off the pitch."
+            },
+            {
+              "id": "headbutt-in-injury-time",
+              "label": "A HEADBUTT AT 4-0",
+              "story": "Trailing Croatia 4-0 deep into injury time, Benoît Assou-Ekotto snapped and headbutted teammate Benjamin Moukandjo on the field, furious the winger kept ignoring him on the left flank. The referee never saw it; Samuel Eto'o brokered a breakfast-table handshake the next morning, but the footage had already gone everywhere."
             }
           ]
         }
