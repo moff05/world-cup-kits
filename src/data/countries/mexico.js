@@ -1009,7 +1009,8 @@ export const mexico = {
           "round": "Group Stage",
           "opponent": "Saudi Arabia",
           "score": "2–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Martín 47', Chávez 52'"
         }
       ],
       "kits": {
