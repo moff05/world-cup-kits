@@ -409,6 +409,23 @@
       "result": "Round of 16",
       "headline": "Platt's Volley in Injury Time",
       "story": "Wins over South Korea and Uruguay carried Belgium through the group, but a narrow loss to Spain cost them top spot. Enzo Scifo twice hit the woodwork against England in the Round of 16, and with penalties looming, David Platt's swiveling last-minute volley in extra time ended Belgium's tournament instead.",
+      "annotations": [
+        {
+          "id": "platts-volley",
+          "label": "THE VOLLEY THAT ENDED IT",
+          "story": "Enzo Scifo hit the woodwork twice against England in the Round of 16, and penalties looked inevitable. Then, in the 119th minute, David Platt controlled a looping free-kick on his chest and swiveled it into the net on the volley — a single moment of skill that ended Belgium's tournament instead."
+        },
+        {
+          "id": "white-socks-break",
+          "label": "THE SOCKS SWITCH TO WHITE",
+          "story": "For one tournament, Belgium broke from red socks entirely, pairing their Adidas home shirt with plain white ones instead of the usual matching red — a small deviation from decades of Red Devils tradition. It reverted the next cycle, but for Italia '90 the kit looked subtly, deliberately different."
+        },
+        {
+          "id": "italia-90-lockdown",
+          "label": "FOOTBALL'S DEFENSIVE LOW POINT",
+          "story": "Italia '90 became infamous as the most defensive, lowest-scoring World Cup in the competition's history, a tournament FIFA cited when rewriting rules on backpasses soon after. Belgium's own group-stage goal difference told the same story: two wins built on a single goal each, then a narrow exit to a stingy England side."
+        }
+      ],
       "homeColors": "red shirt, white shorts, white socks (Adidas)",
       "awayColors": "white shirt, red shorts",
       "image": null,
