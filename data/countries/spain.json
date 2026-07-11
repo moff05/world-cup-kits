@@ -172,6 +172,23 @@
       "result": "Group Stage",
       "headline": "Di Stéfano Never Plays",
       "story": "A late Adelardo strike wasn't enough as Brazil edged Spain 2–1 in a rain-soaked Chile decider, sending the reigning champions through and Spain out after the group stage. José Villalonga's side, built around a nominally star-studded roster, never got to use Alfredo Di Stéfano, injured and left out of every match.",
+      "annotations": [
+        {
+          "id": "peiros-last-gasp-winner",
+          "label": "PEIRÓ'S LAST-GASP WINNER",
+          "story": "Joaquín Peiró's goal in the 90th minute against Mexico was Spain's only win of the tournament, but it kept their hopes alive into the final round against Brazil. Without it, the frantic, ultimately unsuccessful chase against the reigning champions in the rain at Viña del Mar would never have mattered at all."
+        },
+        {
+          "id": "di-stefanos-number-six",
+          "label": "THE NUMBER HE NEVER WORE OUT",
+          "story": "Alfredo Di Stéfano couldn't play through his injury, but he still travelled with the squad and kept the No. 6 shirt on his back — his usual No. 9 already claimed by Francisco Gento. It's the closest the greatest player of his generation ever got to appearing in a World Cup."
+        },
+        {
+          "id": "chiles-earthquake-world-cup",
+          "label": "CHILE'S EARTHQUAKE WORLD CUP",
+          "story": "The host nation was still rebuilding when the tournament kicked off — the 1960 earthquake, the strongest ever recorded, had flattened whole towns two years earlier. Chile pressed ahead anyway under the defiant slogan 'Because we have nothing, we will do everything,' raising new stadiums from the rubble for a tournament nobody expected it to be able to stage."
+        }
+      ],
       "homeColors": "red shirt, blue shorts, black socks",
       "awayColors": null,
       "image": null,
