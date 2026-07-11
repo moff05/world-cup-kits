@@ -491,6 +491,23 @@
       "result": "Round of 16",
       "headline": "Sánchez Stuns, Penalties Sting",
       "story": "Alexis Sánchez scored in three straight matches — sinking Australia and Spain to reach the knockouts, then equalizing against host Brazil in the Round of 16. Gonzalo Jara's penalty struck the post in the shootout, and Chile went out 3–2 on spot kicks in a match many still call the tournament's toughest to lose.",
+      "annotations": [
+        {
+          "id": "jara-penalty-post",
+          "label": "JARA HITS THE POST",
+          "story": "Alexis Sánchez had just canceled out Brazil's opener to force extra time in the Round of 16, but the shootout turned on Gonzalo Jara's spot-kick — struck true enough, only to cannon back off the post. Brazil converted theirs, Chile didn't, and a 3–2 shootout defeat closed one of the most gutting exits in the country's World Cup history."
+        },
+        {
+          "id": "fans-storm-maracana",
+          "label": "FANS STORM THE MARACANÃ",
+          "story": "Hours before Chile faced defending champions Spain at the Maracanã, more than a hundred ticketless Chilean fans broke through a gate and flooded the media center, smashing glass doors and overturning furniture before security dragged roughly ninety of them out. Chile then went out and beat Spain 2–0 anyway, eliminating the champions from their own title defense."
+        },
+        {
+          "id": "puma-collar-trim",
+          "label": "PUMA'S COLLAR DETAIL",
+          "story": "Puma's cut kept the familiar scarlet body but added a crisp white trim around the collar and cuffs, with the blue shorts picking up the same piping — a tidier, more tailored shirt than the boxier designs of the 2000s. Sánchez wore it to score in three straight matches, the best run of individual form the shirt had seen in years."
+        }
+      ],
       "homeColors": "red shirt, blue shorts with white collar trim (Puma)",
       "awayColors": null,
       "image": null,
