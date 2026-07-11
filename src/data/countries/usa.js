@@ -343,9 +343,19 @@ export const usa = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "WINLESS IN FRANCE",
-              "story": "A last-place finish in a stacked field: Germany, Iran, and FR Yugoslavia all beat the U.S., including a politically charged loss to Iran that dominated headlines more than the football itself. Brian McBride's consolation goal against Iran was the only bright spot in a tournament the team wanted to forget."
+              "id": "estilis-header-mcbrides-answer",
+              "label": "ESTILI'S HEADER, MCBRIDE'S ANSWER",
+              "story": "Iran took the lead in the 40th minute on Hamid Estili's header, and Brian McBride's headed reply in the 87th minute stood as the only American goal of the entire tournament — arriving too late in a 2–1 loss that ended any hope of escaping the group with zero wins from France."
+            },
+            {
+              "id": "nikes-quiet-debut",
+              "label": "NIKE'S QUIET DEBUT",
+              "story": "Nike's first U.S. World Cup jersey dropped the layered Americana of 1994 entirely for a plain white shirt with one navy stripe and red piping — a switch from Adidas so understated that few fans even noticed. It was a template shirt built for a team nobody expected to make noise anyway."
+            },
+            {
+              "id": "roses-before-kickoff",
+              "label": "ROSES BEFORE KICKOFF",
+              "story": "Before kickoff in Lyon, under orders that neither side actually walk toward the other first, Iranian players crossed the field anyway and handed the Americans white roses while officials arranged both squads for a joint photograph — a peace gesture staged around a match so politically loaded that FIFA assigned extra stadium security."
             }
           ]
         }
