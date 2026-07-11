@@ -193,9 +193,19 @@ export const sweden = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "BRONZE BUILT ON SURVIVAL",
-              "story": "Sweden beat Italy and drew Paraguay to reach the four-team final pool, then were routed 7–1 by Brazil in Rio — still their heaviest World Cup defeat — before falling to Uruguay and closing with a 3–1 win over Spain. It was enough for third place, a bronze finish built more on survival than form."
+              "id": "beating-italy-champions",
+              "label": "TOPPLING THE CHAMPIONS",
+              "story": "Italy arrived in São Paulo as two-time defending champions, unbeaten at the World Cup since 1934. Sweden beat them anyway, 3–2, with Jeppson scoring twice — the signature result of a tournament remembered mostly for the 7–1 mauling that came later, but arguably the more remarkable scoreline."
+            },
+            {
+              "id": "in-house-1950-kit",
+              "label": "STILL NO LOGO",
+              "story": "The federation was still producing Sweden's kit itself in 1950 — no manufacturer, no crest changes, the same yellow-and-blue formula worn for decades. It wouldn't be until 1970 that an outside kit maker, Umbro, took over production for a World Cup squad."
+            },
+            {
+              "id": "amateurs-only-1950",
+              "label": "MISSING THEIR OWN STARS",
+              "story": "Sweden's federation barred any player under a professional contract from the national team in 1950 — which meant Gunnar Nordahl, Gunnar Gren, and Nils Liedholm, the trio who'd just won Olympic gold and moved to Italian clubs, watched from home. An amateur squad still came back with bronze."
             }
           ]
         }
