@@ -707,9 +707,19 @@ export const france = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "CHAMPIONS EXIT WITHOUT SCORING",
-              "story": "Defending champions without an injured Zinedine Zidane for two matches, France lost their opener to World Cup debutants Senegal, drew Uruguay 0–0, then fell to Denmark 0–2. Les Bleus became the first defending champions since Brazil in 1966 to exit in the group stage — and did it without scoring a single goal."
+              "id": "exit-without-scoring",
+              "label": "EXIT WITHOUT SCORING",
+              "story": "Defending champions France lost to World Cup debutants Senegal, drew Uruguay 0–0, then fell to Denmark, becoming the first reigning champions since Brazil in 1966 to exit at the group stage — and the only one of that group to do it without scoring a single goal across three matches."
+            },
+            {
+              "id": "champions-crest",
+              "label": "THE CHAMPIONS' CREST",
+              "story": "Adidas added a small gold star above France's crest for 2002, marking the 1998 title the way FIFA regulations allow reigning champions to commemorate their trophy on the next shirt. It made for an uncomfortable irony: a kit built to celebrate a championship worn by a team that never found the net defending it."
+            },
+            {
+              "id": "zidanes-torn-thigh",
+              "label": "ZIDANE'S TORN THIGH",
+              "story": "Zinedine Zidane tore his quadriceps in a pre-tournament friendly against South Korea, ruling him out of the opening two matches. He returned for the decisive Denmark game still heavily strapped and visibly short of fitness — a talisman forced onto the pitch injured because France had no functional plan without him."
             }
           ]
         }
