@@ -845,9 +845,19 @@ export const mexico = {
           },
           "annotations": [
             {
-              "id": "story",
-              "label": "ARGENTINA AGAIN IN THE LAST 16",
-              "story": "Rafael Márquez, captaining his third World Cup, helped Mexico draw South Africa in the opener before Javier Hernández announced himself against France in a 2–0 win. Argentina eliminated Mexico 3–1 in the Round of 16 for the second straight tournament, with a disputed offside goal from Carlos Tevez tilting the game."
+              "id": "85000-vuvuzelas",
+              "label": "85,000 VUVUZELAS",
+              "story": "Siphiwe Tshabalala's strike for South Africa was the first goal of the entire tournament, but Rafael Márquez's 79th-minute equalizer salvaged a 1–1 draw inside a Soccer City crowd of almost 85,000, their vuvuzelas droning through the whole match."
+            },
+            {
+              "id": "seam-free-sleeves",
+              "label": "SEAM-FREE SLEEVES",
+              "story": "Adidas's FORMOTION jersey ditched the traditional cut for sculpted, seam-free sleeve openings and ClimaCool mesh venting — a construction overhaul from anything Mexico had worn in the two decades prior."
+            },
+            {
+              "id": "the-rematch",
+              "label": "THE REMATCH",
+              "story": "Argentina eliminated Mexico in the Round of 16 for the second straight tournament, a disputed offside goal from Carlos Tévez tilting a game that played out almost identically to their 2006 meeting four years earlier."
             }
           ]
         }
