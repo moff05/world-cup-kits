@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
 import { countries } from "../data/index.js";
 import { opponentCountryId } from "../utils/opponentLookup.js";
+import { computeExtendedStats } from "../utils/countryStats.js";
 
 const OPPONENT_FLAGS = {
   // CONMEBOL
@@ -94,6 +95,7 @@ export default function CountryDashboard() {
   if (!country) return <div className="not-found">Country not found.</div>;
 
   const participated = new Set(country.worldCups);
+  const ext = computeExtendedStats(country);
   const hasKitData = Object.keys(country.kits || {}).length > 0;
   const stats = country.stats || null;
 
@@ -165,6 +167,51 @@ export default function CountryDashboard() {
             <span className="country-stat-num">{stats.goalsFor - stats.goalsAgainst > 0 ? "+" : ""}{stats.goalsFor - stats.goalsAgainst}</span>
             <span className="country-stat-label">Goal Difference</span>
           </div>
+        </div>
+      )}
+
+      {ext && (
+        <div className="ext-stats">
+          {ext.biggestWin && (
+            <div className="ext-stat">
+              <span className="ext-stat-label">Biggest Win</span>
+              <span className="ext-stat-main">{ext.biggestWin.score}</span>
+              <span className="ext-stat-sub">vs {ext.biggestWin.opponent}</span>
+            </div>
+          )}
+          {ext.biggestLoss && (
+            <div className="ext-stat">
+              <span className="ext-stat-label">Biggest Loss</span>
+              <span className="ext-stat-main ext-stat-main--loss">{ext.biggestLoss.score}</span>
+              <span className="ext-stat-sub">vs {ext.biggestLoss.opponent}</span>
+            </div>
+          )}
+          {ext.bestResult && (
+            <div className="ext-stat">
+              <span className="ext-stat-label">Best Result</span>
+              <span className={`ext-stat-main ext-stat-badge ${resultBadgeClass(ext.bestResult)}`}>{ext.bestResult}</span>
+            </div>
+          )}
+          {ext.rival && (
+            <div className="ext-stat">
+              <span className="ext-stat-label">Biggest Rival</span>
+              <span className="ext-stat-main ext-stat-main--rival">{ext.rival.name}</span>
+              <span className="ext-stat-sub">{ext.rival.games} games · {ext.rival.w}W {ext.rival.d}D {ext.rival.l}L</span>
+            </div>
+          )}
+          {ext.topScorers.length > 0 && (
+            <div className="ext-stat ext-stat--scorers">
+              <span className="ext-stat-label">Top Scorers</span>
+              <ol className="ext-scorers-list">
+                {ext.topScorers.map(({ name, goals }) => (
+                  <li key={name} className="ext-scorer-item">
+                    <span className="ext-scorer-name">{name}</span>
+                    <span className="ext-scorer-goals">{goals}</span>
+                  </li>
+                ))}
+              </ol>
+            </div>
+          )}
         </div>
       )}
 
