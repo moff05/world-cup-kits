@@ -1354,12 +1354,12 @@ a { color: inherit; text-decoration: none; }
 /* ── EXTENDED STATS ── */
 .ext-stats {
   display: grid;
-  grid-template-columns: repeat(3, 1fr) 1.4fr;
+  grid-template-columns: 1fr 1fr 1fr 1.1fr 1.3fr;
   gap: 1px;
   background: var(--border);
   border: 1px solid var(--border);
   border-top: 2px solid rgba(201,168,76,0.3);
-  border-radius: var(--radius);
+  border-radius: 0 0 var(--radius) var(--radius);
   overflow: hidden;
   margin-bottom: 32px;
 }
@@ -1367,8 +1367,8 @@ a { color: inherit; text-decoration: none; }
 .ext-stat {
   display: flex;
   flex-direction: column;
-  gap: 6px;
-  padding: 20px 22px;
+  gap: 4px;
+  padding: 18px 20px;
   background: var(--surface);
   opacity: 0;
   transform: translateY(10px);
@@ -1383,54 +1383,65 @@ a { color: inherit; text-decoration: none; }
 .ext-stat:nth-child(4) { --i: 3; }
 .ext-stat:nth-child(5) { --i: 4; }
 
-.ext-stat--scorers {
-  grid-column: 4;
-  grid-row: 1;
-}
-
 .ext-stat-label {
   font-size: 9px;
   font-weight: 700;
   letter-spacing: 0.18em;
   text-transform: uppercase;
   color: var(--text-muted);
+  margin-bottom: 2px;
 }
 .ext-stat-main {
   font-family: var(--font-display);
-  font-size: 30px;
+  font-size: 28px;
   font-weight: 800;
   letter-spacing: -0.02em;
   line-height: 1;
   color: var(--accent);
-  margin-top: 2px;
 }
 .ext-stat-main--loss { color: #b03a2e; }
 .ext-stat-main--rival {
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 700;
+  font-family: var(--font);
   color: var(--text);
   letter-spacing: -0.01em;
   line-height: 1.2;
 }
-.ext-stat-badge {
-  font-family: var(--font);
-  font-size: 11px;
+.ext-stat-main--result {
+  font-family: var(--font-display);
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  line-height: 1.2;
+  padding: 0;
+  background: none;
+  border-radius: 0;
+}
+.ext-stat-main--result.result--champion { color: var(--accent); }
+.ext-stat-main--result.result--final    { color: #c0c0c0; }
+.ext-stat-main--result.result--semi     { color: #cd7f32; }
+.ext-stat-main--result.result--quarter  { color: var(--text-muted); }
+.ext-stat-main--result.result--r16      { color: var(--text-muted); }
+.ext-stat-main--result.result--group    { color: var(--text-muted); }
+.ext-stat-secondary {
+  font-family: var(--font-display);
+  font-size: 12px;
   font-weight: 700;
   letter-spacing: 0.06em;
-  padding: 4px 10px;
-  border-radius: 3px;
-  align-self: flex-start;
-  margin-top: 4px;
+  text-transform: uppercase;
+  color: #555;
+  margin-top: 6px;
 }
 .ext-stat-sub {
   font-size: 11px;
   color: var(--text-muted);
   margin-top: 2px;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 /* Scorers panel */
-.ext-stat--scorers { justify-content: center; }
 .ext-scorers-list {
   list-style: none;
   display: flex;
@@ -1443,35 +1454,37 @@ a { color: inherit; text-decoration: none; }
   justify-content: space-between;
   align-items: center;
   gap: 12px;
-  padding: 7px 0;
+  padding: 8px 0;
   border-bottom: 1px solid var(--border);
   opacity: 0;
-  transform: translateX(-6px);
+  transform: translateY(6px);
 }
 .ext-stats--on .ext-scorer-item {
   animation: statFadeUp 0.4s cubic-bezier(0.22, 1, 0.36, 1) both;
-  animation-delay: calc(var(--i, 0) * 80ms + 500ms);
+  animation-delay: calc(var(--i, 0) * 90ms + 520ms);
 }
 .ext-scorer-item:last-child { border-bottom: none; }
 .ext-scorer-name {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 600;
   color: var(--text-dim);
 }
 .ext-scorer-goals {
   font-family: var(--font-display);
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 800;
   letter-spacing: -0.02em;
   color: var(--accent);
   flex-shrink: 0;
 }
 
-@media (max-width: 700px) {
-  .ext-stats {
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto auto auto;
-  }
-  .ext-stat--scorers { grid-column: span 2; grid-row: auto; }
-  .ext-stat-main { font-size: 24px; }
+@media (max-width: 800px) {
+  .ext-stats { grid-template-columns: 1fr 1fr 1fr; }
+  .ext-stat--scorers { grid-column: span 3; }
+  .ext-scorer-item { padding: 6px 0; }
+}
+@media (max-width: 500px) {
+  .ext-stats { grid-template-columns: 1fr 1fr; }
+  .ext-stat--scorers { grid-column: span 2; }
+  .ext-stat-main { font-size: 22px; }
 }

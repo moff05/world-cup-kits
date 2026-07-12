@@ -209,14 +209,23 @@ export default function CountryDashboard() {
           {ext.bestResult && (
             <div className="ext-stat">
               <span className="ext-stat-label">Best Result</span>
-              <span className={`ext-stat-main ext-stat-badge ${resultBadgeClass(ext.bestResult)}`}>{ext.bestResult}</span>
+              <span className={`ext-stat-main ext-stat-main--result ${resultBadgeClass(ext.bestResult)}`}>{ext.bestResult}</span>
+              {ext.worstResult && ext.worstResult !== ext.bestResult && (
+                <>
+                  <span className="ext-stat-secondary">Worst</span>
+                  <span className="ext-stat-sub">{ext.worstResult}</span>
+                </>
+              )}
             </div>
           )}
           {ext.rival && (
             <div className="ext-stat">
               <span className="ext-stat-label">Biggest Rival</span>
               <span className="ext-stat-main ext-stat-main--rival">{ext.rival.name}</span>
-              <span className="ext-stat-sub">{ext.rival.games} games · {ext.rival.w}W {ext.rival.d}D {ext.rival.l}L</span>
+              <span className="ext-stat-sub">
+                {ext.rival.games} meetings<br />
+                {ext.rival.w}W · {ext.rival.d}D · {ext.rival.l}L
+              </span>
             </div>
           )}
           {ext.topScorers.length > 0 && (
