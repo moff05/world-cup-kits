@@ -38,6 +38,16 @@
           "id": "borrowed-uruguay-shirt",
           "label": "WEARING THE HOST'S COLORS",
           "story": "A kit clash before the match against Brazil left Bolivia without a usable jersey, so they took the field in Uruguay's blue instead. It didn't help: Brazil won 4-0, mirroring Bolivia's opening 4-0 loss to Yugoslavia in the tournament's very first days."
+        },
+        {
+          "id": "viva-uruguay-letters",
+          "label": "SPELLING OUT VIVA URUGUAY",
+          "story": "For their World Cup opener against Yugoslavia, Bolivia's eleven players each wore a single letter spelling out 'Viva Uruguay' across their shirts — a good-will gesture to the host nation before kickoff. It was one of two jersey stunts inside a week: days later, Bolivia would borrow Uruguay's own blue shirts outright for the match against Brazil."
+        },
+        {
+          "id": "disallowed-goals-yugoslavia",
+          "label": "GOALS THAT NEVER COUNTED",
+          "story": "Bolivia held Yugoslavia scoreless for the first hour of their World Cup debut, a credible showing for a squad assembled entirely from domestic clubs. Several Bolivian goals were controversially disallowed before the Yugoslavs pulled away for a 4-0 win — one of the tournament's earliest forgotten what-ifs, from a competition with no film review and no dispute process."
         }
       ],
       "homeColors": "white shirt (kit clash forced Bolivia to wear borrowed Uruguay blue vs Brazil)",
@@ -67,7 +77,23 @@
     "1950": {
       "result": "Group Stage",
       "headline": "One Match, One Rout",
-      "annotations": [],
+      "annotations": [
+        {
+          "id": "miguez-hat-trick",
+          "label": "MÍGUEZ'S HAT-TRICK",
+          "story": "Óscar Míguez scored three of Uruguay's eight goals in Bolivia's only match of the tournament, with Juan Schiaffino adding two more. It remains the heaviest defeat in Bolivian World Cup history and one of the largest in tournament history overall — a warm-up, unbeknownst to anyone in the stadium, for the Uruguayans' Maracanazo three weeks later."
+        },
+        {
+          "id": "two-team-group",
+          "label": "A GROUP OF JUST TWO",
+          "story": "Mass withdrawals gutted the 1950 tournament — France pulled out before a ball was kicked, leaving Bolivia's group reduced to just two teams: themselves and eventual champions Uruguay. A single match decided the entire group, meaning Bolivia's whole World Cup came down to ninety minutes against the best team in the competition."
+        },
+        {
+          "id": "pre-sponsor-plain-shirt",
+          "label": "NO LOGOS, NO SPONSORS",
+          "story": "Bolivia's 1950 shirt carried no sponsor and no manufacturer mark, just a plain white jersey with a crest — standard for an era before shirt sponsorship existed anywhere in football. More than four decades passed before the team wore a kit from a named manufacturer at a World Cup again, when Umbro outfitted them in 1994."
+        }
+      ],
       "homeColors": "white shirt",
       "awayColors": null,
       "image": null,
@@ -93,6 +119,16 @@
           "id": "only-world-cup-goal",
           "label": "SÁNCHEZ BREAKS THE DROUGHT",
           "story": "Erwin Sánchez's strike against Spain remains the only goal Bolivia has ever scored at a World Cup, arriving after five previous matches — spanning 1930, 1950 and two earlier 1994 games — without finding the net. Bolivia still lost 3-1, but the goal ended one of the longest scoring droughts in tournament history."
+        },
+        {
+          "id": "beating-brazil-qualifying",
+          "label": "BEATING BRAZIL TO GET THERE",
+          "story": "Basque coach Xabier Azkargorta built Bolivia's only World Cup squad around a golden generation anchored by Marco Etcheverry, and the group's signature result came in qualifying: a 2-0 win over Brazil in La Paz's thin air, the first time Bolivia had ever beaten their giant neighbors. Brazil went on to win the tournament outright; Bolivia won only that one qualifier."
+        },
+        {
+          "id": "umbro-collar-detail",
+          "label": "RED, WHITE, AND EMERALD",
+          "story": "Umbro's 1994 home shirt kept the emerald green base but trimmed it with a red-and-white collar, pulling the full Bolivian flag palette onto a single jersey for the country's only World Cup appearance. Marco Etcheverry wore it in the group opener against Germany at Chicago's Soldier Field — the tournament's own opening match that summer."
         }
       ],
       "homeColors": "green shirt with white and yellow trim (Umbro)",
