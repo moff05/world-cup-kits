@@ -11,23 +11,26 @@ const ALL_WORLD_CUPS = [
 const CONF_ORDER = ["CONMEBOL", "UEFA", "CONCACAF", "CAF", "AFC", "OFC"];
 
 const FEATURED = [
-  { id: "argentina",  year: 1986, result: "Champions" },
-  { id: "uruguay",    year: 1950, result: "Champions" },
-  { id: "senegal",    year: 2002, result: "Quarter-final" },
-  { id: "north-korea", year: 1966, result: "Quarter-final" },
-  { id: "germany",    year: 2014, result: "Champions" },
-  { id: "netherlands", year: 1974, result: "Runners-up" },
-  { id: "morocco",    year: 2022, result: "4th Place" },
-  { id: "cameroon",   year: 1990, result: "Quarter-final" },
-  { id: "ukraine",    year: 2006, result: "Quarter-final" },
-  { id: "south-korea", year: 2002, result: "4th Place" },
-  { id: "algeria",    year: 1982, result: "Group Stage" },
-  { id: "cuba",       year: 1938, result: "Quarter-final" },
-  { id: "hungary",    year: 1954, result: "Runners-up" },
-  { id: "turkey",     year: 2002, result: "3rd Place" },
-  { id: "haiti",      year: 1974, result: "Group Stage" },
-  { id: "croatia",    year: 2018, result: "Runners-up" },
-  { id: "dr-congo",   year: 1974, result: "Group Stage" },
+  { id: "argentina",   year: 1986, result: "Champions" },      // Hand of God
+  { id: "uruguay",     year: 1950, result: "Champions" },      // Maracanazo
+  { id: "brazil",      year: 2014, result: "4th Place" },      // 7–1 at home
+  { id: "italy",       year: 1982, result: "Champions" },      // Rossi's Redemption
+  { id: "north-korea", year: 1966, result: "Quarter-final" },  // biggest upset ever
+  { id: "germany",     year: 2014, result: "Champions" },      // Götze in extra time
+  { id: "france",      year: 1982, result: "4th Place" },      // Seville heartbreak
+  { id: "senegal",     year: 2002, result: "Quarter-final" },  // debut shock
+  { id: "netherlands", year: 1974, result: "Runners-up" },     // Total Football
+  { id: "cameroon",    year: 1990, result: "Quarter-final" },  // Milla's dance
+  { id: "hungary",     year: 1954, result: "Runners-up" },     // Golden Team falls
+  { id: "cuba",        year: 1938, result: "Quarter-final" },  // amateurs stun Europe
+  { id: "morocco",     year: 2022, result: "4th Place" },      // Africa's history
+  { id: "portugal",    year: 1966, result: "3rd Place" },      // Eusébio's nine goals
+  { id: "turkey",      year: 2002, result: "3rd Place" },      // 11 seconds to bronze
+  { id: "south-korea", year: 2002, result: "4th Place" },      // miracle run
+  { id: "usa",         year: 1930, result: "3rd Place" },      // first WC hat-trick
+  { id: "costa-rica",  year: 2014, result: "Quarter-final" },  // stun the world
+  { id: "croatia",     year: 2018, result: "Runners-up" },     // golden ball
+  { id: "colombia",    year: 2014, result: "Quarter-final" },  // James Rodriguez arrives
 ];
 
 function FeaturedCard({ id, year, result }) {
