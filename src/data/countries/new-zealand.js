@@ -79,6 +79,11 @@ export const newZealand = {
               "id": "brazil-close-the-book",
               "label": "BRAZIL CLOSE THE BOOK",
               "story": "New Zealand's finals ended as feared: a 3-0 loss to the Soviet Union in Málaga, then a 4-0 defeat in Seville to a rampant Brazil side cruising toward the second round. Three games, three losses, twelve goals conceded — but a first World Cup campaign complete all the same."
+            },
+            {
+              "id": "the-teal-alternate",
+              "label": "THE TEAL ALTERNATE",
+              "story": "Adidas supplied the all-white home kit that gave the All Whites their name, plus a rarely seen teal-and-navy pinstriped away shirt from the same qualifying era — worn in a 5-0 rout of Saudi Arabia. In Spain, though, New Zealand never needed the alternate: white sufficed for all three group matches."
             }
           ]
         }
