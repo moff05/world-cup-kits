@@ -252,7 +252,7 @@ export const algeria = {
             {
               "id": "no-more-fennec-2014",
               "label": "THE FOX DISAPPEARS",
-              "story": "Puma stripped away the fennec fox motif for 2014, trading the animal print for a clean white shirt striped by a green sash and cuffs pulled straight from the national flag. Fans who'd loved the fox mascot four years earlier called it a step backward in design forums — but on the pitch, this shirt outperformed every previous Algerian kit, reaching the round of 16 for the first time."
+              "story": "Puma stripped away the fennec fox motif for 2014, trading the animal print for a clean white shirt striped by a green sash and cuffs pulled straight from the national flag. Some fans missed the fox — but on the pitch, this shirt outperformed every previous Algerian kit, reaching the round of 16 for the first time."
             }
           ]
         }
