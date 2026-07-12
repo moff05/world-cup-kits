@@ -4,32 +4,6 @@ const RESULT_RANK = {
   "Round of 32": 2, "2nd Round": 2, "Group Stage": 1,
 };
 
-function extractScorerName(seg) {
-  if (/\bOG\b/.test(seg)) return null;
-  const tokens = seg.trim().split(/\s+/);
-  let i = tokens.length - 1;
-  // Strip trailing time tokens (start with digit) and annotations like (pen), (ET)
-  while (i >= 0 && (/^\d/.test(tokens[i]) || /^\(/.test(tokens[i]))) i--;
-  if (i < 0) return null;
-  return tokens.slice(0, i + 1).join(" ");
-}
-
-function splitByEra(yearCounts, maxGap = 15) {
-  const sorted = Object.keys(yearCounts).map(Number).sort((a, b) => a - b);
-  if (!sorted.length) return [];
-  const clusters = [{ years: [sorted[0]], total: yearCounts[sorted[0]] }];
-  for (let i = 1; i < sorted.length; i++) {
-    const yr = sorted[i];
-    if (yr - sorted[i - 1] > maxGap) {
-      clusters.push({ years: [yr], total: yearCounts[yr] });
-    } else {
-      const c = clusters[clusters.length - 1];
-      c.years.push(yr);
-      c.total += yearCounts[yr];
-    }
-  }
-  return clusters;
-}
 
 export function computeExtendedStats(country) {
   const allMatches = [];
@@ -54,11 +28,11 @@ export function computeExtendedStats(country) {
     const margin = gf - ga;
     if (margin > biggestWinMargin) {
       biggestWinMargin = margin;
-      biggestWin = { opponent: m.opponent, score: `${gf}–${ga}` };
+      biggestWin = { opponent: m.opponent, score: `${gf}–${ga}`, year: m._yr, round: m.round };
     }
     if (margin < 0 && Math.abs(margin) > biggestLossMargin) {
       biggestLossMargin = Math.abs(margin);
-      biggestLoss = { opponent: m.opponent, score: `${gf}–${ga}` };
+      biggestLoss = { opponent: m.opponent, score: `${gf}–${ga}`, year: m._yr, round: m.round };
     }
   }
 
@@ -71,30 +45,6 @@ export function computeExtendedStats(country) {
     if (rank > 0 && rank < worstRank) { worstRank = rank; worstResult = result; }
   }
 
-  // Top scorers — track per (name, year) then era-split same surnames spanning 15+ years
-  const scorerGoals = {};
-  for (const m of allMatches) {
-    if (!m.scorers) continue;
-    for (const seg of m.scorers.split(", ")) {
-      const name = extractScorerName(seg);
-      if (!name) continue;
-      if (!scorerGoals[name]) scorerGoals[name] = {};
-      scorerGoals[name][m._yr] = (scorerGoals[name][m._yr] || 0) + 1;
-    }
-  }
-  const eraEntries = [];
-  for (const [name, yearCounts] of Object.entries(scorerGoals)) {
-    const clusters = splitByEra(yearCounts);
-    for (const { years, total } of clusters) {
-      const label = clusters.length > 1
-        ? `${name} (${years[0]}–${years[years.length - 1]})`
-        : name;
-      eraEntries.push({ name: label, goals: total });
-    }
-  }
-  const topScorers = eraEntries
-    .sort((a, b) => b.goals - a.goals)
-    .slice(0, 3);
 
   // Most-faced opponent + H2H record
   const oppCount = {};
@@ -111,5 +61,5 @@ export function computeExtendedStats(country) {
     ? { name: rivalName, games: oppCount[rivalName], ...oppRecord[rivalName] }
     : null;
 
-  return { biggestWin, biggestLoss, bestResult, worstResult, topScorers, rival };
+  return { biggestWin, biggestLoss, bestResult, worstResult, rival };
 }

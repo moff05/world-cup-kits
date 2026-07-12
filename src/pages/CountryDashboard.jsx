@@ -197,6 +197,7 @@ export default function CountryDashboard() {
               <span className="ext-stat-label">Biggest Win</span>
               <span className="ext-stat-main">{ext.biggestWin.score}</span>
               <span className="ext-stat-sub">vs {ext.biggestWin.opponent}</span>
+              <span className="ext-stat-context">{ext.biggestWin.round} · {ext.biggestWin.year}</span>
             </div>
           )}
           {ext.biggestLoss && (
@@ -204,6 +205,7 @@ export default function CountryDashboard() {
               <span className="ext-stat-label">Biggest Loss</span>
               <span className="ext-stat-main ext-stat-main--loss">{ext.biggestLoss.score}</span>
               <span className="ext-stat-sub">vs {ext.biggestLoss.opponent}</span>
+              <span className="ext-stat-context">{ext.biggestLoss.round} · {ext.biggestLoss.year}</span>
             </div>
           )}
           {ext.bestResult && (
@@ -226,19 +228,6 @@ export default function CountryDashboard() {
                 {ext.rival.games} meetings<br />
                 {ext.rival.w}W · {ext.rival.d}D · {ext.rival.l}L
               </span>
-            </div>
-          )}
-          {ext.topScorers.length > 0 && (
-            <div className="ext-stat ext-stat--scorers">
-              <span className="ext-stat-label">Top Scorers</span>
-              <ol className="ext-scorers-list">
-                {ext.topScorers.map(({ name, goals }, i) => (
-                  <li key={name} className="ext-scorer-item" style={{ "--i": i }}>
-                    <span className="ext-scorer-name">{name}</span>
-                    <span className="ext-scorer-goals"><CountUp value={goals} animated={statsAnimated} /></span>
-                  </li>
-                ))}
-              </ol>
             </div>
           )}
         </div>
