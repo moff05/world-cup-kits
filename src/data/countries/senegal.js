@@ -149,6 +149,11 @@ export const senegal = {
               "id": "wague-strikes-japan",
               "label": "WAGUE'S FIRST FOR SENEGAL",
               "story": "With the group still up for grabs, 21-year-old Moussa Wagué — on as a second-half substitute — drove Senegal back in front of Japan in the 71st minute with his first-ever international goal, side-footing coolly into the roof of the net."
+            },
+            {
+              "id": "fair-play-elimination",
+              "label": "FIRST FAIR-PLAY EXIT",
+              "story": "Level with Japan on points, goal difference, goals scored and head-to-head after a 2–2 draw, Senegal lost out on a brand-new tiebreaker: fewer yellow cards. Japan's four bookings beat Senegal's six, sending the Lions of Teranga home on the first fair-play elimination in World Cup history — a rule invented specifically for this scenario."
             }
           ]
         }
@@ -206,6 +211,11 @@ export const senegal = {
               "id": "dia-diedhiou-dieng-rout",
               "label": "THREE LIONS MAUL THE HOSTS",
               "story": "Needing to answer an opening loss to the Netherlands, Senegal took apart tournament hosts Qatar: Boulaye Dia finished off a defensive mistake in the 41st minute, Famara Diédhiou headed home a corner seven minutes later, and substitute Bamba Dieng added a deflected third in the 84th minute to seal a 3–1 win."
+            },
+            {
+              "id": "mane-injury-withdrawal",
+              "label": "MANÉ RULED OUT",
+              "story": "Nine days before the opener, two-time African Player of the Year Sadio Mané suffered a fibula injury for Bayern Munich, then flew to Innsbruck for surgery to reattach a torn tendon rather than gamble on recovery. He watched Senegal's Qatar campaign from home, the squad's most devastating absence of the buildup."
             }
           ]
         }

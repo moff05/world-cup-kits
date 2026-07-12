@@ -356,7 +356,7 @@
     "name": "Republic of Ireland",
     "confederation": "UEFA",
     "worldCupsCount": 3,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -364,7 +364,7 @@
     "name": "Northern Ireland",
     "confederation": "UEFA",
     "worldCupsCount": 3,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -372,7 +372,7 @@
     "name": "Norway",
     "confederation": "UEFA",
     "worldCupsCount": 3,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -380,7 +380,7 @@
     "name": "Honduras",
     "confederation": "CONCACAF",
     "worldCupsCount": 3,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
