@@ -39,7 +39,7 @@ function FeaturedCard({ id, year, result }) {
   const yearData = country.kits?.[year];
   const headline = yearData?.headline || "";
   return (
-    <Link to={`/${id}`} className="featured-card" aria-label={`${country.name} ${year}`}>
+    <Link to={`/${id}/${year}`} className="featured-card" aria-label={`${country.name} ${year}`}>
       <img
         src={`https://flagcdn.com/w320/${country.flagCode}.png`}
         alt=""
