@@ -420,7 +420,7 @@
     "name": "Wales",
     "confederation": "UEFA",
     "worldCupsCount": 2,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -428,7 +428,7 @@
     "name": "Turkey",
     "confederation": "UEFA",
     "worldCupsCount": 2,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -460,7 +460,7 @@
     "name": "Canada",
     "confederation": "CONCACAF",
     "worldCupsCount": 2,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -468,7 +468,7 @@
     "name": "El Salvador",
     "confederation": "CONCACAF",
     "worldCupsCount": 2,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
