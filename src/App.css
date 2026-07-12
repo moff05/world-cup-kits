@@ -563,17 +563,19 @@ a { color: inherit; text-decoration: none; }
 .kit-year-item {
   display: flex; flex-direction: column; gap: 3px;
   padding: 10px 14px; border-bottom: 1px solid var(--border);
-  transition: background 0.15s;
+  transition: background 0.12s;
 }
 .kit-year-item:last-child { border-bottom: none; }
-.kit-year-item:hover { background: var(--surface-2); }
+.kit-year-item:hover { background: var(--accent-dim); }
 .kit-year-item:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
 .kit-year-item--active { background: var(--accent-dim); }
 
 .kit-year-item-year {
   font-family: var(--font-display); font-size: 16px; font-weight: 700;
   color: var(--text-dim); line-height: 1; letter-spacing: -0.01em;
+  transition: color 0.12s;
 }
+.kit-year-item:hover .kit-year-item-year,
 .kit-year-item--active .kit-year-item-year { color: var(--accent); }
 
 .kit-year-item-headline {
@@ -1012,8 +1014,8 @@ a { color: inherit; text-decoration: none; }
   position: relative;
   z-index: 1;
 }
-.year-row-link:hover { background: var(--surface-2); }
-.year-row--open .year-row-link { background: var(--surface-2); }
+.year-row-link:hover { background: var(--accent-dim); }
+.year-row--open .year-row-link { background: var(--accent-dim); }
 .year-row-link--no-story { cursor: default; }
 .year-row-link--no-story:hover { background: none; }
 
@@ -1071,8 +1073,8 @@ a { color: inherit; text-decoration: none; }
   position: relative;
   z-index: 1;
 }
-.year-row-toggle-btn:hover { background: var(--surface-2); color: var(--text); }
-.year-row--open .year-row-toggle-btn { background: var(--surface-2); }
+.year-row-toggle-btn:hover { background: var(--accent-dim); color: var(--text); }
+.year-row--open .year-row-toggle-btn { background: var(--accent-dim); }
 
 .year-row-toggle-label {
   font-size: 11px;
