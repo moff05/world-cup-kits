@@ -50,14 +50,14 @@ a { color: inherit; text-decoration: none; }
 }
 .site-header h1 {
   font-family: var(--font-display);
-  font-size: clamp(72px, 13vw, 132px);
+  font-size: clamp(56px, 10vw, 96px);
   font-weight: 800;
   letter-spacing: -0.03em;
   line-height: 0.9;
   text-transform: uppercase;
   text-wrap: balance;
 }
-.site-header p { color: var(--text-muted); margin-top: 20px; font-size: 0.875rem; letter-spacing: 0.12em; text-transform: uppercase; }
+.site-header p { color: var(--text-muted); margin-top: 20px; font-size: 0.9375rem; line-height: 1.6; }
 
 .home-stats {
   display: flex;
@@ -76,17 +76,13 @@ a { color: inherit; text-decoration: none; }
   color: var(--accent);
 }
 .home-stat-label {
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 500;
   color: var(--text-muted);
 }
 
 .pipeline-counter {
-  font-size: 11px;
-  letter-spacing: 0.10em;
-  text-transform: uppercase;
+  font-size: 12px;
   color: var(--text-muted);
   margin-top: 16px;
   opacity: 0.7;
@@ -327,7 +323,8 @@ a { color: inherit; text-decoration: none; }
 }
 
 /* ── DASHBOARD ── */
-.back-link { font-size: 12px; color: var(--text-muted); display: inline-flex; align-items: center; gap: 4px; margin-bottom: 0; letter-spacing: 0.06em; text-transform: uppercase; font-weight: 600; }
+.back-link { font-size: 13px; color: var(--text-muted); display: inline-flex; align-items: center; gap: 4px; margin-bottom: 0; font-weight: 500; transition: color 0.15s; }
+.back-link:hover { color: var(--text); }
 .back-link:hover { color: var(--text); }
 .back-link::before { content: "←"; margin-right: 2px; }
 
@@ -511,7 +508,7 @@ a { color: inherit; text-decoration: none; }
 .kit-sidebar { position: sticky; top: 24px; }
 
 .kit-sidebar-label {
-  font-size: 12px; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase;
+  font-size: 12px; font-weight: 500;
   color: var(--text-muted); margin-bottom: 12px;
 }
 
@@ -627,11 +624,8 @@ a { color: inherit; text-decoration: none; }
   padding-top: 24px;
 }
 .kit-matches-title {
-  font-family: var(--font-display);
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 500;
   color: var(--text-muted);
   margin-bottom: 14px;
 }
@@ -1138,7 +1132,7 @@ a { color: inherit; text-decoration: none; }
 }
 .tournament-title {
   font-family: var(--font-display);
-  font-size: clamp(80px, 16vw, 160px);
+  font-size: clamp(72px, 14vw, 120px);
   font-weight: 800;
   letter-spacing: -0.03em;
   line-height: 0.85;
@@ -1337,18 +1331,20 @@ a { color: inherit; text-decoration: none; }
 .home-stat--link:hover .home-stat-label { color: var(--accent); }
 
 /* ── STATS ANIMATIONS ── */
-@keyframes statFadeUp {
-  from { opacity: 0; transform: translateY(12px); }
-  to   { opacity: 1; transform: translateY(0); }
-}
+@media (prefers-reduced-motion: no-preference) {
+  @keyframes statFadeUp {
+    from { opacity: 0; transform: translateY(12px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
 
-.country-stat {
-  opacity: 0;
-  transform: translateY(12px);
-}
-.country-stats--on .country-stat {
-  animation: statFadeUp 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
-  animation-delay: calc(var(--i, 0) * 55ms);
+  .country-stat {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  .country-stats--on .country-stat {
+    animation: statFadeUp 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+    animation-delay: calc(var(--i, 0) * 55ms);
+  }
 }
 
 /* ── EXTENDED STATS ── */
@@ -1370,12 +1366,16 @@ a { color: inherit; text-decoration: none; }
   gap: 4px;
   padding: 18px 20px;
   background: var(--surface);
-  opacity: 0;
-  transform: translateY(10px);
 }
-.ext-stats--on .ext-stat {
-  animation: statFadeUp 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
-  animation-delay: calc(var(--i, 0) * 70ms + 200ms);
+@media (prefers-reduced-motion: no-preference) {
+  .ext-stat {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  .ext-stats--on .ext-stat {
+    animation: statFadeUp 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+    animation-delay: calc(var(--i, 0) * 70ms + 200ms);
+  }
 }
 .ext-stat:nth-child(1) { --i: 0; }
 .ext-stat:nth-child(2) { --i: 1; }
