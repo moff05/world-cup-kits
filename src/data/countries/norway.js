@@ -178,6 +178,11 @@ export const norway = {
               "id": "olsen-wellington-boots",
               "label": "THE COACH IN GREEN WELLIES",
               "story": "Egil Olsen coached from the touchline in green Wellington boots to ease his rheumatism, a look that made the self-styled 'Drillo' an easy target for ridicule among British tabloids. The mockery stopped when his Norway side beat Brazil in Marseille — the same city where Norway's World Cup story began, sixty years earlier."
+            },
+            {
+              "id": "polo-collar-dual-crest",
+              "label": "TWO BADGES, ONE POLO COLLAR",
+              "story": "Norway's plain red Umbro home shirt carried an oversized polo-style collar trimmed in navy and white, with 'NO' ribbed into the cuffs and two separate crests on the chest — a circular Norwegian flag badge on the right, the football federation's own emblem on the left, rather than the usual single crest."
             }
           ]
         }
