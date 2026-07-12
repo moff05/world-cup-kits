@@ -2,6 +2,12 @@ import { useState, useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
 import { countries } from "../data/index.js";
 
+const ALL_WORLD_CUPS = [
+  1930, 1934, 1938, 1950, 1954, 1958, 1962, 1966,
+  1970, 1974, 1978, 1982, 1986, 1990, 1994, 1998,
+  2002, 2006, 2010, 2014, 2018, 2022, 2026,
+];
+
 const CONF_ORDER = ["CONMEBOL", "UEFA", "CONCACAF", "CAF", "AFC", "OFC"];
 
 const FEATURED = [
@@ -205,10 +211,15 @@ export default function Home() {
             <span className="home-stat-num">23</span>
             <span className="home-stat-label">Tournaments</span>
           </div>
-          <div className="home-stat">
+          <Link to="/year/1930" className="home-stat home-stat--link">
             <span className="home-stat-num">1930</span>
-            <span className="home-stat-label">First Cup</span>
-          </div>
+            <span className="home-stat-label">First Cup →</span>
+          </Link>
+        </div>
+        <div className="year-browse-strip">
+          {ALL_WORLD_CUPS.map((y) => (
+            <Link key={y} to={`/year/${y}`} className="year-browse-pill">{y}</Link>
+          ))}
         </div>
         <p className="pipeline-counter">{countries.filter(c => Object.values(c.kits || {}).some(y => y.headline)).length} / {countries.length} nations documented</p>
       </header>

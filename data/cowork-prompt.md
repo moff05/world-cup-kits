@@ -129,25 +129,39 @@ Check the `tier` of the first `"backfill"` entry:
 - `"medium"` (7–12 World Cups) → do **2 countries** this run
 - `"small"` (1–6 World Cups) → do **4 countries** this run
 
-### What to fix
+### Step 1 of backfill: Run the annotation audit FIRST
 
-Open `/Users/nmoff/Desktop/Claude Projects/world-cup-kits/data/countries/[country-id].json` for each country.
+Before doing anything else, open the country JSON file and for **every year** in `kits`, print this exact table:
 
-Scan for two types of gaps:
+```
+YEAR | annotations[] count | story field present
+1930 | 1                   | yes
+1934 | 0                   | no
+...
+```
 
-**Gap A — Missing scorers**
+Count ONLY items inside `annotations[]`. A `story` string field is NOT an annotation and does NOT count. Do not proceed past this step until you have this table.
+
+**If any year has fewer than 3 in the annotations[] count → that is a Gap B year that MUST be filled.** This is the highest priority task. Do annotations BEFORE scorers.
+
+### Step 2 of backfill: Identify all gaps
+
+**Gap B — Missing annotations (DO THESE FIRST)**
+A year needs annotation fill if its `annotations` array has fewer than 3 items.
+
+- A year with `"story": "..."` and `"annotations": [item]` has **1 annotation**, not 2. The `story` string does not count.
+- A year with `"annotations": []` has **0 annotations** and needs all 3 written.
+- A year with 1 item in `annotations[]` needs exactly 2 more written.
+- **Fill ALL Gap B years before touching any Gap A (scorers).**
+
+**Gap A — Missing scorers (do after annotations are done)**
 A match needs a scorer fill if:
 - The `scorers` field is absent or `null`, AND
 - This country scored ≥ 1 goal in that match (their half of the score is > 0)
 
 Matches where this country scored 0 goals: leave `null`, they are correct.
 
-**Gap B — Missing annotations**
-A year needs annotation fill if its `annotations` array has fewer than 3 items.
-
-**Important:** A `story` string field is NOT an annotation. Only items inside the `annotations` array count. A year with `"story": "..."` and `"annotations": []` has 0 annotations and needs all 3 written. A year with 1 item in `annotations` needs 2 more written. Do not count `story` toward the 3-annotation requirement.
-
-If a country has no gaps in either category — mark it `"done"` immediately and move to the next backfill entry.
+**Only mark a country `"done"` if every year in `kits` has exactly 3 items in `annotations[]` AND all scorer gaps are filled.**
 
 ### How to fill Gap A — Scorers
 

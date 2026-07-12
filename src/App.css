@@ -1125,3 +1125,211 @@ a { color: inherit; text-decoration: none; }
   .country-stat { padding: 14px 14px; }
 }
 
+
+/* ── TOURNAMENT YEAR PAGE ── */
+.tournament-year { padding-top: 24px; }
+
+.tournament-header {
+  padding: 48px 0 40px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 0;
+}
+.tournament-title {
+  font-family: var(--font-display);
+  font-size: clamp(80px, 16vw, 160px);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 0.85;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.tournament-subtitle {
+  font-family: var(--font-display);
+  font-size: clamp(18px, 4vw, 28px);
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+.tournament-meta-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 20px;
+}
+.tournament-meta-item {
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+.tournament-meta-sep { color: var(--border); }
+
+.tournament-groups { padding: 40px 0 0; }
+
+.tournament-group { margin-bottom: 40px; }
+.tournament-group-label {
+  font-family: var(--font-display);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 14px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.tournament-country-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 10px;
+}
+
+.tournament-country-card {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  transition: border-color 0.15s, background 0.15s;
+  cursor: pointer;
+}
+.tournament-country-card:hover {
+  border-color: var(--accent);
+  background: var(--surface-2);
+}
+.tournament-country-flag {
+  width: 32px;
+  height: 24px;
+  object-fit: cover;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+.tournament-country-info {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  min-width: 0;
+}
+.tournament-country-name {
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: var(--text);
+}
+.tournament-country-card .year-row-result {
+  font-size: 10px;
+  padding: 1px 5px;
+  align-self: flex-start;
+}
+
+/* ── OPPONENT LINKS ── */
+.opponent-link {
+  color: var(--text);
+  border-bottom: 1px solid rgba(201,168,76,0.35);
+  transition: border-color 0.12s, color 0.12s;
+}
+.opponent-link:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+/* ── TOURNAMENT WC LINK IN YEAR ROW ── */
+.year-row-wc-link {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  padding: 4px 8px;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: color 0.12s, border-color 0.12s;
+}
+.year-row-wc-link:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+/* ── PLAYER TOOLTIPS ── */
+.player-tooltip-wrap {
+  position: relative;
+  display: inline;
+}
+.player-tooltip-trigger {
+  border-bottom: 1px dotted var(--accent);
+  cursor: help;
+  color: inherit;
+}
+.player-tooltip-box {
+  display: none;
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  width: 230px;
+  background: var(--surface-2);
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 10px 12px;
+  font-size: 11px;
+  line-height: 1.55;
+  color: var(--text-dim);
+  z-index: 20;
+  pointer-events: none;
+  text-align: left;
+}
+.player-tooltip-name {
+  display: block;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 5px;
+}
+.player-tooltip-wrap:hover .player-tooltip-box,
+.player-tooltip-wrap:focus-within .player-tooltip-box {
+  display: block;
+}
+
+@media (max-width: 600px) {
+  .tournament-country-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+  .year-row-wc-link { display: none; }
+  .player-tooltip-box { left: 0; transform: none; width: 200px; }
+}
+
+/* ── YEAR BROWSE STRIP (Home) ── */
+.year-browse-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 20px;
+}
+.year-browse-pill {
+  font-family: var(--font-display);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+  padding: 4px 10px;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  transition: color 0.12s, border-color 0.12s, background 0.12s;
+}
+.year-browse-pill:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-dim);
+}
+.home-stat--link { cursor: pointer; }
+.home-stat--link:hover .home-stat-num { color: var(--text); }
+.home-stat--link:hover .home-stat-label { color: var(--accent); }

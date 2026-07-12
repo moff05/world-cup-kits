@@ -2,6 +2,7 @@ import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home.jsx";
 import CountryDashboard from "./pages/CountryDashboard.jsx";
 import KitView from "./pages/KitView.jsx";
+import TournamentYear from "./pages/TournamentYear.jsx";
 import "./App.css";
 
 export default function App() {
@@ -10,6 +11,7 @@ export default function App() {
       <div className="app">
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/year/:year" element={<TournamentYear />} />
           <Route path="/:countryId" element={<CountryDashboard />} />
           <Route path="/:countryId/:year" element={<KitView />} />
         </Routes>

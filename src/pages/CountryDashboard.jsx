@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
 import { countries } from "../data/index.js";
+import { opponentCountryId } from "../utils/opponentLookup.js";
 
 const OPPONENT_FLAGS = {
   // CONMEBOL
@@ -238,6 +239,9 @@ export default function CountryDashboard() {
                       </span>
                     </div>
                   )}
+                  <Link to={`/year/${year}`} className="year-row-wc-link" title={`${year} World Cup`}>
+                    {year} WC
+                  </Link>
                   {canExpand && (
                     <button
                       className="year-row-toggle-btn"
@@ -257,6 +261,7 @@ export default function CountryDashboard() {
                       <tbody>
                         {matches.map((m, i) => {
                           const flagCode = opponentFlagCode(m.opponent);
+                          const oppId = opponentCountryId(m.opponent);
                           return (
                             <tr key={i} className="match-row">
                               <td className="match-round">{m.round}</td>
@@ -271,7 +276,9 @@ export default function CountryDashboard() {
                                         className="match-flag"
                                       />
                                     )}
-                                    {m.opponent}
+                                    {oppId ? (
+                                      <Link to={`/${oppId}`} className="opponent-link">{m.opponent}</Link>
+                                    ) : m.opponent}
                                   </span>
                                   {m.scorers && (
                                     <span className="match-scorers">{m.scorers}</span>
