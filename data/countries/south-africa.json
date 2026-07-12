@@ -43,6 +43,11 @@
           "id": "bartlett-stoppage-time-save",
           "label": "BARTLETT'S STOPPAGE-TIME SAVE",
           "story": "Shaun Bartlett opened the scoring in the 20th minute, but two second-half penalties — from Sami Al-Jaber and Youssef Al-Tunian — put Saudi Arabia 2–1 up. In the fifth minute of stoppage time, Bartlett converted a penalty of his own to salvage a dramatic 2–2 draw on South Africa's World Cup farewell."
+        },
+        {
+          "id": "troussier-takes-over",
+          "label": "A COACH PARACHUTED IN",
+          "story": "Under caretaker Jomo Sono, the team had just reached the AFCON final in January 1998 when the federation handed the World Cup job to newly appointed Frenchman Philippe Troussier instead. Troussier's Bafana Bafana lost 3–0 to hosts France in the opener, never recapturing the momentum Sono had built."
         }
       ],
       "homeColors": "yellow shirt with bold geometric colour-blocking (Kappa)",
@@ -89,6 +94,11 @@
           "id": "nomvethe-only-goal",
           "label": "NOMVETHE'S HISTORIC WINNER",
           "story": "A mistimed header from a Quinton Fortune free-kick cannoned in off Siyabonga Nomvethe's thigh in the fourth minute, the only goal of the game. The 1–0 win over Slovenia was South Africa's first-ever World Cup victory, arriving in their second tournament appearance."
+        },
+        {
+          "id": "missed-2006-return-2010",
+          "label": "THE LONG WAY BACK",
+          "story": "This early exit was not the end of the story so much as the start of an eight-year gap: South Africa failed to qualify for 2006, edged out by Ghana and DR Congo in a brutal CAF group. The country would not play another World Cup match until hosting the tournament itself in 2010."
         }
       ],
       "homeColors": "yellow shirt with green V-neck collar, shoulder stripes and sleeve cuffs, dark green mesh side panels (Adidas)",
@@ -135,6 +145,11 @@
           "id": "khumalo-mphela-shock-france",
           "label": "SOUTH AFRICA STUNS FRANCE",
           "story": "With qualification already gone, South Africa gave the World Cup hosts a farewell to remember: Bongani Khumalo headed home a corner in the 20th minute and Katlego Mphela added a second in the 37th, holding on through a late Florent Malouda strike to beat France 2–1 — too little, too late for the group stage."
+        },
+        {
+          "id": "vuvuzela-nation",
+          "label": "VUVUZELA NATION",
+          "story": "Stadiums buzzed at a constant roar measured near 127 decibels, louder than a referee's whistle, as fans blew plastic vuvuzela horns through every match. Visiting players complained they couldn't hear teammates or sleep in their hotels; FIFA let the noise stand in 2010, then banned the horns from the next World Cup entirely."
         }
       ],
       "homeColors": "sunshine yellow shirt with twilight green trim on the collar and sleeves, eleven threads woven in to symbolize unity (Adidas)",
