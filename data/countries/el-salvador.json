@@ -42,6 +42,11 @@
           "id": "a-war-behind-them",
           "label": "A WAR BEHIND THEM",
           "story": "El Salvador arrived in Mexico still in the shadow of the 'Football War' with Honduras, a conflict their own qualifying campaign had helped trigger months earlier — a heavy backdrop for a squad playing in its first-ever World Cup."
+        },
+        {
+          "id": "in-house-and-unbranded",
+          "label": "IN-HOUSE AND UNBRANDED",
+          "story": "El Salvador's shirt for their maiden World Cup carried no manufacturer's mark at all — a plain blue crewneck produced in-house rather than by Adidas or any of the branded kit-makers who dressed the era's bigger federations. It was a modest emblem for the smallest, newest team in Mexico that June."
         }
       ],
       "homeColors": "blue shirt with white trim and blue shorts",
@@ -88,6 +93,11 @@
           "id": "shamed-but-still-standing",
           "label": "SHAMED BUT STILL STANDING",
           "story": "Belgium's manager called El Salvador's loss to Hungary 'the most shameful' in World Cup history before Ludo Coeck's 19th-minute strike sealed a 1–0 Belgian win. A 2–0 defeat to Argentina in the final game closed out a winless tournament."
+        },
+        {
+          "id": "made-in-west-germany",
+          "label": "MADE IN WEST GERMANY",
+          "story": "El Salvador's Adidas home shirt for 1982 was manufactured in West Germany — a 50/50 cotton-polyester blend with a flocked crest and a light-transfer trefoil rather than the woven badges wealthier federations received. The same modest template later absorbed a 10–1 defeat to Hungary, still the heaviest scoreline in World Cup history."
         }
       ],
       "homeColors": "white shirt with blue trim (Adidas)",
