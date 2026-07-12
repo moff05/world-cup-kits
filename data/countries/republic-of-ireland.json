@@ -38,6 +38,16 @@
           "id": "bonner-oleary-genoa",
           "label": "BONNER'S SAVE, O'LEARY'S NERVE",
           "story": "Goalless after 120 minutes against Romania in Genoa, the shootout reached sudden death. Packie Bonner dove right to smother Daniel Timofte's tame effort, and up stepped defender David O'Leary — who had never taken a competitive penalty for Ireland — to send his country into its first-ever World Cup quarter-final."
+        },
+        {
+          "id": "away-shirt-outnumbers-green",
+          "label": "WHITE OUTWORE GREEN",
+          "story": "Ireland's Adidas away kit — white with a chevron-woven fold-down collar and an orange-trimmed V-neck — actually spent more pitch time in Italy than the famous emerald home shirt, worn against Egypt, the Netherlands and Italy itself while green appeared just once, against England."
+        },
+        {
+          "id": "phoenix-park-homecoming",
+          "label": "FIVE HUNDRED THOUSAND STRONG",
+          "story": "Half a million people flooded Dublin's streets on July 2nd for a team that had never won a World Cup match outright. Jack Charlton, stunned by the reception, said he wouldn't forget it if he lived to be a hundred — a homecoming bigger than the quarter-final defeat that preceded it."
         }
       ],
       "homeColors": "emerald green shirt with white and orange wrap-over V-neck trim (Adidas), white shorts, green socks",
@@ -93,6 +103,16 @@
           "id": "houghton-giants-stadium",
           "label": "ELEVEN MINUTES IN NEW JERSEY",
           "story": "Ray Houghton lobbed Gianluca Pagliuca from 20 yards inside the opening quarter-hour at Giants Stadium, and Ireland's back line held out an Italy team featuring Baggio and Baresi for the remaining 79. It remains one of the great World Cup upsets, and Ireland's only win of the tournament."
+        },
+        {
+          "id": "equipment-third-colour",
+          "label": "ORANGE JOINS THE KIT",
+          "story": "Adidas wove the FAI crest's shadow-stripe pattern straight into the fabric for USA '94 and, for the first time, added orange as a genuine third colour rather than trim — a nod to the tricolour. The change shirt broke from Adidas's own template, fading its three stripes to near invisibility."
+        },
+        {
+          "id": "loughinisland-same-match",
+          "label": "TRAGEDY DURING THE GOAL",
+          "story": "As Houghton's shot dropped past Pagliuca, gunmen burst into a pub in Loughinisland, County Down, where locals were watching the same match, and killed six men. The 'World Cup massacre' remains one of the darkest days of the Troubles, forever tangled with Ireland's greatest World Cup victory."
         }
       ],
       "homeColors": "green shirt with bold contrasting 'Adidas Equipment' panels, white shorts, green socks",
@@ -141,6 +161,16 @@
           "id": "keane-germany-injury-time",
           "label": "ONE MINUTE FROM ELIMINATION",
           "story": "Germany led 1–0 deep into stoppage time in Ibaraki when Niall Quinn flicked on a long ball and Robbie Keane buried it first-time past Oliver Kahn in the 90th minute. The draw kept Ireland's group-stage hopes alive and became the signature moment of Mick McCarthy's tournament."
+        },
+        {
+          "id": "eircom-third-kit-navy",
+          "label": "A THIRD SHIRT FOR THE VAULT",
+          "story": "Beyond the green home and white away, Umbro produced a rarely worn navy third kit for Ireland's Eircom-sponsored campaign, striped with white paneling and green-and-white cuffs. It stayed mostly in the equipment bag through Japan and Korea, overshadowed by the shirt Robbie Keane wore against Germany."
+        },
+        {
+          "id": "saipan-walkout",
+          "label": "THE ROW THAT SHOOK IRELAND",
+          "story": "Weeks before kickoff, captain Roy Keane erupted over Saipan's threadbare training pitch and missing equipment, then tore into manager Mick McCarthy in front of the whole squad at a Hyatt ballroom meeting. Keane flew home before a ball was kicked, and Ireland reached the last 16 without him."
         }
       ],
       "homeColors": "green shirt with white trim (Umbro), white shorts, green socks",
