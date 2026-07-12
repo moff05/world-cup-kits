@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef, useCallback } from "react";
 import { Link, useParams } from "react-router-dom";
 import { countries } from "../data/index.js";
 import { opponentCountryId } from "../utils/opponentLookup.js";
@@ -82,10 +82,43 @@ function resultBadgeClass(result) {
   return "result--group";
 }
 
+function CountUp({ value, animated, suffix = "" }) {
+  const [display, setDisplay] = useState(0);
+  const raf = useRef(null);
+  useEffect(() => {
+    if (!animated) return;
+    cancelAnimationFrame(raf.current);
+    const abs = Math.abs(value);
+    const sign = value < 0 ? -1 : 1;
+    const t0 = performance.now();
+    const tick = (now) => {
+      const p = Math.min((now - t0) / 900, 1);
+      const eased = 1 - (1 - p) ** 3;
+      setDisplay(sign * Math.round(abs * eased));
+      if (p < 1) raf.current = requestAnimationFrame(tick);
+    };
+    raf.current = requestAnimationFrame(tick);
+    return () => cancelAnimationFrame(raf.current);
+  }, [animated, value]);
+  return <>{value > 0 && suffix === "" ? "" : ""}{display}{suffix}</>;
+}
+
 export default function CountryDashboard() {
   const { countryId } = useParams();
   const country = countries.find((c) => c.id === countryId);
   const [openYears, setOpenYears] = useState(new Set());
+  const [statsAnimated, setStatsAnimated] = useState(false);
+  const statsRef = useRef(null);
+
+  const observeStats = useCallback((node) => {
+    if (!node) return;
+    statsRef.current = node;
+    const obs = new IntersectionObserver(
+      ([e]) => { if (e.isIntersecting) setStatsAnimated(true); },
+      { threshold: 0.2 }
+    );
+    obs.observe(node);
+  }, []);
 
   useEffect(() => {
     if (country) document.title = `${country.name} · World Cup Archive`;
@@ -134,44 +167,31 @@ export default function CountryDashboard() {
       </div>
 
       {stats && (
-        <div className="country-stats">
-          <div className="country-stat">
-            <span className="country-stat-num">{country.worldCups.length}</span>
-            <span className="country-stat-label">Tournaments</span>
-          </div>
-          <div className="country-stat">
-            <span className="country-stat-num">{stats.matches}</span>
-            <span className="country-stat-label">Matches</span>
-          </div>
-          <div className="country-stat">
-            <span className="country-stat-num">{stats.wins}W</span>
-            <span className="country-stat-label">Wins</span>
-          </div>
-          <div className="country-stat">
-            <span className="country-stat-num">{stats.draws}D</span>
-            <span className="country-stat-label">Draws</span>
-          </div>
-          <div className="country-stat">
-            <span className="country-stat-num">{stats.losses}L</span>
-            <span className="country-stat-label">Losses</span>
-          </div>
-          <div className="country-stat">
-            <span className="country-stat-num">{stats.goalsFor}</span>
-            <span className="country-stat-label">Goals For</span>
-          </div>
-          <div className="country-stat">
-            <span className="country-stat-num">{stats.goalsAgainst}</span>
-            <span className="country-stat-label">Goals Against</span>
-          </div>
-          <div className="country-stat">
-            <span className="country-stat-num">{stats.goalsFor - stats.goalsAgainst > 0 ? "+" : ""}{stats.goalsFor - stats.goalsAgainst}</span>
-            <span className="country-stat-label">Goal Difference</span>
-          </div>
+        <div className={`country-stats${statsAnimated ? " country-stats--on" : ""}`} ref={observeStats}>
+          {[
+            { num: country.worldCups.length, label: "Tournaments", suffix: "" },
+            { num: stats.matches, label: "Matches", suffix: "" },
+            { num: stats.wins, label: "Wins", suffix: "W" },
+            { num: stats.draws, label: "Draws", suffix: "D" },
+            { num: stats.losses, label: "Losses", suffix: "L" },
+            { num: stats.goalsFor, label: "Goals For", suffix: "" },
+            { num: stats.goalsAgainst, label: "Goals Against", suffix: "" },
+            { num: stats.goalsFor - stats.goalsAgainst, label: "Goal Diff", suffix: "", signed: true },
+          ].map(({ num, label, suffix, signed }, i) => (
+            <div key={label} className="country-stat" style={{ "--i": i }}>
+              <span className="country-stat-num">
+                {signed && num > 0 ? "+" : ""}
+                <CountUp value={num} animated={statsAnimated} />
+                {suffix}
+              </span>
+              <span className="country-stat-label">{label}</span>
+            </div>
+          ))}
         </div>
       )}
 
       {ext && (
-        <div className="ext-stats">
+        <div className={`ext-stats${statsAnimated ? " ext-stats--on" : ""}`}>
           {ext.biggestWin && (
             <div className="ext-stat">
               <span className="ext-stat-label">Biggest Win</span>
@@ -203,10 +223,10 @@ export default function CountryDashboard() {
             <div className="ext-stat ext-stat--scorers">
               <span className="ext-stat-label">Top Scorers</span>
               <ol className="ext-scorers-list">
-                {ext.topScorers.map(({ name, goals }) => (
-                  <li key={name} className="ext-scorer-item">
+                {ext.topScorers.map(({ name, goals }, i) => (
+                  <li key={name} className="ext-scorer-item" style={{ "--i": i }}>
                     <span className="ext-scorer-name">{name}</span>
-                    <span className="ext-scorer-goals">{goals}</span>
+                    <span className="ext-scorer-goals"><CountUp value={goals} animated={statsAnimated} /></span>
                   </li>
                 ))}
               </ol>
