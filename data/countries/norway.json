@@ -38,6 +38,16 @@
           "id": "brustad-vs-eventual-champions",
           "label": "ONE GOAL, NO SECOND CHANCE",
           "story": "In the tournament's single-elimination first round, Arne Brustad's goal forced extra time against Italy in Marseille, but the eventual champions found two more to win 2–1. It was Norway's only World Cup match for the next 56 years."
+        },
+        {
+          "id": "marseille-fascist-salute-protest",
+          "label": "WHISTLES FOR THE OPPONENT",
+          "story": "Some 10,000 exiled Italian anti-fascists filled the Marseille stands for the Italy match, jeering as the Azzurri raised their arms in the fascist salute before kickoff. Norway, the neutral underdog, found itself cheered by a crowd protesting the opponents' politics rather than backing a team most had never seen play."
+        },
+        {
+          "id": "in-house-shirt-no-manufacturer",
+          "label": "HOME-MADE, NOT BRANDED",
+          "story": "Long before Adidas or Umbro ever touched a Norwegian shirt, the 1938 kit was produced in-house by the football association itself — plain red with white shorts and blue socks, no maker's mark, no crest embellishment beyond the federation's own badge. Commercial kit suppliers wouldn't arrive in Norway for decades."
         }
       ],
       "homeColors": "red shirt, white shorts, blue socks",
@@ -65,6 +75,16 @@
           "id": "four-way-tie-goals-scored",
           "label": "OUT ON A TECHNICALITY",
           "story": "Norway beat Mexico, lost to Italy, and drew with the Republic of Ireland — and finished with the exact same points and goal difference as all three other teams in the group. Norway went out purely on having scored the fewest goals, one of the tightest group-stage eliminations in World Cup history."
+        },
+        {
+          "id": "rekdal-mexico-opener",
+          "label": "BACK AFTER 56 YEARS",
+          "story": "Norway's first World Cup match in 56 years nearly finished scoreless until Kjetil Rekdal struck in the 84th minute at Giants Stadium, beating Mexico 1–0. It ended a drought stretching back to the extra-time defeat to Italy in 1938, the last time Norway's flag had flown at a World Cup."
+        },
+        {
+          "id": "adidas-diamond-away-kit",
+          "label": "DIAMONDS ON THE ROAD SHIRT",
+          "story": "Adidas dressed Norway's home shirt in bold diagonal white stripes across red and navy sleeves, but saved the boldest choice for the change kit — a white shirt patterned with a repeating diamond print instead of the brand's usual three stripes, one of the more unusual road kits of USA '94."
         }
       ],
       "homeColors": "red shirt with white and blue Adidas trim, white shorts",
@@ -106,6 +126,11 @@
           "id": "rekdal-penalty-brazil",
           "label": "A PENALTY FOR THE AGES",
           "story": "Trailing Brazil and needing a win to advance, Norway got two second-half goals from Tore André Flo and a stoppage-time penalty from Kjetil Rekdal to complete a 2–1 comeback over the reigning champions in Marseille, sending Norway through to the round of 16 instead of Brazil's group rivals."
+        },
+        {
+          "id": "olsen-wellington-boots",
+          "label": "THE COACH IN GREEN WELLIES",
+          "story": "Egil Olsen coached from the touchline in green Wellington boots to ease his rheumatism, a look that made the self-styled 'Drillo' an easy target for ridicule among British tabloids. The mockery stopped when his Norway side beat Brazil in Marseille — the same city where Norway's World Cup story began, sixty years earlier."
         }
       ],
       "homeColors": "red shirt (Umbro), white shorts",
