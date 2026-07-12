@@ -388,7 +388,7 @@
     "name": "Senegal",
     "confederation": "CAF",
     "worldCupsCount": 3,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -396,7 +396,7 @@
     "name": "Ivory Coast",
     "confederation": "CAF",
     "worldCupsCount": 3,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -404,7 +404,7 @@
     "name": "Egypt",
     "confederation": "CAF",
     "worldCupsCount": 3,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -412,7 +412,7 @@
     "name": "South Africa",
     "confederation": "CAF",
     "worldCupsCount": 3,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
