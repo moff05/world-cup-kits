@@ -21,10 +21,10 @@
 
 | Token | Value | Role |
 |-------|-------|------|
-| `--font` | `'Barlow', system-ui, sans-serif` | Body, UI chrome |
+| `--font` | `'Figtree', system-ui, sans-serif` | Body, UI chrome |
 | `--font-display` | `'Barlow Condensed', 'Arial Narrow', sans-serif` | Display headings, year numbers, labels |
 
-Loaded from Google Fonts. Barlow Condensed 800 gives the compressed, wide-print sports-poster energy. Barlow regular serves body without competing.
+Loaded from Google Fonts. Barlow Condensed 800 gives the compressed, wide-print sports-poster energy. Figtree serves body — humanist grotesque with slightly warmer strokes than Barlow, adding editorial voice without competing with the display face.
 
 ### Scale
 

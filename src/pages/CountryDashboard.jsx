@@ -261,6 +261,11 @@ export default function CountryDashboard() {
               <span key={y} className="empty-state-year">{y}</span>
             ))}
           </div>
+          {country.worldCups.length > 0 && (
+            <Link to={`/year/${country.worldCups[0]}`} className="empty-state-cta">
+              Browse the {country.worldCups[0]} World Cup →
+            </Link>
+          )}
         </div>
       ) : (
         <div className="year-accordion">

@@ -59,7 +59,7 @@ const PLAYERS = {
 function PlayerTooltip({ name, bio }) {
   return (
     <span className="player-tooltip-wrap">
-      <span className="player-tooltip-trigger">{name}</span>
+      <span className="player-tooltip-trigger" tabIndex={0}>{name}</span>
       <span className="player-tooltip-box" role="tooltip">
         <strong className="player-tooltip-name">{name}</strong>
         {bio}
@@ -230,6 +230,18 @@ export default function KitView() {
         <span className="breadcrumb-sep">/</span>
         <Link to={`/year/${year}`} className="back-link">{year} World Cup</Link>
       </div>
+
+      {(prevYear || nextYear) && (
+        <nav className="kit-mobile-year-nav" aria-label="Year navigation">
+          {prevYear ? (
+            <Link to={`/${countryId}/${prevYear}`} className="kit-mobile-prev">← {prevYear}</Link>
+          ) : <span />}
+          <span className="kit-mobile-year-current">{year}</span>
+          {nextYear ? (
+            <Link to={`/${countryId}/${nextYear}`} className="kit-mobile-next">{nextYear} →</Link>
+          ) : <span />}
+        </nav>
+      )}
 
       <div className="kit-view-hero">
         <div className="kit-view-header">

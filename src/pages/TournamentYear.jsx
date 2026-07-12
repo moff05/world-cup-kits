@@ -32,6 +32,20 @@ function resultBadgeClass(result) {
   return "result--group";
 }
 
+function computeTournamentStats(yr, participants) {
+  let totalGoals = 0;
+  let totalMatchRecords = 0;
+  for (const c of participants) {
+    const matches = c.kits?.[yr]?.matches || [];
+    for (const m of matches) {
+      const sm = m.score?.match(/^(\d+)[–-](\d+)/);
+      if (sm) totalGoals += parseInt(sm[1], 10);
+    }
+    totalMatchRecords += matches.length;
+  }
+  return { totalGoals, totalMatches: Math.round(totalMatchRecords / 2) };
+}
+
 export default function TournamentYear() {
   const { year } = useParams();
   const navigate = useNavigate();
@@ -67,6 +81,8 @@ export default function TournamentYear() {
       hasKitData: !!(c.kits?.[yr]),
     }));
 
+  const { totalGoals, totalMatches } = computeTournamentStats(yr, participants);
+
   const grouped = {};
   for (const c of participants) {
     const key = c.result || "Group Stage";
@@ -91,6 +107,14 @@ export default function TournamentYear() {
           <span className="tournament-meta-item">Hosted by {HOST[yr]}</span>
           <span className="tournament-meta-sep">·</span>
           <span className="tournament-meta-item">{participants.length} nations</span>
+          {totalMatches > 0 && (
+            <>
+              <span className="tournament-meta-sep">·</span>
+              <span className="tournament-meta-item">{totalMatches} matches</span>
+              <span className="tournament-meta-sep">·</span>
+              <span className="tournament-meta-item">{totalGoals} goals</span>
+            </>
+          )}
         </div>
       </header>
 
