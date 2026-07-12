@@ -73,6 +73,11 @@ export const kuwait = {
               "id": "the-pitch-invasion",
               "label": "A SHEIKH INTERVENES",
               "story": "Trailing France 3-1, Kuwait's players stopped play believing they'd heard a whistle from the stands when France scored a fourth. Sheikh Fahad Al-Ahmad Al-Sabah walked onto the pitch to protest, and the referee disallowed the goal before France closed out a 4-1 win regardless."
+            },
+            {
+              "id": "custom-molded-boots",
+              "label": "BESPOKE BOOTS",
+              "story": "Kuwait's team physician custom-molded every player's boots from a plaster cast of their own foot, replaced every six months — a level of bespoke medical care unheard of for a World Cup debutant. Puma supplied the rest: blue shirts with white trim, the nation's colors on a World Cup pitch for the first time."
             }
           ]
         }

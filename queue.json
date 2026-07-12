@@ -476,7 +476,7 @@
     "name": "North Korea",
     "confederation": "AFC",
     "worldCupsCount": 2,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -484,7 +484,7 @@
     "name": "New Zealand",
     "confederation": "OFC",
     "worldCupsCount": 2,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -596,7 +596,7 @@
     "name": "Iraq",
     "confederation": "AFC",
     "worldCupsCount": 1,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
@@ -604,7 +604,7 @@
     "name": "United Arab Emirates",
     "confederation": "AFC",
     "worldCupsCount": 1,
-    "status": "backfill",
+    "status": "done",
     "tier": "small"
   },
   {
