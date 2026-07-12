@@ -56,6 +56,16 @@ export const egypt = {
               "id": "fawzi-double",
               "label": "FAWZI'S HISTORIC DOUBLE",
               "story": "In Egypt's first-ever World Cup match, Abdulrahman Fawzi scored twice in a 2–4 loss to Hungary, becoming Africa's first World Cup goalscorer. The tally stood alone for 84 years — no other African player scored twice in a match until Mohamed Salah in 2018."
+            },
+            {
+              "id": "four-days-to-italy",
+              "label": "FOUR DAYS BY SEA",
+              "story": "With only one World Cup slot reserved for all of Africa and Asia combined, Egypt first had to beat Palestine in a two-legged playoff, winning 11–2 on aggregate. Goalkeeper Mustafa Kamel Mansour later recalled a four-day voyage aboard the steamship Helwan just to reach Italy for the tournament itself."
+            },
+            {
+              "id": "shirt-lost-to-history",
+              "label": "THE SHIRT THAT VANISHED",
+              "story": "No verified specimen of Egypt's 1934 jersey — a long-sleeved green shirt with a simple red chest patch — is known to survive; historians work only from grainy photographs and hand-drawn kit charts. When replicas surface at auction, collectors treat them as artifacts of African football's very first World Cup jersey."
             }
           ]
         }
@@ -101,6 +111,16 @@ export const egypt = {
               "id": "abdelghani-penalty",
               "label": "ABDELGHANI STUNS THE DUTCH",
               "story": "Trailing Wim Kieft's 58th-minute header, Egypt won a penalty when Ronald Koeman fouled inside the box. Magdi Abdelghani stepped up in the 83rd minute and beat the Dutch keeper, salvaging a 1–1 draw against the reigning European champions in Egypt's first World Cup match in 56 years."
+            },
+            {
+              "id": "backpass-rule-catalyst",
+              "label": "THE BACKPASS BORE",
+              "story": "A goalless stalemate against Ireland in Palermo was so tedious — both goalkeepers repeatedly picking up backpasses to kill time — that FIFA's lawmakers intervened. Within two years, the backpass rule banning goalkeepers from handling deliberate passes from teammates entered the game, arguably football's single most consequential rule change."
+            },
+            {
+              "id": "kit-echoed-in-2018",
+              "label": "A LOOK REVIVED",
+              "story": "The 1990 kit's red home shirt and green away shirt became so tied to Egypt's return from a 56-year absence that Adidas revisited its design language for the 2018 comeback kit — a checkered red home shirt and striped white away shirt built as a deliberate nod to the 1990 look."
             }
           ]
         }
@@ -151,6 +171,11 @@ export const egypt = {
               "id": "salah-chip-saudi-arabia",
               "label": "SALAH'S FAREWELL CHIP",
               "story": "Already eliminated, Mohamed Salah lifted a delicate 22nd-minute chip over goalkeeper Yasser Al-Mosailem, becoming the first African player to score in his first two World Cup appearances — scant consolation in a 1–2 defeat to Saudi Arabia that closed out Egypt's tournament."
+            },
+            {
+              "id": "salah-shoulder-injury-buildup",
+              "label": "THE RAMOS COLLISION",
+              "story": "Weeks before the opener, Sergio Ramos wrenched Mohamed Salah's shoulder to the turf in the Champions League final, forcing him off after half an hour with ligament damage. Salah missed Egypt's opening loss to Uruguay entirely and played the remaining two matches still short of full fitness."
             }
           ]
         }
