@@ -73,6 +73,11 @@ export const iraq = {
               "id": "disallowed-against-paraguay",
               "label": "A CONTROVERSIAL OPENER",
               "story": "In their opening match, Iraq played Paraguay close and had what they believed was a legitimate goal ruled out by the referee. Paraguay won 1-0 on Julio César Romero's 35th-minute strike, denying Iraq a point in their very first World Cup appearance."
+            },
+            {
+              "id": "a-brazilian-in-charge",
+              "label": "A BRAZILIAN IN CHARGE",
+              "story": "Iraq's World Cup debut was steered by Evaristo de Macedo, a Brazilian who'd managed his own national team just a year earlier, now drilling Iraqi players into a disciplined defensive shape. He built the side while the Iran-Iraq War ground into its sixth year back home — and decades later, Iraq still hasn't returned to a World Cup."
             }
           ]
         }
