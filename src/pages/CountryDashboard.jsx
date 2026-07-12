@@ -299,7 +299,10 @@ export default function CountryDashboard() {
                       <span className={`year-row-result ${resultBadgeClass(result)}`}>
                         {result || "—"}
                       </span>
-                      <span className="year-row-explore">Explore →</span>
+                      {yearData.headline && (
+                        <span className="year-row-headline">{yearData.headline}</span>
+                      )}
+                      <span className="year-row-explore" aria-hidden="true">→</span>
                     </Link>
                   ) : (
                     <div className="year-row-link year-row-link--no-story">
@@ -309,9 +312,6 @@ export default function CountryDashboard() {
                       </span>
                     </div>
                   )}
-                  <Link to={`/year/${year}`} className="year-row-wc-link" title={`${year} World Cup`}>
-                    {year} WC
-                  </Link>
                   {canExpand && (
                     <button
                       className="year-row-toggle-btn"
@@ -319,7 +319,6 @@ export default function CountryDashboard() {
                       aria-expanded={isOpen}
                       aria-label={`${isOpen ? "Hide" : "Show"} ${year} matches`}
                     >
-                      <span className="year-row-toggle-label">Matches</span>
                       <span className="year-row-toggle-arrow" aria-hidden="true">{isOpen ? "▲" : "▼"}</span>
                     </button>
                   )}
@@ -362,6 +361,9 @@ export default function CountryDashboard() {
                         })}
                       </tbody>
                     </table>
+                    <Link to={`/year/${year}`} className="year-row-wc-link">
+                      Browse the {year} World Cup →
+                    </Link>
                   </div>
                 )}
               </div>

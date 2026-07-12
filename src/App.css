@@ -950,7 +950,7 @@ a { color: inherit; text-decoration: none; }
 .year-row { border-bottom: 1px solid var(--border); }
 .year-row:last-child { border-bottom: none; }
 
-/* Ghost year number — contained within each row, fades on hover */
+/* Ghost year number — hidden by default, surfaces only on hover */
 .year-row-ghost {
   position: absolute;
   right: 14px;
@@ -962,13 +962,14 @@ a { color: inherit; text-decoration: none; }
   line-height: 1;
   letter-spacing: -0.04em;
   color: #fff;
-  opacity: 0.11;
+  opacity: 0;
   pointer-events: none;
   user-select: none;
   z-index: 0;
+  transition: opacity 0.2s;
 }
-.year-row-header:hover .year-row-ghost { opacity: 0.04; }
-.year-row--open .year-row-ghost { opacity: 0.04; }
+.year-row-header:hover .year-row-ghost { opacity: 0.07; }
+.year-row--open .year-row-ghost { opacity: 0.05; }
 
 /* Absent rows */
 .year-row--absent {
@@ -1008,7 +1009,7 @@ a { color: inherit; text-decoration: none; }
   align-items: center;
   gap: 16px;
   flex: 1;
-  padding: 20px 20px;
+  padding: 14px 20px;
   transition: background 0.12s;
   min-width: 0;
   position: relative;
@@ -1031,20 +1032,30 @@ a { color: inherit; text-decoration: none; }
 }
 
 .year-row-result {
-  flex: 1;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 500;
+  flex-shrink: 0;
+  width: 136px;
 }
 
-/* "Explore →" label — always visible on story rows */
+.year-row-headline {
+  flex: 1;
+  min-width: 0;
+  font-size: 13px;
+  color: var(--text-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  opacity: 0.8;
+}
+
+/* "→" kit link hint — fades in on hover */
 .year-row-explore {
-  font-size: 12px;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 400;
   color: var(--accent);
   flex-shrink: 0;
-  opacity: 0.7;
+  opacity: 0;
   transition: opacity 0.15s;
 }
 .year-row-link:hover .year-row-explore { opacity: 1; }
@@ -1057,12 +1068,13 @@ a { color: inherit; text-decoration: none; }
 .result--r16      { color: var(--text-muted); }
 .result--group    { color: #888; }
 
-/* Right zone — match toggle button */
+/* Right zone — match toggle button (chevron only) */
 .year-row-toggle-btn {
   display: flex;
   align-items: center;
-  gap: 6px;
-  padding: 20px 16px;
+  justify-content: center;
+  width: 44px;
+  padding: 0;
   background: none;
   border: none;
   border-left: 1px solid var(--border);
@@ -1072,17 +1084,13 @@ a { color: inherit; text-decoration: none; }
   transition: background 0.12s, color 0.12s;
   position: relative;
   z-index: 1;
+  align-self: stretch;
 }
-.year-row-toggle-btn:hover { background: var(--accent-dim); color: var(--text); }
-.year-row--open .year-row-toggle-btn { background: var(--accent-dim); }
+.year-row-toggle-btn:hover { background: var(--accent-dim); color: var(--accent); }
+.year-row--open .year-row-toggle-btn { background: var(--accent-dim); color: var(--accent); }
 
-.year-row-toggle-label {
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.07em;
-  text-transform: uppercase;
-}
-.year-row-toggle-arrow { font-size: 10px; }
+.year-row-toggle-label { display: none; }
+.year-row-toggle-arrow { font-size: 11px; }
 
 /* Expanded body */
 .year-row-body {
@@ -1143,7 +1151,7 @@ a { color: inherit; text-decoration: none; }
   /* Year accordion: compact rows */
   .year-row-link {
     gap: 10px;
-    padding: 14px 12px;
+    padding: 12px 12px;
   }
   .year-row-year {
     font-size: 16px;
@@ -1151,14 +1159,12 @@ a { color: inherit; text-decoration: none; }
   }
   .year-row-result {
     font-size: 13px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    width: auto;
   }
+  .year-row-headline { display: none; }
   .year-row-explore { display: none; }
-  .year-row-toggle-btn { padding: 14px 10px; }
-  .year-row-toggle-label { display: none; }
-  .year-row-ghost { font-size: 38px; }
+  .year-row-toggle-btn { width: 40px; }
+  .year-row-ghost { font-size: 36px; }
 
   /* Match table: drop round column, show badge inline, tighten score */
   .match-round { display: none; }
@@ -1284,24 +1290,19 @@ a { color: inherit; text-decoration: none; }
   border-color: var(--accent);
 }
 
-/* ── TOURNAMENT WC LINK IN YEAR ROW ── */
+/* ── TOURNAMENT WC LINK IN EXPANDED BODY ── */
 .year-row-wc-link {
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 500;
   color: var(--text-muted);
-  padding: 4px 8px;
-  border: 1px solid var(--border);
-  border-radius: 3px;
-  white-space: nowrap;
-  flex-shrink: 0;
-  transition: color 0.12s, border-color 0.12s;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid var(--border);
+  width: 100%;
+  transition: color 0.12s;
 }
-.year-row-wc-link:hover {
-  color: var(--accent);
-  border-color: var(--accent);
-}
+.year-row-wc-link:hover { color: var(--accent); }
 
 /* ── PLAYER TOOLTIPS ── */
 .player-tooltip-wrap {
