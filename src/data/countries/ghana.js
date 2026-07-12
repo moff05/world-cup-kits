@@ -78,6 +78,16 @@ export const ghana = {
               "id": "muntari-stunner",
               "label": "MUNTARI'S SCREAMER",
               "story": "Ghana's first-ever World Cup win came against the Czech Republic, sealed when Sulley Muntari controlled a loose ball outside the box and drove a left-footed rocket past the goalkeeper in the 82nd minute. Asamoah Gyan had opened the scoring early; Muntari's strike is still replayed as one of the great goals in Black Stars history."
+            },
+            {
+              "id": "puma-debut-white-black",
+              "label": "PUMA'S DEBUT LOOK",
+              "story": "Puma outfitted Ghana for the first time in 2006, trading the gold-trimmed shirt for stark white slashed with bold black shoulder panels. The switch coincided with Ghana's first-ever finals appearance, and the team wore it deep into the tournament, becoming the sixth straight African side to survive the group stage."
+            },
+            {
+              "id": "youngest-squad-2006",
+              "label": "THE BABY BLACK STARS",
+              "story": "Ghana fielded the youngest squad of the entire 2006 tournament, averaging just 23 years and 352 days old. It was also the country's first-ever World Cup appearance, meaning an entire generation of teenagers and early-twenty-somethings learned the tournament's rhythms together — a core that would carry Ghana to the 2010 quarter-finals four years later."
             }
           ]
         }
@@ -142,6 +152,11 @@ export const ghana = {
               "id": "suarez-handball",
               "label": "THE HAND THAT STOPPED AFRICA",
               "story": "Deep in extra time of the quarter-final, Dominic Adiyiah's header was crossing the line for what would have been the winner when Luis Suárez punched it away, earning a red card. Asamoah Gyan struck the resulting penalty off the crossbar, and Uruguay won the shootout 4-2 — denying Ghana a chance to become the first African semi-finalist."
+            },
+            {
+              "id": "black-star-jacquard",
+              "label": "STAR STITCHED IN",
+              "story": "Puma's 2010 home shirt kept the all-white base but added a black star jacquard woven into the right shoulder, echoing the star on Ghana's flag. The design belonged to Puma's wider 'Africa Unity' range built for the tournament, with a second-choice strip in deep red streaked with ragged gold and green stripes."
             }
           ]
         }
@@ -187,6 +202,16 @@ export const ghana = {
               "id": "stoppage-time-salvo",
               "label": "THE GERMANY COMEBACK",
               "story": "Down 1-0, Ghana scored twice in nine second-half minutes to stun Germany — André Ayew heading in a cross in the 54th minute, then Asamoah Gyan running onto a Sulley Muntari through ball to make it 2-1. Miroslav Klose equalized late for a 2-2 draw, but for a moment Ghana had the Germans on the ropes."
+            },
+            {
+              "id": "kente-collar-thread",
+              "label": "KENTE ON THE COLLAR",
+              "story": "Puma wove a Kente cloth-inspired pattern into the 2014 collar and sleeve cuffs — the geometric, multicolored textile woven for centuries by Ghana's Ashanti weavers — layered over a watermark of scattered black stars. BuzzFeed later ranked it the single best kit of the entire tournament, ahead of all 31 other nations."
+            },
+            {
+              "id": "cash-plane-to-brazil",
+              "label": "THE CASH-FILLED PLANE",
+              "story": "Ahead of the decisive Portugal match, Ghana's players refused to train over unpaid appearance bonuses, prompting President John Mahama to fly roughly \\ million in cash to Brazil to settle the dispute. Brazilian police warned the sum risked confiscation for going undeclared; Ghana lost to Portugal 2-1 the next night and was eliminated."
             }
           ]
         }
@@ -232,6 +257,16 @@ export const ghana = {
               "id": "ronaldo-history-penalty",
               "label": "RONALDO MAKES HISTORY",
               "story": "Cristiano Ronaldo's penalty against Ghana made him the first men's player to score at five separate World Cups. André Ayew pulled Ghana level soon after, but Portugal scored twice more before Osman Bukari's 89th-minute strike turned a rout into a nervy 3-2 finish."
+            },
+            {
+              "id": "minimalist-return-2022",
+              "label": "BACK TO MINIMAL",
+              "story": "Puma stripped away the geometric patterns of recent years for 2022, returning Ghana to a clean white shirt accented only by red, yellow and green flashes on the cuffs and a black star at the chest. Puma said the minimalist reset nodded to iconic moments in Black Stars history, including a 3-2 win over Italy back in 1996."
+            },
+            {
+              "id": "williams-brothers-divide",
+              "label": "BROTHERS, DIFFERENT SHIRTS",
+              "story": "Athletic Bilbao winger Iñaki Williams switched allegiance from Spain to Ghana just months before the tournament, qualifying through his father's birthplace of Accra. His younger brother Nico stayed with Spain — two siblings raised in the same house arrived in Qatar wearing different countries' crests, though the draw kept their teams apart."
             }
           ]
         }
