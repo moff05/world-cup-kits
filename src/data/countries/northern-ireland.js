@@ -84,6 +84,16 @@ export const northernIreland = {
               "id": "blanchflower-without-his-brother",
               "label": "CAPTAIN, MINUS HIS BROTHER",
               "story": "Danny Blanchflower led Northern Ireland to Sweden four months after the Munich air disaster ended the international career of his younger brother Jackie, a teammate on the same national side. Danny captained the team through a play-off win over Czechoslovakia and into the quarter-finals, the furthest a team of Northern Ireland's size had ever gone."
+            },
+            {
+              "id": "no-sponsor-era-shirt",
+              "label": "A SHIRT WITH NO LOGOS",
+              "story": "Northern Ireland's green jersey in Sweden carried no sponsor and no manufacturer crest — just heavyweight cotton and a lace-up V-neck collar, the standard cut of the era. Shirt sponsorship in international football was still two decades away; the only branding anyone saw was the Irish Football Association crest above the heart."
+            },
+            {
+              "id": "battle-of-belfast-qualifier",
+              "label": "FOG, A RIOT, A REPLAY",
+              "story": "Northern Ireland's qualifying decider against Italy was first wrecked by fog that stranded the referee and a veto over his English replacement, so the fixture was downgraded to a friendly that ended in a pitch invasion nicknamed the 'Battle of Belfast.' The real qualifier came six weeks later — Northern Ireland won 2–1."
             }
           ]
         }
@@ -143,6 +153,16 @@ export const northernIreland = {
               "id": "armstrong-arconada-valencia",
               "label": "ARCONADA'S FUMBLE, ARMSTRONG'S GOAL",
               "story": "Needing a win over host nation Spain at the Mestalla, Northern Ireland got it when goalkeeper Luis Arconada spilled a routine shot straight to Gerry Armstrong, who tucked it in. Down to ten men after Mal Donaghy's 60th-minute red card, Northern Ireland held on to win 1–0 and top their group ahead of the host nation."
+            },
+            {
+              "id": "spain-82-lettering-shirt",
+              "label": "THE SHIRT SAID IT ALL",
+              "story": "Adidas stitched 'Spain World Cup Finals 1982' directly beneath the Irish FA crest on the home shirt, a rare instance of a tournament kit literally spelling out its own occasion. The away change strip went further stylistically, a white shirt striped with thin green pinstripes that never returned in later Adidas designs."
+            },
+            {
+              "id": "whiteside-record-debut",
+              "label": "SEVENTEEN AND UNTESTED",
+              "story": "Billy Bingham handed a World Cup debut to 17-year-old Norman Whiteside, who'd played only two competitive games for Manchester United, breaking Pelé's record as the tournament's youngest-ever player. He picked up a yellow card that day too — another record, for youngest player booked at a World Cup."
             }
           ]
         }
@@ -188,6 +208,16 @@ export const northernIreland = {
               "id": "jennings-41st-birthday",
               "label": "OLDEST MAN ON THE PITCH",
               "story": "Goalkeeper Pat Jennings played his final match for Northern Ireland against Brazil in Guadalajara on his 41st birthday, making him the oldest player to appear in a World Cup finals match at the time. Brazil won 3–0, closing out both the tournament and the international career of Northern Ireland's most-capped player."
+            },
+            {
+              "id": "crest-updated-no-sponsor",
+              "label": "A CRUCIFORM CREST, NO ADS",
+              "story": "Adidas re-lettered the Irish FA's Celtic-cross crest to spell out 'Northern Ireland' across its horizontal bar for Mexico '86, striping the jersey in alternating light and dark green. FIFA's rules barred sponsor logos on tournament shirts entirely, so the trefoil and crest were the only marks allowed on the fabric."
+            },
+            {
+              "id": "albuquerque-heat-camp",
+              "label": "TRAINING FOR MEXICAN HEAT",
+              "story": "Weeks before Mexico, Bingham's squad ran hill sprints in Albuquerque, New Mexico, in temperatures above 38°C to prepare for Guadalajara's altitude and heat. The IFA shipped out heat-adapted kit and reportedly stockpiled 10,000 bottles of water for a squad built around a 41-year-old goalkeeper and an 18-year-old attacker."
             }
           ]
         }
