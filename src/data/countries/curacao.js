@@ -30,15 +30,53 @@ export const curacao = {
   "kits": {
     "2026": {
       "result": "Group Stage",
-      "headline": null,
-      "homeColors": null,
-      "awayColors": null,
-      "matches": [],
+      "headline": "Smallest Nation, Historic Debut",
+      "homeColors": "lucid blue shirt with wave-pattern sleeves, blue shorts, blue socks with teal and yellow trim",
+      "awayColors": "almost yellow shirt with turquoise, orange and pink shoulder stripes, pale yellow shorts, pale yellow socks",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "1–7",
+          "result": "L",
+          "scorers": "Comenencia 21'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ecuador",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ivory Coast",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
+      ],
       "kits": {
         "home": {
           "image": null,
           "imageCredit": null,
-          "annotations": []
+          "annotations": [
+            {
+              "id": "rooms-record-night",
+              "label": "THE KEY MOMENT",
+              "story": "Down 0–0 against a rampant Ecuador side that fired 26 shots and held 75 percent of possession, goalkeeper Eloy Room produced a tournament-record-equaling 15 saves in Kansas City. The shutout delivered Curaçao's first-ever World Cup point — a stunning rearguard performance from the smallest nation ever to reach the tournament."
+            },
+            {
+              "id": "island-identity-kit",
+              "label": "THE KIT",
+              "story": "Adidas built Curaçao's debut kit around 'Island Identity.' The lucid blue home shirt carries wavy sleeve graphics echoing the Caribbean surf, trimmed in impact yellow. The pale yellow away shirt flips the palette, with turquoise, orange and pink shoulder stripes lifted from the island's brightly painted colonial architecture."
+            },
+            {
+              "id": "smallest-nation-ever",
+              "label": "THE CONTEXT",
+              "story": "At roughly 156,000 people, Curaçao became the smallest nation by population and area ever to qualify for a World Cup, clinching its spot on November 18, 2025. The run was steered by 78-year-old Dick Advocaat, who became the oldest manager to take charge of a World Cup match when Curaçao opened against Germany."
+            }
+          ]
         }
       }
     }
