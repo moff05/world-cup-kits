@@ -25,16 +25,17 @@ export const brazil = {
     2010,
     2014,
     2018,
-    2022
+    2022,
+    2026
   ],
   "bestResult": "5× World Champions",
   "stats": {
-    "matches": 114,
-    "wins": 76,
-    "draws": 19,
-    "losses": 19,
-    "goalsFor": 237,
-    "goalsAgainst": 108
+    "matches": 119,
+    "wins": 79,
+    "draws": 20,
+    "losses": 20,
+    "goalsFor": 247,
+    "goalsAgainst": 112
   },
   "facts": [
     {
