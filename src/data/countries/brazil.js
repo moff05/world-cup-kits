@@ -1539,6 +1539,72 @@ export const brazil = {
           ]
         }
       }
+    },
+    "2026": {
+      "result": "Round of 16",
+      "headline": "Haaland Breaks Brazilian Hearts",
+      "homeColors": "canary yellow shirt with green trim and distorted-flag pattern, blue shorts, white socks",
+      "awayColors": "royal blue shirt with black detailing and Jordan Brand 'Elephant' pattern, navy shorts, blue socks",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Vinícius Jr. 32'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Haiti",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Cunha 23', Cunha 36', Vinícius Jr. 45+3'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Vinícius Jr. 7', Vinícius Jr. 45+3', Cunha 60'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Japan",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Casemiro 56', Martinelli 90+5'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Norway",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Neymar 90+10' (pen.)"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": null,
+          "annotations": [
+            {
+              "id": "haaland-double-2026",
+              "label": "THE KEY MOMENT",
+              "story": "Erling Haaland delivered when it mattered most, striking in the 79th and 90th minutes to turn a scoreless Round of 16 tie into a Norwegian victory in East Rutherford. Neymar's stoppage-time penalty, arriving in the tenth added minute, pulled one back but was already too late. Brazil's hunt for a sixth star ended in the last 16, again."
+            },
+            {
+              "id": "1970-tribute-jordan-away-2026",
+              "label": "THE KIT",
+              "story": "Nike built Brazil's home shirt as a tribute to the legendary 1970 side — canary yellow with sharper green accents and a subtle, distorted flag graphic woven through the fabric. The away kit broke new ground: a first-ever Jordan Brand collaboration, royal blue with jagged black striping inspired by the poison dart frog, finished with an embroidered Jordan Elephant motif."
+            },
+            {
+              "id": "vinicius-neymar-handoff-2026",
+              "label": "THE CONTEXT",
+              "story": "Vinícius Júnior arrived as Brazil's talisman and delivered, scoring in three of five matches including a brace against Scotland. The tournament also marked a changing of the guard: Neymar, playing a bit-part role off the bench after injury, scored his final World Cup goal as a substitute in the defeat that ended Brazil's campaign."
+            }
+          ]
+        }
+      }
     }
   }
 };
