@@ -9,16 +9,17 @@ export const colombia = {
     1994,
     1998,
     2014,
-    2018
+    2018,
+    2026
   ],
   "bestResult": "Quarter-finalists (2014)",
   "stats": {
-    "matches": 22,
-    "wins": 9,
-    "draws": 3,
+    "matches": 27,
+    "wins": 12,
+    "draws": 5,
     "losses": 10,
-    "goalsFor": 32,
-    "goalsAgainst": 30
+    "goalsFor": 37,
+    "goalsAgainst": 31
   },
   "facts": [
     {
