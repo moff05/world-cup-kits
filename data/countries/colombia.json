@@ -373,6 +373,68 @@
           "scorers": "Mina 90'+3'"
         }
       ]
+    },
+    "2026": {
+      "result": "Round of 16",
+      "headline": "Penalties End an Unbeaten Run",
+      "homeColors": "bright yellow shirt with red and blue trim and butterfly pattern, blue shorts, red socks",
+      "awayColors": "navy blue shirt with darker mint-blue pattern and yellow trim, navy shorts, navy socks",
+      "image": null,
+      "imageCredit": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Uzbekistan",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Muñoz 40', Díaz 65', Campaz 90+9'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "DR Congo",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Muñoz 76'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Portugal",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Ghana",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Arias 14'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Switzerland",
+          "score": "0–0 (3–4 pens)",
+          "result": "D",
+          "scorers": null
+        }
+      ],
+      "annotations": [
+        {
+          "id": "shootout-heartbreak-2026",
+          "label": "THE KEY MOMENT",
+          "story": "Colombia went the distance against Switzerland — 120 scoreless minutes in Vancouver — before Davinson Sánchez and Cucho Hernández missed from the spot, Gregor Kobel saving the latter, and Ruben Vargas converted the winner. It was Colombia's first-ever World Cup shootout defeat, ending an unbeaten run that had carried them through the group and past Ghana."
+        },
+        {
+          "id": "butterfly-pacific-caribbean-2026",
+          "label": "THE KIT",
+          "story": "Adidas leaned into magical realism for Colombia's home shirt, weaving a subtle yellow butterfly pattern through the traditional tricolor — a tribute to Gabriel García Márquez's fiction. The navy away kit, the first blue Colombia shirt since Qatar 2022, blended the darker blues of the Pacific with lighter Caribbean tones in staggered vertical lines, trimmed in bold yellow."
+        },
+        {
+          "id": "munoz-suarez-context-2026",
+          "label": "THE CONTEXT",
+          "story": "Daniel Muñoz, a right-back turned difference-maker, scored the winners against both Uzbekistan and DR Congo, while 39-year-old Luis Suárez set up Jhon Arias's opener against Ghana just six minutes after coming on as a substitute — the earliest goal contribution by a substitute in World Cup history."
+        }
+      ]
     }
   }
 }
