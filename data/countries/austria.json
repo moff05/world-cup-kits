@@ -10,16 +10,17 @@
     1978,
     1982,
     1990,
-    1998
+    1998,
+    2026
   ],
   "bestResult": "3rd Place (1954)",
   "stats": {
-    "matches": 29,
-    "wins": 12,
-    "draws": 4,
-    "losses": 13,
-    "goalsFor": 43,
-    "goalsAgainst": 47
+    "matches": 33,
+    "wins": 13,
+    "draws": 5,
+    "losses": 15,
+    "goalsFor": 49,
+    "goalsAgainst": 56
   },
   "facts": [
     {
@@ -444,6 +445,64 @@
           "score": "1–2",
           "result": "L",
           "scorers": "Herzog 90'+2'"
+        }
+      ]
+    },
+    "2026": {
+      "result": "Round of 32",
+      "headline": "Back After 28 Years",
+      "homeColors": "red shirt with black sleeves, black shorts, red socks",
+      "awayColors": "white and pale mint marbled shirt with gold trim, black shorts, white socks",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Jordan",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Schmid 20', Al Arab OG 76', Arnautovic 90'+12' (pen)"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Algeria",
+          "score": "3–3",
+          "result": "D",
+          "scorers": "Arnautovic 28', Sabitzer 55', Kalajdzic 90'+5'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Spain",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "annotations": [
+        {
+          "id": "kalajdzic-stoppage-equalizer",
+          "label": "THE KEY MOMENT",
+          "story": "Down 3-2 in the closing seconds against Algeria, Sasa Kalajdzic rose to head home a stoppage-time equalizer in the sixth minute of added time, turning a heartbreaking exit into a 3-3 draw that sent both teams through. It was pandemonium in Kansas City — and the moment that defined Austria's group stage."
+        },
+        {
+          "id": "red-and-black-first",
+          "label": "THE KIT",
+          "story": "For the first time in the national team's history, Puma dressed Austria in a red shirt with black sleeves, trading a century of white-and-black tradition for a bolder statement of the flag's red. A hidden message stitched under the back collar read 'Immer wieder Österreich' — Austria, again and again."
+        },
+        {
+          "id": "messis-record-victim",
+          "label": "THE CONTEXT",
+          "story": "A group-stage meeting with Argentina turned into a footnote in history for the wrong reasons: Lionel Messi's brace in a 2-0 win pushed his career World Cup tally to 18, surpassing Miroslav Klose's long-standing record. For a squad ending a 28-year absence, sharing a pitch with that milestone was bittersweet company."
         }
       ]
     }

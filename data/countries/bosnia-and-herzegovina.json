@@ -4,16 +4,17 @@
   "flagCode": "ba",
   "confederation": "UEFA",
   "worldCups": [
-    2014
+    2014,
+    2026
   ],
-  "bestResult": "Group Stage (1 appearance)",
+  "bestResult": "Round of 32 (2026)",
   "stats": {
-    "matches": 3,
-    "wins": 1,
-    "draws": 0,
-    "losses": 2,
-    "goalsFor": 4,
-    "goalsAgainst": 4
+    "matches": 7,
+    "wins": 2,
+    "draws": 1,
+    "losses": 4,
+    "goalsFor": 9,
+    "goalsAgainst": 12
   },
   "facts": [
     {
@@ -76,6 +77,64 @@
           "score": "3–1",
           "result": "W",
           "scorers": "Džeko 23', Pjanić 59', Vršajević 83'"
+        }
+      ]
+    },
+    "2026": {
+      "result": "Round of 32",
+      "headline": "Dragons Break Into Knockouts",
+      "homeColors": "navy blue shirt with thin white and yellow vertical pinstripes, navy shorts, navy socks",
+      "awayColors": "white shirt with blue raglan sleeves and blue V-neck collar, white shorts, white socks",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Canada",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Lukić 21'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "1–4",
+          "result": "L",
+          "scorers": "Mahmić 90'+3'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Qatar",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Alajbegović 29', Abunada OG 34', Mahmić 82'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "USA",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "annotations": [
+        {
+          "id": "third-place-through",
+          "label": "THE KEY MOMENT",
+          "story": "A third-place finish in Group B still delivered a first: two late strikes from substitute Mahmić — the 90th minute against Switzerland, the 82nd against Qatar — padded the goal difference just enough to sneak through as one of the eight best third-placed teams, into a maiden knockout round."
+        },
+        {
+          "id": "kelme-underdog-kit",
+          "label": "THE KIT",
+          "story": "Spanish manufacturer Kelme, a brand better known for outfitting lower-division and lower-budget national teams than global juggernauts, dressed the Dragons in a navy home shirt striped with thin white-and-gold pinstripes echoing the national flag's colors, paired with a white away kit trimmed in the same blue and yellow raglan sleeves."
+        },
+        {
+          "id": "second-appearance-new-generation",
+          "label": "THE CONTEXT",
+          "story": "Twelve years after Edin Džeko and Miralem Pjanić inspired the Dragons' maiden World Cup run in Brazil, a new generation reached Canada, Mexico and the United States without either veteran on the roster — proof that Bosnia and Herzegovina's brief golden generation had planted something that outlasted the players who built it."
         }
       ]
     }

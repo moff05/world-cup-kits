@@ -17,16 +17,17 @@
     2002,
     2014,
     2018,
-    2022
+    2022,
+    2026
   ],
   "bestResult": "Third Place (2018)",
   "stats": {
-    "matches": 51,
-    "wins": 21,
-    "draws": 10,
-    "losses": 20,
-    "goalsFor": 69,
-    "goalsAgainst": 74
+    "matches": 57,
+    "wins": 24,
+    "draws": 12,
+    "losses": 21,
+    "goalsFor": 83,
+    "goalsAgainst": 81
   },
   "facts": [
     {
@@ -827,6 +828,78 @@
           "opponent": "Croatia",
           "score": "0–0",
           "result": "D"
+        }
+      ]
+    },
+    "2026": {
+      "result": "Quarter-final",
+      "headline": "Tielemans' Record, Spain's Wall",
+      "homeColors": "red shirt with stained-glass-style Gothic pattern, black shorts, red socks",
+      "awayColors": "Frozen Blue shirt with carbon and pale pink Magritte-inspired pattern, white shorts, white socks",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Egypt",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Hany OG 66'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Iran",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "New Zealand",
+          "score": "5–1",
+          "result": "W",
+          "scorers": "Trossard 28', Trossard 50', De Bruyne 66', Lukaku 86', Saelemaekers 90'+4'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Senegal",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Lukaku 86', Tielemans 89', Tielemans 120'+5' (pen)"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "USA",
+          "score": "4–1",
+          "result": "W",
+          "scorers": "De Ketelaere 9', De Ketelaere 33', Vanaken 57', Lukaku 90'+3'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Spain",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "De Ketelaere 41'"
+        }
+      ],
+      "annotations": [
+        {
+          "id": "tielemans-latest-goal-ever",
+          "label": "THE KEY MOMENT",
+          "story": "Trailing Senegal 2-0 with the round of 32 slipping away, Belgium scored twice in three minutes through Lukaku and Tielemans to force extra time — then Tielemans struck again at 124 minutes and 44 seconds, the latest goal in World Cup history, sending Belgium through 3-2."
+        },
+        {
+          "id": "magritte-away-kit",
+          "label": "THE KIT",
+          "story": "A Frozen Blue away kit, trimmed with carbon and pale pink, replaced the Red Devils' usual palette in a design built as an adidas tribute to Surrealist painter René Magritte — its pattern of floating spherical blocks nodding to his famous bowler-hatted men raining from the sky."
+        },
+        {
+          "id": "golden-generation-encore",
+          "label": "THE CONTEXT",
+          "story": "A fixture-list quirk pitted the Red Devils' age against upstarts: Kevin De Bruyne, at 34, and Romelu Lukaku, both survivors of Belgium's celebrated 2018 golden generation, dragged a squad short on household names to a third straight quarter-final — proof the core built a decade ago still had one more run in it."
         }
       ]
     }
