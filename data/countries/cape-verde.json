@@ -6,14 +6,14 @@
   "worldCups": [
     2026
   ],
-  "bestResult": "Group Stage (2026)",
+  "bestResult": "Round of 32 (2026)",
   "stats": {
-    "matches": 0,
+    "matches": 4,
     "wins": 0,
-    "draws": 0,
-    "losses": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0
+    "draws": 3,
+    "losses": 1,
+    "goalsFor": 4,
+    "goalsAgainst": 5
   },
   "facts": [
     {
