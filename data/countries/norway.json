@@ -6,16 +6,17 @@
   "worldCups": [
     1938,
     1994,
-    1998
+    1998,
+    2026
   ],
-  "bestResult": "Round of 16 (1938, 1998)",
+  "bestResult": "Quarter-final (2026)",
   "stats": {
-    "matches": 8,
-    "wins": 2,
+    "matches": 14,
+    "wins": 6,
     "draws": 3,
-    "losses": 3,
-    "goalsFor": 7,
-    "goalsAgainst": 8
+    "losses": 5,
+    "goalsFor": 20,
+    "goalsAgainst": 19
   },
   "facts": [
     {
@@ -173,6 +174,78 @@
           "score": "0–1",
           "result": "L",
           "scorers": null
+        }
+      ]
+    },
+    "2026": {
+      "result": "Quarter-final",
+      "headline": "Deepest Run In History",
+      "homeColors": "red shirt with navy Nordic-knot cross pattern outlined in white, white shorts, navy socks (Nike)",
+      "awayColors": "black shirt with vertical ribbed texture, tonal crest and swoosh (Nike)",
+      "image": "https://commons.wikimedia.org/wiki/File:Erling_Haaland_France_v_Norway_26_June_26-008.jpg",
+      "imageCredit": {
+        "player": "Erling Haaland",
+        "game": "France vs Norway, Group Stage — CC BY-SA 4.0 / Wikimedia Commons"
+      },
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Iraq",
+          "score": "4–1",
+          "result": "W",
+          "scorers": "Haaland 29', Haaland 43', Østigard 76', Hussein OG 90'+6'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Senegal",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Pedersen 43', Haaland 48', Haaland 58'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "1–4",
+          "result": "L",
+          "scorers": "Aasgaard 21'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Ivory Coast",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Nusa 39', Haaland 86'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Brazil",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Haaland 79', Haaland 90'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "England",
+          "score": "1–2 (AET)",
+          "result": "L",
+          "scorers": "Schjelderup 36'"
+        }
+      ],
+      "annotations": [
+        {
+          "id": "haaland-double-beats-brazil-2026",
+          "label": "THE KEY MOMENT",
+          "story": "Down to Neymar's stoppage-time penalty but already out of time, Norway held on to beat Brazil 2–1 in the round of 16 — Erling Haaland's second-half double, his sixth and seventh World Cup goals, sending five-time champions Brazil home and Norway into a quarter-final for the first time in the country's history."
+        },
+        {
+          "id": "nike-viking-cross-kit-2026",
+          "label": "THE KIT",
+          "story": "Nike built Norway's return around Viking identity: a red home shirt crossed by a navy Nordic-knot pattern lifted from carvings at the Urnes Stave Church, worn under the slogan 'Få det gjort' — 'Get it done.' The blackout away kit, all charcoal and ribbed texture, dropped the ornamentation entirely for something closer to armor."
+        },
+        {
+          "id": "haaland-ends-drought-2026",
+          "label": "THE CONTEXT",
+          "story": "Norway had missed every World Cup since 1998, the longest active drought in Europe, before Erling Haaland's goals in qualifying finally ended it. Manager Ståle Solbakken built the campaign around Haaland and captain Martin Ødegaard, and a golden generation that had spent a decade playing for everyone but their own country finally got a stage."
         }
       ]
     }
