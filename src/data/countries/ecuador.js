@@ -7,16 +7,17 @@ export const ecuador = {
     2002,
     2006,
     2014,
-    2022
+    2022,
+    2026
   ],
   "bestResult": "Round of 16 (2006)",
   "stats": {
-    "matches": 13,
-    "wins": 5,
-    "draws": 2,
-    "losses": 6,
-    "goalsFor": 14,
-    "goalsAgainst": 14
+    "matches": 17,
+    "wins": 6,
+    "draws": 3,
+    "losses": 8,
+    "goalsFor": 16,
+    "goalsAgainst": 18
   },
   "facts": [
     {
@@ -253,6 +254,68 @@ export const ecuador = {
               "id": "castillo-eligibility-fight",
               "label": "THE ELIGIBILITY FIGHT",
               "story": "Ecuador nearly missed Qatar entirely. Chile and Peru accused the federation of fielding Byron Castillo on a passport listing the wrong birthplace and birthdate; FIFA dismissed the complaint, and the Court of Arbitration for Sport let Ecuador keep its spot days before the draw — though it later docked three 2026 qualifying points as punishment."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Round of 32",
+      "headline": "Stunning Germany, Falling To Mexico",
+      "homeColors": "yellow shirt with navy collar and red trim, navy shorts, yellow socks (Marathon)",
+      "awayColors": "navy shirt with copper-gold logo and numbering, navy shorts, navy socks (Marathon)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Ivory Coast",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Curaçao",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Angulo 9', Plata 77'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Mexico",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "angulo-plata-comeback-2026",
+              "label": "THE KEY MOMENT",
+              "story": "Trailing Germany early and needing a result to survive, Nilson Angulo blasted a shot through Aleksandar Pavlovic's legs and past Manuel Neuer in the 9th minute. Substitute Kevin Rodríguez flicked on a header for Plata to poke home the 77th-minute winner — completing one of the tournament's biggest group-stage upsets."
+            },
+            {
+              "id": "marathon-motto-collar-2026",
+              "label": "THE KIT",
+              "story": "Marathon dressed La Tri in canary yellow with a navy collar and red trim, a nod to the flag, alongside a copper-gold-accented navy away kit and a white third strip lined in red. All three carry an embroidered motto on the upper back: 'Soñar, Trascender y Hacer Historia' — Dream, Transcend and Make History."
+            },
+            {
+              "id": "europe-export-pipeline-2026",
+              "label": "THE CONTEXT",
+              "story": "Nine of the starting XI against Germany played their club football in Europe, the latest wave from an academy pipeline built around Independiente del Valle, which has sold talents from Enner Valencia to Moisés Caicedo abroad for tens of millions. The Round of 32 exit against Mexico barely dented a decade-long export boom."
             }
           ]
         }

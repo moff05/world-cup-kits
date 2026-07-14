@@ -17,16 +17,17 @@ export const uruguay = {
     2010,
     2014,
     2018,
-    2022
+    2022,
+    2026
   ],
   "bestResult": "2× World Champions",
   "stats": {
-    "matches": 59,
+    "matches": 62,
     "wins": 25,
-    "draws": 13,
-    "losses": 21,
-    "goalsFor": 89,
-    "goalsAgainst": 76
+    "draws": 15,
+    "losses": 22,
+    "goalsFor": 92,
+    "goalsAgainst": 80
   },
   "facts": [
     {
@@ -923,6 +924,61 @@ export const uruguay = {
               "id": "alonso-hired-months-before",
               "label": "A FAST COACHING TURNAROUND",
               "story": "Diego Alonso took over only in December 2021, after the federation fired 74-year-old Óscar Tabárez following a run of four straight losses. Alonso won his first four games and sealed qualification within four months of arriving, then resigned after the group-stage exit — a coaching tenure that lasted barely a year, start to finish."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Group Stage",
+      "headline": "Two Draws Weren't Enough",
+      "homeColors": "multi-tone sky blue (celeste) shirt \"El Alma\", white shorts, sky blue socks (Nike)",
+      "awayColors": "dark obsidian shirt with laser orange and hyper royal accents \"La Gloria\", navy shorts, navy socks (Nike)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Araújo 80'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Cape Verde",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Araújo 44', Canobbio 45+6'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "muslera-error-baena-2026",
+              "label": "THE KEY MOMENT",
+              "story": "A rare mistake by 39-year-old goalkeeper Fernando Muslera let Álex Baena in for the only goal of the group finale, sending Spain top and Uruguay out. Cape Verde's simultaneous scoreless draw with Saudi Arabia was enough to leapfrog La Celeste into the round of 32 — a bruising way for South America's most decorated side to exit early."
+            },
+            {
+              "id": "el-alma-la-gloria-kits-2026",
+              "label": "THE KIT",
+              "story": "Nike's home shirt, dubbed 'El Alma' — The Soul — layered several shades of sky blue drawn from actual photographs of the Uruguayan sky. The away kit, 'La Gloria,' went the opposite direction entirely: a dark obsidian base lit up with laser-orange and hyper-royal streaks, built to look like glowing armor under stadium lights."
+            },
+            {
+              "id": "bielsa-departs-forlan-2026",
+              "label": "THE CONTEXT",
+              "story": "Days after the group-stage exit, Marcelo Bielsa left his post as head coach, with World Cup and Copa América winner-turned-broadcaster Diego Forlán stepping in as interim boss. It capped a rocky cycle for a federation that had leaned on Bielsa's demanding methods to modernize a squad built around an aging veteran core."
             }
           ]
         }

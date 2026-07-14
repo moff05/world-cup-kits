@@ -11,16 +11,17 @@ export const paraguay = {
     1998,
     2002,
     2006,
-    2010
+    2010,
+    2026
   ],
   "bestResult": "Quarter-finalists (2010)",
   "stats": {
-    "matches": 27,
-    "wins": 7,
-    "draws": 10,
-    "losses": 10,
-    "goalsFor": 30,
-    "goalsAgainst": 38
+    "matches": 31,
+    "wins": 8,
+    "draws": 11,
+    "losses": 12,
+    "goalsFor": 32,
+    "goalsAgainst": 43
   },
   "facts": [
     {
@@ -491,6 +492,68 @@ export const paraguay = {
               "id": "one-goal-from-champions",
               "label": "ONE GOAL FROM THE EVENTUAL CHAMPIONS",
               "story": "Spain beat Paraguay 1–0 in the quarter-final and went on to win the entire tournament, meaning no team came closer to eliminating the eventual champions in the knockout rounds than Paraguay did. A single goal separated Paraguay from a first-ever World Cup semi-final."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Round of 16",
+      "headline": "Fastest Goal, Ten-Man Heroics",
+      "homeColors": "red and white vertical stripes with textured dust effect, royal blue collar, blue shorts (Puma)",
+      "awayColors": "navy shirt with swirling electric-blue and teal abstract print, navy shorts, teal-trimmed socks (Puma)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "1–4",
+          "result": "L",
+          "scorers": "Mauricio 73'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Türkiye",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Galarza 1'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Australia",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "France",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "galarza-fastest-goal-almiron-red-2026",
+              "label": "THE KEY MOMENT",
+              "story": "Sixty-four seconds into the meeting with Türkiye, Matías Galarza buried the fastest goal of the tournament. Eighteen minutes later, Miguel Almirón became the first player sent off under FIFA's new rule banning mouth-covering during confrontations, forcing Paraguay to defend a 1-0 lead with ten men for the entire second half — and hold on."
+            },
+            {
+              "id": "puma-tierra-colorada-stripes-2026",
+              "label": "THE KIT",
+              "story": "Puma reworked the century-old red-and-white stripes with a textured 'dust' effect evoking Paraguay's tierra colorada, the country's famous red soil, finished with a royal blue crew collar. The away kit swapped tradition for abstraction entirely — a swirling navy, electric-blue and teal print, the boldest departure from the Albirroja's stripes in decades."
+            },
+            {
+              "id": "sixteen-year-drought-ends-2026",
+              "label": "THE CONTEXT",
+              "story": "Paraguay's return ended a sixteen-year absence, their longest gap between World Cups since the country's 1930 debut. Coach Gustavo Alfaro, hired after stints in Ecuador and with Boca Juniors, rebuilt a squad anchored by European-based talents like Julio Enciso and Atlanta United's Miguel Almirón to finally end the drought."
             }
           ]
         }
