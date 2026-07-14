@@ -59,8 +59,10 @@ function jsonToJsModule(data) {
 
 function patchIndex(id, exportName) {
   let src = fs.readFileSync(INDEX_FILE, "utf8");
-  const importLine = `import { ${exportName} } from "./countries/${id}.js";`;
-  if (!src.includes(importLine)) {
+  // Match regardless of quote style (single or double)
+  const alreadyImported = new RegExp(`import\\s*\\{\\s*${exportName}\\s*\\}\\s*from\\s*['"]\\.\/countries\/${id}\\.js['"]`).test(src);
+  if (!alreadyImported) {
+    const importLine = `import { ${exportName} } from "./countries/${id}.js";`;
     const lastImport = src.lastIndexOf("\nimport ");
     const insertAt = src.indexOf("\n", lastImport + 1);
     src = src.slice(0, insertAt) + "\n" + importLine + src.slice(insertAt);
