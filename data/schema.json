@@ -5,7 +5,7 @@
   "name": "string — display name (e.g. 'Argentina')",
   "flagCode": "string — ISO 3166-1 alpha-2 code for flagcdn.com (e.g. 'ar'). Special: 'gb-eng', 'gb-sct', 'gb-wls', 'gb-nir'",
   "confederation": "string — one of: CONMEBOL / UEFA / CONCACAF / CAF / AFC / OFC",
-  "worldCups": "number[] — years they qualified, 1930–2022 only. Do NOT include 2026.",
+  "worldCups": "number[] — years they qualified, 1930–2026. Include 2026 if the country participated.",
   "bestResult": "string — e.g. '3× World Champions' or 'Quarter-finalists' or 'Group Stage (1 appearance)'",
 
   "stats": {
