@@ -12,16 +12,17 @@ export const czechRepublic = {
     1970,
     1982,
     1990,
-    2006
+    2006,
+    2026
   ],
   "bestResult": "Runners-up (1934, 1962, as Czechoslovakia)",
   "stats": {
-    "matches": 33,
+    "matches": 36,
     "wins": 12,
-    "draws": 5,
-    "losses": 16,
-    "goalsFor": 47,
-    "goalsAgainst": 49
+    "draws": 6,
+    "losses": 18,
+    "goalsFor": 49,
+    "goalsAgainst": 55
   },
   "facts": [
     {
@@ -568,6 +569,61 @@ export const czechRepublic = {
               "id": "the-golden-generation",
               "label": "THE GOLDEN GENERATION",
               "story": "The Czech Republic's 'Golden Generation' of Rosický, Nedvěd, and Koller arrived in Germany ranked second in the world, the country's football ambitions matching its post-1993 economic rise. A group-stage exit against tougher-than-expected Ghana and Italy sides fell well short of expectations for a team many picked as dark horses."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Group Stage",
+      "headline": "One Point After Twenty Years",
+      "homeColors": "dark cherry red shirt with silver detailing and a double-tailed lion crest, navy shorts, red socks (Puma)",
+      "awayColors": "icy white shirt with tonal crystal-inspired pattern and matte gold accents, white shorts (Puma)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Krejčí 59'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Africa",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Sadílek 6'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "sadilek-fastest-goal-mokoena-leveler",
+              "label": "THE KEY MOMENT",
+              "story": "Michal Sadílek needed six minutes to open Czechia's tournament, latching onto a Sojka pass for the fastest goal of the entire World Cup. It held until the 83rd, when a Šulc handball gifted South Africa a penalty and Teboho Mokoena leveled it, the closest Czechia came to a win in three matches."
+            },
+            {
+              "id": "cherry-red-crystal-white",
+              "label": "THE KIT",
+              "story": "Puma dressed Czechia in dark cherry red with silver trim, a callback to the beloved Euro 1996 runners-up kit, alongside an icy-white away shirt patterned after Bohemian crystal with matte-gold detailing. Both carry the double-tailed lion crest that's anchored every Czech shirt since independence."
+            },
+            {
+              "id": "twenty-year-wait-koubek",
+              "label": "THE CONTEXT",
+              "story": "Czechia only reached North America by surviving back-to-back penalty shootouts against the Republic of Ireland and Denmark in the playoffs, their first finals appearance in twenty years. Miroslav Koubek, hired that same December, steered a squad captained by defender Ladislav Krejčí through a group it couldn't escape."
             }
           ]
         }

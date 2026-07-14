@@ -14,16 +14,17 @@ export const netherlands = {
     2006,
     2010,
     2014,
-    2022
+    2022,
+    2026
   ],
   "bestResult": "Runners-up (1974, 1978, 2010)",
   "stats": {
-    "matches": 55,
-    "wins": 30,
-    "draws": 14,
+    "matches": 59,
+    "wins": 32,
+    "draws": 16,
     "losses": 11,
-    "goalsFor": 96,
-    "goalsAgainst": 52
+    "goalsFor": 107,
+    "goalsAgainst": 57
   },
   "facts": [
     {
@@ -792,6 +793,68 @@ export const netherlands = {
               "id": "the-battle-of-lusail",
               "label": "THE BATTLE OF LUSAIL",
               "story": "Referee Antonio Mateu Lahoz handed out a World Cup record 18 yellow cards as the quarter-final against Argentina degenerated into shoving matches and mass confrontations, later nicknamed the Battle of Lusail. Messi mocked the Dutch bench with a cupped-ear celebration and later called Weghorst a 'bobo' — fool — in a live TV interview."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Round of 32",
+      "headline": "Gakpo's Goal, Then Penalties",
+      "homeColors": "vivid Hyper Crimson orange shirt with black V-neck collar, black cuffs, and dark side panels, lenticular KNVB lion crest (Nike)",
+      "awayColors": "white shirt with a gradient orange band across the chest, first white Oranje kit since 2015 (Nike)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "van Dijk 51', Summerville 64'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "5–1",
+          "result": "W",
+          "scorers": "Brobbey 5', Brobbey 17', Gakpo 47', Gakpo 54', Summerville 89'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Tunisia",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Skhiri OG 3', Brobbey 7', Van Hecke 62'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Morocco",
+          "score": "1–1 (2–3 pens)",
+          "result": "D",
+          "scorers": "Gakpo 72'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "gakpo-diop-monterrey-shootout",
+              "label": "THE KEY MOMENT",
+              "story": "Cody Gakpo curled the Dutch ahead in the 72nd minute at Monterrey, and Netherlands looked set to cruise into the Round of 16. Issa Diop's header in the first minute of stoppage time forced penalties instead, and Morocco held their nerve to win the shootout 3–2, ending a Dutch run that had scored ten goals in three group games."
+            },
+            {
+              "id": "hyper-crimson-white-return",
+              "label": "THE KIT",
+              "story": "Nike's Hyper Crimson home shirt was the boldest orange Oranje has worn, its lenticular KNVB lion crest shifting color as players moved. The away kit went white for the first time since 2015, the first white Oranje shirt at a finals since the 2010 final in South Africa, with an orange gradient band across the chest."
+            },
+            {
+              "id": "depay-van-dijk-favorites-fall",
+              "label": "THE CONTEXT",
+              "story": "Memphis Depay recovered from a thigh injury to lead an attack that had scored 27 goals across an unbeaten qualifying campaign, with Virgil van Dijk captaining a squad many touted as contenders. A first-ever World Cup penalty shootout loss to Morocco instead sent Ronald Koeman's side home in the round of 32."
             }
           ]
         }

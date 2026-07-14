@@ -9,16 +9,17 @@
     2006,
     2014,
     2018,
-    2022
+    2022,
+    2026
   ],
   "bestResult": "Runners-up (2018)",
   "stats": {
-    "matches": 30,
-    "wins": 13,
+    "matches": 34,
+    "wins": 15,
     "draws": 8,
-    "losses": 9,
-    "goalsFor": 43,
-    "goalsAgainst": 33
+    "losses": 11,
+    "goalsFor": 49,
+    "goalsAgainst": 40
   },
   "facts": [
     {
@@ -420,6 +421,64 @@
           "score": "2–1",
           "result": "W",
           "scorers": "Gvardiol, Oršić"
+        }
+      ]
+    },
+    "2026": {
+      "result": "Round of 32",
+      "headline": "Ronaldo's Penalty, Croatia's Exit",
+      "homeColors": "red-and-white checkerboard shirt with smaller squares and a white center panel carrying the HNS crest, white shorts, blue socks (Nike)",
+      "awayColors": "dark navy and royal blue checkerboard shirt, blue shorts, blue socks (Nike)",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "2–4",
+          "result": "L",
+          "scorers": "Baturina 36', Musa 45+5'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Panama",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Budimir 54'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ghana",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Sučić 31', Vlašić 83'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Portugal",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Perišić 53'"
+        }
+      ],
+      "annotations": [
+        {
+          "id": "perisic-ronaldo-ramos-toronto",
+          "label": "THE KEY MOMENT",
+          "story": "Ivan Perišić rifled Croatia level in the 53rd minute, and for forty more it looked like a fourth straight knockout classic was building. Cristiano Ronaldo settled it from the spot in the 68th, but Gonçalo Ramos's stoppage-time strike, with Josko Gvardiol's own equalizer waved offside moments earlier, finally ended Croatia's run in Toronto."
+        },
+        {
+          "id": "nikes-last-checkerboard",
+          "label": "THE KIT",
+          "story": "Nike's ninth and final Croatia kit shrank the šahovnica squares again, framing them around a white center panel carrying the HNS crest, a nod to the 1990 debut jersey against the United States. The away shirt swapped red for two shades of blue. Adidas takes over the deal once the World Cup ends."
+        },
+        {
+          "id": "budimir-modric-farewell-tour",
+          "label": "THE CONTEXT",
+          "story": "Ante Budimir came off the bench at halftime against Panama and scored the winner at 34, becoming Croatia's oldest World Cup goalscorer ever. Luka Modrić, still captaining at 40, brought up his 200th cap in the same match, a farewell tournament for the generation that reached one final and won two bronzes."
         }
       ]
     }
