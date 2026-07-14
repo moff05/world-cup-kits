@@ -29,12 +29,59 @@
   ],
   "kits": {
     "2026": {
-      "result": "Group Stage",
-      "headline": null,
-      "homeColors": null,
-      "awayColors": null,
-      "matches": [],
-      "annotations": []
+      "result": "Round of 32",
+      "headline": "Smallest Nation, Biggest Scare",
+      "homeColors": "deep blue shirt with red trim and triangular flight-path pattern, blue shorts, blue socks",
+      "awayColors": "white shirt with tonal grey flight-path pattern and blue/red detailing, white shorts, white socks",
+      "image": null,
+      "imageCredit": null,
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Pina 21', Varela 61'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Argentina",
+          "score": "2–3 (AET)",
+          "result": "L",
+          "scorers": "Duarte 59', Lopes Cabral 103'"
+        }
+      ],
+      "annotations": [
+        {
+          "id": "eight-minutes-from-history",
+          "label": "THE KEY MOMENT",
+          "story": "Trailing to a 92nd-minute Lisandro Martínez header against reigning champions Argentina, Cape Verde looked finished — until Sidny Lopes Cabral drilled a stunning equalizer in the 103rd minute of extra time. Lionel Messi and a late own goal ultimately settled it 3-2, but Cape Verde came within minutes of the biggest upset in World Cup history."
+        },
+        {
+          "id": "connected-through-rhythm",
+          "label": "THE KIT",
+          "story": "Made by Capelli Sport rather than a major label, Cape Verde's kit builds its identity around 'Connected Through Rhythm' — a geometric triangle pattern tracing the flight paths linking the archipelago's ten islands. The deep blue home shirt carries red trim; the white away kit mirrors it in tonal grey with blue-and-red accents."
+        },
+        {
+          "id": "smallest-nation-to-advance",
+          "label": "THE CONTEXT",
+          "story": "Cape Verde became the smallest nation — by population, roughly half a million people — to reach a World Cup knockout round, and the first debutant to advance from the group stage since Slovakia in 2010. The run leaned on a diaspora pipeline of players raised in Portugal, France and the Netherlands."
+        }
+      ]
     }
   }
 }
