@@ -8,12 +8,12 @@ export const jordan = {
   ],
   "bestResult": "Group Stage (2026)",
   "stats": {
-    "matches": 0,
+    "matches": 3,
     "wins": 0,
     "draws": 0,
-    "losses": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0
+    "losses": 3,
+    "goalsFor": 3,
+    "goalsAgainst": 8
   },
   "facts": [
     {
@@ -30,15 +30,56 @@ export const jordan = {
   "kits": {
     "2026": {
       "result": "Group Stage",
-      "headline": null,
-      "homeColors": null,
-      "awayColors": null,
-      "matches": [],
+      "headline": "First Cup, First Goal",
+      "homeColors": "white shirt with red kufiya-inspired diamond pattern on the sleeves, white shorts, white socks (Kelme)",
+      "awayColors": "red shirt with white kufiya-inspired diamond pattern on the sleeves, red shorts, red socks (Kelme)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Austria",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Olwan 50'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Algeria",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Al Rashdan 36'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Al Tamari 55'"
+        }
+      ],
       "kits": {
         "home": {
           "image": null,
-          "imageCredit": null,
-          "annotations": []
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "olwan-first-ever-goal",
+              "label": "THE KEY MOMENT",
+              "story": "In the 50th minute of Jordan's tournament opener, Ali Olwan curled a shot off the far post and in, becoming the nation's first-ever World Cup goalscorer. It pulled Jordan level with Austria at 1-1, a fleeting high before Marko Arnautovic's stoppage-time penalty sealed a 3-1 defeat that started the exit clock."
+            },
+            {
+              "id": "kufiya-diamond-kit",
+              "label": "THE KIT",
+              "story": "Kelme dressed Jordan's debut campaign in kufiya-inspired diamonds, translating the red-and-white checkered scarf worn across the Levant into a repeating sleeve pattern on both shirts — white for home, flipped to red away. A black third kit, held in reserve, wove in the Black Iris, Jordan's national flower, in gold trim."
+            },
+            {
+              "id": "historic-qualification",
+              "label": "THE CONTEXT",
+              "story": "Jordan's road to 2026 ran through three-plus decades of near misses, ending on 5 June 2025 with a 3-0 win at Oman that sent Al-Nashama to their first World Cup. It came two years after their run to the 2023 Asian Cup final, still the country's benchmark achievement — a heartbreak against host Qatar."
+            }
+          ]
         }
       }
     }
