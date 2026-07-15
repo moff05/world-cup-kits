@@ -6,16 +6,17 @@ export const ivoryCoast = {
   "worldCups": [
     2006,
     2010,
-    2014
+    2014,
+    2026
   ],
-  "bestResult": "Group Stage (3 appearances)",
+  "bestResult": "Round of 32 (2026)",
   "stats": {
-    "matches": 9,
-    "wins": 3,
+    "matches": 13,
+    "wins": 5,
     "draws": 1,
-    "losses": 5,
-    "goalsFor": 13,
-    "goalsAgainst": 14
+    "losses": 7,
+    "goalsFor": 18,
+    "goalsAgainst": 18
   },
   "facts": [
     {
