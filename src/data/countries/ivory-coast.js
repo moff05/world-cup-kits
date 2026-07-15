@@ -195,6 +195,68 @@ export const ivoryCoast = {
           ]
         }
       }
+    },
+    "2026": {
+      "result": "Round of 32",
+      "headline": "Elephants Break Through",
+      "homeColors": "orange shirt with green side panels and a tonal all-over graphic drawn from Ivorian textile patterns, green shorts, orange socks (Puma)",
+      "awayColors": "white shirt with soft orange and green palm-tree and sunburst graphics, white shorts, white socks (Puma)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Ecuador",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Diallo 90'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Germany",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Kessié 30'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Curaçao",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Pépé 7', 64'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Norway",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Diallo 75'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "diallo-late-winner",
+              "label": "THE KEY MOMENT",
+              "story": "Amad Diallo had barely started a match all tournament before ghosting in from the bench to side-foot the 90th-minute winner against Ecuador, the goal that launched a first-ever trip out of the group stage. Three weeks later, at Dallas, his solo dash equalized against Norway — comeback erased 12 minutes later by Erling Haaland."
+            },
+            {
+              "id": "puma-textile-pattern-kit",
+              "label": "THE KIT",
+              "story": "Puma built the 2026 home shirt around Côte d'Ivoire's traditional orange, layering a tonal all-over graphic pulled from Ivorian textile patterns beneath green side panels. Above the crest sit three stars, one for each Africa Cup of Nations title — a reminder that Les Éléphants arrived among the continent's most decorated sides, not merely a debutant-adjacent underdog."
+            },
+            {
+              "id": "twelve-year-wait-fae",
+              "label": "THE CONTEXT",
+              "story": "Côte d'Ivoire's return arrived twelve years after Didier Drogba's tearful Brazil farewell, spanning two missed cycles. Coach Emerse Fae, who led the Elephants to the 2024 Africa Cup of Nations title as a caretaker on home soil, built this squad around Diallo, Pépé and Kessié rather than Drogba's golden generation."
+            }
+          ]
+        }
+      }
     }
   }
 };
