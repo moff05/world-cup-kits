@@ -23,6 +23,8 @@ const HISTORICAL_TO_ID = {
   "Trinidad and Tobago": "trinidad-and-tobago",
   "Trinidad & Tobago": "trinidad-and-tobago",
   "Northern Ireland": "northern-ireland",
+  "Türkiye": "turkey",
+  "Czechia": "czech-republic",
 };
 
 const NAME_TO_ID = Object.fromEntries(countries.map((c) => [c.name, c.id]));
