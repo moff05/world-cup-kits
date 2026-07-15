@@ -645,6 +645,57 @@
           "scorers": "Paik 76'"
         }
       ]
+    },
+    "2026": {
+      "result": "Group Stage",
+      "headline": "The Gamble That Backfired",
+      "annotations": [
+        {
+          "id": "hong-benches-son",
+          "label": "THE KEY MOMENT",
+          "story": "Hong Myung-bo, South Korea's captain during the 2002 semi-final run, benched Son Heung-min for the first time in his international career for the Group A decider against South Africa, hoping to spring him from the bench once the opposition tired. Thapelo Maseko's 63rd-minute winner sent Bafana Bafana through instead, leaving Hong to admit: \"I guess I made the wrong decisions.\""
+        },
+        {
+          "id": "tiger-ambush-kits",
+          "label": "THE KIT",
+          "story": "Nike built the 2026 home shirt around 'Global Red,' its graphic referencing Korea's mountain landscapes and tiger-skin texture under a mindset the brand called a 'tiger ambush' — surprise, precision, collective strength. The away kit switched to 'Space Purple' with a large Mugunghwa flower print, the national flower symbolizing resilience, its Swoosh and crest picked out in mint."
+        },
+        {
+          "id": "ninth-among-thirds",
+          "label": "THE CONTEXT",
+          "story": "South Korea's exit came down to arithmetic: a come-from-behind win over Czechia put them third in Group A, but a −1 goal differential left them ninth among the tournament's third-placed sides — one spot outside the eight who advance under the expanded 48-team format debuting in 2026."
+        }
+      ],
+      "homeColors": "'Global Red' shirt with mountain-and-tiger-skin-texture graphic, black sleeve cuffs, gold-outlined Swoosh, red shorts, red socks (Nike)",
+      "awayColors": "'Space Purple' shirt with large-scale Mugunghwa floral graphic, mint Swoosh and crest outlined in Global Blue, purple shorts, purple socks (Nike)",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Czechia",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Hwang 67', Oh 80'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Africa",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
+      ]
     }
   }
 }
