@@ -14,16 +14,17 @@ export const usa = {
     2006,
     2010,
     2014,
-    2022
+    2022,
+    2026
   ],
   "bestResult": "3rd Place (1930)",
   "stats": {
-    "matches": 37,
-    "wins": 9,
+    "matches": 42,
+    "wins": 12,
     "draws": 8,
-    "losses": 20,
-    "goalsFor": 40,
-    "goalsAgainst": 66
+    "losses": 22,
+    "goalsFor": 51,
+    "goalsAgainst": 74
   },
   "facts": [
     {
@@ -666,6 +667,75 @@ export const usa = {
               "id": "the-altered-iranian-flag",
               "label": "THE ALTERED IRANIAN FLAG",
               "story": "Days before facing Iran, U.S. Soccer briefly posted social graphics with Iran's flag stripped of its Islamic Republic emblem, saying it stood in solidarity with women protesting after Mahsa Amini's death in police custody. Iranian officials accused the federation of erasing God from their flag, and the post was pulled within 24 hours."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Round of 16",
+      "headline": "Twelve Years Later, Belgium Again",
+      "homeColors": "red shirt with wavy stripe pattern evoking a rippling flag, off-white and navy accents (Nike)",
+      "awayColors": "carbon black shirt with subtle all-over star pattern, red side panels, metallic silver crest (Nike)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Paraguay",
+          "score": "4–1",
+          "result": "W",
+          "scorers": "Bobadilla OG 7', Balogun 31', Balogun 45+5', Reyna 90+8'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Australia",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Burgess OG 11', Freeman 43'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Türkiye",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Trusty 3', Berhalter 49'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Bosnia and Herzegovina",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Balogun 45', Tillman 82'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Belgium",
+          "score": "1–4",
+          "result": "L",
+          "scorers": "Tillman 31'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "de-ketelaere-brace-seattle",
+              "label": "THE KEY MOMENT",
+              "story": "Charles De Ketelaere scored twice in the first 33 minutes at Seattle, the second a far-post header that snuffed out any hope of a shock upset. Malik Tillman's deflected free kick pulled one back — making him the first player since France's Bernard Genghini in 1982 with two free-kick goals in a World Cup — but Belgium's generation was too much."
+            },
+            {
+              "id": "flag-in-motion",
+              "label": "THE KIT",
+              "story": "Nike built the host nation's home shirt around undulating red stripes meant to evoke a flag caught mid-ripple, paired with a carbon-black away kit stitched with a subtle all-over star pattern and a metallic silver crest. Folarin Balogun wore it to a first-half brace in the record 4–1 opening win over Paraguay."
+            },
+            {
+              "id": "second-knockout-win-since-02",
+              "label": "THE CONTEXT",
+              "story": "Playing host for the first time since 1994, the U.S. beat Bosnia and Herzegovina in the Round of 32 for just its second World Cup knockout win since 2002 — real progress that still ended in a familiar place. Belgium eliminated the Americans in the Round of 16 for the second time in three tournaments."
             }
           ]
         }

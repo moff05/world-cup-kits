@@ -20,16 +20,17 @@ export const mexico = {
     2010,
     2014,
     2018,
-    2022
+    2022,
+    2026
   ],
   "bestResult": "Quarter-finalists (1970, 1986)",
   "stats": {
-    "matches": 60,
-    "wins": 17,
+    "matches": 65,
+    "wins": 21,
     "draws": 15,
-    "losses": 28,
-    "goalsFor": 62,
-    "goalsAgainst": 101
+    "losses": 29,
+    "goalsFor": 72,
+    "goalsAgainst": 104
   },
   "facts": [
     {
@@ -1035,6 +1036,75 @@ export const mexico = {
               "id": "first-group-exit-since-78",
               "label": "FIRST GROUP EXIT SINCE '78",
               "story": "The elimination snapped a streak of reaching the knockout rounds in every tournament since 1994 and marked Mexico's first group-stage exit since 1978 — a result that triggered a wholesale rebuild of the national program in the years that followed."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Round of 16",
+      "headline": "Perfect Group, Bitter Ending",
+      "homeColors": "deep green shirt with Aztec-inspired geometric pattern, 'SOMOS MÉXICO' stitched inside the collar (Adidas)",
+      "awayColors": "white shirt with tonal geometric pattern, dark green and red trim, adidas Trefoil on the chest",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "South Africa",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Quiñones 9', Jiménez 67'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Romo 50'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Czech Republic",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Chávez 55', Quiñones 61', Fidalgo 90+4'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Ecuador",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Quiñones 22', Jiménez 31'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "England",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Quiñones 42', Jiménez 69' (pen)"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "bellingham-98-seconds",
+              "label": "THE KEY MOMENT",
+              "story": "Jude Bellingham scored twice in 98 seconds early in the first half against England, a burst El Tri never fully recovered from. Julián Quiñones and a Raúl Jiménez penalty pulled Mexico within one, and Estadio Azteca roared until the final whistle, but the two goals in under two minutes decided the Round of 16."
+            },
+            {
+              "id": "1998-template-returns",
+              "label": "THE KIT",
+              "story": "Adidas scrapped Mexico's usual center-stripe template and rebuilt the 2026 home shirt around the 1998 World Cup jersey, deep green with 'SOMOS MÉXICO' stitched inside the collar. The white away kit revived the original adidas Trefoil for the first time in 36 years, printed on the chest like a nod to the brand's own archive."
+            },
+            {
+              "id": "forty-year-drought-broken",
+              "label": "THE CONTEXT",
+              "story": "Mexico entered as tournament co-host still carrying a knockout-stage curse dating to their home-soil run in 1986. Goals from Julián Quiñones and Raúl Jiménez against Ecuador finally ended it, delivering the country's first World Cup knockout win in 40 years before Estadio Azteca hosted one last, bittersweet match against England."
             }
           ]
         }
