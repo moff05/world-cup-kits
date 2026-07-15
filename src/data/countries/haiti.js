@@ -4,16 +4,17 @@ export const haiti = {
   "flagCode": "ht",
   "confederation": "CONCACAF",
   "worldCups": [
-    1974
+    1974,
+    2026
   ],
-  "bestResult": "Group Stage (1 appearance)",
+  "bestResult": "Group Stage (2 appearances)",
   "stats": {
-    "matches": 3,
+    "matches": 6,
     "wins": 0,
     "draws": 0,
-    "losses": 3,
-    "goalsFor": 2,
-    "goalsAgainst": 14
+    "losses": 6,
+    "goalsFor": 4,
+    "goalsAgainst": 22
   },
   "facts": [
     {
@@ -78,6 +79,61 @@ export const haiti = {
               "id": "sanon-strikes-again",
               "label": "SANON'S SECOND MASTERPIECE",
               "story": "Already eliminated, Haiti gave Argentina a scare when Emmanuel Sanon struck again in the 63rd minute, becoming the only Haitian to ever score twice at a World Cup. Argentina answered with four goals of their own, winning 4–1, but Sanon closed his country's debut exactly how he'd opened it — as its brightest star."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Group Stage",
+      "headline": "A Flash Before The Fall",
+      "homeColors": "royal blue shirt with red polo collar and white trim, red-and-white sleeve detailing (Saeta)",
+      "awayColors": "white shirt with pale grey sleeves, red collar and red-and-white cuff trim (Saeta)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Scotland",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "2–4",
+          "result": "L",
+          "scorers": "Bono OG 10', Isidor 43'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "isidor-goal-fifty-two-years-later",
+              "label": "THE KEY MOMENT",
+              "story": "An early own goal off Bono and a 43rd-minute finish from Isidor had Haiti ahead 2–1, delirium sweeping the stands 52 years after Sanon's heroics against Italy. Morocco leveled before the break through Saibari, then substitutes Rahimi and Yassine turned it around late, sealing a 4–2 comeback and Haiti's group-stage exit."
+            },
+            {
+              "id": "vertieres-on-the-chest",
+              "label": "THE KIT",
+              "story": "Made by boutique label Saeta rather than a major manufacturer, Haiti's kits carried scenes from the 1803 Battle of Vertières — the decisive fight of the Haitian Revolution — stitched into the lower front. The away shirt repeated the imagery in pale tones, with the motto 'L'Union fait la force' woven into the collar."
+            },
+            {
+              "id": "a-nation-in-crisis-watches-from-afar",
+              "label": "THE CONTEXT",
+              "story": "Haiti's return came after 52 years away, amid a homeland gripped by gang violence and political collapse that left much of the population unable to safely gather and watch. Diaspora communities in Miami, Montreal and Paris became the de facto home crowd, wearing royal blue while players spoke of carrying a fractured nation's hope."
             }
           ]
         }

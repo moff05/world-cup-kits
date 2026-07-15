@@ -4,16 +4,17 @@
   "flagCode": "pa",
   "confederation": "CONCACAF",
   "worldCups": [
-    2018
+    2018,
+    2026
   ],
-  "bestResult": "Group Stage (1 appearance)",
+  "bestResult": "Group Stage (2 appearances)",
   "stats": {
-    "matches": 3,
+    "matches": 6,
     "wins": 0,
     "draws": 0,
-    "losses": 3,
+    "losses": 6,
     "goalsFor": 2,
-    "goalsAgainst": 11
+    "goalsAgainst": 15
   },
   "facts": [
     {
@@ -76,6 +77,57 @@
           "score": "1–2",
           "result": "L",
           "scorers": "Meriah OG 33'"
+        }
+      ]
+    },
+    "2026": {
+      "result": "Group Stage",
+      "headline": "Held Scoreless, Sent Home",
+      "homeColors": "red shirt with white color-block panels down the sides, woven eagle pattern (Reebok)",
+      "awayColors": "white shirt with gold shoulder piping, navy and red collar and cuff trim (Reebok)",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Ghana",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Croatia",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "annotations": [
+        {
+          "id": "yirenkyi-strikes-in-stoppage-time",
+          "label": "THE KEY MOMENT",
+          "story": "Panama's tournament turned in the opener's dying seconds: still level at 0–0 deep into stoppage time, substitute Caleb Yirenkyi found space in the 95th minute and beat the keeper for Ghana's winner. It set the tone for a campaign in which Los Canaleros never found the net across three matches."
+        },
+        {
+          "id": "reeboks-vector-returns",
+          "label": "THE KIT",
+          "story": "Reebok brought its 'Vector' template back to a World Cup for the first time since 1998, dressing Panama in red with bold white color-blocks down the sides and a woven eagle pattern nodding to the federation crest. The white away shirt added gold shoulder piping and navy-and-red trim, a sharper look than 2018's tonal New Balance kits."
+        },
+        {
+          "id": "progress-without-a-goal",
+          "label": "THE CONTEXT",
+          "story": "Eight years after their tearful World Cup debut, Panama arrived in 2026 a different program — Gold Cup finalists in 2023, Concacaf Nations League finalists in 2025 — only to leave the group stage without a goal. For a small football nation still building infrastructure, the disappointment was tempered by having qualified comfortably atop their region."
         }
       ]
     }

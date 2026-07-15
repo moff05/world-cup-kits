@@ -5,16 +5,17 @@
   "confederation": "CONCACAF",
   "worldCups": [
     1986,
-    2022
+    2022,
+    2026
   ],
-  "bestResult": "Round of 16 (2022)",
+  "bestResult": "Round of 16 (2022, 2026)",
   "stats": {
-    "matches": 6,
-    "wins": 0,
-    "draws": 0,
-    "losses": 6,
-    "goalsFor": 2,
-    "goalsAgainst": 12
+    "matches": 11,
+    "wins": 2,
+    "draws": 1,
+    "losses": 8,
+    "goalsFor": 11,
+    "goalsAgainst": 18
   },
   "facts": [
     {
@@ -128,6 +129,71 @@
           "score": "1–2",
           "result": "L",
           "scorers": "Aguerd o.g. 40'"
+        }
+      ]
+    },
+    "2026": {
+      "result": "Round of 16",
+      "headline": "Home Soil, Historic Firsts",
+      "homeColors": "red shirt with tonal split maple-leaf graphic and black detailing, red shorts, red socks (Nike)",
+      "awayColors": "black shirt with distressed white cracked-ice maple-leaf graphic, University Red Swoosh and crest, black shorts, black socks (Nike)",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Larin 78'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Qatar",
+          "score": "6–0",
+          "result": "W",
+          "scorers": "Larin 16', David 29', David 45'+3', Saliba 64', Manai OG 75', David 90'+2'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Promise David 76'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "South Africa",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Eustaquio 90'+2'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Morocco",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "annotations": [
+        {
+          "id": "eustaquio-stoppage-winner-2026",
+          "label": "THE KEY MOMENT",
+          "story": "Deep into second-half stoppage time of the Round of 32, Stephen Eustaquio killed a bouncing ball dead with his chest and drilled it into the bottom corner, beating South Africa 1–0 and sending co-host Canada into the knockout rounds for the first time. It came six days after Jonathan David's hat-trick delivered Canada's first-ever World Cup win, 6–0 over Qatar."
+        },
+        {
+          "id": "cracked-ice-nike-2026",
+          "label": "THE KIT",
+          "story": "Nike dressed the co-hosts in red with a tonal, split maple-leaf graphic across the chest and matching shorts and socks for the home kit, while the away change flipped to black with a distressed, cracked-ice pattern nodding to Canadian winters, trimmed in University Red through the Swoosh and crest."
+        },
+        {
+          "id": "david-hattrick-record-2026",
+          "label": "THE CONTEXT",
+          "story": "David's stoppage-time finish against Qatar completed the first World Cup hat-trick by a North American player since Bert Patenaude's for the United States in 1930, and the 6–0 scoreline matched the largest victory margin ever posted by a host nation, alongside Italy's 1934 and Brazil's 1950 routs."
         }
       ]
     }

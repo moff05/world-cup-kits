@@ -6,16 +6,17 @@
   "worldCups": [
     1998,
     2002,
-    2010
+    2010,
+    2026
   ],
-  "bestResult": "Group Stage (3 appearances)",
+  "bestResult": "Round of 32 (2026)",
   "stats": {
-    "matches": 9,
-    "wins": 2,
-    "draws": 4,
-    "losses": 3,
-    "goalsFor": 11,
-    "goalsAgainst": 16
+    "matches": 13,
+    "wins": 3,
+    "draws": 5,
+    "losses": 5,
+    "goalsFor": 13,
+    "goalsAgainst": 20
   },
   "facts": [
     {
@@ -180,6 +181,64 @@
           "score": "2–1",
           "result": "W",
           "scorers": "Khumalo 20', Mphela 37'"
+        }
+      ]
+    },
+    "2026": {
+      "result": "Round of 32",
+      "headline": "Bafana Bafana's Historic Breakthrough",
+      "homeColors": "yellow shirt with green trim on the collar, shoulders and sleeve cuffs, tonal graphic pattern, green shorts with yellow stripes, yellow socks (adidas)",
+      "awayColors": "deep green shirt with white fold-over collar and gold Three Stripes on the shoulders, white shorts, white socks (adidas)",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Mexico",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Czechia",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Mokoena 83' (pen.)"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "South Korea",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Maseko 63'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Canada",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "annotations": [
+        {
+          "id": "eustaquio-stunner-2026",
+          "label": "THE KEY MOMENT",
+          "story": "Deep into stoppage time in the Round of 32, Stephen Eustaquio chested down a bouncing ball and rifled it into the bottom corner in the 90+2nd minute, the only goal in an error-strewn game against co-host Canada. Sixteen years after hosting the tournament, South Africa's best-ever World Cup run ended one match short of the last 16."
+        },
+        {
+          "id": "eleven-languages-kit-2026",
+          "label": "THE KIT",
+          "story": "adidas built South Africa's 2026 home shirt as a callback to 2010: yellow base, green trim across the collar, shoulders and sleeve cuffs, with a tonal graphic threading through the fabric nodding to the country's eleven official languages. Green shorts and yellow socks complete a kit — the first from adidas since replacing longtime supplier Le Coq Sportif."
+        },
+        {
+          "id": "three-red-cards-record-2026",
+          "label": "THE CONTEXT",
+          "story": "South Africa's opener against Mexico produced three red cards — Yaya Sithole and Themba Zwane both dismissed for the visitors, César Montes late for the hosts — smashing the previous World Cup-opener record of two, set by Cameroon in 1990. Somehow, Bafana Bafana regrouped from that chaotic 2–0 defeat to reach the knockout stage for the first time in history."
         }
       ]
     }

@@ -4,16 +4,17 @@ export const qatar = {
   "flagCode": "qa",
   "confederation": "AFC",
   "worldCups": [
-    2022
+    2022,
+    2026
   ],
-  "bestResult": "Group Stage (2022)",
+  "bestResult": "Group Stage (2 appearances)",
   "stats": {
-    "matches": 3,
+    "matches": 6,
     "wins": 0,
-    "draws": 0,
-    "losses": 3,
-    "goalsFor": 1,
-    "goalsAgainst": 7
+    "draws": 1,
+    "losses": 5,
+    "goalsFor": 3,
+    "goalsAgainst": 17
   },
   "facts": [
     {
@@ -78,6 +79,61 @@ export const qatar = {
               "id": "zero-points-record",
               "label": "THE WINLESS RECORD",
               "story": "A goalless 0–2 loss to the Netherlands at Al Bayt Stadium closed out Qatar's campaign with three defeats from three, one goal scored, and zero points — the first host nation in tournament history to finish a World Cup without a single point on the board."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Group Stage",
+      "headline": "A Point At Last",
+      "homeColors": "maroon shirt with darker serrated lines down the chest, 'Qatar' in Arabic script at the neck (adidas)",
+      "awayColors": "white shirt with a grey wave-like graphic inspired by desert dunes (adidas)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Switzerland",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Muheim OG 94'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Canada",
+          "score": "0–6",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Al-Haydos 42'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "muheims-own-goal-a-first-point",
+              "label": "THE KEY MOMENT",
+              "story": "Deep into stoppage time against Switzerland, pressure forced Swiss defender Miro Muheim into an own goal that FIFA later confirmed as the decisive touch — Qatar's first-ever point at a World Cup they'd actually qualified for, rather than hosted. Captain Boualem Khoukhi was initially celebrated as the scorer; either way, Al Annabi finally had something to savor."
+            },
+            {
+              "id": "a-quieter-maroon-this-time",
+              "label": "THE KIT",
+              "story": "Adidas leaned into restraint for Qatar's first kit as a qualified nation rather than a host: a maroon shirt with darker serrated lines running down the chest and 'Qatar' rendered in Arabic script at the neck. The white away kit traded serration for a grey wave graphic lifted from desert dune formations, a quieter follow-up to 2022's pearl-string design."
+            },
+            {
+              "id": "earning-it-this-time",
+              "label": "THE CONTEXT",
+              "story": "Four years after hosting a World Cup they'd never qualified for on merit, Qatar became just the second nation — after Italy in 1934 — to host a tournament and then qualify outright for the next. Beating the UAE to seal it in October 2025 mattered as much to Qatari pride as anything in the tournament itself."
             }
           ]
         }

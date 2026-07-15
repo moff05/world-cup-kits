@@ -9,16 +9,17 @@ export const tunisia = {
     2002,
     2006,
     2018,
-    2022
+    2022,
+    2026
   ],
-  "bestResult": "Group Stage (6 appearances)",
+  "bestResult": "Group Stage (7 appearances)",
   "stats": {
-    "matches": 18,
+    "matches": 21,
     "wins": 3,
     "draws": 5,
-    "losses": 10,
-    "goalsFor": 14,
-    "goalsAgainst": 26
+    "losses": 13,
+    "goalsFor": 16,
+    "goalsAgainst": 38
   },
   "facts": [
     {
@@ -358,6 +359,61 @@ export const tunisia = {
               "id": "ksour-essef-cuirass-kit",
               "label": "THE CARTHAGINIAN CUIRASS",
               "story": "Kappa's 2022 kits carried a tonal print of the Ksour Essef cuirass, a 3rd-century-BC bronze breastplate unearthed in Tunisia in 1909 and linked to Hannibal's Second Punic War campaigns — home and away shirts swapped the red-and-white balance, while the third kit rendered it in olive green."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Group Stage",
+      "headline": "Winless, and a Manager Fired",
+      "homeColors": "white shirt with red eagle-feather graphic sweeping across the shoulders, white shorts, white/red socks (Kappa)",
+      "awayColors": "red shirt with white eagle-feather graphic across the shoulders and sleeves, red shorts, red/white socks (Kappa)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "1–5",
+          "result": "L",
+          "scorers": "Rekik 43'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "0–4",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Mastouri 54'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "skhiri-own-goal-2026",
+              "label": "THE KEY MOMENT",
+              "story": "Only three minutes into a must-win finale against Netherlands, Tunisia captain Ellyes Skhiri turned a routine cross into his own net, gifting Ronald Koeman's side the ideal start. Naim Mastouri's 54th-minute strike briefly threatened a comeback, but two more Dutch goals sealed a 3–1 defeat and a winless exit from Group F."
+            },
+            {
+              "id": "eagle-feather-kappa-2026",
+              "label": "THE KIT",
+              "story": "Kappa carried the 'Eagles of Carthage' identity into 2026 with a feather-inspired graphic sweeping across the shoulders of both shirts — white with red trim at home, red with white trim away — a sleek, recycled-jacquard reworking of the eagle badge that has defined Tunisia's crest since 2004."
+            },
+            {
+              "id": "lamouchi-sacked-2026",
+              "label": "THE CONTEXT",
+              "story": "Sabri Lamouchi lasted one match. After the 5–1 humbling by Sweden, Tunisia's federation dismissed the World Cup-winning-pedigree coach mid-tournament, a rare in-competition sacking that left an interim staff to navigate the remaining group games — themselves lost 4–0 and 3–1 without recording a single point."
             }
           ]
         }
