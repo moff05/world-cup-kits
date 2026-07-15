@@ -11,16 +11,17 @@
     1982,
     1986,
     1990,
-    1998
+    1998,
+    2026
   ],
   "bestResult": "Group Stage (8 appearances, never past the first round)",
   "stats": {
-    "matches": 23,
-    "wins": 4,
+    "matches": 26,
+    "wins": 5,
     "draws": 7,
-    "losses": 12,
-    "goalsFor": 25,
-    "goalsAgainst": 41
+    "losses": 14,
+    "goalsFor": 26,
+    "goalsAgainst": 45
   },
   "facts": [
     {
@@ -138,8 +139,8 @@
       "annotations": [
         {
           "id": "unbeaten-eliminated",
-          "label": "UNDEFEATED, STILL OUT"
-        , "story": "Scotland won, drew, and drew again in West Germany — beating Zaire, holding Brazil and Yugoslavia scoreless and level — and still went home after the group stage, the only team in World Cup history eliminated without losing a match. Zaire's 2–0 margin simply wasn't wide enough against Yugoslavia and Brazil's superior goal difference."
+          "label": "UNDEFEATED, STILL OUT",
+          "story": "Scotland won, drew, and drew again in West Germany — beating Zaire, holding Brazil and Yugoslavia scoreless and level — and still went home after the group stage, the only team in World Cup history eliminated without losing a match. Zaire's 2–0 margin simply wasn't wide enough against Yugoslavia and Brazil's superior goal difference."
         },
         {
           "id": "the-roundel-badge",
@@ -304,8 +305,8 @@
         },
         {
           "id": "steins-death",
-          "label": "A MANAGER LOST IN QUALIFYING"
-        , "story": "Jock Stein collapsed and died of a heart attack in the Ninian Park tunnel moments after Scotland secured the point that clinched qualification, and assistant Alex Ferguson took the reins for Mexico in his place. The team that lined up against Denmark and West Germany carried the weight of a manager who never got to see the tournament he'd built the squad to reach."
+          "label": "A MANAGER LOST IN QUALIFYING",
+          "story": "Jock Stein collapsed and died of a heart attack in the Ninian Park tunnel moments after Scotland secured the point that clinched qualification, and assistant Alex Ferguson took the reins for Mexico in his place. The team that lined up against Denmark and West Germany carried the weight of a manager who never got to see the tournament he'd built the squad to reach."
         }
       ],
       "homeColors": "dark blue shirt, white shorts, dark blue socks",
@@ -441,6 +442,58 @@
           "score": "0–3",
           "result": "L",
           "scorers": null
+        }
+      ]
+    },
+    "2026": {
+      "result": "Group Stage",
+      "headline": "McGinn Ends The Long Wait",
+      "homeColors": "navy shirt with embossed Saltire pattern, navy shorts, navy socks",
+      "awayColors": "salmon-scarlet shirt with purple pinstripes and a purple-and-white V-neck collar",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
+      "story": "Scotland returned to the World Cup for the first time since 1998 and got the win nobody expected, John McGinn settling a tense opener against Haiti. Ismael Saibari's two-minute strike beat Scotland against Morocco and Brazil cruised 3–0 in Miami, leaving Steve Clarke's side third in Group C and out at the first hurdle.",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Haiti",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "McGinn 28'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "annotations": [
+        {
+          "id": "mcginn-ends-the-drought",
+          "label": "THE KEY MOMENT",
+          "story": "John McGinn's deflected 28th-minute strike beat Haiti in Foxborough and did something no Scotland side had managed in 36 years: win a World Cup match. The Tartan Army's last victory at the finals came against Sweden in 1990, and the release inside Gillette Stadium said as much about history as it did about three points."
+        },
+        {
+          "id": "saltire-and-scarlet",
+          "label": "THE KIT",
+          "story": "Adidas dressed Scotland in deep navy for 2026, the shirt embossed with Saltire crosses and thickened three stripes across the shoulders, a retro touch the SFA called 'the best worst-kept secret' after leaks spread for months. The change strip dug deeper into history, reviving a scarlet-and-purple pattern last worn by the national team in the 1980s."
+        },
+        {
+          "id": "clarkes-third-tournament",
+          "label": "THE CONTEXT",
+          "story": "Steve Clarke's side ended a 28-year absence from the finals, Scotland's first World Cup since France 1998, and set up camp in Charlotte, North Carolina, training at Charlotte FC's 52,000-square-foot performance facility. A third-place finish behind Brazil and Morocco meant elimination, but reaching North America at all marked Clarke's third straight major tournament in charge."
         }
       ]
     }

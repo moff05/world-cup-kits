@@ -5,16 +5,17 @@ export const turkey = {
   "confederation": "UEFA",
   "worldCups": [
     1954,
-    2002
+    2002,
+    2026
   ],
   "bestResult": "3rd Place (2002)",
   "stats": {
-    "matches": 10,
-    "wins": 5,
+    "matches": 13,
+    "wins": 6,
     "draws": 1,
-    "losses": 4,
-    "goalsFor": 20,
-    "goalsAgainst": 17
+    "losses": 6,
+    "goalsFor": 23,
+    "goalsAgainst": 22
   },
   "facts": [
     {
@@ -162,6 +163,61 @@ export const turkey = {
               "id": "mansiz-golden-goal",
               "label": "MANSIZ'S GOLDEN MOMENT",
               "story": "Locked at 0–0 deep into extra time against Senegal, substitute İlhan Mansız struck in the 94th minute to win it by golden goal, sending Turkey into their first-ever World Cup semi-final and ending Senegal's fairytale run in Osaka."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Group Stage",
+      "headline": "A Win Too Late",
+      "homeColors": "red shirt with dark-red Ebru marbling swirl pattern and a modernized chest band, white shorts, red socks (Nike)",
+      "awayColors": "white shirt with red side panels carrying the same Ebru marbling pattern, white shorts, white socks (Nike)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Australia",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Paraguay",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Güler 10', Yılmaz 31', Ayhan 90'+8'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Australia_vs_T%C3%BCrkiye_at_BC_Place_-_June_13%2C_2026.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "Australia vs Turkey, Group Stage — CC0 / Wikimedia Commons"
+          },
+          "annotations": [
+            {
+              "id": "ayhan-meaningless-winner",
+              "label": "THE KEY MOMENT",
+              "story": "Already eliminated before kickoff, Turkey trailed briefly to Auston Trusty before Arda Güler and Barış Alper Yılmaz put them ahead of the co-hosts. Substitute Kaan Ayhan, on for less than ten minutes, bundled home a stoppage-time winner in the eighth added minute — Turkey's first World Cup victory since 2002, secured in a match that decided nothing."
+            },
+            {
+              "id": "ebru-marbling-kit",
+              "label": "THE KIT",
+              "story": "Nike flipped Turkey's identity back to red for the first time since 2018, building the home shirt around Ebru, the centuries-old Turkish art of marbling ink on water. Swirling dark and bright red tones cover the torso like the technique's floating pigments, while the away shirt reverses the palette to white with a red marbled chest band."
+            },
+            {
+              "id": "guler-yildiz-generation",
+              "label": "THE CONTEXT",
+              "story": "Turkey's squad leaned on a new generation playing at Europe's biggest clubs: Real Madrid's Arda Güler, still a teenager when he broke through, and Juventus forward Kenan Yıldız led the attack under Italian coach Vincenzo Montella. It marked the country's first World Cup appearance since that golden 2002 run, twenty-four years earlier."
             }
           ]
         }

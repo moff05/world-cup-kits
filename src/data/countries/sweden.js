@@ -15,16 +15,17 @@ export const sweden = {
     1994,
     2002,
     2006,
-    2018
+    2018,
+    2026
   ],
   "bestResult": "Runners-up (1958)",
   "stats": {
-    "matches": 51,
-    "wins": 19,
-    "draws": 13,
-    "losses": 19,
-    "goalsFor": 80,
-    "goalsAgainst": 73
+    "matches": 55,
+    "wins": 20,
+    "draws": 14,
+    "losses": 21,
+    "goalsFor": 87,
+    "goalsAgainst": 83
   },
   "facts": [
     {
@@ -799,6 +800,68 @@ export const sweden = {
               "id": "without-zlatan",
               "label": "SUCCESS WITHOUT THEIR STAR",
               "story": "Zlatan Ibrahimović, Sweden's all-time leading scorer, had retired from international football after Euro 2016 and stayed retired despite speculation he'd return. Sweden reached the quarter-final anyway — their best World Cup finish since 1994 — built on a collective unit rather than one dominant personality."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Round of 32",
+      "headline": "Wild Group Stage, Swift Exit",
+      "homeColors": "yellow shirt with blue shoulder panels and tonal floral graphic, blue shorts, blue and yellow striped socks",
+      "awayColors": "royal blue shirt with wavy chain-link graphic and pale gold trim",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Tunisia",
+          "score": "5–1",
+          "result": "W",
+          "scorers": "Ayari 7', Isak 30', Gyökeres 59', Svanberg 84', Ayari 90'+6'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "1–5",
+          "result": "L",
+          "scorers": "Elanga 59'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Elanga 62'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "France",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "mbappe-ends-the-run",
+              "label": "THE KEY MOMENT",
+              "story": "Kylian Mbappé needed only a first-half header and a second-half poacher's finish to end Sweden's tournament in the round of 32, doubling his own tally to six goals in New Jersey. Bradley Barcola added a third before halftime, and a Sweden side that had scored five against Tunisia managed nothing back, bowing out 3–0."
+            },
+            {
+              "id": "abba-inspired-kit",
+              "label": "THE KIT",
+              "story": "Adidas built Sweden's home shirt around a tribute to ABBA and 1970s Sweden, embossing daisy motifs and vinyl-record-style graphics into a yellow base with blue shoulder panels. The away kit went moodier: royal blue with a wavy, chain-link pattern rippling top to bottom and a pale-gold trim borrowed from the same disco-era mood board."
+            },
+            {
+              "id": "potters-fresh-start",
+              "label": "THE CONTEXT",
+              "story": "Graham Potter took over in October 2025 after Sweden finished bottom of their UEFA qualifying group, sneaking into the playoffs only on Nations League standing and needing a Viktor Gyökeres hat-trick to see off Ukraine. The rebuild carried Sweden back to the World Cup for the first time since 2018, ending an eight-year absence before France ended the run."
             }
           ]
         }

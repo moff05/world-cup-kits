@@ -15,16 +15,17 @@
     1994,
     2002,
     2006,
-    2018
+    2018,
+    2026
   ],
   "bestResult": "Runners-up (1958)",
   "stats": {
-    "matches": 51,
-    "wins": 19,
-    "draws": 13,
-    "losses": 19,
-    "goalsFor": 80,
-    "goalsAgainst": 73
+    "matches": 55,
+    "wins": 20,
+    "draws": 14,
+    "losses": 21,
+    "goalsFor": 87,
+    "goalsAgainst": 83
   },
   "facts": [
     {
@@ -43,9 +44,21 @@
       "result": "Quarter-final",
       "headline": "First Match, First Win",
       "annotations": [
-        { "id": "dunker-82nd-minute", "label": "SILENCED IN BOLOGNA", "story": "Four days after the Argentina comeback, Sweden and Germany traded nothing for 81 minutes. Then Dunker struck, and under 1934's pure knockout format — no groups, no second leg — that single goal ended it. Sweden's debut tournament closed exactly as it opened: settled in the final ten minutes." },
-        { "id": "unbranded-tre-kronor", "label": "HANDMADE COLORS", "story": "No manufacturer's mark touched Sweden's 1934 shirt — just yellow wool and blue shorts cut to federation spec, with the three-crowns emblem stitched plain over the heart. Commercial branding was decades off; on the grainy newsreel from Bologna, the famous blue and yellow barely registered as more than light and shade." },
-        { "id": "argentina-weakened-squad", "label": "A WEAKENED OPPONENT", "story": "Argentina showed up in Bologna missing most of the side that had lost the inaugural 1930 final — their clubs refused to release stars for a long ocean crossing, leaving a patched-together reserve XI. Sweden's first-ever World Cup victory came against opponents barely resembling the runners-up from four years earlier." }
+        {
+          "id": "dunker-82nd-minute",
+          "label": "SILENCED IN BOLOGNA",
+          "story": "Four days after the Argentina comeback, Sweden and Germany traded nothing for 81 minutes. Then Dunker struck, and under 1934's pure knockout format — no groups, no second leg — that single goal ended it. Sweden's debut tournament closed exactly as it opened: settled in the final ten minutes."
+        },
+        {
+          "id": "unbranded-tre-kronor",
+          "label": "HANDMADE COLORS",
+          "story": "No manufacturer's mark touched Sweden's 1934 shirt — just yellow wool and blue shorts cut to federation spec, with the three-crowns emblem stitched plain over the heart. Commercial branding was decades off; on the grainy newsreel from Bologna, the famous blue and yellow barely registered as more than light and shade."
+        },
+        {
+          "id": "argentina-weakened-squad",
+          "label": "A WEAKENED OPPONENT",
+          "story": "Argentina showed up in Bologna missing most of the side that had lost the inaugural 1930 final — their clubs refused to release stars for a long ocean crossing, leaving a patched-together reserve XI. Sweden's first-ever World Cup victory came against opponents barely resembling the runners-up from four years earlier."
+        }
       ],
       "story": "Sweden's World Cup debut was the tournament's very first match, and they trailed before Sven Jonasson's brace and a goal from Kroon completed a 3–2 comeback over Argentina in Bologna. Four days later, in the era's single-elimination format, a Dunker goal wasn't enough — Germany won 2–1, ending Sweden's tournament in the quarter-final.",
       "homeColors": "yellow shirt, blue shorts, yellow socks",
@@ -76,9 +89,21 @@
       "result": "4th Place",
       "headline": "Eight Goals, Then a Collapse",
       "annotations": [
-        { "id": "double-hat-trick-cuba", "label": "TWO HAT-TRICKS, ONE DAY", "story": "Harry Andersson marked his international debut with a hat-trick against Cuba, and Gustav Wetterström matched him with three of his own in the same match — a rare double hat-trick that built Sweden's 8–0 quarter-final, still their biggest World Cup win on record." },
-        { "id": "in-house-1938-kit", "label": "NO SPONSOR, JUST WOOL", "story": "Sweden's kit remained entirely in-house through 1938 — no outside manufacturer, no logo, just the federation's own tailoring in yellow and blue with the three-crowns crest. That homemade approach to the shirt held for two more decades, all the way through the 1958 final on home soil." },
-        { "id": "last-cup-before-war", "label": "LAST CUP BEFORE WAR", "story": "France 1938 turned out to be the final World Cup for twelve years — the next one wasn't played until 1950, after the war swallowed the tournament whole. Sweden's fourth-place finish, built on the Cuba rout and the Anschluss bye, stood as their best result for an entire generation." }
+        {
+          "id": "double-hat-trick-cuba",
+          "label": "TWO HAT-TRICKS, ONE DAY",
+          "story": "Harry Andersson marked his international debut with a hat-trick against Cuba, and Gustav Wetterström matched him with three of his own in the same match — a rare double hat-trick that built Sweden's 8–0 quarter-final, still their biggest World Cup win on record."
+        },
+        {
+          "id": "in-house-1938-kit",
+          "label": "NO SPONSOR, JUST WOOL",
+          "story": "Sweden's kit remained entirely in-house through 1938 — no outside manufacturer, no logo, just the federation's own tailoring in yellow and blue with the three-crowns crest. That homemade approach to the shirt held for two more decades, all the way through the 1958 final on home soil."
+        },
+        {
+          "id": "last-cup-before-war",
+          "label": "LAST CUP BEFORE WAR",
+          "story": "France 1938 turned out to be the final World Cup for twelve years — the next one wasn't played until 1950, after the war swallowed the tournament whole. Sweden's fourth-place finish, built on the Cuba rout and the Anschluss bye, stood as their best result for an entire generation."
+        }
       ],
       "story": "Austria's forced withdrawal after the Anschluss gave Sweden a bye into the quarter-finals, where they demolished Cuba 8–0 — still their biggest World Cup win, built on hat-tricks from Harry Andersson and Gustav Wetterström. Hungary ended the run 5–1 in the semi-final, and a tired Sweden lost the third-place match to Brazil 4–2.",
       "homeColors": "yellow shirt, blue shorts, yellow socks",
@@ -116,9 +141,21 @@
       "result": "3rd Place",
       "headline": "Bronze Built on Survival",
       "annotations": [
-        { "id": "beating-italy-champions", "label": "TOPPLING THE CHAMPIONS", "story": "Italy arrived in São Paulo as two-time defending champions, unbeaten at the World Cup since 1934. Sweden beat them anyway, 3–2, with Jeppson scoring twice — the signature result of a tournament remembered mostly for the 7–1 mauling that came later, but arguably the more remarkable scoreline." },
-        { "id": "in-house-1950-kit", "label": "STILL NO LOGO", "story": "The federation was still producing Sweden's kit itself in 1950 — no manufacturer, no crest changes, the same yellow-and-blue formula worn for decades. It wouldn't be until 1970 that an outside kit maker, Umbro, took over production for a World Cup squad." },
-        { "id": "amateurs-only-1950", "label": "MISSING THEIR OWN STARS", "story": "Sweden's federation barred any player under a professional contract from the national team in 1950 — which meant Gunnar Nordahl, Gunnar Gren, and Nils Liedholm, the trio who'd just won Olympic gold and moved to Italian clubs, watched from home. An amateur squad still came back with bronze." }
+        {
+          "id": "beating-italy-champions",
+          "label": "TOPPLING THE CHAMPIONS",
+          "story": "Italy arrived in São Paulo as two-time defending champions, unbeaten at the World Cup since 1934. Sweden beat them anyway, 3–2, with Jeppson scoring twice — the signature result of a tournament remembered mostly for the 7–1 mauling that came later, but arguably the more remarkable scoreline."
+        },
+        {
+          "id": "in-house-1950-kit",
+          "label": "STILL NO LOGO",
+          "story": "The federation was still producing Sweden's kit itself in 1950 — no manufacturer, no crest changes, the same yellow-and-blue formula worn for decades. It wouldn't be until 1970 that an outside kit maker, Umbro, took over production for a World Cup squad."
+        },
+        {
+          "id": "amateurs-only-1950",
+          "label": "MISSING THEIR OWN STARS",
+          "story": "Sweden's federation barred any player under a professional contract from the national team in 1950 — which meant Gunnar Nordahl, Gunnar Gren, and Nils Liedholm, the trio who'd just won Olympic gold and moved to Italian clubs, watched from home. An amateur squad still came back with bronze."
+        }
       ],
       "story": "Sweden beat Italy and drew Paraguay to reach the four-team final pool, then were routed 7–1 by Brazil in Rio — still their heaviest World Cup defeat — before falling to Uruguay and closing with a 3–1 win over Spain. It was enough for third place, a bronze finish built more on survival than form.",
       "homeColors": "yellow shirt, blue shorts, yellow socks",
@@ -170,9 +207,21 @@
       "result": "Runners-up",
       "headline": "So Close, On Home Soil",
       "annotations": [
-        { "id": "pele-chip-final", "label": "A SEVENTEEN-YEAR-OLD'S CHIP", "story": "Brazil's second goal in the final has outlived the scoreline: Pelé took a high ball on his chest, flicked it over a defender's head, and volleyed home before it landed — at seventeen, in front of Sweden's own crowd. It remains one of the most replayed goals in World Cup history." },
-        { "id": "last-homemade-kit", "label": "THE FINAL HOMEMADE SHIRT", "story": "As hosts, Sweden wore their familiar unbranded yellow — the last World Cup they'd play in a shirt made entirely in-house. Within two tournaments, Umbro had taken over production; 1958 marked the end of an era where the federation cut and stitched every jersey itself." },
-        { "id": "brazil-borrows-blue", "label": "BRAZIL'S BORROWED BLUE", "story": "Both finalists' first-choice shirts were yellow, so a draw decided who kept theirs — Brazil lost it and had no alternate strip prepared. Staff scrambled to buy 22 blue T-shirts and sewed on the crest by hand; Brazil beat Sweden in a kit assembled the night before the match." }
+        {
+          "id": "pele-chip-final",
+          "label": "A SEVENTEEN-YEAR-OLD'S CHIP",
+          "story": "Brazil's second goal in the final has outlived the scoreline: Pelé took a high ball on his chest, flicked it over a defender's head, and volleyed home before it landed — at seventeen, in front of Sweden's own crowd. It remains one of the most replayed goals in World Cup history."
+        },
+        {
+          "id": "last-homemade-kit",
+          "label": "THE FINAL HOMEMADE SHIRT",
+          "story": "As hosts, Sweden wore their familiar unbranded yellow — the last World Cup they'd play in a shirt made entirely in-house. Within two tournaments, Umbro had taken over production; 1958 marked the end of an era where the federation cut and stitched every jersey itself."
+        },
+        {
+          "id": "brazil-borrows-blue",
+          "label": "BRAZIL'S BORROWED BLUE",
+          "story": "Both finalists' first-choice shirts were yellow, so a draw decided who kept theirs — Brazil lost it and had no alternate strip prepared. Staff scrambled to buy 22 blue T-shirts and sewed on the crest by hand; Brazil beat Sweden in a kit assembled the night before the match."
+        }
       ],
       "story": "Hosting the tournament, Sweden beat Hungary, drew Wales, and eliminated the Soviet Union before stunning defending champions West Germany 3–1 in the semi-final at Råsunda. In the final, a 17-year-old Pelé scored twice as Brazil won 5–2 in Stockholm — the best finish in Swedish football history, delivered in front of a home crowd.",
       "homeColors": "yellow shirt, blue shorts, yellow socks (unbranded, hosts' kit)",
@@ -231,9 +280,21 @@
       "result": "Group Stage",
       "headline": "One Win, One Round",
       "annotations": [
-        { "id": "turesson-point-vs-israel", "label": "NARROW MARGINS IN MEXICO", "story": "Sweden trailed Italy 1–0 before a ball had barely settled. Tom Turesson's 53rd-minute equalizer against Israel kept the group alive, and Ove Grahn's goal in the 90th minute beat Uruguay — but a solitary win from three games wasn't enough to escape the group." },
-        { "id": "umbro-airtex-debut", "label": "FIRST VENTILATED SHIRT", "story": "1970 marked the first time an outside manufacturer built Sweden's kit: Umbro, pioneering a lightweight, perforated fabric called Airtex designed to breathe in Mexico's heat. It replaced two decades of federation-made wool jerseys — the first real technological leap in the history of the shirt." },
-        { "id": "first-color-broadcast", "label": "SEEN IN COLOR", "story": "1970 was the first World Cup broadcast globally in color television, meaning viewers outside Sweden saw the country's blue and yellow rendered accurately, and in real time, for the first time ever. It also marked Sweden's return after missing the previous two tournaments entirely." }
+        {
+          "id": "turesson-point-vs-israel",
+          "label": "NARROW MARGINS IN MEXICO",
+          "story": "Sweden trailed Italy 1–0 before a ball had barely settled. Tom Turesson's 53rd-minute equalizer against Israel kept the group alive, and Ove Grahn's goal in the 90th minute beat Uruguay — but a solitary win from three games wasn't enough to escape the group."
+        },
+        {
+          "id": "umbro-airtex-debut",
+          "label": "FIRST VENTILATED SHIRT",
+          "story": "1970 marked the first time an outside manufacturer built Sweden's kit: Umbro, pioneering a lightweight, perforated fabric called Airtex designed to breathe in Mexico's heat. It replaced two decades of federation-made wool jerseys — the first real technological leap in the history of the shirt."
+        },
+        {
+          "id": "first-color-broadcast",
+          "label": "SEEN IN COLOR",
+          "story": "1970 was the first World Cup broadcast globally in color television, meaning viewers outside Sweden saw the country's blue and yellow rendered accurately, and in real time, for the first time ever. It also marked Sweden's return after missing the previous two tournaments entirely."
+        }
       ],
       "story": "An opening 1–0 loss to Italy put Sweden behind before they'd started. Tom Turesson's equalizer earned a point against Israel, and Ove Grahn's late goal beat Uruguay 1–0, but it wasn't enough to escape a tight Group 2, and Sweden went out after the first round.",
       "homeColors": "yellow shirt, blue shorts, yellow socks",
@@ -271,9 +332,21 @@
       "result": "2nd Round",
       "headline": "Edström's Golden Run",
       "annotations": [
-        { "id": "holding-cruyff-scoreless", "label": "STALLING TOTAL FOOTBALL", "story": "Sweden's opening group included the tournament's eventual runners-up, the Netherlands, playing the Total Football that dazzled the rest of 1974. Sweden held Johan Cruyff and company scoreless for 90 minutes — the only team in the entire tournament to keep them off the scoresheet." },
-        { "id": "adidas-debut-1974", "label": "THREE STRIPES ARRIVE", "story": "1974 brought Sweden's first Adidas kit: yellow shirt, blue V-neck collar, blue cuffs, and three blue stripes running down each shoulder — a template Adidas used across most of the tournament's 16 teams, including champions West Germany. It replaced Umbro after just one World Cup cycle." },
-        { "id": "pros-abroad-generation", "label": "FIRST FULLY PROFESSIONAL SQUAD", "story": "By 1974, the amateur restrictions that had barred Sweden's biggest stars in 1950 were long gone — Swedish football had fully professionalized in 1967, and this squad, with Ralf Edström playing his club football in the Netherlands, was the country's first fully open, foreign-based generation at a World Cup." }
+        {
+          "id": "holding-cruyff-scoreless",
+          "label": "STALLING TOTAL FOOTBALL",
+          "story": "Sweden's opening group included the tournament's eventual runners-up, the Netherlands, playing the Total Football that dazzled the rest of 1974. Sweden held Johan Cruyff and company scoreless for 90 minutes — the only team in the entire tournament to keep them off the scoresheet."
+        },
+        {
+          "id": "adidas-debut-1974",
+          "label": "THREE STRIPES ARRIVE",
+          "story": "1974 brought Sweden's first Adidas kit: yellow shirt, blue V-neck collar, blue cuffs, and three blue stripes running down each shoulder — a template Adidas used across most of the tournament's 16 teams, including champions West Germany. It replaced Umbro after just one World Cup cycle."
+        },
+        {
+          "id": "pros-abroad-generation",
+          "label": "FIRST FULLY PROFESSIONAL SQUAD",
+          "story": "By 1974, the amateur restrictions that had barred Sweden's biggest stars in 1950 were long gone — Swedish football had fully professionalized in 1967, and this squad, with Ralf Edström playing his club football in the Netherlands, was the country's first fully open, foreign-based generation at a World Cup."
+        }
       ],
       "story": "Ralf Edström scored four goals across the tournament, including two in a 3–0 win over Uruguay that carried Sweden through their first group unbeaten. In the second-round group, hosts West Germany survived a Swedish fightback to win 4–2, and despite beating Yugoslavia, Sweden's run ended one round short of the semi-finals.",
       "homeColors": "yellow shirt, blue shorts, yellow socks (Adidas)",
@@ -332,9 +405,21 @@
       "result": "Group Stage",
       "headline": "A Draw, Then Silence",
       "annotations": [
-        { "id": "three-one-goal-losses", "label": "DECIDED BY ONE GOAL", "story": "Every result in Sweden's group was tight: a 1–1 draw with Brazil, then 0–1 defeats to both Austria and Spain. Three matches, three one-goal margins — Sweden never lost by more than a single strike, yet still went home after the first round without a win." },
-        { "id": "adidas-1978-kit", "label": "SECOND SEASON IN STRIPES", "story": "Sweden's kit stayed with Adidas for a second straight World Cup, still yellow with blue trim and the three stripes on each shoulder. The look was barely changed from 1974 — Adidas wouldn't overhaul Sweden's template again until the following decade." },
-        { "id": "argentina-junta-backdrop", "label": "PLAYING UNDER A DICTATORSHIP", "story": "Argentina hosted under a military dictatorship two years into its rule, and several European federations debated boycotting over its human rights record. Sweden played its group games in Mar del Plata, on a pitch so rough that organizers were criticized for fielding matches on what one report called 'nearly unplayable' turf." }
+        {
+          "id": "three-one-goal-losses",
+          "label": "DECIDED BY ONE GOAL",
+          "story": "Every result in Sweden's group was tight: a 1–1 draw with Brazil, then 0–1 defeats to both Austria and Spain. Three matches, three one-goal margins — Sweden never lost by more than a single strike, yet still went home after the first round without a win."
+        },
+        {
+          "id": "adidas-1978-kit",
+          "label": "SECOND SEASON IN STRIPES",
+          "story": "Sweden's kit stayed with Adidas for a second straight World Cup, still yellow with blue trim and the three stripes on each shoulder. The look was barely changed from 1974 — Adidas wouldn't overhaul Sweden's template again until the following decade."
+        },
+        {
+          "id": "argentina-junta-backdrop",
+          "label": "PLAYING UNDER A DICTATORSHIP",
+          "story": "Argentina hosted under a military dictatorship two years into its rule, and several European federations debated boycotting over its human rights record. Sweden played its group games in Mar del Plata, on a pitch so rough that organizers were criticized for fielding matches on what one report called 'nearly unplayable' turf."
+        }
       ],
       "story": "Sjöberg's equalizer salvaged a 1–1 draw with eventual bronze medalists Brazil in the opener, but back-to-back 1–0 losses to Austria and Spain sent Sweden home without a win — a quiet World Cup that did little to build on the promise of the opening result.",
       "homeColors": "yellow shirt, blue shorts, yellow socks (Adidas)",
@@ -372,9 +457,21 @@
       "result": "Group Stage",
       "headline": "Winless in Italy",
       "annotations": [
-        { "id": "costa-rica-debut-shock", "label": "A DEBUTANT'S UPSET", "story": "Costa Rica were making their first-ever World Cup appearance in 1990, and they left with one of the tournament's biggest shocks: a win over Sweden. For the debutants it was a historic scalp; for a two-time World Cup medalist, it was the low point of a winless group stage." },
-        { "id": "adidas-long-run", "label": "THREE DECADES OF ADIDAS", "story": "Sweden's 1990 shirt continued an unbroken run with Adidas that stretched from 1974 all the way to 2002 — nearly three decades under one manufacturer, longer than any stretch before or since, spanning the team's best and worst World Cup finishes alike." },
-        { "id": "brolin-breakthrough", "label": "A TEENAGER'S CALLING CARD", "story": "No player in Sweden's 1990 squad had turned 31; this was a young, largely untested team thrown into a brutal group. Twenty-year-old Tomas Brolin, still playing in the Allsvenskan, scored against Brazil and used the tournament as a showcase — within months, Parma had signed him." }
+        {
+          "id": "costa-rica-debut-shock",
+          "label": "A DEBUTANT'S UPSET",
+          "story": "Costa Rica were making their first-ever World Cup appearance in 1990, and they left with one of the tournament's biggest shocks: a win over Sweden. For the debutants it was a historic scalp; for a two-time World Cup medalist, it was the low point of a winless group stage."
+        },
+        {
+          "id": "adidas-long-run",
+          "label": "THREE DECADES OF ADIDAS",
+          "story": "Sweden's 1990 shirt continued an unbroken run with Adidas that stretched from 1974 all the way to 2002 — nearly three decades under one manufacturer, longer than any stretch before or since, spanning the team's best and worst World Cup finishes alike."
+        },
+        {
+          "id": "brolin-breakthrough",
+          "label": "A TEENAGER'S CALLING CARD",
+          "story": "No player in Sweden's 1990 squad had turned 31; this was a young, largely untested team thrown into a brutal group. Twenty-year-old Tomas Brolin, still playing in the Allsvenskan, scored against Brazil and used the tournament as a showcase — within months, Parma had signed him."
+        }
       ],
       "story": "Tomas Brolin's strike against Brazil gave brief hope, but Sweden lost all three group games — including a shock defeat to Costa Rica — to finish without a point. It remains the low point of the team's World Cup history, a group-stage sweep with nothing to show for it.",
       "homeColors": "yellow shirt, blue shorts, yellow socks (Adidas)",
@@ -412,9 +509,21 @@
       "result": "3rd Place",
       "headline": "Andersson's Summer in the Sun",
       "annotations": [
-        { "id": "larsson-first-wc-goal", "label": "A LEGEND'S FIRST GOAL", "story": "Henrik Larsson was twenty-two and largely unknown outside Sweden when he scored in the 4–0 third-place win over Bulgaria — his first-ever World Cup goal. It was a small line in a big tournament, but it previewed two decades of a career that would define Scottish and Swedish football." },
-        { "id": "adidas-eqt-1994", "label": "A BREAK FROM CONVENTION", "story": "Adidas rebuilt Sweden's shirt for USA '94 around the brand's EQT design language — bold royal-blue stripes cutting across a vivid yellow base, with the federation crest centered high on the chest. It was a deliberate departure from the muted, functional kits of the Adidas years before it." },
-        { "id": "eu-referendum-summer", "label": "SUMMER BEFORE THE VOTE", "story": "Sweden's bronze-medal summer in the US arrived four months before the country's most consequential political vote in decades — a November 1994 referendum on joining the European Union that passed with 53 percent support. The team's late-summer feel-good run gave the country a shared high point before that debate began in earnest." }
+        {
+          "id": "larsson-first-wc-goal",
+          "label": "A LEGEND'S FIRST GOAL",
+          "story": "Henrik Larsson was twenty-two and largely unknown outside Sweden when he scored in the 4–0 third-place win over Bulgaria — his first-ever World Cup goal. It was a small line in a big tournament, but it previewed two decades of a career that would define Scottish and Swedish football."
+        },
+        {
+          "id": "adidas-eqt-1994",
+          "label": "A BREAK FROM CONVENTION",
+          "story": "Adidas rebuilt Sweden's shirt for USA '94 around the brand's EQT design language — bold royal-blue stripes cutting across a vivid yellow base, with the federation crest centered high on the chest. It was a deliberate departure from the muted, functional kits of the Adidas years before it."
+        },
+        {
+          "id": "eu-referendum-summer",
+          "label": "SUMMER BEFORE THE VOTE",
+          "story": "Sweden's bronze-medal summer in the US arrived four months before the country's most consequential political vote in decades — a November 1994 referendum on joining the European Union that passed with 53 percent support. The team's late-summer feel-good run gave the country a shared high point before that debate began in earnest."
+        }
       ],
       "story": "Kennet Andersson scored five goals across the tournament, sharing the Bronze Boot, as Sweden survived a penalty shootout over Romania before eventual champions Brazil edged them 1–0 in the semi-final. Goals from Brolin, Mild, and a young Henrik Larsson crushed Bulgaria 4–0 in the third-place match, sealing Sweden's best finish since 1958.",
       "homeColors": "yellow shirt, blue shorts, yellow socks (Adidas)",
@@ -480,9 +589,21 @@
       "result": "Round of 16",
       "headline": "Golden Goal Heartbreak",
       "annotations": [
-        { "id": "topped-group-of-death", "label": "GROUP OF DEATH WINNERS", "story": "Drawn with two former World Cup winners in England and Argentina, plus Nigeria, Sweden didn't beat either heavyweight — draws with both — but a win over Nigeria was enough. Tied on points with England, Sweden won Group F outright on goals scored, finishing above both former champions." },
-        { "id": "adidas-2002-collarless", "label": "NO COLLAR, VISIBLE UNDERSHIRT", "story": "Adidas dropped the traditional collar for Sweden's 2002 shirt, going with a simple round neck — part of a stripped-back look across the whole 2002 tournament. Mesh side panels let a contrasting compression layer show through underneath, a small technical flourish new to that generation of shirts." },
-        { "id": "dual-head-coaches", "label": "TWO MEN, ONE JOB", "story": "Sweden went into the 2002 World Cup with two head coaches sharing the job jointly — Tommy Söderberg and Lars Lagerbäck, an arrangement almost unheard of in international football. Whatever the oddity, it worked: their side topped the toughest group of the tournament." }
+        {
+          "id": "topped-group-of-death",
+          "label": "GROUP OF DEATH WINNERS",
+          "story": "Drawn with two former World Cup winners in England and Argentina, plus Nigeria, Sweden didn't beat either heavyweight — draws with both — but a win over Nigeria was enough. Tied on points with England, Sweden won Group F outright on goals scored, finishing above both former champions."
+        },
+        {
+          "id": "adidas-2002-collarless",
+          "label": "NO COLLAR, VISIBLE UNDERSHIRT",
+          "story": "Adidas dropped the traditional collar for Sweden's 2002 shirt, going with a simple round neck — part of a stripped-back look across the whole 2002 tournament. Mesh side panels let a contrasting compression layer show through underneath, a small technical flourish new to that generation of shirts."
+        },
+        {
+          "id": "dual-head-coaches",
+          "label": "TWO MEN, ONE JOB",
+          "story": "Sweden went into the 2002 World Cup with two head coaches sharing the job jointly — Tommy Söderberg and Lars Lagerbäck, an arrangement almost unheard of in international football. Whatever the oddity, it worked: their side topped the toughest group of the tournament."
+        }
       ],
       "story": "Anders Svensson's late equalizer salvaged a point against Argentina, and Henrik Larsson's brace beat Nigeria as Sweden advanced from a loaded group. Senegal ended the run in the Round of 16, snatching a golden-goal winner in extra time — one of the tournament's biggest upsets, and Sweden's earliest exit of the decade.",
       "homeColors": "yellow shirt, blue shorts, yellow socks (Adidas)",
@@ -527,9 +648,21 @@
       "result": "Round of 16",
       "headline": "Peak in the Group",
       "annotations": [
-        { "id": "first-shutout-knockout", "label": "FIRST KNOCKOUT SHUTOUT", "story": "Sweden had never been shut out in a World Cup knockout match until Germany's defense did it in the 2006 Round of 16 — a first in ten previous tournament appearances stretching back to 1934. The hosts won 2–0 in front of a Munich crowd thick with traveling Swedes." },
-        { "id": "umbro-shoulder-cross", "label": "CROSS ON THE SHOULDER", "story": "Umbro's 2006 design kept the yellow base but added a bold cross-like graphic across the shoulders and ribbed panels down each side — a departure from the plainer Adidas templates of the previous three decades, and Umbro's only World Cup as Sweden's kit maker before Adidas eventually returned." },
-        { "id": "home-away-crowd", "label": "A HOME GAME ABROAD", "story": "Playing next door, in Germany, meant Sweden's traveling support could cross the border by car or short flight rather than long-haul travel. Coordinated chants and Viking helmets became a familiar sight, and away games felt closer to home fixtures than any World Cup before." }
+        {
+          "id": "first-shutout-knockout",
+          "label": "FIRST KNOCKOUT SHUTOUT",
+          "story": "Sweden had never been shut out in a World Cup knockout match until Germany's defense did it in the 2006 Round of 16 — a first in ten previous tournament appearances stretching back to 1934. The hosts won 2–0 in front of a Munich crowd thick with traveling Swedes."
+        },
+        {
+          "id": "umbro-shoulder-cross",
+          "label": "CROSS ON THE SHOULDER",
+          "story": "Umbro's 2006 design kept the yellow base but added a bold cross-like graphic across the shoulders and ribbed panels down each side — a departure from the plainer Adidas templates of the previous three decades, and Umbro's only World Cup as Sweden's kit maker before Adidas eventually returned."
+        },
+        {
+          "id": "home-away-crowd",
+          "label": "A HOME GAME ABROAD",
+          "story": "Playing next door, in Germany, meant Sweden's traveling support could cross the border by car or short flight rather than long-haul travel. Coordinated chants and Viking helmets became a familiar sight, and away games felt closer to home fixtures than any World Cup before."
+        }
       ],
       "story": "Freddie Ljungberg's goal beat Paraguay, and a spirited 2–2 draw with England kept Sweden in contention, but the group stage proved to be the peak. Hosts Germany eliminated them 2–0 in the Round of 16, a fourth straight World Cup ending without reaching the quarter-finals.",
       "homeColors": "yellow shirt, blue shorts, yellow socks (Umbro)",
@@ -574,9 +707,21 @@
       "result": "Quarter-final",
       "headline": "Forsberg's Strike, Then England",
       "annotations": [
-        { "id": "first-knockout-win-since-94", "label": "FIRST WIN SINCE '94", "story": "Emil Forsberg's 66th-minute strike past Switzerland wasn't just a quarter-final ticket — it was Sweden's first World Cup knockout victory in twenty-four years, since the run to the 1994 semi-final. A generation of Swedish fans had never seen the team win a match that mattered this much." },
-        { "id": "sverige-collar-graphic", "label": "'SVERIGE' ON THE COLLAR", "story": "Adidas's 2018 home shirt leaned on nostalgia: tonal diagonal stripes echoing the shirt from the late 1980s and early '90s, a woven crest on the chest, and the word 'Sverige' heat-pressed just below the back of the collar — a quiet, specific detail unique to that jersey." },
-        { "id": "without-zlatan", "label": "SUCCESS WITHOUT THEIR STAR", "story": "Zlatan Ibrahimović, Sweden's all-time leading scorer, had retired from international football after Euro 2016 and stayed retired despite speculation he'd return. Sweden reached the quarter-final anyway — their best World Cup finish since 1994 — built on a collective unit rather than one dominant personality." }
+        {
+          "id": "first-knockout-win-since-94",
+          "label": "FIRST WIN SINCE '94",
+          "story": "Emil Forsberg's 66th-minute strike past Switzerland wasn't just a quarter-final ticket — it was Sweden's first World Cup knockout victory in twenty-four years, since the run to the 1994 semi-final. A generation of Swedish fans had never seen the team win a match that mattered this much."
+        },
+        {
+          "id": "sverige-collar-graphic",
+          "label": "'SVERIGE' ON THE COLLAR",
+          "story": "Adidas's 2018 home shirt leaned on nostalgia: tonal diagonal stripes echoing the shirt from the late 1980s and early '90s, a woven crest on the chest, and the word 'Sverige' heat-pressed just below the back of the collar — a quiet, specific detail unique to that jersey."
+        },
+        {
+          "id": "without-zlatan",
+          "label": "SUCCESS WITHOUT THEIR STAR",
+          "story": "Zlatan Ibrahimović, Sweden's all-time leading scorer, had retired from international football after Euro 2016 and stayed retired despite speculation he'd return. Sweden reached the quarter-final anyway — their best World Cup finish since 1994 — built on a collective unit rather than one dominant personality."
+        }
       ],
       "story": "Emil Forsberg's second-half strike beat Switzerland in the Round of 16, sending Sweden to their first World Cup quarter-final since 1994. Ola Toivonen's outrageous chip had rattled Germany in the group stage, and wins over South Korea and Mexico carried the run — until England ended it 2–0 in the quarter-final.",
       "homeColors": "yellow shirt, blue shorts, yellow socks (Adidas)",
@@ -621,6 +766,65 @@
           "score": "0–2",
           "result": "L",
           "scorers": null
+        }
+      ]
+    },
+    "2026": {
+      "result": "Round of 32",
+      "headline": "Wild Group Stage, Swift Exit",
+      "homeColors": "yellow shirt with blue shoulder panels and tonal floral graphic, blue shorts, blue and yellow striped socks",
+      "awayColors": "royal blue shirt with wavy chain-link graphic and pale gold trim",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
+      "story": "Sweden's group stage swung wildly: a 5–1 rout of Tunisia, a 5–1 battering by the Netherlands, and a 1–1 draw with Japan that was still enough to sneak through. Kylian Mbappé ended the run in the round of 32, scoring twice as France won 3–0 in New Jersey.",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Tunisia",
+          "score": "5–1",
+          "result": "W",
+          "scorers": "Ayari 7', Isak 30', Gyökeres 59', Svanberg 84', Ayari 90'+6'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "1–5",
+          "result": "L",
+          "scorers": "Elanga 59'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Japan",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Elanga 62'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "France",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "annotations": [
+        {
+          "id": "mbappe-ends-the-run",
+          "label": "THE KEY MOMENT",
+          "story": "Kylian Mbappé needed only a first-half header and a second-half poacher's finish to end Sweden's tournament in the round of 32, doubling his own tally to six goals in New Jersey. Bradley Barcola added a third before halftime, and a Sweden side that had scored five against Tunisia managed nothing back, bowing out 3–0."
+        },
+        {
+          "id": "abba-inspired-kit",
+          "label": "THE KIT",
+          "story": "Adidas built Sweden's home shirt around a tribute to ABBA and 1970s Sweden, embossing daisy motifs and vinyl-record-style graphics into a yellow base with blue shoulder panels. The away kit went moodier: royal blue with a wavy, chain-link pattern rippling top to bottom and a pale-gold trim borrowed from the same disco-era mood board."
+        },
+        {
+          "id": "potters-fresh-start",
+          "label": "THE CONTEXT",
+          "story": "Graham Potter took over in October 2025 after Sweden finished bottom of their UEFA qualifying group, sneaking into the playoffs only on Nations League standing and needing a Viktor Gyökeres hat-trick to see off Ukraine. The rebuild carried Sweden back to the World Cup for the first time since 2018, ending an eight-year absence before France ended the run."
         }
       ]
     }

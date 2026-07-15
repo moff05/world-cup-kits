@@ -11,16 +11,17 @@
     2010,
     2014,
     2018,
-    2022
+    2022,
+    2026
   ],
   "bestResult": "Third place (1966)",
   "stats": {
-    "matches": 35,
-    "wins": 17,
-    "draws": 6,
-    "losses": 12,
-    "goalsFor": 61,
-    "goalsAgainst": 41
+    "matches": 40,
+    "wins": 19,
+    "draws": 8,
+    "losses": 13,
+    "goalsFor": 69,
+    "goalsAgainst": 44
   },
   "facts": [
     {
@@ -525,6 +526,72 @@
           "score": "0–1",
           "result": "L",
           "scorers": null
+        }
+      ]
+    },
+    "2026": {
+      "result": "Round of 16",
+      "headline": "Ronaldo's Sixth, And Last",
+      "homeColors": "deep red shirt with wave-inspired texture and green trim, red shorts, green socks",
+      "awayColors": "aquamarine shirt with white V-shaped graphic panels",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
+      "story": "Cristiano Ronaldo became the first man to score in six different World Cups, converting a penalty against Croatia in the round of 32. Portugal advanced from Group K behind Colombia, edged past Croatia in a stoppage-time thriller, then Spain's Mikel Merino ended the run — and Ronaldo's international career — with a stoppage-time winner in the round of 16.",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "DR Congo",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Neves 5'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uzbekistan",
+          "score": "5–0",
+          "result": "W",
+          "scorers": "Ronaldo 6', Mendes 17', Ronaldo 39', Nematov OG 60', Leão 87'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Colombia",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Croatia",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Ronaldo 68' (pen), Ramos 90+4'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Spain",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "annotations": [
+        {
+          "id": "merino-stoppage-winner",
+          "label": "THE KEY MOMENT",
+          "story": "Cristiano Ronaldo had just leveled from the penalty spot against Croatia three days earlier, buying his career one more match. Mikel Merino ended it for good, stepping off Spain's bench to lash in a stoppage-time winner in Dallas that sent Portugal home 0–1 and left Ronaldo, at 41, walking off a World Cup pitch for the final time."
+        },
+        {
+          "id": "puma-takeover",
+          "label": "THE KIT",
+          "story": "After decades in Nike, Portugal switched suppliers for 2026, debuting a deep-red Puma home shirt textured to evoke Atlantic waves, with green trim nodding to the flag. The away kit went further, an aquamarine number cut with sharp white V-shapes across the chest that Puma marketed as 'superhero-inspired' — a design built to sell as much as to play in."
+        },
+        {
+          "id": "ronaldo-record-six",
+          "label": "THE CONTEXT",
+          "story": "At 41, Ronaldo became the first man to score in six different World Cups, converting a penalty against Croatia to do it — one more record in a career full of them. He'd already called this his last World Cup before Spain ended it, closing a run that started at 19 in Germany 2006 and finished, fittingly, in tears."
         }
       ]
     }

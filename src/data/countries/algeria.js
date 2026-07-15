@@ -7,16 +7,17 @@ export const algeria = {
     1982,
     1986,
     2010,
-    2014
+    2014,
+    2026
   ],
   "bestResult": "Round of 16 (2014)",
   "stats": {
-    "matches": 13,
-    "wins": 3,
-    "draws": 3,
-    "losses": 7,
-    "goalsFor": 13,
-    "goalsAgainst": 19
+    "matches": 17,
+    "wins": 4,
+    "draws": 4,
+    "losses": 9,
+    "goalsFor": 18,
+    "goalsAgainst": 28
   },
   "facts": [
     {
@@ -253,6 +254,68 @@ export const algeria = {
               "id": "no-more-fennec-2014",
               "label": "THE FOX DISAPPEARS",
               "story": "Puma stripped away the fennec fox motif for 2014, trading the animal print for a clean white shirt striped by a green sash and cuffs pulled straight from the national flag. Some fans missed the fox — but on the pitch, this shirt outperformed every previous Algerian kit, reaching the round of 16 for the first time."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Round of 32",
+      "headline": "Scraping Through, Falling Short",
+      "homeColors": "cream shirt with golden desert-dune textured stripes, rounded neckline with red trim, green shoulder stripes, national flag crest (Adidas)",
+      "awayColors": "green shirt with dark green sleeves, white logos and red trim, dark green shorts and socks (Adidas)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Argentina",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Jordan",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Benbouali 69', Gouiri 82'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Austria",
+          "score": "3–3",
+          "result": "D",
+          "scorers": "Belghali 41', Mahrez 60', Mahrez 90'+3'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Switzerland",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/ALGvAUS.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "Algeria vs Austria, Group Stage — CC BY-SA 4.0 / Wikimedia Commons (Omaha1109)"
+          },
+          "annotations": [
+            {
+              "id": "mahrez-stoppage-equalizer",
+              "label": "THE KEY MOMENT",
+              "story": "Trailing Austria 3–2 deep into stoppage time, Riyad Mahrez curled in his second goal of the match in the 90th+3rd minute to salvage a 3–3 draw. The point proved decisive: it carried Algeria through to the knockout stage as one of the tournament's best third-placed teams, ahead of several group runners-up."
+            },
+            {
+              "id": "desert-dune-flag-crest",
+              "label": "THE KIT",
+              "story": "Adidas built the 2026 home shirt around the sand dunes and rock formations of the Sahara, layering golden textured stripes over a chalk-white base with a red-trimmed collar and green shoulder detailing. For the first time since 2018 qualifying, Algeria wore the national flag as its crest instead of the football federation's badge."
+            },
+            {
+              "id": "petkovic-former-team",
+              "label": "THE CONTEXT",
+              "story": "Algeria's coach, Vladimir Petkovic, had managed Switzerland for seven years before taking charge of Les Fennecs — and it was his former team that ended Algeria's tournament in the round of 32. The Swiss beat him 2–0 in Vancouver, a result that came full circle for the well-traveled Bosnian-Swiss coach."
             }
           ]
         }

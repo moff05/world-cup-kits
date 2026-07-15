@@ -11,16 +11,17 @@ export const scotland = {
     1982,
     1986,
     1990,
-    1998
+    1998,
+    2026
   ],
   "bestResult": "Group Stage (8 appearances, never past the first round)",
   "stats": {
-    "matches": 23,
-    "wins": 4,
+    "matches": 26,
+    "wins": 5,
     "draws": 7,
-    "losses": 12,
-    "goalsFor": 25,
-    "goalsAgainst": 41
+    "losses": 14,
+    "goalsFor": 26,
+    "goalsAgainst": 45
   },
   "facts": [
     {
@@ -463,6 +464,61 @@ export const scotland = {
               "id": "the-long-wait-begins",
               "label": "TWENTY-EIGHT YEARS AWAY",
               "story": "Nobody inside the Stade de France in June 1998 could have guessed how far away Scotland's next World Cup appearance really was. Every previous disappointment — 1978's hubris, 1990's near misses — had always been followed by qualification again within a cycle or two; this time the wait stretched across a generation of players who grew up never having seen their country at a finals."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Group Stage",
+      "headline": "McGinn Ends The Long Wait",
+      "homeColors": "navy shirt with embossed Saltire pattern, navy shorts, navy socks",
+      "awayColors": "salmon-scarlet shirt with purple pinstripes and a purple-and-white V-neck collar",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Haiti",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "McGinn 28'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Morocco",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Brazil",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "mcginn-ends-the-drought",
+              "label": "THE KEY MOMENT",
+              "story": "John McGinn's deflected 28th-minute strike beat Haiti in Foxborough and did something no Scotland side had managed in 36 years: win a World Cup match. The Tartan Army's last victory at the finals came against Sweden in 1990, and the release inside Gillette Stadium said as much about history as it did about three points."
+            },
+            {
+              "id": "saltire-and-scarlet",
+              "label": "THE KIT",
+              "story": "Adidas dressed Scotland in deep navy for 2026, the shirt embossed with Saltire crosses and thickened three stripes across the shoulders, a retro touch the SFA called 'the best worst-kept secret' after leaks spread for months. The change strip dug deeper into history, reviving a scarlet-and-purple pattern last worn by the national team in the 1980s."
+            },
+            {
+              "id": "clarkes-third-tournament",
+              "label": "THE CONTEXT",
+              "story": "Steve Clarke's side ended a 28-year absence from the finals, Scotland's first World Cup since France 1998, and set up camp in Charlotte, North Carolina, training at Charlotte FC's 52,000-square-foot performance facility. A third-place finish behind Brazil and Morocco meant elimination, but reaching North America at all marked Clarke's third straight major tournament in charge."
             }
           ]
         }

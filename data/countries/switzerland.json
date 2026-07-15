@@ -15,16 +15,17 @@
     2010,
     2014,
     2018,
-    2022
+    2022,
+    2026
   ],
   "bestResult": "Quarter-finalists (1934, 1938, 1954)",
   "stats": {
-    "matches": 41,
-    "wins": 14,
-    "draws": 8,
-    "losses": 19,
-    "goalsFor": 55,
-    "goalsAgainst": 73
+    "matches": 47,
+    "wins": 17,
+    "draws": 10,
+    "losses": 20,
+    "goalsFor": 65,
+    "goalsAgainst": 79
   },
   "facts": [
     {
@@ -550,6 +551,79 @@
           "score": "1–6",
           "result": "L",
           "scorers": "Akanji 57'"
+        }
+      ]
+    },
+    "2026": {
+      "result": "Quarter-final",
+      "headline": "History Repeats, Then Ends",
+      "story": "Switzerland won Group B unbeaten, survived Colombia on penalties, then matched their best-ever finish from the 1954 home tournament. Dan Ndoye's second-half goal dragged them level with Argentina in the quarter-final, but Breel Embolo's red card tipped the balance, and Julián Álvarez's extra-time strike sent the Swiss home.",
+      "homeColors": "red shirt with white topographic swirl print (Swiss passport-inspired), white shorts, red socks (Puma)",
+      "awayColors": "light blue shirt with navy topographic Alps-pattern print, white shorts, white socks (Puma)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/2026_FIFA_World_Cup_Match_26%2C_Switzerland_v_Bosnia_and_Herzegovina.jpg",
+      "imageCredit": {
+        "player": null,
+        "game": "Switzerland vs Bosnia and Herzegovina, Group Stage — CC0 / Wikimedia Commons"
+      },
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Qatar",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Embolo 17' (pen)"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "score": "4–1",
+          "result": "W",
+          "scorers": "Manzambi 74', Vargas 84', Manzambi 90', Xhaka 90'+7' (pen)"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Canada",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Vargas 46', Manzambi 57'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Algeria",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Embolo 10', Ndoye 46'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Colombia",
+          "score": "0–0 (4–3 pens)",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Argentina",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Ndoye 67'"
+        }
+      ],
+      "annotations": [
+        {
+          "id": "ndoye-embolo-swing",
+          "label": "THE KEY MOMENT",
+          "story": "Dan Ndoye's 67th-minute strike leveled the quarter-final against Argentina, but Breel Embolo's second yellow card minutes later left Switzerland defending a man down for nearly an hour. They held out through 90 and the first extra period, until Julián Álvarez's long-range strike broke the resistance in the 112th minute."
+        },
+        {
+          "id": "passport-print-kit",
+          "label": "THE KIT",
+          "story": "Puma built the 2026 home shirt around the Swiss passport's information page, printing swirling, topographic lines across a red base to evoke maps, borders, and terrain. The design echoes the 2018 home kit's contour graphics, while the away shirt reimagines the passport's visa page in light blue and navy, with an embossed Alps motif."
+        },
+        {
+          "id": "matching-1954-away",
+          "label": "THE CONTEXT",
+          "story": "Switzerland last reached a World Cup quarter-final in 1954, as hosts, in front of their own crowd. Seventy-two years later, Murat Yakin's side matched that finish thousands of miles from home, topping a group that included 2022 hosts Qatar before their penalty-shootout win over Colombia carried them into the last eight."
         }
       ]
     }
