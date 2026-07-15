@@ -4,16 +4,17 @@
   "flagCode": "cd",
   "confederation": "CAF",
   "worldCups": [
-    1974
+    1974,
+    2026
   ],
-  "bestResult": "Group Stage (1 appearance)",
+  "bestResult": "Round of 32 (2026)",
   "stats": {
-    "matches": 3,
-    "wins": 0,
-    "draws": 0,
-    "losses": 3,
-    "goalsFor": 0,
-    "goalsAgainst": 14
+    "matches": 7,
+    "wins": 1,
+    "draws": 1,
+    "losses": 5,
+    "goalsFor": 5,
+    "goalsAgainst": 19
   },
   "facts": [
     {
@@ -76,6 +77,64 @@
           "score": "0–3",
           "result": "L",
           "scorers": null
+        }
+      ]
+    },
+    "2026": {
+      "result": "Round of 32",
+      "headline": "Leopards End 52-Year Exile",
+      "homeColors": "bright light blue shirt with a tone-on-tone leopard-print texture, red trim on collar and cuffs, light blue shorts and socks (Umbro)",
+      "awayColors": "white shirt with a blue geometric diamond pattern and bright blue accent panels, white shorts and socks (Umbro)",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Portugal",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Wissa 45+5'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Colombia",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uzbekistan",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Wissa 68' (pen.), Mayele 78', Wissa 90+1'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "England",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Cipenga 7'"
+        }
+      ],
+      "annotations": [
+        {
+          "id": "wissa-breaks-the-drought",
+          "label": "THE KEY MOMENT",
+          "story": "Fifty-two years after Mwepu Ilunga's rebellion in West Germany, Yoane Wissa dragged the Leopards back into World Cup history. His 45+5th-minute strike salvaged a 1–1 draw against Cristiano Ronaldo's Portugal — DR Congo's first-ever World Cup goal, and the opening note of an improbable run to the knockout stage."
+        },
+        {
+          "id": "leopard-print-umbro-debut",
+          "label": "THE KIT",
+          "story": "Umbro dressed the Leopards for the first time in light blue laced with a tone-on-tone leopard-print texture fading across the lower body, red trim lifted straight from the Congolese flag stitched into the collar and cuffs — a literal read of a nickname the team had carried for five decades."
+        },
+        {
+          "id": "playoff-marathon-to-north-america",
+          "label": "THE CONTEXT",
+          "story": "Reaching North America took a gauntlet: a 1–0 semi-final win over Cameroon, a penalty shootout over Nigeria, then extra time against Jamaica in the intercontinental playoff final on March 31. It ended a 52-year exile dating to 1974's Zaire side — the longest wait of any team in the 48-nation field."
         }
       ]
     }

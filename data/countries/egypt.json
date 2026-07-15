@@ -6,16 +6,17 @@
   "worldCups": [
     1934,
     1990,
-    2018
+    2018,
+    2026
   ],
   "bestResult": "Round of 16 (1934)",
   "stats": {
-    "matches": 7,
-    "wins": 0,
-    "draws": 2,
-    "losses": 5,
-    "goalsFor": 5,
-    "goalsAgainst": 12
+    "matches": 12,
+    "wins": 1,
+    "draws": 5,
+    "losses": 6,
+    "goalsFor": 13,
+    "goalsAgainst": 19
   },
   "facts": [
     {
@@ -166,6 +167,71 @@
           "score": "1–2",
           "result": "L",
           "scorers": "Salah 22'"
+        }
+      ]
+    },
+    "2026": {
+      "result": "Round of 16",
+      "headline": "The 92-Year Wait Ends",
+      "homeColors": "red shirt fading to deeper tones across the chest, angular hieroglyphic-inspired geometric pattern, black and gold accents, black shorts (Puma)",
+      "awayColors": "white and feather-grey shirt with a subtle pyramid-inspired geometric pattern, black collar and shoulder detailing, white shorts and socks (Puma)",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Ashour 19'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "New Zealand",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Zico 58', Salah 67', Trezeguet 82'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Iran",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Saber 5'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Australia",
+          "score": "1–1 (4–2 pens)",
+          "result": "D",
+          "scorers": "Ashour 13'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Argentina",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Ibrahim 15', Zico 67'"
+        }
+      ],
+      "annotations": [
+        {
+          "id": "ashour-double-duty",
+          "label": "THE KEY MOMENT",
+          "story": "Emam Ashour supplied both moments that defined Egypt's tournament: a rasping opener against Belgium, then a header that dragged Egypt level with Australia in the Round of 32. Mohamed Salah, at his fourth World Cup, calmly chipped the winning penalty down the middle to deliver Egypt's first-ever knockout win, 92 years after their debut."
+        },
+        {
+          "id": "hieroglyphics-and-hope",
+          "label": "THE KIT",
+          "story": "Puma built Egypt's red home shirt around 'Ancient Power, Modern Ambition' — angular patterns pulling from hieroglyphic carvings and the pulse of modern Cairo, fading through deeper reds across the chest with black-and-gold trim. The away kit flipped to white and feather grey, the same pyramid motifs rendered in a quieter register."
+        },
+        {
+          "id": "92-year-wait-ends",
+          "label": "THE CONTEXT",
+          "story": "Egypt had never won a World Cup match in six previous appearances stretching back to 1934. Mohamed Salah's 67th-minute strike against New Zealand finally broke that 92-year curse, and coach Hossam Hassan — Egypt's all-time leading scorer as a player — guided the Pharaohs to their first knockout stage before Argentina ended the run."
         }
       ]
     }

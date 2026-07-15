@@ -7,16 +7,17 @@ export const ghana = {
     2006,
     2010,
     2014,
-    2022
+    2022,
+    2026
   ],
   "bestResult": "Quarter-finalists (2010)",
   "stats": {
-    "matches": 15,
-    "wins": 5,
-    "draws": 3,
-    "losses": 7,
-    "goalsFor": 18,
-    "goalsAgainst": 23
+    "matches": 19,
+    "wins": 6,
+    "draws": 4,
+    "losses": 9,
+    "goalsFor": 20,
+    "goalsAgainst": 26
   },
   "facts": [
     {
@@ -267,6 +268,68 @@ export const ghana = {
               "id": "williams-brothers-divide",
               "label": "BROTHERS, DIFFERENT SHIRTS",
               "story": "Athletic Bilbao winger Iñaki Williams switched allegiance from Spain to Ghana just months before the tournament, qualifying through his father's birthplace of Accra. His younger brother Nico stayed with Spain — two siblings raised in the same house arrived in Qatar wearing different countries' crests, though the draw kept their teams apart."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Round of 32",
+      "headline": "Yirenkyi's Injury-Time Heroics",
+      "homeColors": "white shirt with a red, gold and green Kente-inspired geometric pattern, Black Star at the chest (Puma)",
+      "awayColors": "'Gold Coast' yellow shirt with a tonal Kente-weave geometric pattern, green side panels, red collar trim (Puma)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Panama",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Yirenkyi 90+5'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Croatia",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Luckassen 73'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Colombia",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "yirenkyi-buzzer-beater",
+              "label": "THE KEY MOMENT",
+              "story": "Deep into stoppage time against Panama, Brandon Thomas-Asante's cross found substitute Caleb Yirenkyi, who tapped in at 94:04 — the latest goal in Ghana's World Cup history, surpassing Asamoah Gyan's dramatic 2010 winner over the USA. It proved the difference in a chaotic Group L opener the Black Stars nearly threw away."
+            },
+            {
+              "id": "kente-weave-returns",
+              "label": "THE KIT",
+              "story": "Puma leaned back into the Kente-cloth language that made Ghana's 2014 shirt a fan favorite, wrapping a white home kit in red, gold and green geometric weaving around the Black Star crest. The gold away shirt pushed further, rendering the same Kente patterns in tonal 'Gold Coast' yellow with green side panels."
+            },
+            {
+              "id": "queiroz-holds-england",
+              "label": "THE CONTEXT",
+              "story": "Carlos Queiroz, in his first major tournament as Ghana coach, engineered a goalless stalemate against tournament favorites England before Colombia's Jhon Arias ended the run in the Round of 32. It was Ghana's best World Cup finish since the heartbreak of 2010 — progress, but still short of matching that quarter-final high."
             }
           ]
         }
