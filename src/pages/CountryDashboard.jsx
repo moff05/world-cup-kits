@@ -17,7 +17,7 @@ const OPPONENT_FLAGS = {
   "Greece": "gr", "Scotland": "gb-sct", "Wales": "gb-wls",
   "Republic of Ireland": "ie", "Northern Ireland": "gb-nir",
   "Czech Republic": "cz", "Slovakia": "sk", "Slovenia": "si",
-  "Ukraine": "ua", "Bosnia & Herzegovina": "ba", "Bosnia": "ba",
+  "Ukraine": "ua", "Bosnia & Herzegovina": "ba", "Bosnia and Herzegovina": "ba", "Bosnia": "ba",
   "Iceland": "is", "North Macedonia": "mk", "Albania": "al",
   "Russia": "ru", "Finland": "fi", "Georgia": "ge",
   // UEFA — historical
