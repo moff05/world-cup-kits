@@ -221,6 +221,68 @@ export const senegal = {
           ]
         }
       }
+    },
+    "2026": {
+      "result": "Round of 32",
+      "headline": "Best Third-Place Survivors",
+      "homeColors": "white shirt with a pale multicolor all-over graphic inspired by Dakar's Car Rapide minibuses, green collar and side panels, white shorts, white socks (Puma)",
+      "awayColors": "Wild Green shirt with a dark tonal kaleidoscopic pattern down the center, red sleeve inserts, yellow collar, green shorts, green socks (Puma)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Mbaye 90+5'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Norway",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Sarr 53', 90+3'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Iraq",
+          "score": "5–0",
+          "result": "W",
+          "scorers": "Diarra 4', Sarr 56', Gueye 59', 71', Ndiaye 82'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Belgium",
+          "score": "2–3",
+          "result": "L",
+          "scorers": "Diarra 25', Sarr 51'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "belgium-collapse",
+              "label": "THE KEY MOMENT",
+              "story": "Senegal led Belgium 2-0 with five minutes left in the Round of 32, one defensive stand from a first knockout win since 2002. Then it unraveled: Romelu Lukaku pulled one back in the 86th minute, Youri Tielemans leveled three minutes later, and the same Tielemans converted a 125th-minute penalty to complete the collapse in extra time."
+            },
+            {
+              "id": "car-rapide-kit",
+              "label": "THE KIT",
+              "story": "Puma's 2026 home shirt trades a clean crest-and-stripes look for a pale, hand-painted-style graphic lifted straight off Dakar's Car Rapide minibuses — the retired French postal vans repainted in riotous color and slogans that still ferry most of the capital around. Green trim at the collar and side panels is the only nod to a more conventional Senegal shirt."
+            },
+            {
+              "id": "48-team-lifeline",
+              "label": "THE CONTEXT",
+              "story": "Senegal's group-stage math would have eliminated them at any earlier World Cup: three points from one win and two defeats, among the lowest totals ever to reach a knockout round. It worked only because 2026 was the first 48-team edition, handing four extra lifelines to the best third-place finishers — a rule Senegal needed to survive."
+            }
+          ]
+        }
+      }
     }
   }
 };
