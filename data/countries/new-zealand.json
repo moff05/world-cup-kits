@@ -5,16 +5,17 @@
   "confederation": "OFC",
   "worldCups": [
     1982,
-    2010
+    2010,
+    2026
   ],
-  "bestResult": "Group Stage (2 appearances)",
+  "bestResult": "Group Stage (3 appearances)",
   "stats": {
-    "matches": 6,
+    "matches": 9,
     "wins": 0,
-    "draws": 3,
-    "losses": 3,
-    "goalsFor": 4,
-    "goalsAgainst": 14
+    "draws": 4,
+    "losses": 5,
+    "goalsFor": 8,
+    "goalsAgainst": 24
   },
   "facts": [
     {
@@ -133,6 +134,57 @@
           "score": "0–0",
           "result": "D",
           "scorers": null
+        }
+      ]
+    },
+    "2026": {
+      "result": "Group Stage",
+      "headline": "All Whites Go All Black",
+      "homeColors": "black shirt with an all-over silver fern graphic, white crest, and white PUMA logo (PUMA)",
+      "awayColors": "white shirt with a pale swirling pattern inspired by Ngā Hau e Whā (the four winds), black crest and side panels (PUMA)",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Iran",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Just 7', Just 55'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Egypt",
+          "score": "1–3",
+          "result": "L",
+          "scorers": "Surman 15'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "1–5",
+          "result": "L",
+          "scorers": "Just 84'"
+        }
+      ],
+      "annotations": [
+        {
+          "id": "just-rescues-a-point",
+          "label": "THE KEY MOMENT",
+          "story": "Elijah Just scored twice against Iran, both times combining with veteran captain Chris Wood, to become the first-ever Motherwell player to find the net at a men's World Cup. His second goal, ten minutes into the second half, salvaged a 2-2 draw — the All Whites' only point of a tough Group G campaign."
+        },
+        {
+          "id": "black-not-white",
+          "label": "THE KIT",
+          "story": "For the first time since the nickname was born in 1982, the All Whites didn't wear white at home. PUMA's 2026 kit went all black, wrapped in an oversized silver fern print, with the away shirt flipping to white with a swirling pattern inspired by Ngā Hau e Whā, the four winds of Māori tradition."
+        },
+        {
+          "id": "wood-and-smith-make-history",
+          "label": "THE CONTEXT",
+          "story": "Chris Wood and Tommy Smith, both part of New Zealand's unbeaten 2010 squad in South Africa, returned sixteen years later as the only players in the country's history to appear at two World Cups. Wood, at 34, captained a squad where half the group had passed 25 caps — a rare case of experience outweighing youth for an Oceania side."
         }
       ]
     }
