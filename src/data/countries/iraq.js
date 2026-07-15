@@ -4,16 +4,17 @@ export const iraq = {
   "flagCode": "iq",
   "confederation": "AFC",
   "worldCups": [
-    1986
+    1986,
+    2026
   ],
-  "bestResult": "Group Stage (1986)",
+  "bestResult": "Group Stage (2 appearances)",
   "stats": {
-    "matches": 3,
+    "matches": 6,
     "wins": 0,
     "draws": 0,
-    "losses": 3,
-    "goalsFor": 1,
-    "goalsAgainst": 4
+    "losses": 6,
+    "goalsFor": 2,
+    "goalsAgainst": 16
   },
   "facts": [
     {
@@ -78,6 +79,61 @@ export const iraq = {
               "id": "a-brazilian-in-charge",
               "label": "A BRAZILIAN IN CHARGE",
               "story": "Iraq's World Cup debut was steered by Evaristo de Macedo, a Brazilian who'd managed his own national team just a year earlier, now drilling Iraqi players into a disciplined defensive shape. He built the side while the Iran-Iraq War ground into its sixth year back home — and decades later, Iraq still hasn't returned to a World Cup."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Group Stage",
+      "headline": "Forty Years, Same Result",
+      "homeColors": "white shirt with interlocking diamonds and circular motifs inspired by the mosaics of Uruk, red-white-black-navy trim on collar and cuffs (Jako)",
+      "awayColors": "deep green shirt repeating the Uruk mosaic pattern in a darker tonal register (Jako)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Norway",
+          "score": "1–4",
+          "result": "L",
+          "scorers": "Hussein 39'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "France",
+          "score": "0–3",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Senegal",
+          "score": "0–5",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "haaland-debut-double",
+              "label": "THE KEY MOMENT",
+              "story": "In Boston, Erling Haaland scored twice on his World Cup debut to sink Iraq's opener, doubling Norway's lead before halftime. Aymen Hussein pulled one back in the 39th minute, briefly making it 2–1, but a late own goal sealed a 4–1 defeat that set the tone for a winless return to the tournament."
+            },
+            {
+              "id": "jako-uruk-mosaics",
+              "label": "THE KIT",
+              "story": "German manufacturer Jako built Iraq's white home shirt around interlocking diamonds and circular motifs lifted from the ancient mosaics of Uruk, the Mesopotamian city credited as the birthplace of writing. Collar and cuff stripes carried the flag's red, white, black and navy, while a deep green away kit repeated the pattern in a darker register."
+            },
+            {
+              "id": "forty-year-wait-ends",
+              "label": "THE CONTEXT",
+              "story": "Iraq's return came forty years after its only previous appearance, sealed with a 2–1 play-off win over Bolivia in Monterrey — the same country that hosted their 1986 debut. Ali al-Hamadi and Aymen Hussein scored the goals that ended the country's longest active World Cup drought and sent the Lions of Mesopotamia back to the tournament."
             }
           ]
         }

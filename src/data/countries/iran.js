@@ -9,16 +9,17 @@ export const iran = {
     2006,
     2014,
     2018,
-    2022
+    2022,
+    2026
   ],
-  "bestResult": "Group Stage (6 appearances)",
+  "bestResult": "Group Stage (7 appearances)",
   "stats": {
-    "matches": 18,
+    "matches": 21,
     "wins": 3,
-    "draws": 4,
+    "draws": 7,
     "losses": 11,
-    "goalsFor": 13,
-    "goalsAgainst": 31
+    "goalsFor": 16,
+    "goalsAgainst": 34
   },
   "facts": [
     {
@@ -358,6 +359,61 @@ export const iran = {
               "id": "majid-domestic-kit",
               "label": "MADE IN IRAN",
               "story": "For the first time, an Iranian company supplied the World Cup kit: Majid, a domestic sportswear manufacturer, produced the Qatar 2022 shirts after years of foreign brands growing wary of sanctions-related complications. The design carried tonal cheetah-spot patterning on the sleeves, a quiet callback to the endangered-species motif introduced in 2014."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Group Stage",
+      "headline": "Unbeaten, Yet Eliminated",
+      "homeColors": "white shirt with a tonal Asiatic cheetah pattern on the sleeves, red-white-green flag trim on the cuffs (Majid)",
+      "awayColors": "red shirt with a darker tonal cheetah pattern, white Majid branding (Majid)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "New Zealand",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Rezaeian 32', Mohebbi 64'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Belgium",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Egypt",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Rezaeian 14'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "khalilzadeh-var-overturn",
+              "label": "THE KEY MOMENT",
+              "story": "Deep into stoppage time against Egypt, with Iran needing a win to have any real shot at advancing, defender Shoja Khalilzadeh beat goalkeeper Mohamed El Shenawy from close range in the 93rd minute. VAR chalked it off for offside. The 1–1 draw held, and Iran's tournament — three matches, three draws, zero losses — still ended in the group stage."
+            },
+            {
+              "id": "majid-cheetah-returns",
+              "label": "THE KIT",
+              "story": "Majid, the domestic manufacturer that first dressed Team Melli in 2022, returned with a white home shirt carrying a tonal Asiatic cheetah pattern on the sleeves and the flag's red-white-green trim on the cuffs. The away kit flipped the palette to red, deepening the cheetah graphic — the same endangered-species motif Iran has used across four straight tournaments."
+            },
+            {
+              "id": "seattle-pride-match-objection",
+              "label": "THE CONTEXT",
+              "story": "Iran's meeting with Egypt in Seattle was designated a 'Pride Match' by the city's local organizing committee, tying the fixture to Seattle Pride without FIFA's endorsement. Both federations objected: Iran's Mehdi Taj called the branding an 'irrational move,' and Egypt's association wrote to FIFA rejecting any LGBTQ association with the game — two countries where homosexuality remains criminalized."
             }
           ]
         }

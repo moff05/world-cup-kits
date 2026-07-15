@@ -9,16 +9,17 @@
     2010,
     2014,
     2018,
-    2022
+    2022,
+    2026
   ],
   "bestResult": "Round of 16 (2 appearances)",
   "stats": {
-    "matches": 20,
-    "wins": 4,
-    "draws": 4,
-    "losses": 12,
-    "goalsFor": 17,
-    "goalsAgainst": 37
+    "matches": 24,
+    "wins": 5,
+    "draws": 6,
+    "losses": 13,
+    "goalsFor": 20,
+    "goalsAgainst": 40
   },
   "facts": [
     {
@@ -350,6 +351,64 @@
           "score": "1–2",
           "result": "L",
           "scorers": "Enzo Fernández OG 77'"
+        }
+      ]
+    },
+    "2026": {
+      "result": "Round of 32",
+      "headline": "Penalty Shootout Heartbreak",
+      "homeColors": "gold shirt with dark green trim reviving the 2006 Total 90 look, gradient green shorts (Nike)",
+      "awayColors": "coral-to-teal gradient shirt evoking an Australian sunrise, with a lenticular federation crest (Nike)",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Turkey",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Irankunda 27', Metcalfe 75'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "United States",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Paraguay",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Egypt",
+          "score": "1–1 (2–4 pens)",
+          "result": "D",
+          "scorers": "Hany OG 55'"
+        }
+      ],
+      "annotations": [
+        {
+          "id": "beach-for-ryan-shootout-gamble",
+          "label": "THE KEY MOMENT",
+          "story": "With the shootout looming, Tony Popovic sent on backup keeper Mat Ryan for Patrick Beach with barely ninety seconds left in extra time against Egypt. Harry Souttar skied the first attempt, Lucas Herrington rattled the crossbar, and Egypt converted all four penalties — Australia's first-ever World Cup shootout defeat, ending a promising run in Dallas."
+        },
+        {
+          "id": "total-90-revival",
+          "label": "THE KIT",
+          "story": "Nike deliberately revived the 2006 'Total 90' silhouette for the Socceroos' home shirt, pairing traditional gold and green with gradient shorts fading light to dark. The away kit broke tradition entirely: a coral-to-teal gradient meant to evoke an Australian sunrise, with a lenticular federation crest that shifted with the light."
+        },
+        {
+          "id": "irankunda-refugee-camp-to-goalscorer",
+          "label": "THE CONTEXT",
+          "story": "Twenty-year-old Nestory Irankunda, born in a Tanzanian refugee camp to Burundian parents who resettled in Adelaide, scored the winner against Türkiye in his first World Cup start. His goal, on a squad drawing from Iranian, Croatian and Sudanese backgrounds, underscored how thoroughly immigration has reshaped the Socceroos since their amateur 1974 debut."
         }
       ]
     }
