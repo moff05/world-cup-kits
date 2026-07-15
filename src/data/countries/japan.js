@@ -447,6 +447,68 @@ export const japan = {
           ]
         }
       }
+    },
+    "2026": {
+      "result": "Round of 32",
+      "headline": "Ueda's Brace, Brazil Heartbreak",
+      "homeColors": "blue shirt with light-blue wave-graphic pattern converging at the crest, flag stitched inside the neck, blue shorts, blue socks (Adidas)",
+      "awayColors": "off-white shirt with twelve-color pinstripe pattern and central red stripe, white shorts, white socks (Adidas)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Netherlands",
+          "score": "2–2",
+          "result": "D",
+          "scorers": "Nakamura 57', Kamada 89'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Tunisia",
+          "score": "4–0",
+          "result": "W",
+          "scorers": "Kamada 4', Ueda 31', Ito 69', Ueda 83'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Sweden",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Maeda 56'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Brazil",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Sano 29'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": null,
+          "imageCredit": {
+            "player": null,
+            "game": null
+          },
+          "annotations": [
+            {
+              "id": "martinelli-stoppage-heartbreak",
+              "label": "THE KEY MOMENT",
+              "story": "Kaishu Sano's 29th-minute strike had Japan ahead of Brazil in the Round of 32 until Casemiro headed in an equalizer after the break. The match looked headed for extra time until Gabriel Martinelli curled home a stoppage-time winner in the 96th minute, ending Japan's run one round short of its best-ever finish."
+            },
+            {
+              "id": "twelve-stripes-one-family",
+              "label": "THE KIT",
+              "story": "Adidas kept the home shirt in Japan's traditional blue, its wave-like graphic converging on the crest with a small national flag stitched inside the neck. The away kit broke tradition entirely: an off-white shirt striped in twelve colors, eleven representing the players on the pitch and a central red stripe for the fans behind them."
+            },
+            {
+              "id": "the-1000th-world-cup-match",
+              "label": "THE CONTEXT",
+              "story": "Japan's 4–0 rout of Tunisia in Monterrey carried extra weight beyond the scoreline — FIFA marked it as the 1,000th match in World Cup history. Ayase Ueda's brace also made Japan the first AFC nation ever to score four goals in a single World Cup fixture."
+            }
+          ]
+        }
+      }
     }
   }
 };
