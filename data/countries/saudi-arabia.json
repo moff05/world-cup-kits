@@ -346,6 +346,57 @@
           "scorers": "Al-Dawsari 90+5'"
         }
       ]
+    },
+    "2026": {
+      "result": "Group Stage",
+      "headline": "A Winless Group Stage Exit",
+      "annotations": [
+        {
+          "id": "al-amri-strike-then-araujo-answers",
+          "label": "THE KEY MOMENT",
+          "story": "Abdulelah Al-Amri's 41st-minute strike put Saudi Arabia ahead of Uruguay in Miami and had the Green Falcons ten minutes from another famous World Cup shock, before Maximiliano Araujo's 80th-minute equalizer salvaged a draw. It proved the campaign's high point — a 4–0 loss to Spain and a scoreless draw with Cape Verde followed, leaving Saudi Arabia bottom of Group H."
+        },
+        {
+          "id": "doorways-and-lavender-fields",
+          "label": "THE KIT",
+          "story": "Adidas built the 2026 home shirt around a layered geometric print inspired by Saudi Arabia's ornate architectural doorways, rendered in deep green with purple and lavender-field accents beneath white shoulder stripes. The away kit flipped to white with gold branding and green-gold collar trim, its jacquard texture drawn from Saudi fashion rather than the flag."
+        },
+        {
+          "id": "misehal-resigns",
+          "label": "THE CONTEXT",
+          "story": "Federation president Yasser al-Misehal, seven years in charge and a key architect of Saudi Arabia's successful bid to host the 2034 World Cup, resigned days after the group-stage exit, apologizing for a result that \"falls short of all our ambitions.\" It capped a tournament that also cost coach Herve Renard his job months earlier."
+        }
+      ],
+      "homeColors": "deep green shirt with purple and lavender geometric doorway-pattern print, white shoulder stripes, green shorts, green socks (Adidas)",
+      "awayColors": "white shirt with gold branding, gold shoulder stripes and green-gold collar trim, white shorts, white socks (Adidas)",
+      "image": null,
+      "imageCredit": {
+        "player": null,
+        "game": null
+      },
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "1–1",
+          "result": "D",
+          "scorers": "Al-Amri 41'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Spain",
+          "score": "0–4",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Cape Verde",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        }
+      ]
     }
   }
 }
