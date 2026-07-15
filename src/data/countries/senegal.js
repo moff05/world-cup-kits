@@ -6,16 +6,17 @@ export const senegal = {
   "worldCups": [
     2002,
     2018,
-    2022
+    2022,
+    2026
   ],
   "bestResult": "Quarter-finalists (2002)",
   "stats": {
-    "matches": 12,
-    "wins": 5,
+    "matches": 16,
+    "wins": 6,
     "draws": 3,
-    "losses": 4,
-    "goalsFor": 16,
-    "goalsAgainst": 17
+    "losses": 7,
+    "goalsFor": 26,
+    "goalsAgainst": 26
   },
   "facts": [
     {
