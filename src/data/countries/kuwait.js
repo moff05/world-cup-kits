@@ -43,17 +43,17 @@ export const kuwait = {
         },
         {
           "round": "Group Stage",
-          "opponent": "England",
-          "score": "0–1",
-          "result": "L",
-          "scorers": null
-        },
-        {
-          "round": "Group Stage",
           "opponent": "France",
           "score": "1–4",
           "result": "L",
           "scorers": "Al-Buloushi 75'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "England",
+          "score": "0–1",
+          "result": "L",
+          "scorers": null
         }
       ],
       "kits": {
