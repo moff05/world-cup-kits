@@ -19,16 +19,17 @@ export const england = {
     2010,
     2014,
     2018,
-    2022
+    2022,
+    2026
   ],
   "bestResult": "World Champions (1966)",
   "stats": {
-    "matches": 74,
-    "wins": 32,
-    "draws": 22,
-    "losses": 20,
-    "goalsFor": 104,
-    "goalsAgainst": 68
+    "matches": 82,
+    "wins": 38,
+    "draws": 23,
+    "losses": 21,
+    "goalsFor": 124,
+    "goalsAgainst": 80
   },
   "facts": [
     {
@@ -1100,6 +1101,96 @@ export const england = {
               "id": "the-armband-that-never-went-on",
               "label": "THE ARMBAND THAT NEVER WENT ON",
               "story": "England had planned for Harry Kane to wear a rainbow 'OneLove' armband supporting LGBTQ+ inclusion, but FIFA threatened an immediate yellow card for any captain who wore it. Kane backed down and wore a bland 'No Discrimination' band instead, a retreat criticized at home."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "3rd Place",
+      "headline": "Saka's Hat-Trick Seals Bronze",
+      "homeColors": "White base with Speed Red side panels and Obsidian navy trim, gold star above the crest marking 1966 (Nike, Aero-FIT)",
+      "awayColors": "Speed Red base with Obsidian navy and white accents, tonal jacquard lion-and-star pattern (Nike)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Croatia",
+          "score": "4–2",
+          "result": "W",
+          "scorers": "Kane 12' (pen), Kane 42', Bellingham 47', Rashford 85'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Ghana",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Panama",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Bellingham 62', Kane 67'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "DR Congo",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Kane 75', 86'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Mexico",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Bellingham 36', 38', Kane 60' (pen)"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Norway",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Bellingham 45+2', 90+3'"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Argentina",
+          "score": "1–2",
+          "result": "L",
+          "scorers": "Gordon 55'"
+        },
+        {
+          "round": "3rd Place",
+          "opponent": "France",
+          "score": "6–4",
+          "result": "W",
+          "scorers": "Rice 3', Konsa 18', Saka 37', Saka 45+1', Saka 87' (pen), Bellingham 90+8'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": "https://commons.wikimedia.org/wiki/File:Team_England_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_01.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "England v Ghana, Group Stage, Boston Stadium, 23 June 2026 — CC BY-SA 4.0 / Wikimedia Commons (photo: YantsImages)"
+          },
+          "annotations": [
+            {
+              "id": "saka-hat-trick-bronze-thriller",
+              "label": "THE KEY MOMENT",
+              "story": "Four up by half-time, Miami sweating through the rest: Bukayo Saka scored either side of the break, then buried a stoppage-time penalty to complete his hat-trick as France and Mbappé clawed back three. Ten goals, one held nerve, the wildest ninety minutes England have played in a generation."
+            },
+            {
+              "id": "nike-2026-home-kit",
+              "label": "THE KIT",
+              "story": "Nike stripped it back to basics for the 2026 shirt: crisp white front, Speed Red slicing down the sides, Obsidian navy at the collar, and a metallic gold star stitched above the Three Lions for 1966. Fold the collar down and 'Happy and Glorious' is printed inside, a quiet line before ninety loud minutes."
+            },
+            {
+              "id": "best-finish-since-1966",
+              "label": "THE CONTEXT",
+              "story": "Thomas Tuchel's first tournament delivered England's best World Cup finish since they lifted the trophy in 1966 — six wins, one draw, a gut-punch semi-final collapse against Argentina, and bronze earned the hard way in a Miami shootout. Bellingham, Saka and Kane carried a golden generation into the history books at last."
             }
           ]
         }
