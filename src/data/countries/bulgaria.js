@@ -317,7 +317,7 @@ export const bulgaria = {
       }
     },
     "1994": {
-      "result": "4th Place",
+      "result": "Round of 16",
       "headline": "Golden Generation's Historic Run",
       "homeColors": "white shirt with green diagonal side stripes, green shorts, red trim (Adidas)",
       "awayColors": "red shirt (Adidas)",
