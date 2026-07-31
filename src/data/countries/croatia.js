@@ -35,7 +35,7 @@ export const croatia = {
   ],
   "kits": {
     "1998": {
-      "result": "3rd Place",
+      "result": "Round of 16",
       "headline": "The Debutants' Bronze Miracle",
       "homeColors": "red-and-white checkerboard shirt (šahovnica pattern), white shorts, blue socks (Lotto)",
       "awayColors": null,
