@@ -100,7 +100,7 @@ export const england = {
       }
     },
     "1954": {
-      "result": "Quarter-final",
+      "result": "Group Stage",
       "headline": "Undone by Defending Champions",
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": null,
@@ -217,7 +217,7 @@ export const england = {
       }
     },
     "1962": {
-      "result": "Quarter-final",
+      "result": "Group Stage",
       "headline": "Brazil Ends Winterbottom's Reign",
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": null,
@@ -355,7 +355,7 @@ export const england = {
       }
     },
     "1970": {
-      "result": "Quarter-final",
+      "result": "Group Stage",
       "headline": "Bonetti In, Beckenbauer's Revenge",
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": null,
@@ -486,7 +486,7 @@ export const england = {
       }
     },
     "1986": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Maradona's Hand and Genius",
       "homeColors": "white shirt with grey pinstripe trim, navy blue shorts, white socks",
       "awayColors": "red shirt, white shorts",
@@ -555,7 +555,7 @@ export const england = {
       }
     },
     "1990": {
-      "result": "4th Place",
+      "result": "Round of 16",
       "headline": "Gazza's Tears, Penalty Heartbreak",
       "homeColors": "white shirt with shadow pinstripe pattern, navy blue shorts, white socks",
       "awayColors": "red shirt, white shorts",
@@ -700,7 +700,7 @@ export const england = {
       }
     },
     "2002": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Beckham's Redemption, Brazil's Revenge",
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": "red shirt, navy blue shorts",
@@ -769,7 +769,7 @@ export const england = {
       }
     },
     "2006": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Rooney's Red Card, Ricardo's Saves",
       "homeColors": "white shirt, navy blue shorts, white socks",
       "awayColors": "red shirt, white shorts",
@@ -955,7 +955,7 @@ export const england = {
       }
     },
     "2018": {
-      "result": "4th Place",
+      "result": "Round of 16",
       "headline": "Kane's Golden Boot Run",
       "homeColors": "white shirt with red trim, navy blue shorts, white socks",
       "awayColors": "red shirt, white shorts, red socks",
