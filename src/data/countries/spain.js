@@ -19,16 +19,17 @@ export const spain = {
     2010,
     2014,
     2018,
-    2022
+    2022,
+    2026
   ],
-  "bestResult": "World Champions (2010)",
+  "bestResult": "2× World Champions",
   "stats": {
-    "matches": 67,
-    "wins": 31,
-    "draws": 17,
+    "matches": 75,
+    "wins": 38,
+    "draws": 18,
     "losses": 19,
-    "goalsFor": 108,
-    "goalsAgainst": 75
+    "goalsFor": 122,
+    "goalsAgainst": 76
   },
   "facts": [
     {
@@ -1051,6 +1052,96 @@ export const spain = {
               "id": "the-manager-who-went-live",
               "label": "THE MANAGER WHO WENT LIVE",
               "story": "Luis Enrique spent the tournament fielding fan questions live on his own Twitch channel, sometimes for over an hour after training, calling it a way to talk to supporters 'with no filters.' Spain's football establishment called it undignified for a national coach; younger fans made it must-watch television anyway."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "Champions",
+      "headline": "La Roja Reign Again",
+      "homeColors": "Deep red body with dark navy raglan sleeves, red-yellow-red Adidas Three Stripes on the shoulders, thin repeating yellow pinstripes inspired by the Spanish flag and crest, navy shorts and socks, 'ESPAÑA' printed on the back of the neck",
+      "awayColors": "Off-white base with an all-over pyrite/gold-toned spiral pattern inspired by Spanish literary manuscripts, gold and burgundy detailing on sleeves and collar, 'ESPAÑA' with the distinctive 'Ñ' on the back of the collar",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Cape Verde",
+          "score": "0–0",
+          "result": "D",
+          "scorers": null
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "score": "4–0",
+          "result": "W",
+          "scorers": "Yamal 10', Oyarzabal 21', Oyarzabal 24', Al-Tambakti OG 49'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Uruguay",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Baena 42'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Austria",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Oyarzabal 36', Porro 66', Oyarzabal 89'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Portugal",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Merino 90+1'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Belgium",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Fabián Ruiz 30', Merino 88'"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "France",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Oyarzabal 22' (pen), Porro 58'"
+        },
+        {
+          "round": "Final",
+          "opponent": "Argentina",
+          "score": "1–0 (aet)",
+          "result": "W",
+          "scorers": "Ferran Torres 106'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": "https://commons.wikimedia.org/wiki/File:Spain_World_Cup_Winners_Argentina_v_Spain_19_July_2026-1.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "Spain celebrate winning the 2026 FIFA World Cup Final vs Argentina, July 19 2026 — CC BY-SA 4.0 / Wikimedia Commons (photo: Bryan Berlin)"
+          },
+          "annotations": [
+            {
+              "id": "ferran-torres-extra-time-winner",
+              "label": "THE KEY MOMENT",
+              "story": "Extra time, MetLife Stadium, Messi's last World Cup dance dying in front of him. Ferran Torres, on as a sub, met a low cross and buried it in the 106th minute. Argentina had no answer. Spain had suffocated them all night — one goal was all they needed."
+            },
+            {
+              "id": "the-crest-and-the-crimson",
+              "label": "THE KIT",
+              "story": "Adidas draped Spain in a deep red shirt striped with hairline gold pinstripes and navy raglan sleeves — flag and crest folded into the fabric. 'ESPAÑA' sat quietly on the neck. Simple, sharp, built to be photographed lifting a trophy."
+            },
+            {
+              "id": "second-star-first-of-yamals",
+              "label": "THE CONTEXT",
+              "story": "Sixteen years after 2010, Spain became two-time champions — and this time the face of it was eighteen-year-old Lamine Yamal, scoring in the group stage and terrorizing defenses all tournament. De la Fuente's side didn't just win it, they suffocated everyone in their path."
             }
           ]
         }
