@@ -49,7 +49,7 @@ export const germany = {
   ],
   "kits": {
     "1934": {
-      "result": "3rd Place",
+      "result": "Round of 16",
       "headline": "First Try, Third Place",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
@@ -108,7 +108,7 @@ export const germany = {
       }
     },
     "1938": {
-      "result": "Group Stage",
+      "result": "Round of 16",
       "headline": "Gone in the Replay",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
@@ -229,7 +229,7 @@ export const germany = {
       }
     },
     "1958": {
-      "result": "4th Place",
+      "result": "Group Stage",
       "headline": "Fontaine Ends the Defense",
       "homeColors": "white shirt, black shorts, white socks (Leuzela)",
       "awayColors": "green shirt, white shorts",
@@ -302,7 +302,7 @@ export const germany = {
       }
     },
     "1962": {
-      "result": "Quarter-final",
+      "result": "Group Stage",
       "headline": "Stopped Cold by Yugoslavia",
       "homeColors": "white shirt, black shorts, white socks (Leuzela)",
       "awayColors": "green shirt, white shorts",
@@ -434,7 +434,7 @@ export const germany = {
       }
     },
     "1970": {
-      "result": "3rd Place",
+      "result": "Group Stage",
       "headline": "The Game of the Century",
       "homeColors": "white shirt, black shorts, white socks (Umbro)",
       "awayColors": "green shirt, white shorts",
@@ -903,7 +903,7 @@ export const germany = {
       }
     },
     "1994": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Klinsmann's Diving Celebration",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": "green shirt, white shorts",
@@ -969,7 +969,7 @@ export const germany = {
       }
     },
     "1998": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Croatia's Shock Upset",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": "green and black shirt",
@@ -1115,7 +1115,7 @@ export const germany = {
       }
     },
     "2006": {
-      "result": "3rd Place",
+      "result": "Round of 16",
       "headline": "Summer Fairy Tale at Home",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": "red shirt, black shorts (introduced 2005, unused at the tournament)",
@@ -1195,7 +1195,7 @@ export const germany = {
       }
     },
     "2010": {
-      "result": "3rd Place",
+      "result": "Round of 16",
       "headline": "Young Guns Score Twice",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": "black shirt, worn with the home kit's black shorts at the tournament",
