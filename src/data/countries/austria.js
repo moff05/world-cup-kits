@@ -36,7 +36,7 @@ export const austria = {
   ],
   "kits": {
     "1934": {
-      "result": "4th Place",
+      "result": "Round of 16",
       "headline": "The Wunderteam Falls Short",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
@@ -98,7 +98,7 @@ export const austria = {
       }
     },
     "1954": {
-      "result": "3rd Place",
+      "result": "Group Stage",
       "headline": "Twelve Goals, Bronze Glory",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
