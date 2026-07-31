@@ -37,7 +37,7 @@ export const portugal = {
   ],
   "kits": {
     "1966": {
-      "result": "3rd Place",
+      "result": "Group Stage",
       "headline": "Eusébio's Four-Goal Miracle",
       "homeColors": "red shirt, green shorts",
       "awayColors": null,
@@ -223,7 +223,7 @@ export const portugal = {
       }
     },
     "2006": {
-      "result": "4th Place",
+      "result": "Round of 16",
       "headline": "Penalties, Then Fourth Place",
       "homeColors": "red shirt, green shorts",
       "awayColors": null,
