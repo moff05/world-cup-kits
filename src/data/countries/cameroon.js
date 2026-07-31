@@ -91,7 +91,7 @@ export const cameroon = {
       }
     },
     "1990": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Milla's Dance, Argentina Stunned",
       "homeColors": "green shirt, red shorts, yellow socks",
       "awayColors": null,
