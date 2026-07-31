@@ -45,7 +45,7 @@ export const spain = {
   ],
   "kits": {
     "1934": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Zamora's Injury, Italy's Escape",
       "homeColors": "red shirt, blue shorts, black socks",
       "awayColors": null,
@@ -100,7 +100,7 @@ export const spain = {
       }
     },
     "1950": {
-      "result": "4th Place",
+      "result": "Group Stage",
       "headline": "Zarra's Header Shocks England",
       "homeColors": "red shirt, blue shorts, black socks",
       "awayColors": null,
@@ -410,7 +410,7 @@ export const spain = {
       }
     },
     "1986": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Butragueño's Four-Goal Night",
       "homeColors": "red shirt, blue shorts, black socks (Le Coq Sportif)",
       "awayColors": null,
@@ -541,7 +541,7 @@ export const spain = {
       }
     },
     "1994": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "The Elbow Referee Never Saw",
       "homeColors": "red shirt, blue shorts, socks shifting from black to blue (Adidas)",
       "awayColors": null,
@@ -665,7 +665,7 @@ export const spain = {
       }
     },
     "2002": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Two Goals Wiped Off in Korea",
       "homeColors": "red shirt, navy shorts, blue socks (Adidas)",
       "awayColors": null,
