@@ -105,7 +105,7 @@ export const uruguay = {
       }
     },
     "1950": {
-      "result": "Champions",
+      "result": "Group Stage",
       "headline": "Silencing The Maracanã",
       "homeColors": "light blue (celeste) shirt, black shorts, black socks",
       "awayColors": null,
@@ -167,7 +167,7 @@ export const uruguay = {
       }
     },
     "1954": {
-      "result": "4th Place",
+      "result": "Group Stage",
       "headline": "The Unbeaten Run Ends",
       "homeColors": "light blue (celeste) shirt, black shorts, black socks",
       "awayColors": null,
@@ -291,7 +291,7 @@ export const uruguay = {
       }
     },
     "1966": {
-      "result": "Quarter-final",
+      "result": "Group Stage",
       "headline": "Nine Men, Wembley Injustice",
       "homeColors": "light blue (celeste) shirt, black shorts, black socks",
       "awayColors": null,
@@ -353,7 +353,7 @@ export const uruguay = {
       }
     },
     "1970": {
-      "result": "4th Place",
+      "result": "Group Stage",
       "headline": "The Disputed Ghost Goal",
       "homeColors": "light blue (celeste) shirt, black shorts, black socks",
       "awayColors": null,
@@ -663,7 +663,7 @@ export const uruguay = {
       }
     },
     "2010": {
-      "result": "4th Place",
+      "result": "Round of 16",
       "headline": "Suárez's Handball Saves Them",
       "homeColors": "light blue (celeste) shirt, black shorts, black socks",
       "awayColors": null,
@@ -808,7 +808,7 @@ export const uruguay = {
       }
     },
     "2018": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Cavani's Double, France Ends It",
       "homeColors": "light blue (celeste) shirt, black shorts, black socks, four gold stars on crest",
       "awayColors": null,
