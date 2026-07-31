@@ -41,7 +41,7 @@ export const serbia = {
   ],
   "kits": {
     "1930": {
-      "result": "4th Place",
+      "result": "Group Stage",
       "headline": "Teenagers Topple Brazil",
       "homeColors": "dark blue shirt, white shorts, red socks",
       "awayColors": null,
@@ -151,7 +151,7 @@ export const serbia = {
       }
     },
     "1954": {
-      "result": "Quarter-final",
+      "result": "Group Stage",
       "headline": "Halted By The Miracle Men",
       "homeColors": "dark blue shirt, white shorts, red socks",
       "awayColors": null,
@@ -206,7 +206,7 @@ export const serbia = {
       }
     },
     "1958": {
-      "result": "Quarter-final",
+      "result": "Group Stage",
       "headline": "Petaković Can't Break Germany",
       "homeColors": "dark blue shirt, white shorts, red socks",
       "awayColors": null,
@@ -268,7 +268,7 @@ export const serbia = {
       }
     },
     "1962": {
-      "result": "4th Place",
+      "result": "Group Stage",
       "headline": "Jerković's Golden Boot Run",
       "homeColors": "dark blue shirt, white shorts, red socks",
       "awayColors": null,
@@ -475,7 +475,7 @@ export const serbia = {
       }
     },
     "1990": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Stojković Stuns Spain",
       "homeColors": "dark blue shirt, white shorts, red socks",
       "awayColors": null,
