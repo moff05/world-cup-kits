@@ -141,7 +141,7 @@ export const france = {
       }
     },
     "1938": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Hosts Fall to Defending Champions",
       "homeColors": "blue shirt, white shorts, home-tournament ceremony kit (FFF issue)",
       "awayColors": null,
@@ -237,7 +237,7 @@ export const france = {
       }
     },
     "1958": {
-      "result": "3rd Place",
+      "result": "Group Stage",
       "headline": "Fontaine's Record 13 Goals",
       "homeColors": "blue shirt, white shorts, red socks (Le Coq Sportif)",
       "awayColors": null,
@@ -423,7 +423,7 @@ export const france = {
       }
     },
     "1982": {
-      "result": "4th Place",
+      "result": "2nd Round",
       "headline": "Seville's Unforgettable Heartbreak",
       "homeColors": "blue shirt with white and red pinstripes, white shorts (Le Coq Sportif)",
       "awayColors": null,
@@ -506,7 +506,7 @@ export const france = {
       }
     },
     "1986": {
-      "result": "3rd Place",
+      "result": "Round of 16",
       "headline": "Platini's Penalty Redemption vs Brazil",
       "homeColors": "blue shirt, white shorts, red socks (Adidas, first tournament under the new kit deal)",
       "awayColors": null,
@@ -865,7 +865,7 @@ export const france = {
       }
     },
     "2014": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Steady Run Ends in Rio",
       "homeColors": "dark navy shirt with white collar, white shorts (Nike)",
       "awayColors": "white shirt with subtle horizontal stripes and a three-button collar (Nike)",
