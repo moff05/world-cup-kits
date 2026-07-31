@@ -41,7 +41,7 @@
   ],
   "kits": {
     "1930": {
-      "result": "4th Place",
+      "result": "Group Stage",
       "headline": "Teenagers Topple Brazil",
       "story": "Yugoslavia's squad, the youngest at the inaugural tournament with an average age near 22, opened with a stunning 2–1 win over Brazil in Montevideo behind goals from Aleksandar Tirnanić and Ivan Bek. A 4–0 win over Bolivia followed. Host Uruguay ended the run 6–1 in the semi-final, but Uruguayan fans had already nicknamed them 'Los Ichachos.'",
       "annotations": [
@@ -101,7 +101,7 @@
           "id": "ten-men-in-rio",
           "label": "TEN MEN IN RIO",
           "story": "Captain Rajko Mitić gashed his head on a low iron beam leaving the tunnel before kickoff against Brazil and had to be stitched up pitchside. The referee refused to delay kickoff, so Yugoslavia played the opening minutes with ten men and never fully recovered, losing 2–0."
-          },
+        },
         {
           "id": "the-colors-that-survived",
           "label": "THE COLORS THAT SURVIVED",
@@ -145,7 +145,7 @@
       ]
     },
     "1954": {
-      "result": "Quarter-final",
+      "result": "Group Stage",
       "headline": "Halted By The Miracle Men",
       "story": "Miloš Milutinović's goal beat France, and Branko Zebec's equalizer salvaged a 1–1 draw with Brazil to send Yugoslavia into the quarter-finals in Switzerland. West Germany, riding the momentum that would carry them to the 'Miracle of Bern,' shut Yugoslavia out 2–0 and ended their run.",
       "annotations": [
@@ -197,7 +197,7 @@
       ]
     },
     "1958": {
-      "result": "Quarter-final",
+      "result": "Group Stage",
       "headline": "Petaković Can't Break Germany",
       "story": "Aleksandar Petaković scored in three straight matches as Yugoslavia scraped through a tricky group with Scotland, France, and Paraguay. West Germany's defense proved the difference in the quarter-final, though, with Yugoslavia falling 1–0 despite a spirited showing in Sweden.",
       "annotations": [
@@ -256,7 +256,7 @@
       ]
     },
     "1962": {
-      "result": "4th Place",
+      "result": "Group Stage",
       "headline": "Jerković's Golden Boot Run",
       "story": "Dražan Jerković's four goals carried Yugoslavia past Uruguay and Colombia, then Milan Radaković's strike shocked West Germany 1–0 in the quarter-final in Chile. Czechoslovakia ended the run in the semi-final, and a weary Yugoslavia lost the third-place match to the hosts, settling for fourth again.",
       "annotations": [
@@ -454,7 +454,7 @@
       ]
     },
     "1990": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Stojković Stuns Spain",
       "story": "Dragan Stojković scored twice to beat Spain 2–1 in extra time in the Round of 16, sending Yugoslavia into a quarter-final showdown with Diego Maradona's Argentina. Neither side scored through 120 minutes in Florence, and Argentina survived the shootout 3–2, ending one of Yugoslavia's best modern runs.",
       "annotations": [

@@ -41,12 +41,24 @@
   ],
   "kits": {
     "1934": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Kielholz's Double Debut",
       "annotations": [
-        { "id": "jaggi-late-strike", "label": "JÄGGI'S LATE STRIKE", "story": "Down 1–3 in the quarter-final against Czechoslovakia's eventual runners-up, Fritz Jäggi's 78th-minute strike pulled the score to 2–3 — but time ran out. In 1934's pure knockout format, with no group stage and no cushion for a bad day, that near-comeback was the difference between the semi-final and going home." },
-        { "id": "red-wool-no-sponsor", "label": "NO LOGOS, JUST RED", "story": "The shirt at Switzerland's first World Cup carried no sponsor and no manufacturer mark — just plain red wool with a small Swiss-cross crest over the heart, standard dress for 1930s international football. White shorts and red socks completed a look barely different from the kit the team wears nine decades later." },
-        { "id": "fascist-italy-backdrop", "label": "A TOURNAMENT UNDER MUSSOLINI", "story": "The Swiss arrived at their first-ever World Cup in Benito Mussolini's Italy, a tournament stage-managed by the fascist regime to project national strength — hosts Italy lifted the trophy amid persistent, still-debated claims of political pressure on referees. Switzerland's part in it was innocent: newcomers, thrilled just to have qualified." }
+        {
+          "id": "jaggi-late-strike",
+          "label": "JÄGGI'S LATE STRIKE",
+          "story": "Down 1–3 in the quarter-final against Czechoslovakia's eventual runners-up, Fritz Jäggi's 78th-minute strike pulled the score to 2–3 — but time ran out. In 1934's pure knockout format, with no group stage and no cushion for a bad day, that near-comeback was the difference between the semi-final and going home."
+        },
+        {
+          "id": "red-wool-no-sponsor",
+          "label": "NO LOGOS, JUST RED",
+          "story": "The shirt at Switzerland's first World Cup carried no sponsor and no manufacturer mark — just plain red wool with a small Swiss-cross crest over the heart, standard dress for 1930s international football. White shorts and red socks completed a look barely different from the kit the team wears nine decades later."
+        },
+        {
+          "id": "fascist-italy-backdrop",
+          "label": "A TOURNAMENT UNDER MUSSOLINI",
+          "story": "The Swiss arrived at their first-ever World Cup in Benito Mussolini's Italy, a tournament stage-managed by the fascist regime to project national strength — hosts Italy lifted the trophy amid persistent, still-debated claims of political pressure on referees. Switzerland's part in it was innocent: newcomers, thrilled just to have qualified."
+        }
       ],
       "story": "Leopold Kielholz scored twice as Switzerland beat the Netherlands 3–2 in Milan for their first-ever World Cup win. Four days later, in the tournament's single-elimination format, Czechoslovakia's eventual runners-up edged them 3–2 in the quarter-final despite goals from Kielholz and Jäggi, ending a promising debut just one round short.",
       "homeColors": "red shirt, white shorts, red socks",
@@ -74,12 +86,24 @@
       ]
     },
     "1938": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "A Replay, Then a Wall",
       "annotations": [
-        { "id": "aeby-ten-men", "label": "TEN MEN, STILL WON", "story": "Georges Aeby went down injured minutes into the Germany replay, leaving Switzerland to play most of the first half a man short — and Germany raced to a 2–0 lead. Aeby returned for the second half, and the Swiss tore back to win 4–2, one of the great World Cup comebacks of the pre-war era." },
-        { "id": "two-games-one-kit", "label": "SAME SHIRT, FIVE DAYS", "story": "The same unbranded red shirt, white shorts, and red socks did double duty for both the draw and the replay against Germany — two full matches within five days, a scheduling quirk unique to the pre-penalty-shootout era, when a deadlock simply meant playing the whole 90 minutes over again." },
-        { "id": "austria-absorbed-into-germany", "label": "PLAYING A POLITICAL SQUAD", "story": "Three months before the tournament, Nazi Germany's annexation of Austria dissolved one of Europe's best teams and folded a handful of its players into the German squad Switzerland faced — a forced, awkward merger that never gelled. The Swiss exploited the disunity, holding Germany to a draw before winning the replay outright." }
+        {
+          "id": "aeby-ten-men",
+          "label": "TEN MEN, STILL WON",
+          "story": "Georges Aeby went down injured minutes into the Germany replay, leaving Switzerland to play most of the first half a man short — and Germany raced to a 2–0 lead. Aeby returned for the second half, and the Swiss tore back to win 4–2, one of the great World Cup comebacks of the pre-war era."
+        },
+        {
+          "id": "two-games-one-kit",
+          "label": "SAME SHIRT, FIVE DAYS",
+          "story": "The same unbranded red shirt, white shorts, and red socks did double duty for both the draw and the replay against Germany — two full matches within five days, a scheduling quirk unique to the pre-penalty-shootout era, when a deadlock simply meant playing the whole 90 minutes over again."
+        },
+        {
+          "id": "austria-absorbed-into-germany",
+          "label": "PLAYING A POLITICAL SQUAD",
+          "story": "Three months before the tournament, Nazi Germany's annexation of Austria dissolved one of Europe's best teams and folded a handful of its players into the German squad Switzerland faced — a forced, awkward merger that never gelled. The Swiss exploited the disunity, holding Germany to a draw before winning the replay outright."
+        }
       ],
       "story": "André Abegglen's stoppage-time equalizer forced a replay after a 1–1 draw with Germany, and Switzerland won it 4–2 two days later behind two more Abegglen goals. Hungary, on their way to the final, shut the run down 2–0 in the quarter-final — Switzerland's second straight exit at that stage.",
       "homeColors": "red shirt, white shorts, red socks",
@@ -117,9 +141,21 @@
       "result": "Group Stage",
       "headline": "One Win in Brazil",
       "annotations": [
-        { "id": "fatton-late-equalizer", "label": "FATTON'S LATE EQUALIZER", "story": "Trailing Brazil, Jacky Fatton scored twice, the second arriving in the 88th minute to snatch a 2–2 draw from the brink of defeat. It was the closest Switzerland came to real success in Brazil — one win, one draw, one rout, and an early flight home." },
-        { "id": "coin-toss-for-red", "label": "COIN FLIP FOR RED", "story": "Both Switzerland and Mexico showed up for their final group match owning only red kits, forcing organizers to settle it with a coin toss. Mexico won the flip — and then waived the right, letting the Swiss keep their red shirts while the Mexicans borrowed an alternate strip for the day." },
-        { "id": "first-cup-since-the-war", "label": "FIRST POSTWAR WORLD CUP", "story": "This was the first World Cup in twelve years — the 1942 and 1946 editions wiped out by the Second World War — and one of the first postwar tournaments played across an entire ocean. Switzerland's squad crossed the Atlantic into a Brazil still building the Maracanã, the largest stadium the sport had ever seen." }
+        {
+          "id": "fatton-late-equalizer",
+          "label": "FATTON'S LATE EQUALIZER",
+          "story": "Trailing Brazil, Jacky Fatton scored twice, the second arriving in the 88th minute to snatch a 2–2 draw from the brink of defeat. It was the closest Switzerland came to real success in Brazil — one win, one draw, one rout, and an early flight home."
+        },
+        {
+          "id": "coin-toss-for-red",
+          "label": "COIN FLIP FOR RED",
+          "story": "Both Switzerland and Mexico showed up for their final group match owning only red kits, forcing organizers to settle it with a coin toss. Mexico won the flip — and then waived the right, letting the Swiss keep their red shirts while the Mexicans borrowed an alternate strip for the day."
+        },
+        {
+          "id": "first-cup-since-the-war",
+          "label": "FIRST POSTWAR WORLD CUP",
+          "story": "This was the first World Cup in twelve years — the 1942 and 1946 editions wiped out by the Second World War — and one of the first postwar tournaments played across an entire ocean. Switzerland's squad crossed the Atlantic into a Brazil still building the Maracanã, the largest stadium the sport had ever seen."
+        }
       ],
       "story": "Yugoslavia routed Switzerland 3–0 to open the tournament, but Jacky Fatton's brace salvaged a draw with Brazil, and a Bader-Antenen combination beat Mexico 2–1 to close the group. It wasn't enough — Switzerland's only trip to a World Cup on South American soil ended without advancing.",
       "homeColors": "red shirt, white shorts, red socks",
@@ -154,12 +190,24 @@
       ]
     },
     "1954": {
-      "result": "Quarter-final",
+      "result": "Group Stage",
       "headline": "Seven-Five, Still the Record",
       "annotations": [
-        { "id": "heat-battle-of-lausanne", "label": "HEAT BATTLE OF LAUSANNE", "story": "Played in 40°C heat, the Austria quarter-final became known in German as the 'Hitzeschlacht von Lausanne' — the Heat Battle of Lausanne. Robert Ballaman and Josef Hügi combined for all five Swiss goals, but a barrage of Austrian goals after the break settled a match that still holds the World Cup scoring record seven decades on." },
-        { "id": "first-televised-cup", "label": "FIRST CUP ON TELEVISION", "story": "Hosting gave Switzerland first pick of colors, and their plain red shirt and white shorts — no crest embellishment, no sponsor — were beamed across the continent for the first time: 1954 was the first World Cup broadcast live via the new Eurovision network, putting Swiss red on television screens across Europe." },
-        { "id": "neutral-host-postwar-europe", "label": "NEUTRAL GROUND, DIVIDED CONTINENT", "story": "Untouched by the fighting, Switzerland was the natural host for the World Cup's return to Europe after a 16-year gap — the first tournament to welcome West Germany back, while East Germany stayed away entirely amid Cold War tension. A neutral country hosted a continent still sorting through its aftermath." }
+        {
+          "id": "heat-battle-of-lausanne",
+          "label": "HEAT BATTLE OF LAUSANNE",
+          "story": "Played in 40°C heat, the Austria quarter-final became known in German as the 'Hitzeschlacht von Lausanne' — the Heat Battle of Lausanne. Robert Ballaman and Josef Hügi combined for all five Swiss goals, but a barrage of Austrian goals after the break settled a match that still holds the World Cup scoring record seven decades on."
+        },
+        {
+          "id": "first-televised-cup",
+          "label": "FIRST CUP ON TELEVISION",
+          "story": "Hosting gave Switzerland first pick of colors, and their plain red shirt and white shorts — no crest embellishment, no sponsor — were beamed across the continent for the first time: 1954 was the first World Cup broadcast live via the new Eurovision network, putting Swiss red on television screens across Europe."
+        },
+        {
+          "id": "neutral-host-postwar-europe",
+          "label": "NEUTRAL GROUND, DIVIDED CONTINENT",
+          "story": "Untouched by the fighting, Switzerland was the natural host for the World Cup's return to Europe after a 16-year gap — the first tournament to welcome West Germany back, while East Germany stayed away entirely amid Cold War tension. A neutral country hosted a continent still sorting through its aftermath."
+        }
       ],
       "story": "Hosting the tournament, Switzerland beat Italy twice — including a play-off after a tied group — to reach the quarter-final in Lausanne. Austria won a track meet of a match 7–5, still the highest-scoring game in World Cup history; Robert Ballaman and Josef Hügi combined for five of Switzerland's goals in the defeat.",
       "homeColors": "red shirt, white shorts, red socks (hosts' kit, unbranded)",
@@ -204,9 +252,21 @@
       "result": "Group Stage",
       "headline": "Winless in Chile",
       "annotations": [
-        { "id": "two-goals-three-losses", "label": "TWO GOALS, THREE LOSSES", "story": "Wüthrich scored inside six minutes against the hosts, and Schneiter struck in the 73rd against West Germany — brief leads in matches Switzerland ultimately lost anyway. Bottom of the group without a single point, without a single draw, it was the emptiest campaign of any Swiss World Cup before or since." },
-        { "id": "last-kit-before-sponsors", "label": "THE LAST UNBRANDED ERA", "story": "The red shirt and white shorts were unchanged from the 1930s — sponsor-free, as they'd remained since Switzerland's debut — making 1962 one of the last World Cups before shirt sponsorship began creeping into the European game. In Chile, the jersey was still just the flag, nothing more." },
-        { "id": "playoff-past-sweden", "label": "PLAYOFF JUST TO QUALIFY", "story": "Getting to Chile at all took a fight: Switzerland and Sweden finished level in qualifying and had to settle it with a neutral-ground playoff, which the Swiss won. The reward was a brutal group stacked with the hosts, Italy, and West Germany — no easy games anywhere on the schedule." }
+        {
+          "id": "two-goals-three-losses",
+          "label": "TWO GOALS, THREE LOSSES",
+          "story": "Wüthrich scored inside six minutes against the hosts, and Schneiter struck in the 73rd against West Germany — brief leads in matches Switzerland ultimately lost anyway. Bottom of the group without a single point, without a single draw, it was the emptiest campaign of any Swiss World Cup before or since."
+        },
+        {
+          "id": "last-kit-before-sponsors",
+          "label": "THE LAST UNBRANDED ERA",
+          "story": "The red shirt and white shorts were unchanged from the 1930s — sponsor-free, as they'd remained since Switzerland's debut — making 1962 one of the last World Cups before shirt sponsorship began creeping into the European game. In Chile, the jersey was still just the flag, nothing more."
+        },
+        {
+          "id": "playoff-past-sweden",
+          "label": "PLAYOFF JUST TO QUALIFY",
+          "story": "Getting to Chile at all took a fight: Switzerland and Sweden finished level in qualifying and had to settle it with a neutral-ground playoff, which the Swiss won. The reward was a brutal group stacked with the hosts, Italy, and West Germany — no easy games anywhere on the schedule."
+        }
       ],
       "story": "Switzerland lost all three group games in Chile — to Chile, West Germany, and Italy — scoring just twice and finishing bottom of the group without a point. It was a forgettable return after missing the 1958 tournament entirely, and worse was still to come four years later.",
       "homeColors": "red shirt, white shorts, red socks",
@@ -244,9 +304,21 @@
       "result": "Group Stage",
       "headline": "Worst Loss, Worst Cup",
       "annotations": [
-        { "id": "one-goal-all-tournament", "label": "ONE GOAL, THREE GAMES", "story": "Three matches, three defeats, and a single goal to show for it: René Quentin's 31st-minute strike against Spain was the only time Switzerland found the net at the entire 1966 World Cup. It came sandwiched between a 5–0 humiliation by West Germany and a scoreless defeat to Argentina." },
-        { "id": "tusa-kit-sheffield", "label": "TUSA'S ONE APPEARANCE", "story": "The 1966 shirt bore the mark of Tusa, a little-known Swiss sportswear maker rarely seen on a national kit before or since. It was worn through all three games in England — including the 5–0 defeat at Sheffield's Hillsborough — before Switzerland vanished from the World Cup for nearly three decades." },
-        { "id": "englands-world-cup", "label": "AWAY FROM THE SPOTLIGHT", "story": "1966 belonged to the hosts: England lifted the trophy on home soil at Wembley while Switzerland's group games unfolded in Sheffield and Birmingham, well away from the spotlight. The Swiss were making up the numbers in someone else's story — and their exit was so bad it triggered a generation-long rethink." }
+        {
+          "id": "one-goal-all-tournament",
+          "label": "ONE GOAL, THREE GAMES",
+          "story": "Three matches, three defeats, and a single goal to show for it: René Quentin's 31st-minute strike against Spain was the only time Switzerland found the net at the entire 1966 World Cup. It came sandwiched between a 5–0 humiliation by West Germany and a scoreless defeat to Argentina."
+        },
+        {
+          "id": "tusa-kit-sheffield",
+          "label": "TUSA'S ONE APPEARANCE",
+          "story": "The 1966 shirt bore the mark of Tusa, a little-known Swiss sportswear maker rarely seen on a national kit before or since. It was worn through all three games in England — including the 5–0 defeat at Sheffield's Hillsborough — before Switzerland vanished from the World Cup for nearly three decades."
+        },
+        {
+          "id": "englands-world-cup",
+          "label": "AWAY FROM THE SPOTLIGHT",
+          "story": "1966 belonged to the hosts: England lifted the trophy on home soil at Wembley while Switzerland's group games unfolded in Sheffield and Birmingham, well away from the spotlight. The Swiss were making up the numbers in someone else's story — and their exit was so bad it triggered a generation-long rethink."
+        }
       ],
       "story": "West Germany, on their way to the final, opened with a 5–0 demolition of Switzerland in Sheffield — still Switzerland's heaviest World Cup defeat. Losses to Spain and Argentina followed, sealing another winless group stage and the start of a 28-year absence from the tournament.",
       "homeColors": "red shirt, white shorts, red socks (Tusa)",
@@ -284,9 +356,21 @@
       "result": "Round of 16",
       "headline": "Back After 28 Years",
       "annotations": [
-        { "id": "indoor-world-cup-opener", "label": "FOOTBALL UNDER A ROOF", "story": "The comeback tournament opened indoors: a 1–1 draw with the United States at Detroit's Pontiac Silverdome, the only World Cup match ever played beneath a roof. Georges Bregy's equalizer set the tone for a run that ended a 28-year absence and carried the Swiss into the knockout rounds." },
-        { "id": "lotto-cross-shoulder", "label": "CROSS ACROSS THE SHOULDER", "story": "Italian manufacturer Lotto took over the kit for the comeback tournament, running a white Swiss cross diagonally off the left shoulder against an all-red body — a sharper, more graphic take than the plain shirts of the pre-1966 era. Stéphane Chapuisat and Ciriaco Sforza wore it into the Round of 16." },
-        { "id": "englishman-in-charge", "label": "AN ENGLISHMAN IN CHARGE", "story": "An Englishman, Roy Hodgson, took over a moribund program in 1992 and within a year had Switzerland ranked third in the world — a rise so unlikely it startled European football. He'd guide the team to its first World Cup appearance in 28 years, then to the knockout stage in his first attempt." }
+        {
+          "id": "indoor-world-cup-opener",
+          "label": "FOOTBALL UNDER A ROOF",
+          "story": "The comeback tournament opened indoors: a 1–1 draw with the United States at Detroit's Pontiac Silverdome, the only World Cup match ever played beneath a roof. Georges Bregy's equalizer set the tone for a run that ended a 28-year absence and carried the Swiss into the knockout rounds."
+        },
+        {
+          "id": "lotto-cross-shoulder",
+          "label": "CROSS ACROSS THE SHOULDER",
+          "story": "Italian manufacturer Lotto took over the kit for the comeback tournament, running a white Swiss cross diagonally off the left shoulder against an all-red body — a sharper, more graphic take than the plain shirts of the pre-1966 era. Stéphane Chapuisat and Ciriaco Sforza wore it into the Round of 16."
+        },
+        {
+          "id": "englishman-in-charge",
+          "label": "AN ENGLISHMAN IN CHARGE",
+          "story": "An Englishman, Roy Hodgson, took over a moribund program in 1992 and within a year had Switzerland ranked third in the world — a rise so unlikely it startled European football. He'd guide the team to its first World Cup appearance in 28 years, then to the knockout stage in his first attempt."
+        }
       ],
       "story": "Switzerland ended a 28-year World Cup absence with a Georges Bregy-led draw against the United States and a 4–1 win over Romania — Adrian Knup scoring twice — to reach the Round of 16. Spain ended the run 3–0 in Washington, but reaching the knockout stage felt like a result in itself.",
       "homeColors": "red shirt, white shorts, red socks (Lotto)",
@@ -331,9 +415,21 @@
       "result": "Round of 16",
       "headline": "Unbeaten, Still Eliminated",
       "annotations": [
-        { "id": "freis-brace", "label": "FREI DOES IT TWICE", "story": "Alexander Frei scored the only goal that mattered in two different group games — 16th minute against Togo, 77th minute against South Korea — turning a cautious Swiss side into group winners without conceding once. It set up a Round of 16 meeting with Ukraine that would end in the cruelest possible way." },
-        { "id": "puma-era-begins", "label": "PUMA TAKES OVER", "story": "Puma supplied the kit for this tournament: a clean red home shirt with white trim that stayed remarkably unblemished — no goals conceded across four matches. It marked the start of a Puma–Swiss federation partnership that would outlast the next five World Cups, still running into the 2020s." },
-        { "id": "most-multicultural-squad", "label": "THE MOST MULTICULTURAL SQUAD", "story": "Barely a decade after fielding an entirely Swiss-born roster in 1994, this squad drew roughly half its players from immigrant families — sons of the Balkan, African, and Turkish migration that reshaped the country through the 1990s and 2000s. It was, at the time, the most multinational team at the tournament." }
+        {
+          "id": "freis-brace",
+          "label": "FREI DOES IT TWICE",
+          "story": "Alexander Frei scored the only goal that mattered in two different group games — 16th minute against Togo, 77th minute against South Korea — turning a cautious Swiss side into group winners without conceding once. It set up a Round of 16 meeting with Ukraine that would end in the cruelest possible way."
+        },
+        {
+          "id": "puma-era-begins",
+          "label": "PUMA TAKES OVER",
+          "story": "Puma supplied the kit for this tournament: a clean red home shirt with white trim that stayed remarkably unblemished — no goals conceded across four matches. It marked the start of a Puma–Swiss federation partnership that would outlast the next five World Cups, still running into the 2020s."
+        },
+        {
+          "id": "most-multicultural-squad",
+          "label": "THE MOST MULTICULTURAL SQUAD",
+          "story": "Barely a decade after fielding an entirely Swiss-born roster in 1994, this squad drew roughly half its players from immigrant families — sons of the Balkan, African, and Turkish migration that reshaped the country through the 1990s and 2000s. It was, at the time, the most multinational team at the tournament."
+        }
       ],
       "story": "Switzerland didn't concede a single goal in regulation, shutting out France, Togo, and South Korea to win the group, then held Ukraine scoreless through extra time in the Round of 16. They lost the shootout 3–0 without converting a single kick — a statistical oddity, eliminated while still unbeaten.",
       "homeColors": "red shirt, white shorts, red socks (Puma)",
@@ -378,9 +474,21 @@
       "result": "Group Stage",
       "headline": "The Team That Beat Spain",
       "annotations": [
-        { "id": "shutout-record", "label": "THE SHUTOUT RECORD", "story": "After Gelson Fernandes' shock winner against Spain, Switzerland didn't concede again until the 75th minute of the Chile match — a streak of scoreless defending that set a World Cup record for consecutive minutes without conceding. None of it mattered: a draw with Honduras still sent Switzerland home in third place." },
-        { "id": "shared-away-template", "label": "BORROWED FROM ITALY", "story": "Puma's 2010 away shirt for Switzerland leaned on the same cut and paneling as that year's Italy kit — a shared template rather than a bespoke design. It scored just 3.19 out of 5 on kit-rating sites, one of the more forgettable shirts of an otherwise memorable tournament for the Swiss." },
-        { "id": "spain-beaters-still-out", "label": "BEAT SPAIN, WENT HOME", "story": "No team had done it since Norway in 1994: beat the eventual group winner in the tournament opener, then still fail to escape the group. Switzerland's win over Spain became a historical footnote rather than a launchpad — Spain regrouped, won every remaining match, and lifted the trophy a month later." }
+        {
+          "id": "shutout-record",
+          "label": "THE SHUTOUT RECORD",
+          "story": "After Gelson Fernandes' shock winner against Spain, Switzerland didn't concede again until the 75th minute of the Chile match — a streak of scoreless defending that set a World Cup record for consecutive minutes without conceding. None of it mattered: a draw with Honduras still sent Switzerland home in third place."
+        },
+        {
+          "id": "shared-away-template",
+          "label": "BORROWED FROM ITALY",
+          "story": "Puma's 2010 away shirt for Switzerland leaned on the same cut and paneling as that year's Italy kit — a shared template rather than a bespoke design. It scored just 3.19 out of 5 on kit-rating sites, one of the more forgettable shirts of an otherwise memorable tournament for the Swiss."
+        },
+        {
+          "id": "spain-beaters-still-out",
+          "label": "BEAT SPAIN, WENT HOME",
+          "story": "No team had done it since Norway in 1994: beat the eventual group winner in the tournament opener, then still fail to escape the group. Switzerland's win over Spain became a historical footnote rather than a launchpad — Spain regrouped, won every remaining match, and lifted the trophy a month later."
+        }
       ],
       "story": "Gelson Fernandes' goal beat eventual champions Spain 1–0 in the group opener, making Switzerland the only team to defeat Spain all tournament. It didn't matter: a loss to Chile and a scoreless draw with Honduras left Switzerland third in the group, eliminated despite handing the champions their only defeat.",
       "homeColors": "red shirt, white shorts, red socks (Puma)",
@@ -418,9 +526,21 @@
       "result": "Round of 16",
       "headline": "Shaqiri's Hat-Trick Hero",
       "annotations": [
-        { "id": "seferovic-stoppage-winner", "label": "A STOPPAGE-TIME WINNER", "story": "Ecuador led early, but Mehmedi's 48th-minute equalizer set up Haris Seferovic's stoppage-time header — a winner arriving in the sixth minute of injury time, turning a hard-fought point into an opening victory. It was the same late-drama script Switzerland would face again in the Round of 16, this time on the losing end." },
-        { "id": "cross-as-watermark", "label": "A CROSS AS WATERMARK", "story": "Puma's evoPOWER template put a tonal Swiss cross across the chest as a watermark, visible only at certain angles, with thin broken white lines running down each side echoing the flag. The away shirt flipped it to all white, sharing a base pattern with the Italy kit released the same season." },
-        { "id": "shaqiri-refugee-childhood", "label": "FROM KOSOVO TO SWITZERLAND", "story": "Xherdan Shaqiri's family fled Kosovo for Switzerland when he was an infant, one of thousands of ethnic Albanians who left during the unrest of the late 1980s and 1990s. Two decades later, the boy from a refugee household delivered Switzerland's second-ever World Cup hat-trick, sixty years after Josef Hügi's in 1954." }
+        {
+          "id": "seferovic-stoppage-winner",
+          "label": "A STOPPAGE-TIME WINNER",
+          "story": "Ecuador led early, but Mehmedi's 48th-minute equalizer set up Haris Seferovic's stoppage-time header — a winner arriving in the sixth minute of injury time, turning a hard-fought point into an opening victory. It was the same late-drama script Switzerland would face again in the Round of 16, this time on the losing end."
+        },
+        {
+          "id": "cross-as-watermark",
+          "label": "A CROSS AS WATERMARK",
+          "story": "Puma's evoPOWER template put a tonal Swiss cross across the chest as a watermark, visible only at certain angles, with thin broken white lines running down each side echoing the flag. The away shirt flipped it to all white, sharing a base pattern with the Italy kit released the same season."
+        },
+        {
+          "id": "shaqiri-refugee-childhood",
+          "label": "FROM KOSOVO TO SWITZERLAND",
+          "story": "Xherdan Shaqiri's family fled Kosovo for Switzerland when he was an infant, one of thousands of ethnic Albanians who left during the unrest of the late 1980s and 1990s. Two decades later, the boy from a refugee household delivered Switzerland's second-ever World Cup hat-trick, sixty years after Josef Hügi's in 1954."
+        }
       ],
       "story": "Xherdan Shaqiri scored a hat-trick in a 3–0 win over Honduras to send Switzerland through to the Round of 16, after an opening win over Ecuador and a heavy 5–2 loss to France. Ángel Di María's 118th-minute goal ended the run against Argentina — Switzerland's best finish in eight years.",
       "homeColors": "red shirt, white shorts, red socks (Puma)",
@@ -465,9 +585,21 @@
       "result": "Round of 16",
       "headline": "Forsberg Ends the Run",
       "annotations": [
-        { "id": "double-eagle-celebration", "label": "THE DOUBLE-EAGLE CELEBRATION", "story": "When Granit Xhaka and Xherdan Shaqiri scored against Serbia, both crossed their hands into the shape of Albania's double-headed eagle — a nod to their Kosovo-Albanian roots, aimed squarely at a Serbian opponent. FIFA fined each player 10,000 Swiss francs for what officials called political provocation on the pitch." },
-        { "id": "suisse-on-the-back", "label": "'SUISSE' ACROSS THE SHOULDERS", "story": "Puma's 2018 away shirt went nearly all white, with a rounded neckline in red and the word 'SUISSE' printed across the upper back below the collar — a rare instance of Switzerland's kit spelling out its name in French rather than showing only the cross badge." },
-        { "id": "first-cup-in-russia", "label": "FIRST CUP IN RUSSIA", "story": "2018 marked the first World Cup ever held in Eastern Europe, awarded to Russia amid controversy over the bidding process and staged against a backdrop of Western sanctions and diplomatic tension following the 2014 annexation of Crimea. FIFA's showcase event unfolded in a host country most of Europe was busy sanctioning." }
+        {
+          "id": "double-eagle-celebration",
+          "label": "THE DOUBLE-EAGLE CELEBRATION",
+          "story": "When Granit Xhaka and Xherdan Shaqiri scored against Serbia, both crossed their hands into the shape of Albania's double-headed eagle — a nod to their Kosovo-Albanian roots, aimed squarely at a Serbian opponent. FIFA fined each player 10,000 Swiss francs for what officials called political provocation on the pitch."
+        },
+        {
+          "id": "suisse-on-the-back",
+          "label": "'SUISSE' ACROSS THE SHOULDERS",
+          "story": "Puma's 2018 away shirt went nearly all white, with a rounded neckline in red and the word 'SUISSE' printed across the upper back below the collar — a rare instance of Switzerland's kit spelling out its name in French rather than showing only the cross badge."
+        },
+        {
+          "id": "first-cup-in-russia",
+          "label": "FIRST CUP IN RUSSIA",
+          "story": "2018 marked the first World Cup ever held in Eastern Europe, awarded to Russia amid controversy over the bidding process and staged against a backdrop of Western sanctions and diplomatic tension following the 2014 annexation of Crimea. FIFA's showcase event unfolded in a host country most of Europe was busy sanctioning."
+        }
       ],
       "story": "Granit Xhaka and Xherdan Shaqiri each scored in a 2–1 win over Serbia, sandwiched between a draw with Brazil and a Blerim Džemaili equalizer against Costa Rica. Sweden's Emil Forsberg then ended the run 1–0 in the Round of 16, the same margin Switzerland had used to beat Serbia.",
       "homeColors": "red shirt, white shorts, red socks (Puma)",
@@ -512,9 +644,21 @@
       "result": "Round of 16",
       "headline": "Akanji's Goal, Portugal's Rout",
       "annotations": [
-        { "id": "shaqiri-three-cups", "label": "A THIRD WORLD CUP", "story": "Xherdan Shaqiri's deflected strike against Serbia made him the first Swiss player to score at three different World Cups — 2014, 2018, and now 2022. It arrived in the 20th minute of a match that swung four times before Remo Freuler's second-half strike finally settled it, 3–2." },
-        { "id": "lightest-kit-ever", "label": "THE LIGHTEST SHIRT YET", "story": "Puma engineered the 2022 kit to be 44 percent lighter than any previous jersey it had made, with the away shirt's halftone gradient fading from white to grey and a boxed federation crest sitting below a retro-style Puma logo — a callback to older designs rather than a modern minimalist one." },
-        { "id": "embolos-silent-goal", "label": "A GOAL NOT CELEBRATED", "story": "Breel Embolo scored Switzerland's winner against the country of his birth and refused to celebrate, raising his hands in apology instead. Born in Yaoundé, Cameroon, Embolo moved to Switzerland at six years old — his muted reaction to the goal became one of the tournament's quietest, most talked-about moments." }
+        {
+          "id": "shaqiri-three-cups",
+          "label": "A THIRD WORLD CUP",
+          "story": "Xherdan Shaqiri's deflected strike against Serbia made him the first Swiss player to score at three different World Cups — 2014, 2018, and now 2022. It arrived in the 20th minute of a match that swung four times before Remo Freuler's second-half strike finally settled it, 3–2."
+        },
+        {
+          "id": "lightest-kit-ever",
+          "label": "THE LIGHTEST SHIRT YET",
+          "story": "Puma engineered the 2022 kit to be 44 percent lighter than any previous jersey it had made, with the away shirt's halftone gradient fading from white to grey and a boxed federation crest sitting below a retro-style Puma logo — a callback to older designs rather than a modern minimalist one."
+        },
+        {
+          "id": "embolos-silent-goal",
+          "label": "A GOAL NOT CELEBRATED",
+          "story": "Breel Embolo scored Switzerland's winner against the country of his birth and refused to celebrate, raising his hands in apology instead. Born in Yaoundé, Cameroon, Embolo moved to Switzerland at six years old — his muted reaction to the goal became one of the tournament's quietest, most talked-about moments."
+        }
       ],
       "story": "Breel Embolo's goal beat Cameroon, and second-half strikes from Shaqiri, Embolo, and Remo Freuler downed Serbia 3–2 to reach the Round of 16. Portugal routed Switzerland 6–1 despite a Manuel Akanji goal, matching West Germany's 1966 scoreline as the heaviest defeat in Swiss World Cup history.",
       "homeColors": "red shirt, white shorts, red socks (Puma)",
