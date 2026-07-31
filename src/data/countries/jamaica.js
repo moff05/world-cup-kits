@@ -53,7 +53,7 @@ export const jamaica = {
           "opponent": "Japan",
           "score": "2–1",
           "result": "W",
-          "scorers": "Whitmore 39', 54'"
+          "scorers": "Whitmore 39', Whitmore 54'"
         }
       ],
       "kits": {
