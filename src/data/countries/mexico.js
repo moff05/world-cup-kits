@@ -369,7 +369,7 @@ export const mexico = {
       }
     },
     "1970": {
-      "result": "Quarter-final",
+      "result": "Group Stage",
       "headline": "Azteca Roars, Italy Ends It",
       "homeColors": "green shirt, white shorts, red socks (first World Cup played with Adidas's Telstar ball)",
       "awayColors": null,
@@ -486,7 +486,7 @@ export const mexico = {
       }
     },
     "1986": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Negrete's Scissor-Kick Wonder",
       "homeColors": "green shirt with white trim and three white stripes, white shorts, red socks (Adidas)",
       "awayColors": null,
