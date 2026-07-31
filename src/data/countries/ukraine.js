@@ -29,7 +29,7 @@ export const ukraine = {
   ],
   "kits": {
     "2006": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Quarter-Finals on Debut",
       "homeColors": "yellow shirt with blue trim on the shoulders and sides, blue shorts (Lotto)",
       "awayColors": "blue away shirt (Lotto)",
