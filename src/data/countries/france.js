@@ -19,16 +19,17 @@ export const france = {
     2010,
     2014,
     2018,
-    2022
+    2022,
+    2026
   ],
   "bestResult": "2× World Champions",
   "stats": {
-    "matches": 73,
-    "wins": 39,
+    "matches": 81,
+    "wins": 45,
     "draws": 14,
-    "losses": 20,
-    "goalsFor": 136,
-    "goalsAgainst": 85
+    "losses": 22,
+    "goalsFor": 156,
+    "goalsAgainst": 95
   },
   "facts": [
     {
@@ -1093,6 +1094,96 @@ export const france = {
               "id": "injury-ravaged-squad",
               "label": "INJURY-RAVAGED SQUAD",
               "story": "France arrived in Qatar without N'Golo Kanté, Paul Pogba, and Presnel Kimpembe, then lost Christopher Nkunku to a training injury days before kickoff and watched Karim Benzema's fitness collapse before a ball was played. Reaching a second straight final with that much of the first-choice XI missing remains one of the era's quiet miracles."
+            }
+          ]
+        }
+      }
+    },
+    "2026": {
+      "result": "4th Place",
+      "headline": "Mbappé's Record, No Medal",
+      "homeColors": "Game Royal blue with a tonal all-over pattern, metallic copper crest and Swoosh, white fold-over collar with red placket detail (Nike) — inspired by the Statue of Liberty",
+      "awayColors": "Mint green, drawn from the oxidized copper patina of the Statue of Liberty (Nike)",
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Senegal",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Mbappé 66', Barcola 82', Mbappé 90+6'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Iraq",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Mbappé 14', Mbappé 54', Dembélé 66'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Norway",
+          "score": "4–1",
+          "result": "W",
+          "scorers": "Dembélé 7', Dembélé 20', Dembélé 32', Doué 90+4'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Sweden",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Mbappé 45', Barcola 53', Mbappé 74'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Paraguay",
+          "score": "1–0",
+          "result": "W",
+          "scorers": "Mbappé 70' (pen)"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Morocco",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Mbappé 60', Dembélé 66'"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "Spain",
+          "score": "0–2",
+          "result": "L",
+          "scorers": null
+        },
+        {
+          "round": "3rd Place",
+          "opponent": "England",
+          "score": "4–6",
+          "result": "L",
+          "scorers": "Mbappé 48', Barcola 54', Mbappé 66', Dembélé 90+6'"
+        }
+      ],
+      "kits": {
+        "home": {
+          "image": "https://commons.wikimedia.org/wiki/File:Maxence_Lacroix_France_v_Norway_26_June_26-031_(cropped).jpg",
+          "imageCredit": {
+            "player": "Maxence Lacroix",
+            "game": "France v Norway, Group Stage, June 26 2026 — CC BY-SA 4.0 / Wikimedia Commons (photo: Bryan Berlin/WikiPortraits)"
+          },
+          "annotations": [
+            {
+              "id": "mbappe-record-night",
+              "label": "THE KEY MOMENT",
+              "story": "Down 4-0 at the break in Miami, France looked cooked. Then Mbappé struck twice in eight minutes, Barcola pulled one back, and Dembélé's stoppage-time strike made it 4-4 before England held on. Mbappé's second goal made him the all-time World Cup scorer, past Messi, in the cruelest possible match to do it."
+            },
+            {
+              "id": "the-liberty-kit",
+              "label": "THE KIT",
+              "story": "Nike built the entire 2026 collection around the Statue of Liberty, France's gift to America. The Game Royal home shirt carries metallic copper crest detailing echoing the statue's original shell, while the away kit takes its oxidized mint-green from the copper patina it wears today — a rare kit with an actual story."
+            },
+            {
+              "id": "end-of-the-deschamps-era",
+              "label": "THE CONTEXT",
+              "story": "Didier Deschamps walked away from Les Bleus for good after this tournament, twelve years and one World Cup title behind him. Fourth place stung, but a young core — Doué, Olise, Cherki — playing alongside a Mbappé who'd just become history's leading scorer suggested France's next great team was already on the pitch."
             }
           ]
         }
