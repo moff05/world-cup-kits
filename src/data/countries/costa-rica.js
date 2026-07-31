@@ -206,7 +206,7 @@ export const costaRica = {
       }
     },
     "2014": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Los Ticos Stun the World",
       "homeColors": "red shirt with blue front stripe, blue shorts, red socks (Lotto)",
       "awayColors": "white shirt with red and blue trim, white shorts (Lotto)",
