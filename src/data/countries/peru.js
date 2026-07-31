@@ -81,7 +81,7 @@ export const peru = {
       }
     },
     "1970": {
-      "result": "Quarter-final",
+      "result": "Group Stage",
       "headline": "Cubillas Announces Himself",
       "homeColors": "white shirt with diagonal red sash, white shorts, white socks (adidas)",
       "awayColors": null,
