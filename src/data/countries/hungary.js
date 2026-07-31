@@ -37,7 +37,7 @@ export const hungary = {
   ],
   "kits": {
     "1934": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Toldi's Bright Debut",
       "homeColors": "red shirt, white shorts, green socks",
       "awayColors": null,
@@ -278,7 +278,7 @@ export const hungary = {
       }
     },
     "1962": {
-      "result": "Quarter-final",
+      "result": "Group Stage",
       "headline": "Tichy's Team, One Round Short",
       "homeColors": "red shirt, white shorts, green socks",
       "awayColors": null,
@@ -340,7 +340,7 @@ export const hungary = {
       }
     },
     "1966": {
-      "result": "Quarter-final",
+      "result": "Group Stage",
       "headline": "Bene Shines, Soviets End It",
       "homeColors": "red shirt, white shorts, green socks",
       "awayColors": null,
