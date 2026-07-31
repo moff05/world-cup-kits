@@ -31,7 +31,7 @@ export const republicOfIreland = {
   ],
   "kits": {
     "1990": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Unbeaten Into the Quarters",
       "homeColors": "emerald green shirt with white and orange wrap-over V-neck trim (Adidas), white shorts, green socks",
       "awayColors": "white shirt with green trim (Adidas)",
