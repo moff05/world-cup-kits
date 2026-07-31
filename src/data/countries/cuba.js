@@ -29,7 +29,7 @@ export const cuba = {
   ],
   "kits": {
     "1938": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Amateurs Stun Europe Twice",
       "homeColors": null,
       "awayColors": null,
@@ -39,14 +39,14 @@ export const cuba = {
           "opponent": "Romania",
           "score": "3–3",
           "result": "D",
-          "scorers": "Socorro 44', Fernández 87', Tuñas 117'"
+          "scorers": "Socorro 44', Magriñá 69', Socorro 103'"
         },
         {
           "round": "Round of 16",
           "opponent": "Romania",
           "score": "2–1",
           "result": "W",
-          "scorers": "Socorro 51', Oliveira 57'"
+          "scorers": "Socorro 51', Fernández 57'"
         },
         {
           "round": "Quarter-final",
