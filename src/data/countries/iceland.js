@@ -53,7 +53,7 @@ export const iceland = {
           "opponent": "Croatia",
           "score": "1–2",
           "result": "L",
-          "scorers": "Sigurðsson 76' (pen.)"
+          "scorers": "Sigurðsson 76'"
         }
       ],
       "kits": {
