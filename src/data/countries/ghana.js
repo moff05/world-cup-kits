@@ -95,7 +95,7 @@ export const ghana = {
       }
     },
     "2010": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "So Close to History",
       "homeColors": "white shirt with gold and red trim (Puma)",
       "awayColors": "black shirt with gold trim, introduced in 2008 (Puma)",
