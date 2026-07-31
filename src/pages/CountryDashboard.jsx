@@ -231,6 +231,19 @@ export default function CountryDashboard() {
               </span>
             </div>
           )}
+          {ext.topScorers?.length > 0 && (
+            <div className="ext-stat">
+              <span className="ext-stat-label">Top Scorers</span>
+              <span className="ext-stat-sub ext-stat-sub--scorers">
+                {ext.topScorers.map((s) => (
+                  <span key={s.name} className="ext-stat-scorer-row">
+                    <span className="ext-stat-scorer-name">{s.name}</span>
+                    <span className="ext-stat-scorer-goals">{s.goals}</span>
+                  </span>
+                ))}
+              </span>
+            </div>
+          )}
         </div>
       )}
 

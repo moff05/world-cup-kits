@@ -4,6 +4,24 @@ const RESULT_RANK = {
   "Round of 32": 2, "2nd Round": 2, "Group Stage": 1,
 };
 
+// "Messi 17', 60', 76'" → ["Messi", "Messi", "Messi"]. "Borges OG 111'" is excluded
+// (own goals are credited to this team's score but scored by an opposing player).
+function parseScorerNames(scorersStr) {
+  const names = [];
+  let currentName = null;
+  for (const raw of scorersStr.split(",")) {
+    const seg = raw.trim();
+    if (!seg) continue;
+    const isOG = /\bOG\b/.test(seg);
+    const minuteMatch = seg.match(/\d+(\+\d+)?'/);
+    const namePart = (minuteMatch ? seg.slice(0, seg.indexOf(minuteMatch[0])) : seg)
+      .replace(/\bOG\b/, "")
+      .trim();
+    if (namePart) currentName = namePart;
+    if (currentName && !isOG) names.push(currentName);
+  }
+  return names;
+}
 
 export function computeExtendedStats(country) {
   const allMatches = [];
@@ -61,5 +79,18 @@ export function computeExtendedStats(country) {
     ? { name: rivalName, games: oppCount[rivalName], ...oppRecord[rivalName] }
     : null;
 
-  return { biggestWin, biggestLoss, bestResult, worstResult, rival };
+  // Top scorers (all-time, across every tournament)
+  const goalCounts = {};
+  for (const m of allMatches) {
+    if (!m.scorers) continue;
+    for (const name of parseScorerNames(m.scorers)) {
+      goalCounts[name] = (goalCounts[name] || 0) + 1;
+    }
+  }
+  const topScorers = Object.entries(goalCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 3)
+    .map(([name, goals]) => ({ name, goals }));
+
+  return { biggestWin, biggestLoss, bestResult, worstResult, rival, topScorers };
 }

@@ -11,6 +11,9 @@ const ALL_WORLD_CUPS = [
 const CONF_ORDER = ["CONMEBOL", "UEFA", "CONCACAF", "CAF", "AFC", "OFC"];
 
 const FEATURED = [
+  { id: "spain",       year: 2026, result: "Champions" },      // La Roja's 2nd star
+  { id: "argentina",   year: 2026, result: "Runners-up" },     // Messi's last dance, Klose's record falls
+  { id: "england",     year: 2026, result: "3rd Place" },      // Saka's hat-trick, 6-4 thriller
   { id: "argentina",   year: 1986, result: "Champions" },      // Hand of God
   { id: "uruguay",     year: 1950, result: "Champions" },      // Maracanazo
   { id: "brazil",      year: 2014, result: "4th Place" },      // 7–1 at home
@@ -211,7 +214,7 @@ export default function Home() {
             <span className="home-stat-label">Nations</span>
           </div>
           <div className="home-stat">
-            <span className="home-stat-num">23</span>
+            <span className="home-stat-num">{ALL_WORLD_CUPS.length}</span>
             <span className="home-stat-label">Tournaments</span>
           </div>
           <Link to="/year/1930" className="home-stat home-stat--link">

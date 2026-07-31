@@ -1,6 +1,6 @@
 # World Cup Kits
 
-Kit history, match records, and stories for every nation that has appeared at the FIFA World Cup — 83 countries, 23 tournaments, 1930–2026.
+Kit history, match records, and stories for every nation that has appeared at the FIFA World Cup — 83 countries, 24 tournaments, 1930–2026.
 
 **Live → [world-cup-kits-xi.vercel.app](https://world-cup-kits-xi.vercel.app)**
 

@@ -1399,7 +1399,7 @@ a { color: inherit; text-decoration: none; }
 /* ── EXTENDED STATS ── */
 .ext-stats {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1.2fr;
+  grid-template-columns: 1fr 1fr 1fr 1.2fr 1.3fr;
   gap: 1px;
   background: var(--border);
   border: 1px solid var(--border);
@@ -1494,6 +1494,31 @@ a { color: inherit; text-decoration: none; }
   color: var(--text-muted);
   opacity: 0.7;
   margin-top: 1px;
+}
+
+.ext-stat-sub--scorers {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-top: 4px;
+}
+.ext-stat-scorer-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 13px;
+  color: var(--text-dim);
+}
+.ext-stat-scorer-name {
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.ext-stat-scorer-goals {
+  font-family: var(--font-display);
+  font-weight: 800;
+  color: var(--accent);
 }
 
 @media (max-width: 800px) {
