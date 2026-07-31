@@ -21,16 +21,17 @@
     2010,
     2014,
     2018,
-    2022
+    2022,
+    2026
   ],
   "bestResult": "3× World Champions",
   "stats": {
-    "matches": 88,
-    "wins": 47,
+    "matches": 96,
+    "wins": 54,
     "draws": 17,
-    "losses": 24,
-    "goalsFor": 152,
-    "goalsAgainst": 101
+    "losses": 25,
+    "goalsFor": 171,
+    "goalsAgainst": 109
   },
   "facts": [
     {
@@ -1216,6 +1217,92 @@
           "score": "3–3 (4–2 pens)",
           "result": "D",
           "scorers": "Messi 23' (pen), Di María 36', Messi 108'"
+        }
+      ]
+    },
+    "2026": {
+      "result": "Runners-up",
+      "headline": "One Goal Short of Immortality",
+      "homeColors": "Sky-blue and white vertical bands with a tonal three-shade fade referencing Argentina's three stars (1978, 1986, 2022), '1896' stitched into the back neck for the AFA's founding year; Adidas",
+      "awayColors": "Black shirt with sky-blue and white detailing, featuring a swirling pattern inspired by Buenos Aires' UNESCO-listed Fileteado Porteño street art, white three stripes on the shoulders; Adidas",
+      "image": "https://commons.wikimedia.org/wiki/File:Lautaro_Martinez_Argentina_v_Spain_19_July_2026-049_(cropped).jpg",
+      "imageCredit": {
+        "player": "Lautaro Martínez",
+        "game": "Final vs Spain, July 19 2026 — CC BY-SA 4.0 / Wikimedia Commons (photo: Bryan Berlin)"
+      },
+      "matches": [
+        {
+          "round": "Group Stage",
+          "opponent": "Algeria",
+          "score": "3–0",
+          "result": "W",
+          "scorers": "Messi 17', 60', 76'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Austria",
+          "score": "2–0",
+          "result": "W",
+          "scorers": "Messi 38', 90+5'"
+        },
+        {
+          "round": "Group Stage",
+          "opponent": "Jordan",
+          "score": "3–1",
+          "result": "W",
+          "scorers": "Lo Celso 19', Lautaro Martínez 31', Messi 80'"
+        },
+        {
+          "round": "Round of 32",
+          "opponent": "Cape Verde",
+          "score": "3–2 (aet)",
+          "result": "W",
+          "scorers": "Messi 29', Lisandro Martínez 92', Borges OG 111'"
+        },
+        {
+          "round": "Round of 16",
+          "opponent": "Egypt",
+          "score": "3–2",
+          "result": "W",
+          "scorers": "Romero 79', Messi 83', Enzo Fernández 90+3'"
+        },
+        {
+          "round": "Quarter-final",
+          "opponent": "Switzerland",
+          "score": "3–1 (aet)",
+          "result": "W",
+          "scorers": "Mac Allister 10', Álvarez 112', Lautaro Martínez 120+1'"
+        },
+        {
+          "round": "Semi-final",
+          "opponent": "England",
+          "score": "2–1",
+          "result": "W",
+          "scorers": "Enzo Fernández 85', Lautaro Martínez 90+2'"
+        },
+        {
+          "round": "Final",
+          "opponent": "Spain",
+          "score": "0–1 (aet)",
+          "result": "L",
+          "scorers": null
+        }
+      ],
+      "annotations": [
+        {
+          "id": "torres-strikes-in-extra-time",
+          "label": "THE KEY MOMENT",
+          "story": "In the 106th minute, with the final drifting toward penalties, Ferran Torres ghosted to the back post and turned in the winner. Messi, 39 and playing what was almost certainly his last World Cup, sank to the MetLife Stadium turf. Argentina had trailed no team all tournament — until the one moment that mattered most."
+        },
+        {
+          "id": "three-shades-of-blue",
+          "label": "THE KIT",
+          "story": "Adidas wrapped Argentina's threepeat bid in tonal sky-blue bands, fading through three shades for the three stars above the crest — 1978, 1986, 2022 — with '1896' stitched into the neck for the AFA's founding year. The black away shirt borrowed its swirling pattern from Buenos Aires' UNESCO-listed Fileteado Porteño street art."
+        },
+        {
+          "id": "messis-third-final",
+          "label": "THE CONTEXT",
+          "story": "At 38, in what was almost certainly his last World Cup, Messi somehow got better — his 38th-minute strike against Austria broke Miroslav Klose's all-time World Cup scoring record, and a stoppage-time follow-up in the same match pushed his career tally to 18. It was his third World Cup final, after heartbreak in 2014 and triumph in 2022 — a near-miss again, this time by the smallest possible margin."
         }
       ]
     }
