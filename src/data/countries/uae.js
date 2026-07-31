@@ -46,14 +46,14 @@ export const uae = {
           "opponent": "West Germany",
           "score": "1–5",
           "result": "L",
-          "scorers": "Mubarak 46'"
+          "scorers": "Ismaïl 46'"
         },
         {
           "round": "Group Stage",
           "opponent": "Yugoslavia",
           "score": "1–4",
           "result": "L",
-          "scorers": "Juma'a 22'"
+          "scorers": "Jumaa 22'"
         }
       ],
       "kits": {
