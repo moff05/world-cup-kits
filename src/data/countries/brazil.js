@@ -1489,31 +1489,36 @@ export const brazil = {
           "round": "Group Stage",
           "opponent": "Serbia",
           "score": "2–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Richarlison 62', 73'"
         },
         {
           "round": "Group Stage",
           "opponent": "Switzerland",
           "score": "1–0",
-          "result": "W"
+          "result": "W",
+          "scorers": "Casemiro 83'"
         },
         {
           "round": "Group Stage",
           "opponent": "Cameroon",
           "score": "0–1",
-          "result": "L"
+          "result": "L",
+          "scorers": null
         },
         {
           "round": "Round of 16",
           "opponent": "South Korea",
           "score": "4–1",
-          "result": "W"
+          "result": "W",
+          "scorers": "Vinícius Júnior 7', Neymar 13' (pen), Richarlison 29', Paquetá 36'"
         },
         {
           "round": "Quarter-final",
           "opponent": "Croatia",
           "score": "1–1 (2–4 pens)",
-          "result": "D"
+          "result": "D",
+          "scorers": "Neymar 105'"
         }
       ],
       "kits": {
