@@ -350,7 +350,7 @@ export const netherlands = {
       }
     },
     "1994": {
-      "result": "Quarter-final",
+      "result": "Round of 16",
       "headline": "Bergkamp's Breakout Summer",
       "homeColors": "orange shirt, white shorts, orange socks (Lotto)",
       "awayColors": null,
@@ -419,7 +419,7 @@ export const netherlands = {
       }
     },
     "1998": {
-      "result": "4th Place",
+      "result": "Round of 16",
       "headline": "Bergkamp's Touch, Then Heartbreak",
       "homeColors": "orange shirt, black shorts, orange socks (Lotto)",
       "awayColors": null,
@@ -647,7 +647,7 @@ export const netherlands = {
       }
     },
     "2014": {
-      "result": "3rd Place",
+      "result": "Round of 16",
       "headline": "Revenge Rout, Bronze Reward",
       "homeColors": "orange shirt, white shorts, orange socks (Nike)",
       "awayColors": "blue shirt with orange trim, blue shorts (Nike)",
