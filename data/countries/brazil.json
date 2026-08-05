@@ -55,8 +55,11 @@
       "headline": "The Debut That Ended in Groups",
       "homeColors": "white shirt with blue collar, white shorts, white socks",
       "awayColors": null,
-      "image": null,
-      "imageCredit": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Delegaci%C3%B3n_de_Brasil_en_el_Mundial_de_1930%2C_Los_Sports%2C_1930-07-18_%28384%29.jpg",
+      "imageCredit": {
+        "player": null,
+        "game": "Brazilian delegation at the 1930 FIFA World Cup — published in Los Sports, July 18 1930. Public domain."
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -133,8 +136,11 @@
       "headline": "Leônidas and the Blunder That Cost a Final",
       "homeColors": "white shirt with blue collar, white shorts, white socks",
       "awayColors": null,
-      "image": null,
-      "imageCredit": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Brazil_v_czechoslovakia_replay_match_1938.jpg",
+      "imageCredit": {
+        "player": null,
+        "game": "Brazil vs. Czechoslovakia replay, Quarter-final — 1938 FIFA World Cup, June 14 1938. Public domain."
+      },
       "matches": [
         {
           "round": "Round of 16",
@@ -267,8 +273,11 @@
       "headline": "Yellow for the First Time. The Battle of Bern.",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Sele%C3%A7%C3%A3o_Brasileira_embarcando_para_a_Copa_do_Mundo_de_1954.tif",
+      "imageCredit": {
+        "player": null,
+        "game": "Brazilian national team boarding for the 1954 FIFA World Cup. Public domain (Arquivo Nacional / Correio da Manhã)."
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -387,8 +396,11 @@
       "headline": "Garrincha's World Cup",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Garrincha_na_copa_de_1962.jpg",
+      "imageCredit": {
+        "player": "Garrincha",
+        "game": "Garrincha during Brazil's 1962 FIFA World Cup campaign. Public domain (Arquivo Nacional)."
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -504,8 +516,11 @@
       "headline": "The Kit That Became a Religion",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pele_celebrating_1970.jpg",
+      "imageCredit": {
+        "player": "Pelé",
+        "game": "Pelé celebrating Brazil's 1970 FIFA World Cup win. Public domain."
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -573,8 +588,11 @@
       "headline": "The Post-1970 Hangover",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Valdomiro_Vaz_Franco%2C_Roberto_Rivelino%2C_Jairzinho_1974.jpg",
+      "imageCredit": {
+        "player": null,
+        "game": "Valdomiro Vaz Franco, Roberto Rivelino and Jairzinho at Brazil's 1974 FIFA World Cup training session. CC BY-SA 3.0 NL / Dutch National Archives."
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -649,8 +667,11 @@
       "headline": "Argentina's Junta. Goal Difference. Third.",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Brazil_v_sweden_1978_01.jpg",
+      "imageCredit": {
+        "player": null,
+        "game": "Brazil vs. Sweden, Group Stage — 1978 FIFA World Cup, June 3 1978. Public domain (El Gráfico)."
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -725,8 +746,11 @@
       "headline": "The Greatest Team to Never Win",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Italy_v_brazil_1982_02.jpg",
+      "imageCredit": {
+        "player": "Sócrates",
+        "game": "Italy vs. Brazil, 2nd Round — 1982 FIFA World Cup, July 5 1982. Public domain (El Gráfico)."
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -907,8 +931,11 @@
       "headline": "24 Years. Romário. Bebeto. Four Stars.",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Salvaromariobrasil.jpg",
+      "imageCredit": {
+        "player": "Dunga",
+        "game": "Brazil's national team training camp, 1994 FIFA World Cup. CC BY-SA 4.0 / Wikimedia Commons."
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -1138,8 +1165,11 @@
       "headline": "Ronaldo's Record. Zidane's Exit.",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/FIFA_World_Cup_2006_-_BRA_vs_CRO.jpg",
+      "imageCredit": {
+        "player": null,
+        "game": "Brazil vs. Croatia, Group Stage — 2006 FIFA World Cup, Olympiastadion Berlin, June 13 2006. CC BY 2.0 / Wikimedia Commons."
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -1200,8 +1230,11 @@
       "headline": "Africa's First. Holland's Counter.",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Brazil_national_football_team_at_the_Pal%C3%A1cio_da_Alvorada_2010-05-26_1.jpg",
+      "imageCredit": {
+        "player": null,
+        "game": "Brazil's national team received by President Lula ahead of the 2010 FIFA World Cup, Palácio da Alvorada, May 26 2010. CC BY 3.0 BR / Agência Brasil."
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -1262,8 +1295,11 @@
       "headline": "7-1. At Home.",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Brazil_and_Croatia_match_at_the_FIFA_World_Cup_2014-06-12_%2823%29.jpg",
+      "imageCredit": {
+        "player": null,
+        "game": "Brazil vs. Croatia, opening match — 2014 FIFA World Cup, Arena Corinthians, June 12 2014. CC BY 3.0 / Wikimedia Commons."
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -1338,8 +1374,11 @@
       "headline": "Neymar's Russia. Belgium's Ambush.",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Thiago_Silva_2018.jpg",
+      "imageCredit": {
+        "player": "Thiago Silva",
+        "game": "Thiago Silva ahead of Brazil vs. Costa Rica, 2018 FIFA World Cup, June 21 2018. CC BY-SA 3.0 / Wikimedia Commons."
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -1400,8 +1439,11 @@
       "headline": "The Bicycle Kick. Croatia's Penalties.",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Brazil_vs_Serbia_WC2022_Gabriel_Jesus_entering_the_pitch.jpg",
+      "imageCredit": {
+        "player": "Gabriel Jesus",
+        "game": "Gabriel Jesus enters the pitch, Brazil vs. Serbia — 2022 FIFA World Cup, Lusail Stadium, December 1 2022. CC BY 4.0 / Wikimedia Commons."
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -1462,8 +1504,11 @@
       "headline": "Haaland Breaks Brazilian Hearts",
       "homeColors": "canary yellow shirt with green trim and distorted-flag pattern, blue shorts, white socks",
       "awayColors": "royal blue shirt with black detailing and Jordan Brand 'Elephant' pattern, navy shorts, blue socks",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Alisson_Becker_Brazil_V_Morocco_13_June_2026-13.jpg",
+      "imageCredit": {
+        "player": "Alisson Becker",
+        "game": "Alisson Becker, Brazil vs. Morocco — 2026 FIFA World Cup, June 13 2026. CC BY-SA 4.0 / Wikimedia Commons."
+      },
       "matches": [
         {
           "round": "Group Stage",

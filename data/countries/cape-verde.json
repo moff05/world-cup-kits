@@ -33,8 +33,11 @@
       "headline": "Smallest Nation, Biggest Scare",
       "homeColors": "deep blue shirt with red trim and triangular flight-path pattern, blue shorts, blue socks",
       "awayColors": "white shirt with tonal grey flight-path pattern and blue/red detailing, white shorts, white socks",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Ryan_Mendes_Fifa_World_Cup_2026_Cabo_Verde_vs_Saudia_Arabia.jpg",
+      "imageCredit": {
+        "player": "Ryan Mendes",
+        "game": "Cape Verde v Saudi Arabia, Group Stage, June 26 2026 — CC BY 4.0 / Wikimedia Commons"
+      },
       "matches": [
         {
           "round": "Group Stage",

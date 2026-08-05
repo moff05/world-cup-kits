@@ -50,9 +50,13 @@ Search: **"[Country] national football team kit [decade]" site:en.wikipedia.org*
 Extract home and away colors for each tournament year. If not findable for a specific year, describe the era's known colors or set to null.
 
 ### Source D — Images
-Search Wikimedia Commons: **commons.wikimedia.org/wiki/Category:[YEAR]_FIFA_World_Cup**
+Search Wikimedia Commons in this order, stopping at the first hit:
+1. **commons.wikimedia.org/wiki/Category:[YEAR]_FIFA_World_Cup** — a match/in-game photo featuring this country
+2. **commons.wikimedia.org/wiki/Category:[Country]_national_football_team** — a squad/team photo from that era, even if not from this specific tournament
+3. **"[Country] national football team [YEAR]" site:commons.wikimedia.org** — any team photo, training photo, or official portrait from around that year
+4. **"[Player name] [Country] [YEAR]" site:commons.wikimedia.org** — a photo of an individual player who was on that year's squad (a headshot, action shot, or portrait), if one of the more notable players from that squad has a Commons photo from around that era
 
-Find one freely-licensed (CC BY, CC BY-SA, or public domain) match photo featuring this country. Must be a real, verified URL. Set to null if nothing suitable found.
+Acceptable substitutes for a tournament match photo, in rough order of preference: a match/in-game shot from that World Cup, a general team/squad photo from that era, or a photo of an individual player from that squad. It does not need to be from the tournament itself, just recognizably that country's team or one of its players from that era. Must be a real, freely-licensed (CC BY, CC BY-SA, or public domain) verified URL. Set to null only if nothing suitable turns up across all four searches.
 
 ### Source E — Kit traditions
 Search: **"[Country] national football team history kit" site:en.wikipedia.org**
