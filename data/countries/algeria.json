@@ -54,10 +54,10 @@
       ],
       "homeColors": "white shirt with green trim, drawn from the Algerian flag",
       "awayColors": "green shirt with white trim",
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Algeria_v_germany_1982_01.jpg",
       "imageCredit": {
         "player": null,
-        "game": null
+        "game": "Algeria v West Germany, 1982 FIFA World Cup (Wikimedia Commons)"
       },
       "matches": [
         {
@@ -156,10 +156,10 @@
       ],
       "homeColors": "white shirt with green trim (Puma)",
       "awayColors": "green shirt with white trim (Puma)",
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_England_Algeria.jpg",
       "imageCredit": {
         "player": null,
-        "game": null
+        "game": "England v Algeria, 2010 FIFA World Cup (Wikimedia Commons)"
       },
       "matches": [
         {
@@ -207,10 +207,10 @@
       ],
       "homeColors": "white shirt with green sash and trim (Puma)",
       "awayColors": "green shirt with white trim (Puma)",
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Riyad_Mahrez_-_2014_World_Cup.jpg",
       "imageCredit": {
-        "player": null,
-        "game": null
+        "player": "Riyad Mahrez",
+        "game": "Algeria v Belgium, 2014 FIFA World Cup (Wikimedia Commons)"
       },
       "matches": [
         {
