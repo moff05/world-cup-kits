@@ -8,7 +8,7 @@ Kit history, match records, and stories for every nation that has appeared at th
 
 ## What it is
 
-A reference archive where each country page covers every World Cup appearance: kit colors, a match-by-match record, and annotated editorial stories for each tournament year. Built around Brazil as the reference implementation (23/23 years, 5 with archival photos) and expanding outward via an autonomous data pipeline.
+A reference archive where each country page covers every World Cup appearance: kit colors, a match-by-match record, and annotated editorial stories for each tournament year. Built around Brazil as the reference implementation (23/23 years, 20 with archival photos) and expanding outward via an autonomous data pipeline.
 
 ---
 
@@ -158,4 +158,4 @@ world-cup-kits/
 
 ## Status
 
-83 / 83 countries have full data. Photo coverage is sparse by design (47/536 country-years, ~9%) since the pipeline only sets an image when a freely-licensed Wikimedia Commons match photo exists — no guessing.
+83 / 83 countries have full data. Photo coverage is at 299/536 country-years (~56%) — the pipeline accepts team, player, or match photos from around that era, and only sets an image when a freely-licensed Wikimedia Commons match exists — no guessing. Remaining gaps are a mix of genuine dead ends and countries not yet re-run since the sourcing criteria broadened.
