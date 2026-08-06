@@ -345,8 +345,11 @@
       "headline": "The Ghost Goal Final",
       "homeColors": "white shirt, black shorts, white socks (Umbro)",
       "awayColors": "green shirt, white shorts",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Argentina_germania_1966.JPG",
+      "imageCredit": {
+        "player": null,
+        "game": "Argentina v West Germany, 1966 FIFA World Cup (Wikimedia Commons)"
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -631,8 +634,11 @@
       "headline": "The Disgrace of Gijón, Then Italy",
       "homeColors": "white shirt, black shorts, white socks (first Adidas kit)",
       "awayColors": "green shirt, white shorts",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Germany_v_france_1982_01.jpg",
+      "imageCredit": {
+        "player": null,
+        "game": "West Germany v France, 1982 FIFA World Cup semi-final (Wikimedia Commons)"
+      },
       "matches": [
         {
           "round": "Group Stage",
