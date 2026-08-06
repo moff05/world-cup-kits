@@ -56,10 +56,10 @@
       ],
       "homeColors": "gold shirt, green shorts, white socks",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Doug_Utjesenovic_(cropped).jpg",
       "imageCredit": {
-        "player": null,
-        "game": null
+        "player": "Doug Utjesenovic",
+        "game": "East Germany v Australia, 1974 FIFA World Cup (Wikimedia Commons)"
       },
       "matches": [
         {
