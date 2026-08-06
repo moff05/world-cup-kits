@@ -207,10 +207,10 @@
       ],
       "homeColors": "dark blue shirt, white shorts, dark blue socks",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Peru_v_Scotland_(1978_FIFA_World_Cup).jpg",
       "imageCredit": {
-        "player": null,
-        "game": null
+        "player": "Joe Jordan",
+        "game": "Scotland v Peru, 1978 FIFA World Cup (Wikimedia Commons)"
       },
       "story": "Manager Ally MacLeod promised a medal and got a nightmare: a 3–1 loss to Peru and a flat 1–1 draw with Iran left the campaign in ruins before Archie Gemmill's wonder goal helped beat the Netherlands 3–2 in the finale. It remains one of the sport's great what-ifs — Scotland needed three clear goals to advance and managed only two.",
       "matches": [
