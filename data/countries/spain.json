@@ -67,9 +67,9 @@
       ],
       "homeColors": "red shirt, blue shorts, black socks",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:1934_FIFA_World_Cup_-_Italy_v_Spain_-_Gianpiero_Combi_and_Ricardo_Zamora.jpg",
       "imageCredit": {
-        "player": null,
+        "player": "Ricardo Zamora",
         "game": null
       },
       "matches": [
