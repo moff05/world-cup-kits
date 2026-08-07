@@ -705,9 +705,9 @@
       ],
       "homeColors": "red shirt, blue shorts, white socks",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Aleksandar_Mitrovi%C4%87_CRC-SRB_crop.jpg",
       "imageCredit": {
-        "player": null,
+        "player": "Aleksandar Mitrović",
         "game": null
       },
       "matches": [

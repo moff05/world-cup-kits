@@ -164,10 +164,10 @@
       ],
       "homeColors": "red shirt with white and blue brushstroke trim, blue shorts, white socks (Joma)",
       "awayColors": "white shirt with blue vertical stripes, white shorts (Joma)",
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:WC_2006_-_Germany_v_Costa_Rica_-_teams.jpg",
       "imageCredit": {
         "player": null,
-        "game": null
+        "game": "Germany v Costa Rica, 2006 FIFA World Cup opening match"
       },
       "matches": [
         {
@@ -215,9 +215,9 @@
       ],
       "homeColors": "red shirt with blue front stripe, blue shorts, red socks (Lotto)",
       "awayColors": "white shirt with red and blue trim, white shorts (Lotto)",
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Uruguay_-_Costa_Rica_FIFA_World_Cup_2014_(14).jpg",
       "imageCredit": {
-        "player": null,
+        "player": "Michael Umaña",
         "game": null
       },
       "matches": [

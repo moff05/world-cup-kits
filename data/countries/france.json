@@ -119,10 +119,10 @@
       ],
       "homeColors": "blue shirt, white shorts (FFF issue)",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:L%27%C3%A9quipe_de_France_de_football_%C3%A0_la_Coupe_du_Monde_1934_(_oppos%C3%A9e_%C3%A0_l%27Autriche).jpg",
       "imageCredit": {
         "player": null,
-        "game": null
+        "game": "France squad photo, 1934 FIFA World Cup"
       },
       "matches": [
         {
