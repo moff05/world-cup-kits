@@ -221,8 +221,11 @@
       "headline": "Fontaine Ends the Defense",
       "homeColors": "white shirt, black shorts, white socks (Leuzela)",
       "awayColors": "green shirt, white shorts",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://commons.wikimedia.org/wiki/File:HamrinSemifinal1958.jpg",
+      "imageCredit": {
+        "player": null,
+        "game": "West Germany v Sweden, 1958 FIFA World Cup semifinal"
+      },
       "matches": [
         {
           "round": "Group Stage",
@@ -789,8 +792,11 @@
       "headline": "Brehme's Penalty in Rome",
       "homeColors": "white shirt with black, red, and gold trim; black shorts; white socks",
       "awayColors": "green shirt, white shorts",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Italien_%E2%80%93_WM_in_Mailand_-_10._Juni_1990_-_Deutschland_-_Jugoslawien_4-1_-_panoramio.jpg",
+      "imageCredit": {
+        "player": null,
+        "game": "West Germany v Yugoslavia, 1990 FIFA World Cup, San Siro, Milan"
+      },
       "matches": [
         {
           "round": "Group Stage",

@@ -105,9 +105,9 @@
       ],
       "homeColors": "white shirt with green trim",
       "awayColors": "green shirt with white trim",
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Belloumi,_lakhdar_1986.jpg",
       "imageCredit": {
-        "player": null,
+        "player": "Lakhdar Belloumi",
         "game": null
       },
       "matches": [
