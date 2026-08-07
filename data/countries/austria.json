@@ -57,9 +57,9 @@
       ],
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Sindelar-aut.jpg",
       "imageCredit": {
-        "player": null,
+        "player": "Matthias Sindelar",
         "game": null
       },
       "matches": [
@@ -180,10 +180,10 @@
       ],
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:%C3%96sterrike_1958.jpg",
       "imageCredit": {
         "player": null,
-        "game": null
+        "game": "Austria national team squad photo, published in Rekord-Magasinet, September 1958"
       },
       "matches": [
         {
