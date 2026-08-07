@@ -56,10 +56,10 @@
       ],
       "homeColors": "White shirt, white shorts (Adidas)",
       "awayColors": "Red shirt, white shorts (Adidas)",
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Iran_football_WC_1978.png",
       "imageCredit": {
         "player": null,
-        "game": null
+        "game": "Iran squad photo, 1978 FIFA World Cup"
       },
       "matches": [
         {
