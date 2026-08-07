@@ -247,10 +247,10 @@
       ],
       "homeColors": "blue shirt, white shorts, red socks (Le Coq Sportif)",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Fontaine1958.jpg",
       "imageCredit": {
-        "player": null,
-        "game": null
+        "player": "Just Fontaine",
+        "game": "France, 1958 FIFA World Cup (Wikimedia Commons)"
       },
       "matches": [
         {
