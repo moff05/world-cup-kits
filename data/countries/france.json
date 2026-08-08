@@ -914,9 +914,9 @@
       ],
       "homeColors": "dark blue shirt with light blue soundwave print on the sleeves, white shorts (Nike)",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Hugo_Lloris_201807091.jpg",
       "imageCredit": {
-        "player": null,
+        "player": "Hugo Lloris",
         "game": null
       },
       "matches": [
@@ -994,10 +994,10 @@
       ],
       "homeColors": "dark navy shirt with metallic gold detailing, white shorts (Nike)",
       "awayColors": "white shirt with blue trim and a Toile de Jouy-inspired pattern celebrating French landmarks (Nike)",
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:2022_wc_final_05.jpg",
       "imageCredit": {
-        "player": null,
-        "game": null
+        "player": "Kylian Mbappé",
+        "game": "Scoring his second goal in extra time, 2022 FIFA World Cup Final"
       },
       "matches": [
         {

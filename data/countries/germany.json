@@ -1350,8 +1350,11 @@
       "headline": "Group Stage, Again",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": "black shirt",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Thomas_M%C3%BCller_WC2022.jpg",
+      "imageCredit": {
+        "player": "Thomas Müller",
+        "game": "Germany 1-2 Japan, group stage"
+      },
       "matches": [
         {
           "round": "Group Stage",
