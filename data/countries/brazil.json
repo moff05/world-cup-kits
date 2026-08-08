@@ -1092,8 +1092,11 @@
       "headline": "Ronaldo's Comeback. Five Stars.",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Ronaldo_2002_cropped.jpg",
+      "imageCredit": {
+        "player": "Ronaldo",
+        "game": "The day before the 2002 World Cup Final"
+      },
       "matches": [
         {
           "round": "Group Stage",
