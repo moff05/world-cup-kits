@@ -123,10 +123,10 @@
       ],
       "homeColors": "white shirt with green collar and sleeve trim, featuring a lion graphic on the chest (Puma)",
       "awayColors": "green shirt with white trim, same lion graphic as the home kit (Puma)",
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Sadio_Man%C3%A9_Senegal.jpg",
       "imageCredit": {
-        "player": null,
-        "game": null
+        "player": "Sadio Mané",
+        "game": "Senegal vs Poland, group stage"
       },
       "matches": [
         {
