@@ -871,8 +871,11 @@
       "headline": "Klinsmann's Diving Celebration",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": "green shirt, white shorts",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://commons.wikimedia.org/wiki/File:World_Cup_1994_-_Bulgaria_v_Germany_-_action_in_the_first_half.jpg",
+      "imageCredit": {
+        "player": null,
+        "game": "Germany vs Bulgaria, quarterfinal"
+      },
       "matches": [
         {
           "round": "Group Stage",
