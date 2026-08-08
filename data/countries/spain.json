@@ -914,10 +914,10 @@
       ],
       "homeColors": "red shirt, navy shorts, black socks (Adidas)",
       "awayColors": "pale 'Halo Blue' shirt with red trim and an 1980s-inspired geometric pattern (Adidas)",
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Sergio_Busquets_2018.jpg",
       "imageCredit": {
-        "player": null,
-        "game": null
+        "player": "Sergio Busquets",
+        "game": "Portugal vs Spain, group stage"
       },
       "matches": [
         {
