@@ -757,10 +757,10 @@
       ],
       "homeColors": "red shirt, blue shorts, white socks",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Strahinja_Pavlovi%C4%87_WC2022.jpg",
       "imageCredit": {
-        "player": null,
-        "game": null
+        "player": "Strahinja Pavlović",
+        "game": "Serbia vs Brazil, group stage"
       },
       "matches": [
         {
