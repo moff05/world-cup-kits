@@ -231,10 +231,10 @@
       ],
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Krankl_goal.webp",
       "imageCredit": {
-        "player": null,
-        "game": null
+        "player": "Hans Krankl",
+        "game": "vs. West Germany, Córdoba, 1978 World Cup"
       },
       "matches": [
         {
