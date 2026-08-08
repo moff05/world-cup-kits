@@ -1150,8 +1150,11 @@
       "headline": "Young Guns Score Twice",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": "black shirt, worn with the home kit's black shorts at the tournament",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Germany_Australia.jpg",
+      "imageCredit": {
+        "player": null,
+        "game": "Germany vs Australia, group stage"
+      },
       "matches": [
         {
           "round": "Group Stage",

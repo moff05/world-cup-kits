@@ -653,10 +653,10 @@
       ],
       "homeColors": "red shirt, blue shorts, white socks",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Serbia_Ghana.jpg",
       "imageCredit": {
         "player": null,
-        "game": null
+        "game": "Serbia vs Ghana, group stage"
       },
       "matches": [
         {

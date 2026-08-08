@@ -108,10 +108,10 @@
       ],
       "homeColors": "white shirt with black Nike swoosh, silver fern crest, and grey-striped cuffs (Nike)",
       "awayColors": "black shirt with white Nike swoosh, white fern crest, and white sleeve stripes (Nike)",
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Italy_New_Zealand.jpg",
       "imageCredit": {
         "player": null,
-        "game": null
+        "game": "New Zealand vs Italy, group stage"
       },
       "matches": [
         {
