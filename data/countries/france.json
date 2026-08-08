@@ -424,10 +424,10 @@
       ],
       "homeColors": "blue shirt with white and red pinstripes, white shorts (Le Coq Sportif)",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:France_v_czechoslovakia_1982_01.jpg",
       "imageCredit": {
-        "player": null,
-        "game": null
+        "player": "Michel Platini",
+        "game": "vs. Czechoslovakia, 1982 World Cup"
       },
       "matches": [
         {
@@ -504,10 +504,10 @@
       ],
       "homeColors": "blue shirt, white shorts, red socks (Adidas, first tournament under the new kit deal)",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Platini_vs_canada.jpg",
       "imageCredit": {
-        "player": null,
-        "game": null
+        "player": "Michel Platini",
+        "game": "vs. Canada, 1986 World Cup"
       },
       "matches": [
         {
