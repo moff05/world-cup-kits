@@ -222,10 +222,10 @@
       ],
       "homeColors": "green shirt, white shorts, green socks (Adidas)",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_South_Korea_Nigeria.jpg",
       "imageCredit": {
         "player": null,
-        "game": null
+        "game": "Nigeria vs South Korea, group stage"
       },
       "matches": [
         {
