@@ -331,10 +331,10 @@
       ],
       "homeColors": "green shirt with black-and-white feathered chevron pattern, white shorts (Nike)",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:John_Ogu_2018.jpg",
       "imageCredit": {
-        "player": null,
-        "game": null
+        "player": "John Ogu",
+        "game": "Nigeria preparing for their match against Argentina"
       },
       "matches": [
         {
