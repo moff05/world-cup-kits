@@ -716,8 +716,11 @@
       "headline": "Maradona's Argentina Gets Revenge",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": "green shirt, white shorts",
-      "image": null,
-      "imageCredit": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Ruggeri_vs_rummenigge_final.jpg",
+      "imageCredit": {
+        "player": "Karl-Heinz Rummenigge",
+        "game": "1986 World Cup Final vs. Argentina"
+      },
       "matches": [
         {
           "round": "Group Stage",
