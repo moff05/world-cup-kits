@@ -296,10 +296,10 @@
       ],
       "homeColors": "red shirt, blue shorts, black socks",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Austria_v_spain_1978_01.jpg",
       "imageCredit": {
         "player": null,
-        "game": null
+        "game": "vs. Austria, 1978 World Cup"
       },
       "matches": [
         {
@@ -348,10 +348,10 @@
       ],
       "homeColors": "red shirt with white trim, blue shorts, black socks (Adidas debut kit)",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Spain_v_germany_1982_01.jpg",
       "imageCredit": {
         "player": null,
-        "game": null
+        "game": "vs. West Germany, 1982 World Cup"
       },
       "matches": [
         {
@@ -414,10 +414,10 @@
       ],
       "homeColors": "red shirt, blue shorts, black socks (Le Coq Sportif)",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Denmark_vs_spain_elkjaer.jpg",
       "imageCredit": {
-        "player": null,
-        "game": null
+        "player": "Ricardo Gallego",
+        "game": "vs. Denmark, 1986 World Cup"
       },
       "matches": [
         {
