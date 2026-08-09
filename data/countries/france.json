@@ -372,10 +372,10 @@
       ],
       "homeColors": "blue shirt, white shorts, red socks (Le Coq Sportif)",
       "awayColors": "borrowed green-and-white vertical stripes from Club Atlético Kimberley (worn once, vs Hungary, after a kit clash)",
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:1978_FIFA_World_Cup_-_Italy_v_France_-_Michel_Platini.jpg",
       "imageCredit": {
-        "player": null,
-        "game": null
+        "player": "Michel Platini",
+        "game": "vs. Italy, 1978 World Cup"
       },
       "matches": [
         {
