@@ -152,10 +152,10 @@
       ],
       "homeColors": "white shirt with red diagonal sash, navy blue collar, white shorts, red socks",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:England_v_USA_-_1950_FIFA_World_Cup_01.jpg",
       "imageCredit": {
         "player": null,
-        "game": null
+        "game": "vs. England, 1950 World Cup"
       },
       "matches": [
         {
