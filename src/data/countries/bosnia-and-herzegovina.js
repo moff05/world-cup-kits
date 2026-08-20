@@ -121,10 +121,10 @@ export const bosniaAndHerzegovina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:2026_FIFA_World_Cup_-_Bosnia_and_Herzegovina_v._Qatar_in_Seattle_-_01.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Bosnia and Herzegovina v. Qatar, group stage, Lumen Field in Seattle, 2026 FIFA World Cup"
           },
           "annotations": [
             {
