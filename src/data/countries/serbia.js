@@ -635,10 +635,10 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2006_-_SCG_vs_CIV.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Serbia and Montenegro players warming up before facing Ivory Coast at the 2006 World Cup"
           },
           "annotations": [
             {
