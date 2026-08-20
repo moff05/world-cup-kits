@@ -58,10 +58,10 @@ export const cuba = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Sweden_vs_cuba_1938_world_cup.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Sweden v Cuba, 1938 FIFA World Cup"
           },
           "annotations": [
             {
