@@ -59,10 +59,10 @@ export const drCongo = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-N0614-0028,_Fu%C3%9Fball-WM,_Zaire_-_Schottland_0-2.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Zaire v Scotland, 1974 FIFA World Cup"
           },
           "annotations": [
             {
@@ -121,10 +121,10 @@ export const drCongo = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:2026_FIFA_World_Cup_Match_72,_DR_Congo_v_Uzbekistan.webp",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "DR Congo v Uzbekistan, group stage, 2026 FIFA World Cup"
           },
           "annotations": [
             {
