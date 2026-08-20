@@ -526,9 +526,9 @@ export const belgium = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Marc_Degryse-1992.png",
           "imageCredit": {
-            "player": null,
+            "player": "Marc Degryse, forward on Belgium's USA '94 squad, pictured in 1991",
             "game": null
           },
           "annotations": [
@@ -581,9 +581,9 @@ export const belgium = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Oliveira_1997-ok.jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Luis Oliveira, forward on Belgium's 1998 World Cup squad, pictured in 1997",
             "game": null
           },
           "annotations": [
