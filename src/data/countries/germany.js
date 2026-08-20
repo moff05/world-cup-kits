@@ -130,8 +130,11 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Germany_v_Switzerland_WC_1938_(1).jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "Germany v Switzerland, 1938 FIFA World Cup"
+          },
           "annotations": [
             {
               "id": "the-anschluss-squad-1938",
