@@ -107,10 +107,10 @@ export const paraguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Dar%C3%ADo_Jara_Saguier.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Darío Jara Saguier with the Paraguay squad, 1950 FIFA World Cup — public domain"
           },
           "annotations": [
             {
