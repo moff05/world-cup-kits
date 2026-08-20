@@ -116,9 +116,9 @@ export const southAfrica = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Lucas_Radebe_in_South_Africa.jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Lucas Radebe, who captained South Africa at the 2002 World Cup",
             "game": null
           },
           "annotations": [
@@ -233,10 +233,10 @@ export const southAfrica = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Team_Warm-ups_During_the_2026_World_Cup_South_Africa.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "South Africa players warming up before their 2026 World Cup opener against Mexico"
           },
           "annotations": [
             {
