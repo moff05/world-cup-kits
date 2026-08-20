@@ -365,9 +365,9 @@ export const southKorea = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Hong_Myung-Bo.jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Hong Myung-bo, captain of South Korea's 2002 World Cup semifinal run",
             "game": null
           },
           "annotations": [
@@ -420,9 +420,9 @@ export const southKorea = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Ahn_Jung-hwan.JPG",
           "imageCredit": {
-            "player": null,
+            "player": "Ahn Jung-hwan, member of South Korea's 2006 World Cup squad, pictured in January 2006",
             "game": null
           },
           "annotations": [
@@ -709,10 +709,10 @@ export const southKorea = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:South_Corea-Czechia2026FWC.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "South Korea vs Czech Republic at the 2026 World Cup, June 2026"
           },
           "annotations": [
             {
