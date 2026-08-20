@@ -197,10 +197,10 @@ export const senegal = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:S%C3%A9n%C3%A9gal_champions_CAN_2021_au_Cameroun.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Senegal celebrating their 2021 Africa Cup of Nations title in February 2022, months before the Qatar World Cup, with Koulibaly, Mendy and Gueye pictured"
           },
           "annotations": [
             {
@@ -259,10 +259,10 @@ export const senegal = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Kalidou_Koulibaly_France_v_Senegal_16_June_2026-321.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Kalidou Koulibaly playing for Senegal against France at the 2026 World Cup"
           },
           "annotations": [
             {
