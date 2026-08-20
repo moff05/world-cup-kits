@@ -541,10 +541,10 @@ export const hungary = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Aankomst_Hongaars_elftal_op_Schiphol_voor_kwalificatiewedstrijd_Europees_kampioe,_Bestanddeelnr_933-9627.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Hungary national team arrival at Schiphol, 1987, featuring Lajos Détári and other players from the 1986 World Cup squad — CC0 / Dutch National Archives"
           },
           "annotations": [
             {
