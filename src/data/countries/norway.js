@@ -47,10 +47,10 @@ export const norway = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Bronselaget_1936.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Norway's 1936 Olympic bronze medal-winning squad, the core group that played the 1938 World Cup — public domain"
           },
           "annotations": [
             {
