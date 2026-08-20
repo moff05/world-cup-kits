@@ -279,10 +279,10 @@ export const scotland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Brazil_v_scotland_1982_01.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Scotland vs Brazil at the 1982 World Cup, Group Stage in Spain"
           },
           "annotations": [
             {
@@ -389,9 +389,9 @@ export const scotland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Ally_McCoist_1994.jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Ally McCoist, part of Scotland's 1990 World Cup squad, pictured with Rangers in 1994",
             "game": null
           },
           "annotations": [
@@ -499,10 +499,10 @@ export const scotland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Andy_Robertson_Scotland_v_Bolivia_6_June_2026-34.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Captain Andy Robertson playing for Scotland in their final World Cup warm-up match, June 2026"
           },
           "annotations": [
             {
