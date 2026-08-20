@@ -130,9 +130,9 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Antonio_Carbajal,_Estadio,_1952-04-26_(467).jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Antonio Carbajal, Mexico's 1950 World Cup goalkeeper, photographed 1952",
             "game": null
           },
           "annotations": [
