@@ -64,9 +64,9 @@ export const morocco = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Ahmed_Faras_M%C3%A9xico_70.png",
           "imageCredit": {
-            "player": null,
+            "player": "Ahmed Faras, Panini México 70 sticker",
             "game": null
           },
           "annotations": [
