@@ -513,10 +513,10 @@ export const austria = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:ALGvAUS.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Algeria vs Austria at Kansas City Stadium, 2026 FIFA World Cup"
           },
           "annotations": [
             {

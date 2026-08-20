@@ -108,8 +108,11 @@
       "headline": "Gone in the Replay",
       "homeColors": "white shirt, black shorts, white socks",
       "awayColors": null,
-      "image": null,
-      "imageCredit": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Germany_v_Switzerland_WC_1938_(1).jpg",
+      "imageCredit": {
+        "player": null,
+        "game": "Germany v Switzerland, 1938 FIFA World Cup"
+      },
       "matches": [
         {
           "round": "Round of 16",

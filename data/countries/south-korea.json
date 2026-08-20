@@ -315,9 +315,9 @@
       ],
       "homeColors": "red shirt, red shorts",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Hong_Myung-Bo.jpg",
       "imageCredit": {
-        "player": null,
+        "player": "Hong Myung-bo, captain of South Korea's 2002 World Cup semifinal run",
         "game": null
       },
       "matches": [
@@ -395,9 +395,9 @@
       ],
       "homeColors": "red shirt, black shorts",
       "awayColors": null,
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:Ahn_Jung-hwan.JPG",
       "imageCredit": {
-        "player": null,
+        "player": "Ahn Jung-hwan, member of South Korea's 2006 World Cup squad, pictured in January 2006",
         "game": null
       },
       "matches": [
@@ -668,10 +668,10 @@
       ],
       "homeColors": "'Global Red' shirt with mountain-and-tiger-skin-texture graphic, black sleeve cuffs, gold-outlined Swoosh, red shorts, red socks (Nike)",
       "awayColors": "'Space Purple' shirt with large-scale Mugunghwa floral graphic, mint Swoosh and crest outlined in Global Blue, purple shorts, purple socks (Nike)",
-      "image": null,
+      "image": "https://commons.wikimedia.org/wiki/File:South_Corea-Czechia2026FWC.jpg",
       "imageCredit": {
         "player": null,
-        "game": null
+        "game": "South Korea vs Czech Republic at the 2026 World Cup, June 2026"
       },
       "matches": [
         {
