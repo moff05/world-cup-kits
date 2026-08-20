@@ -1020,9 +1020,9 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Totti_2002.jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Francesco Totti, official portrait, September 2002",
             "game": null
           },
           "annotations": [
