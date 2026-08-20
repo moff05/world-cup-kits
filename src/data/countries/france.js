@@ -163,10 +163,10 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:L%27%C3%A9quipe_de_France_de_football_%C3%A0_la_Coupe_du_monde_1938.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "France's 1938 World Cup squad, after their win over Belgium"
           },
           "annotations": [
             {
@@ -211,10 +211,10 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Yugoslavia_v_Francia,_Estadio,_1954-06-26_(580).jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Yugoslavia v France, 1954 FIFA World Cup"
           },
           "annotations": [
             {
@@ -908,9 +908,9 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Paul_Pogba_20140816.jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Paul Pogba, midfielder on France's 2014 World Cup squad, weeks after the tournament",
             "game": null
           },
           "annotations": [
