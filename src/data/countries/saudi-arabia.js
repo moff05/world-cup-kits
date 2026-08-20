@@ -346,9 +346,9 @@ export const saudiArabia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Salem_Al-Dawsari_2018.jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Salem Al-Dawsari, who scored the winner against Argentina in 2022, pictured in action at the 2018 World Cup",
             "game": null
           },
           "annotations": [
