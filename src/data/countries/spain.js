@@ -150,10 +150,10 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Uruguay_v_Espa%C3%B1a,_Estadio,_1950-07-15_(374)_01.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Spain vs Uruguay at the 1950 World Cup final round, published in the Chilean magazine Estadio"
           },
           "annotations": [
             {
@@ -205,9 +205,9 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Luis_Su%C3%A1rez_Miramontes_1962.jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Luis Suárez Miramontes, member of Spain's 1962 World Cup squad and the country's only Ballon d'Or winner",
             "game": null
           },
           "annotations": [
@@ -260,9 +260,9 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Real_Madrid_(1966).jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Amancio Amaro, part of Spain's 1966 World Cup squad, pictured with Real Madrid in 1966",
             "game": null
           },
           "annotations": [
@@ -770,9 +770,9 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Fernando_Torres_Atl%C3%A9tico_Madrid.png",
           "imageCredit": {
-            "player": null,
+            "player": "Fernando Torres, who scored for Spain at the 2006 World Cup, pictured weeks after the tournament",
             "game": null
           },
           "annotations": [
@@ -1032,9 +1032,9 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:%C3%81lvaro_Morata.jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Alvaro Morata, Spain's top scorer at the 2022 World Cup, playing for the national team",
             "game": null
           },
           "annotations": [
