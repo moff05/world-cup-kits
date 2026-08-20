@@ -74,10 +74,10 @@ export const czechRepublic = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Schiavio_goal_in_planicka_1934.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "František Plánička",
+            "game": "Italy v Czechoslovakia, Final, June 10 1934 — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -129,10 +129,10 @@ export const czechRepublic = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Begroeting_Nederlandse_en_Tsjechoslowaakse_aanvoerder%2C_WK_1938.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "František Plánička",
+            "game": "Czechoslovakia captains' greeting vs Netherlands, Round of 16, June 5 1938 — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -177,10 +177,10 @@ export const czechRepublic = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Checoslovaquia_en_el_Mundial_1954%2C_Estadio%2C_1954-07-03_%28581%29.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Czechoslovakia squad, 1954 World Cup — Public Domain / Wikimedia Commons (Estadio magazine, Chile)"
           },
           "annotations": [
             {
@@ -315,10 +315,10 @@ export const czechRepublic = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Wereldelftal._Masopust%2C_Bestanddeelnr_915-6600.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Josef Masopust, Adolf Scherer, Jiří Tichý",
+            "game": "Portraits of Czechoslovak footballers, October 22 1963 — CC0 / Wikimedia Commons (Dutch National Archives / Anefo)"
           },
           "annotations": [
             {
@@ -370,10 +370,10 @@ export const czechRepublic = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Revelnofreekick2.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Brazil v Czechoslovakia, Group Stage, June 1970 — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -549,10 +549,10 @@ export const czechRepublic = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/EURO04_Czech_Team_546.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Pavel Nedvěd, Jan Koller, Milan Baroš and teammates",
+            "game": "Czech Republic squad, UEFA Euro 2004, June 15 2004 — CC BY-SA 3.0 / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -604,10 +604,10 @@ export const czechRepublic = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/N%C3%A1stup_%C4%8Cesk%C3%A9_reprezentace_CZE-KUW_2021-11-11.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Czech Republic squad walkout vs Kuwait, friendly, November 11 2021 — CC BY-SA 4.0 / Wikimedia Commons"
           },
           "annotations": [
             {

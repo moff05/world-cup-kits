@@ -66,10 +66,10 @@ export const chile = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Delegaci%C3%B3n_de_Chile_en_el_Mundial_de_1930%2C_Los_Sports%2C_1930-07-18_%28384%29.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Chile delegation at the 1930 World Cup — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -121,10 +121,10 @@ export const chile = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Chile_v_Estados_Unidos%2C_Estadio%2C_1950-07-15_%28374%29_01.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Chile vs United States, 1950 World Cup Group Stage — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -197,10 +197,10 @@ export const chile = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/PLANTEL_SELECCI%C3%93N_CHILENA_MUNDIAL_1962.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Chile national team squad, 1962 World Cup — CC BY 3.0 CL / Wikimedia Commons (Estado de Chile)"
           },
           "annotations": [
             {
@@ -307,10 +307,10 @@ export const chile = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bundesarchiv_Bild_183-N0618-0041%2C_X._Fu%C3%9Fball-WM%2C_Berlin%2C_DDR_-_Chile_1-1.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Francisco Valdés",
+            "game": "East Germany vs Chile, 1974 World Cup Group Stage — CC BY-SA 3.0 DE / Wikimedia Commons (Bundesarchiv)"
           },
           "annotations": [
             {
@@ -362,10 +362,10 @@ export const chile = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Germany_v_chile_1982_01.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "West Germany vs Chile, 1982 World Cup Group Stage — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -486,10 +486,10 @@ export const chile = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Brazil_%26_Chile_match_at_World_Cup_2010-06-28_1.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Brazil vs Chile, 2010 World Cup Round of 16 — CC BY 3.0 BR / Wikimedia Commons (Marcello Casal Jr./Agência Brasil)"
           },
           "annotations": [
             {
@@ -548,10 +548,10 @@ export const chile = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Brazil_vs._Chile_in_Mineir%C3%A3o_34.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Brazil vs Chile, 2014 World Cup Round of 16 — CC BY 3.0 BR / Wikimedia Commons"
           },
           "annotations": [
             {

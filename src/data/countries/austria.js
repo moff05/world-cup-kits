@@ -72,9 +72,9 @@ export const austria = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Sindelar-aut.jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Matthias Sindelar",
             "game": null
           },
           "annotations": [
@@ -141,10 +141,10 @@ export const austria = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Austria_en_el_Mundial_1954,_Estadio,_1954-06-26_(580).jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Austria squad, 1954 FIFA World Cup (Wikimedia Commons)"
           },
           "annotations": [
             {
@@ -196,10 +196,10 @@ export const austria = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:%C3%96sterrike_1958.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Austria national team squad photo, published in Rekord-Magasinet, September 1958"
           },
           "annotations": [
             {
@@ -272,10 +272,10 @@ export const austria = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Krankl_goal.webp",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Hans Krankl",
+            "game": "vs. West Germany, Córdoba, 1978 World Cup"
           },
           "annotations": [
             {
@@ -341,10 +341,10 @@ export const austria = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Germany_v_austria_wc1982_01.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "vs. West Germany, 1982 World Cup"
           },
           "annotations": [
             {

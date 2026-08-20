@@ -65,10 +65,10 @@ export const slovakia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Slovakia_Italy.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Slovakia v Italy, 2010 FIFA World Cup"
           },
           "annotations": [
             {

@@ -75,7 +75,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Delegaci%C3%B3n_de_M%C3%A9xico_en_el_Mundial_1930%2C_Los_Sports%2C_1930-07-25_%28385%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -178,7 +178,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Brasil_v_M%C3%A9xico%2C_Estadio%2C_1954-06-26_%28580%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -233,7 +233,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Liedholm_goal_Sweden_vs_Mexico_WC_1958.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -405,7 +405,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/El_Salvador_vs._Mexico_1970.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -460,7 +460,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Tunicia_v_mexico_1978_01.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -529,7 +529,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Cruz_vs_cabanas.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -777,7 +777,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/FIFA_World_Cup_2006%2C_Iran_1-3_Mexico_%2815%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -839,7 +839,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/First_game_of_the_2010_FIFA_World_Cup%2C_South_Africa_vs_Mexico.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -901,7 +901,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Paul_Aguilar-Mexico.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -1016,10 +1016,10 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Alexis_Vega_WC2022.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Alexis Vega",
+            "game": "Mexico vs Argentina, group stage"
           },
           "annotations": [
             {

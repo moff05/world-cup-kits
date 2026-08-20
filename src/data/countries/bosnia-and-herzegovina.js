@@ -59,10 +59,10 @@ export const bosniaAndHerzegovina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Bosnia_players_at_Maracan%C3%A3_15_June_2014.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Bosnia & Herzegovina squad warming up at the Maracanã ahead of their match against Argentina, 2014 FIFA World Cup"
           },
           "annotations": [
             {

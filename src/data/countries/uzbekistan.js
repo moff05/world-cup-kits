@@ -58,8 +58,11 @@ export const uzbekistan = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Uzbekistan_national_association_football_team_with_President_of_Uzbekistan_after_Uzbekistan-Qatar_match%2C_on_June_10%2C_2025.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "Uzbekistan national team celebrating World Cup qualification after beating Qatar, June 10 2025 — CC BY-SA 4.0 / Wikimedia Commons"
+          },
           "annotations": [
             {
               "id": "fayzullaevs-historic-header",

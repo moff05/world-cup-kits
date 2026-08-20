@@ -59,10 +59,10 @@ export const scotland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Uruguay_v_Escocia,_Estadio,_1954-07-03_(581).jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "vs. Uruguay, 1954 World Cup"
           },
           "annotations": [
             {
@@ -169,9 +169,9 @@ export const scotland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-N0614-0028,_Fu%C3%9Fball-WM,_Zaire_-_Schottland_0-2.jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Billy Bremner",
             "game": null
           },
           "annotations": [
@@ -224,10 +224,10 @@ export const scotland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Peru_v_Scotland_(1978_FIFA_World_Cup).jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Joe Jordan",
+            "game": "Scotland v Peru, 1978 FIFA World Cup (Wikimedia Commons)"
           },
           "annotations": [
             {

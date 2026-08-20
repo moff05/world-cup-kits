@@ -136,7 +136,7 @@ export const republicOfIreland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/FIFA_WM_Football_%28Soccer%29_1994_03.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -198,7 +198,7 @@ export const republicOfIreland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Robbiekeane_ie.JPG",
           "imageCredit": {
             "player": null,
             "game": null

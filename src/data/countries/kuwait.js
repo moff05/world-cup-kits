@@ -58,7 +58,7 @@ export const kuwait = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/France_v_kuwait_1982_01.jpg",
           "imageCredit": {
             "player": null,
             "game": null

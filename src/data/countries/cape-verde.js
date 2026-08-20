@@ -65,8 +65,11 @@ export const capeVerde = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Ryan_Mendes_Fifa_World_Cup_2026_Cabo_Verde_vs_Saudia_Arabia.jpg",
+          "imageCredit": {
+            "player": "Ryan Mendes",
+            "game": "Cape Verde v Saudi Arabia, Group Stage, June 26 2026 — CC BY 4.0 / Wikimedia Commons"
+          },
           "annotations": [
             {
               "id": "eight-minutes-from-history",

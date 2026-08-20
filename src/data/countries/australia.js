@@ -64,10 +64,10 @@ export const australia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Doug_Utjesenovic_(cropped).jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Doug Utjesenovic",
+            "game": "East Germany v Australia, 1974 FIFA World Cup (Wikimedia Commons)"
           },
           "annotations": [
             {
@@ -126,7 +126,7 @@ export const australia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Australia_v_Japan.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -181,7 +181,7 @@ export const australia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/FIFA_World_Cup_2010_Germany_Australia.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -236,7 +236,7 @@ export const australia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Eduardo_Vargas_and_Jason_Davidson_-_Chile_vs._Australia_-_2014_FIFA_World_Cup.JPG",
           "imageCredit": {
             "player": null,
             "game": null
@@ -291,7 +291,7 @@ export const australia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Mile_Jedinak_WC_2018.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -353,7 +353,7 @@ export const australia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Craig_Goodwin_WC2022.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -415,7 +415,7 @@ export const australia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Levi%27s_Stadium_2026_FIFA_World_Cup_Australia_v._Paraguay.jpg",
           "imageCredit": {
             "player": null,
             "game": null

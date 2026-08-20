@@ -59,10 +59,10 @@ export const panama = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:PAN-TUN_(10).jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Édgar Yoel Bárcenas",
+            "game": "Panama vs Tunisia"
           },
           "annotations": [
             {

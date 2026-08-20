@@ -65,7 +65,7 @@ export const cameroon = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Thomas_nkono_1982.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -299,7 +299,7 @@ export const cameroon = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/20060816_191713_0072_Football_Guinee-Cameroun.JPG",
           "imageCredit": {
             "player": null,
             "game": null
@@ -354,7 +354,7 @@ export const cameroon = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Samuel_Eto%27o_vs_Morocco.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -409,7 +409,7 @@ export const cameroon = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Matip_Schalke_2015.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -463,7 +463,7 @@ export const cameroon = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Aboubakar_Vincent_-10-%28c%29-Cmr_vs_Bkn.jpg",
           "imageCredit": {
             "player": null,
             "game": null

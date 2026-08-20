@@ -89,7 +89,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/1934_FIFA_World_Cup_Final_-_Italy_v_Czechoslovakia_-_Pozzo%2C_Monzeglio%2C_Bertolini%2C_Combi%2C_Monti_and_Carcano.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -151,7 +151,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/L%27%C3%A9quipe_d%27Italie_championne_du_monde_de_football%2C_le_19_juin_1938_%C3%A0_Paris.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -199,7 +199,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Suecia_v_Italia%2C_Estadio%2C_1950-07-08_%28373%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -254,7 +254,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/1954_FIFA_World_Cup_qualification_-_Italy_v_Egypt_%28Milan%29_-_Giampiero_Boniperti.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -309,7 +309,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Batalla_de_Santiago_2.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -364,7 +364,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Italy_v_Soviet_Union_%28Milan%2C_1966%29_-_Mazzola%2C_Facchetti%2C_Juliano.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -440,7 +440,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Squadra_azzura_italiano%2C_vice-campione_del_mondo_de_football_1970.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -495,7 +495,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/1974_FIFA_World_Cup_-_Italy_Team_-_Dino_Zoff.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -578,7 +578,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Italy_v_france_1978_05.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -661,7 +661,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Spagna_%2782_-_Paolo_Rossi%2C_Coppa_del_Mondo.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -723,7 +723,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Borghi_vs_de_napoli.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -806,7 +806,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Salvatore_Schillaci.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -889,7 +889,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/ItalyVsNorway1994inUSA.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -958,7 +958,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Del_Piero_Italia_Mondiali_1998.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -1103,7 +1103,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fabio_Grosso_in_world_cup_final_2006.png",
           "imageCredit": {
             "player": null,
             "game": null
@@ -1158,10 +1158,10 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Claudio_Marchisio_2010.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Claudio Marchisio",
+            "game": "Italy vs Paraguay, group stage"
           },
           "annotations": [
             {
@@ -1213,10 +1213,10 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Mario_Balotelli_-_140624-7121-jikatu_(14318827317).jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Mario Balotelli",
+            "game": "Italy vs Uruguay, group stage"
           },
           "annotations": [
             {

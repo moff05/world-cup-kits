@@ -279,8 +279,11 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://commons.wikimedia.org/wiki/File:HamrinSemifinal1958.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "West Germany v Sweden, 1958 FIFA World Cup semifinal"
+          },
           "annotations": [
             {
               "id": "playoff-czechoslovakia-1958",
@@ -411,8 +414,11 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Argentina_germania_1966.JPG",
+          "imageCredit": {
+            "player": null,
+            "game": "Argentina v West Germany, 1966 FIFA World Cup (Wikimedia Commons)"
+          },
           "annotations": [
             {
               "id": "beckenbauer-arrival-1966",
@@ -720,8 +726,11 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Germany_v_france_1982_01.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "West Germany v France, 1982 FIFA World Cup semi-final (Wikimedia Commons)"
+          },
           "annotations": [
             {
               "id": "algeria-shock-1982",
@@ -800,8 +809,11 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Ruggeri_vs_rummenigge_final.jpg",
+          "imageCredit": {
+            "player": "Karl-Heinz Rummenigge",
+            "game": "1986 World Cup Final vs. Argentina"
+          },
           "annotations": [
             {
               "id": "penalties-past-mexico-1986",
@@ -880,8 +892,11 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Italien_%E2%80%93_WM_in_Mailand_-_10._Juni_1990_-_Deutschland_-_Jugoslawien_4-1_-_panoramio.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "West Germany v Yugoslavia, 1990 FIFA World Cup, San Siro, Milan"
+          },
           "annotations": [
             {
               "id": "matthaus-tournament-1990",
@@ -946,8 +961,11 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://commons.wikimedia.org/wiki/File:World_Cup_1994_-_Bulgaria_v_Germany_-_action_in_the_first_half.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "Germany vs Bulgaria, quarterfinal"
+          },
           "annotations": [
             {
               "id": "klinsmann-dive-1994",
@@ -1172,8 +1190,11 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Klose_germany.JPG",
+          "imageCredit": {
+            "player": "Miroslav Klose",
+            "game": "Top scorer of the 2006 World Cup, hosted by Germany"
+          },
           "annotations": [
             {
               "id": "lehmann-cheat-sheet-2006",
@@ -1252,8 +1273,11 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Germany_Australia.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "Germany vs Australia, group stage"
+          },
           "annotations": [
             {
               "id": "lampard-ghost-goal-2010",
@@ -1387,8 +1411,11 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Julian_Draxler_2018.jpg",
+          "imageCredit": {
+            "player": "Julian Draxler",
+            "game": "vs. Mexico, 2018 World Cup"
+          },
           "annotations": [
             {
               "id": "mexico-opener-loss-2018",
@@ -1439,8 +1466,11 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Thomas_M%C3%BCller_WC2022.jpg",
+          "imageCredit": {
+            "player": "Thomas Müller",
+            "game": "Germany 1-2 Japan, group stage"
+          },
           "annotations": [
             {
               "id": "hands-over-mouths-2022",

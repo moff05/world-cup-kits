@@ -59,7 +59,7 @@ export const haiti = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bundesarchiv_Bild_183-N0615-0032%2C_Fu%C3%9Fball-WM%2C_Italien_-_Haiti_3-1.jpg",
           "imageCredit": {
             "player": null,
             "game": null

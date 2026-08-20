@@ -116,7 +116,7 @@ export const ivoryCoast = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/FIFA_World_Cup_2010_Brazil_C%C3%B4te_d%27Ivoire.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -233,7 +233,7 @@ export const ivoryCoast = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/2026_FIFA_World_Cup%2C_Germany_v_Ivory_Coast_in_action.jpg",
           "imageCredit": {
             "player": null,
             "game": null

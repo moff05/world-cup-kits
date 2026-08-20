@@ -65,7 +65,7 @@ export const japan = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/98France_14juin.JPG",
           "imageCredit": {
             "player": null,
             "game": null
@@ -127,7 +127,7 @@ export const japan = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Saitama_2002_0604.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -182,7 +182,7 @@ export const japan = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Hidetoshi_Nakata%2C_preparing_for_Football_World_Cup_2006.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -244,7 +244,7 @@ export const japan = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/20100525succer1.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -299,7 +299,7 @@ export const japan = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Jap%C3%A3o_x_Col%C3%B4mbia_%28Arena_Pantanal%2C_Cuiab%C3%A1%2C_Brasil_-_2014_FIFA_World_Cup_Brasil%29_%2814319237479%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -361,7 +361,7 @@ export const japan = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Japan_national_football_team_World_Cup_2018.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -423,7 +423,7 @@ export const japan = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Takuma_Asano_-_JPN_vs_GER_-_FIFA_WC_2022.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -485,7 +485,7 @@ export const japan = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Netherlands_v_Japan_%282026_FIFA_World_Cup_-_Group_F%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null

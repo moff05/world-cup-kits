@@ -115,7 +115,7 @@ export const greece = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Georgios_Karagounis_2010_FIFA_World_Cup.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -177,7 +177,7 @@ export const greece = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Spieler_des_BVB_%2816389941771%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null

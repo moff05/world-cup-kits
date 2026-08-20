@@ -64,7 +64,7 @@ export const colombia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Marcos_Coll_1963_%28Cropped%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -236,7 +236,7 @@ export const colombia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Carlos_Valderrama_1998.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -305,7 +305,7 @@ export const colombia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Jap%C3%A3o_x_Col%C3%B4mbia_%28Arena_Pantanal%2C_Cuiab%C3%A1%2C_Brasil_-_2014_FIFA_World_Cup_Brasil%29_%2814319237479%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -367,7 +367,7 @@ export const colombia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Poland_v._Colombia_%2842095441565%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -436,7 +436,7 @@ export const colombia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Colombia_NT_presidential_send-off_for_World_Cup%2C_Jun_2026_%2811%29.jpg",
           "imageCredit": null,
           "annotations": [
             {

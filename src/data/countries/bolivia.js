@@ -53,10 +53,10 @@ export const bolivia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Yugoslavia-Bolivia%2C_1930.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Bolivia line-up vs Yugoslavia, Group Stage, July 17 1930 — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {

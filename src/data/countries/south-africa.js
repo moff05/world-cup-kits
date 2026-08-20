@@ -171,10 +171,10 @@ export const southAfrica = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:South_Africa_national_football_team_training_at_University_of_the_Witwatersrand_2010-06-04_1.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "South Africa (Bafana Bafana) training session, tournament hosts"
           },
           "annotations": [
             {

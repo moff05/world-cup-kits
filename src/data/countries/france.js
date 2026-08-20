@@ -74,10 +74,10 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Delegaci%C3%B3n_de_Francia_en_el_Mundial_1930,_Los_Sports,_1930-07-25_(385).jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "France delegation, 1930 FIFA World Cup (Wikimedia Commons)"
           },
           "annotations": [
             {
@@ -115,10 +115,10 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:L%27%C3%A9quipe_de_France_de_football_%C3%A0_la_Coupe_du_Monde_1934_(_oppos%C3%A9e_%C3%A0_l%27Autriche).jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "France squad photo, 1934 FIFA World Cup"
           },
           "annotations": [
             {
@@ -287,10 +287,10 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Fontaine1958.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Just Fontaine",
+            "game": "France, 1958 FIFA World Cup (Wikimedia Commons)"
           },
           "annotations": [
             {
@@ -397,10 +397,10 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:1978_FIFA_World_Cup_-_Italy_v_France_-_Michel_Platini.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Michel Platini",
+            "game": "vs. Italy, 1978 World Cup"
           },
           "annotations": [
             {
@@ -480,10 +480,10 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:France_v_czechoslovakia_1982_01.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Michel Platini",
+            "game": "vs. Czechoslovakia, 1982 World Cup"
           },
           "annotations": [
             {
@@ -563,10 +563,10 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Platini_vs_canada.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Michel Platini",
+            "game": "vs. Canada, 1986 World Cup"
           },
           "annotations": [
             {
@@ -646,10 +646,10 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/R%C3%A9ception_de_l%27%C3%A9quipe_de_France_de_football_%C3%A0_l%27Elys%C3%A9e_1998.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "France squad reception at the Élysée Palace after winning the 1998 World Cup, September 1 1998 — CC0 / Wikimedia Commons (France National Archives)"
           },
           "annotations": [
             {
@@ -784,10 +784,10 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Italy_vs_France_-_FIFA_World_Cup_2006_final_-_Lilian_Thuram_and_Zinedine_Zidane.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Lilian Thuram, Zinedine Zidane",
+            "game": "Italy v France, Final, July 9 2006 — CC BY 2.0 / Wikimedia Commons (photo: David Ruddell)"
           },
           "annotations": [
             {
@@ -839,10 +839,10 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ribery_for_the_corner..._%284739027351%29.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Franck Ribéry",
+            "game": "France v Mexico, Group Stage, June 17 2010 — CC BY 2.0 / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -991,9 +991,9 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Hugo_Lloris_201807091.jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Hugo Lloris",
             "game": null
           },
           "annotations": [
@@ -1074,10 +1074,10 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:2022_wc_final_05.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Kylian Mbappé",
+            "game": "Scoring his second goal in extra time, 2022 FIFA World Cup Final"
           },
           "annotations": [
             {

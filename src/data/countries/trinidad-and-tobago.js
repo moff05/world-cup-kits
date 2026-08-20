@@ -58,10 +58,10 @@ export const trinidadAndTobago = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Wm_2006_dortmund_stadion_trinidad_tobago_vs_schweden_2006_06_10a-2.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Trinidad and Tobago v Sweden, 2006 FIFA World Cup (Wikimedia Commons)"
           },
           "annotations": [
             {

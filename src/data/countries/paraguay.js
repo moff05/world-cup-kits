@@ -59,10 +59,10 @@ export const paraguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Usa_paraguay_jump.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "USA v Paraguay, 1930 FIFA World Cup"
           },
           "annotations": [
             {
@@ -348,7 +348,7 @@ export const paraguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Roque_Santa_Cruz_%28April_2006%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -403,7 +403,7 @@ export const paraguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/FIFA_World_Cup_2006_-_SWE_vs._PAR.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -534,7 +534,7 @@ export const paraguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Levi%27s_Stadium_2026_FIFA_World_Cup_Australia_v._Paraguay.jpg",
           "imageCredit": {
             "player": null,
             "game": null

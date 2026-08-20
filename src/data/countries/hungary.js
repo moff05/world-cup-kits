@@ -121,7 +121,7 @@ export const hungary = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/L%27%C3%A9quipe_de_Hongrie_lors_de_la_Coupe_du_monde_1938.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -314,7 +314,7 @@ export const hungary = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Magyarorsz%C3%A1g_-_Wales_%283-2%29_bar%C3%A1ts%C3%A1gos_v%C3%A1logatott_m%C3%A9rk%C5%91z%C3%A9s_1961._m%C3%A1jus_28-%C3%A1n._A_magyar_csapat_tagjai-_G%C3%B6r%C3%B6cs%2C_Albert%2C_Fenyvesi%2C_S%C3%A1ndor%2C_Dalnoki%2C_Solymosi%2C_Sipos%2C_M%C3%A1trai%2C_Tichy%2C_Kot%C3%A1sz%2C_Grosics._Fortepan_101243.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -376,7 +376,7 @@ export const hungary = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Florian_Albert_en_1966.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -431,7 +431,7 @@ export const hungary = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Argentina_gol_v_hungria.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -486,7 +486,7 @@ export const hungary = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Hungary_v_el_salvador_1982_01.jpg",
           "imageCredit": {
             "player": null,
             "game": null

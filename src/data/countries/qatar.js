@@ -59,10 +59,10 @@ export const qatar = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Karim_Boudiaf_WC2022.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Karim Boudiaf",
+            "game": "Qatar v Ecuador, Group Stage, November 20 2022 — CC BY 4.0 / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -114,10 +114,10 @@ export const qatar = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bosnia-Herzeg_3_-_1_Qatar_Group_B.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Bosnia and Herzegovina v Qatar, Group Stage, June 24 2026 — CC0 / Wikimedia Commons"
           },
           "annotations": [
             {

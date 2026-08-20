@@ -74,9 +74,9 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:1934_FIFA_World_Cup_-_Italy_v_Spain_-_Gianpiero_Combi_and_Ricardo_Zamora.jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Ricardo Zamora",
             "game": null
           },
           "annotations": [
@@ -315,10 +315,10 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Austria_v_spain_1978_01.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "vs. Austria, 1978 World Cup"
           },
           "annotations": [
             {
@@ -384,10 +384,10 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Spain_v_germany_1982_01.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "vs. West Germany, 1982 World Cup"
           },
           "annotations": [
             {
@@ -453,10 +453,10 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Denmark_vs_spain_elkjaer.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Ricardo Gallego",
+            "game": "vs. Denmark, 1986 World Cup"
           },
           "annotations": [
             {
@@ -970,10 +970,10 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Sergio_Busquets_2018.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Sergio Busquets",
+            "game": "Portugal vs Spain, group stage"
           },
           "annotations": [
             {

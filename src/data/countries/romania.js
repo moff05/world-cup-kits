@@ -57,10 +57,10 @@ export const romania = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Rumania_v_Per%C3%BA%2C_Los_Sports%2C_1930-07-25_%28385%29_01.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Romania vs Peru, 1930 World Cup Group Stage — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -201,10 +201,10 @@ export const romania = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Echipa_Rom%C3%A2niei_din_1970.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Romania national team departing for the 1970 World Cup in Mexico, Otopeni airport — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -332,10 +332,10 @@ export const romania = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Florin_R%C4%83ducioiu_1995.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Florin Răducioiu",
+            "game": "Florin Răducioiu, Bucharest, May 1995 — Public Domain / Wikimedia Commons (Vasile Moldovan / Arhiva AGERPRES)"
           },
           "annotations": [
             {

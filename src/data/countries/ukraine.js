@@ -72,10 +72,10 @@ export const ukraine = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Anatoliy_Tymoschuk_2006.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Anatoliy Tymoshchuk",
+            "game": "Ukraine vs Saudi Arabia, 2006 World Cup Group H — CC BY-SA 2.0 / Wikimedia Commons"
           },
           "annotations": [
             {

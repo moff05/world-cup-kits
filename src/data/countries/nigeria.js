@@ -242,10 +242,10 @@ export const nigeria = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_South_Korea_Nigeria.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Nigeria vs South Korea, group stage"
           },
           "annotations": [
             {
@@ -304,10 +304,10 @@ export const nigeria = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Iran_and_Nigeria_match_at_the_FIFA_World_Cup_2014-06-12_06.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Ahmed Musa",
+            "game": "vs. Iran, 2014 World Cup"
           },
           "annotations": [
             {
@@ -359,10 +359,10 @@ export const nigeria = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:John_Ogu_2018.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "John Ogu",
+            "game": "Nigeria preparing for their match against Argentina"
           },
           "annotations": [
             {

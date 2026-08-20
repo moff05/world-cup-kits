@@ -59,7 +59,7 @@ export const elSalvador = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Pipo_Rodr%C3%ADguez.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -114,7 +114,7 @@ export const elSalvador = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Hungary_v_el_salvador_1982_01.jpg",
           "imageCredit": {
             "player": null,
             "game": null

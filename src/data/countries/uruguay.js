@@ -79,7 +79,7 @@ export const uruguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Uruguay_national_football_team_1930.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -141,7 +141,7 @@ export const uruguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Urug1950.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -210,7 +210,7 @@ export const uruguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Uruguay_v_Escocia%2C_Estadio%2C_1954-07-03_%28581%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -327,7 +327,7 @@ export const uruguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Romania-Uruguay_1966.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -403,7 +403,7 @@ export const uruguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/L%27%C3%A9quipe_d%27Uruguay_de_football_en_1970.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -458,7 +458,7 @@ export const uruguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Wereldkampioenschap_voetbal_1974_Nederland_tegen_Uruguay_2-0_elftallen_tijdens%2C_Bestanddeelnr_927-2608.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -520,7 +520,7 @@ export const uruguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Enzo_Francescoli_1984_%28cropped%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -720,7 +720,7 @@ export const uruguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/FIFA_World_Cup_2010_Netherlands_Uruguay_6.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -782,7 +782,7 @@ export const uruguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Uruguay_2_-_England_1_-_Luis_Suarez_and_Edinson_Cavani.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -851,7 +851,7 @@ export const uruguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Edinson_Cavani_2018.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -904,7 +904,7 @@ export const uruguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Uruguay_vs_Portugal.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -959,7 +959,7 @@ export const uruguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Rodrigo_Bentancur_%28Saudi_Arabia_v_Uruguay%2C_2026_FIFA_World_Cup%29_%28cropped%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null

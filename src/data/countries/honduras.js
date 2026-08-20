@@ -60,10 +60,10 @@ export const honduras = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Selecci%C3%B3_de_futbol_d%27Hondures._Copa_del_M%C3%B3n_de_Futbol_de_1982._%28Alginet%2C_Pa%C3%ADs_Valenci%C3%A0%29.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Honduras national team training ahead of the 1982 World Cup, Alginet, Valencia — CC BY-SA 3.0 / Wikimedia Commons"
           },
           "annotations": [
             {

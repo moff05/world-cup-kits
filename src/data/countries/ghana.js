@@ -69,7 +69,7 @@ export const ghana = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Czech_Republic_vs_Ghana_at_2006_World_Cup_Sulley_Muntari_%28cropped%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -138,7 +138,7 @@ export const ghana = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/FIFA_World_Cup_2010_USA_Ghana.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -193,7 +193,7 @@ export const ghana = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Asamoah_Gyan_%282014%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -248,7 +248,7 @@ export const ghana = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Caleb_Yirenkyi_England_v_Ghana_23_June_2026-010.jpg",
           "imageCredit": {
             "player": null,
             "game": null

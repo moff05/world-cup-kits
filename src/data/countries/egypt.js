@@ -47,7 +47,7 @@ export const egypt = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/1934-World-Cup-Egypt.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -157,7 +157,7 @@ export const egypt = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mahmoud_Kahraba_2018.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -226,7 +226,7 @@ export const egypt = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Mohamed_Salah_Argentina_v_Egypt_7_July_2026-163_%28cropped%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null

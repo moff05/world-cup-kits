@@ -120,10 +120,10 @@ export const newZealand = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Italy_New_Zealand.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "New Zealand vs Italy, group stage"
           },
           "annotations": [
             {

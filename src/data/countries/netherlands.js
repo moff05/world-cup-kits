@@ -55,7 +55,7 @@ export const netherlands = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Nederlands_elftal_komt_het_veld_op%2C_WK_1934.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -96,7 +96,7 @@ export const netherlands = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Nederlands_elftal%2C_WK_1938.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -179,7 +179,7 @@ export const netherlands = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Selectie_Nederlands_elftal_voor_WK_voetbal_1974_bijeen_in_Zeist_John_Cruijff%2C_Bestanddeelnr_927-2272.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -262,7 +262,7 @@ export const netherlands = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Netherlands_v_iran_1978_01.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -324,7 +324,7 @@ export const netherlands = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Nederlands_elftal_na_Europees_kampioenschap_1988_te_Munchen_in_Amsterdam_Rinus_%2C_Bestanddeelnr_934-2746.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -393,7 +393,7 @@ export const netherlands = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/FIFA_WM_Football_%28Soccer%29_1994_03_%28cropped%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -476,7 +476,7 @@ export const netherlands = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Dennis_Bergkamp_Euro_%2796.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -538,7 +538,7 @@ export const netherlands = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Arjen_Robben.JPG",
           "imageCredit": {
             "player": null,
             "game": null
@@ -621,7 +621,7 @@ export const netherlands = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/FIFA_World_Cup_2010_Final_Netherlands_team.JPG",
           "imageCredit": {
             "player": null,
             "game": null
@@ -704,7 +704,7 @@ export const netherlands = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Netherlands_v_Chile_5_%28Mehr%2C_2014%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -835,7 +835,7 @@ export const netherlands = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Netherlands_v_Tunisia_2026_World_Cup_-_55374501166.jpg",
           "imageCredit": {
             "player": null,
             "game": null

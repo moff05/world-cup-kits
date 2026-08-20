@@ -58,10 +58,10 @@ export const jordan = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Asian_Nations_Cup_-_Jordan_and_South_Korea_%2869%29_%28cropped%29.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Bara' Marei",
+            "game": "Jordan vs South Korea, 2023 AFC Asian Cup semi-final — CC BY 4.0 / Wikimedia Commons (Fars Media Corporation)"
           },
           "annotations": [
             {

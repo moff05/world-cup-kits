@@ -55,10 +55,10 @@ export const peru = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Delegaci%C3%B3n_de_Per%C3%BA_en_el_Mundial_1930,_Los_Sports,_1930-07-25_(385).jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Peru delegation, 1930 FIFA World Cup"
           },
           "annotations": [
             {
@@ -117,10 +117,10 @@ export const peru = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:1970_World_Cup_Peru_Squad_2.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Peru squad photo, 1970 FIFA World Cup"
           },
           "annotations": [
             {
@@ -193,10 +193,10 @@ export const peru = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Teófilo_Cubillas_1978.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Teófilo Cubillas",
+            "game": "1978 World Cup"
           },
           "annotations": [
             {
@@ -303,10 +303,10 @@ export const peru = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Carvallo.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "José Carvallo",
+            "game": "Open training session in Khimki ahead of the tournament"
           },
           "annotations": [
             {

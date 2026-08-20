@@ -58,7 +58,7 @@ export const curacao = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Germany_vs_Cura%C3%A7ao_2026_FIFA_World_Cup.jpg",
           "imageCredit": null,
           "annotations": [
             {

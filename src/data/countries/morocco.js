@@ -291,7 +291,7 @@ export const morocco = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Romain_Saiss.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -450,7 +450,7 @@ export const morocco = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Team_Morocco_at_2026_FIFA_World_Cup_by_YantsImages.jpg",
           "imageCredit": {
             "player": null,
             "game": null

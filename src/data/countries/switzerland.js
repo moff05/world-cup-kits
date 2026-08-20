@@ -63,10 +63,10 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Match_Holland-Switzerland_19340527.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Netherlands v Switzerland, 1934 FIFA World Cup, San Siro, Milan"
           },
           "annotations": [
             {
@@ -235,10 +235,10 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Suiza_v_Italia,_Estadio,_1954-06-26_(580).jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Switzerland v Italy, 1954 FIFA World Cup"
           },
           "annotations": [
             {
@@ -469,10 +469,10 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Swiss_national_football_team.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Switzerland squad, pre-2006 World Cup"
           },
           "annotations": [
             {
@@ -524,10 +524,10 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Spain_Switzerland.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Switzerland vs Spain, group stage upset win over the eventual champions"
           },
           "annotations": [
             {
@@ -586,10 +586,10 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Switzerland_and_Ecuador_match_at_the_FIFA_World_Cup_2014-06-15_DSC06405_(14427057271).jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Xherdan Shaqiri",
+            "game": "vs. Ecuador, 2014 World Cup"
           },
           "annotations": [
             {
@@ -648,10 +648,10 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Switzerland_national_football_team_World_Cup_2018.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Switzerland national team vs Sweden, round of 16"
           },
           "annotations": [
             {

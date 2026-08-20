@@ -60,10 +60,10 @@ export const canada = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Platini_vs_canada.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Randy Samuel",
+            "game": "Canada v France, Group Stage, June 1 1986 — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -115,10 +115,10 @@ export const canada = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Canada_national_football_team_WC2022.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Canada v Belgium, Group Stage, November 23 2022 — CC BY 4.0 / Wikimedia Commons (photo: Hossein Zohrevand/Tasnim News Agency)"
           },
           "annotations": [
             {
@@ -184,10 +184,10 @@ export const canada = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Isma%C3%ABl_Kone_Canada_v_Qatar_18_June_2026-110.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Ismaël Koné",
+            "game": "Canada v Qatar, Group Stage, June 18 2026 — CC BY-SA 4.0 / Wikimedia Commons (photo: Bryan Berlin/WikiPortraits)"
           },
           "annotations": [
             {

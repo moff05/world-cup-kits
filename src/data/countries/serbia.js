@@ -70,10 +70,10 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Yugoslavia_nationalteam_1930.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Yugoslavia national team, 1930 World Cup — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -125,10 +125,10 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Brasil_v_Yugoslavia_en_1950%2C_Estadio%2C_1952-04-19_%28466%29.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Brazil vs Yugoslavia, 1950 World Cup — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -180,10 +180,10 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Yugoslavia_v_Francia%2C_Estadio%2C_1954-06-26_%28580%29.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Yugoslavia vs France, 1954 World Cup — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -318,10 +318,10 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Dragoslav_%C5%A0ekularac%2C_Estadio%2C_1962-07-12_%28998%29.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Dragoslav Šekularac",
+            "game": "Yugoslavia, 1962 World Cup — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -394,10 +394,10 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bundesarchiv_Bild_183-N0622-0030%2C_Fu%C3%9Fball-WM%2C_Schottland_-_Jugoslawien_1-1.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Dušan Bajević",
+            "game": "Scotland vs Yugoslavia, 1974 World Cup Group Stage — CC BY-SA 3.0 DE / Wikimedia Commons (Bundesarchiv)"
           },
           "annotations": [
             {
@@ -449,10 +449,10 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Spain_v_yugoslavia_1982_01.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Spain vs Yugoslavia, 1982 World Cup Group Stage — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -690,10 +690,10 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Serbia_Ghana.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Serbia vs Ghana, group stage"
           },
           "annotations": [
             {
@@ -745,9 +745,9 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Aleksandar_Mitrovi%C4%87_CRC-SRB_crop.jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Aleksandar Mitrović",
             "game": null
           },
           "annotations": [
@@ -800,10 +800,10 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Strahinja_Pavlovi%C4%87_WC2022.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Strahinja Pavlović",
+            "game": "Serbia vs Brazil, group stage"
           },
           "annotations": [
             {

@@ -74,7 +74,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/England_v_USA_-_1950_FIFA_World_Cup_01.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -129,7 +129,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Inglaterra_v_B%C3%A9lgica%2C_Estadio%2C_1954-06-26_%28580%29_01.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -191,7 +191,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/England_national_football_team%2C_28_October_1959.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -253,7 +253,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/England_1963.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -329,7 +329,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/England_vs_germany_hurst_heads_to_goal.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -391,7 +391,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Terry_Cooper_1970.png",
           "imageCredit": {
             "player": null,
             "game": null
@@ -460,7 +460,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Germany_v_england_1982_01.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -529,7 +529,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Maradona_shilton.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -612,7 +612,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/DavidPlatt.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -674,7 +674,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Michael_Owen.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -743,7 +743,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/020607beckhamPK.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -812,7 +812,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/FIFA_World_Cup_2006_-_ENG_vs_ECU.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -874,7 +874,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/FIFA_World_Cup_2010_England_USA.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -929,7 +929,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Uruguay_and_England_match_at_the_FIFA_World_Cup_2014-06-19_-_jikatu_%2814307138939%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -1012,7 +1012,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Harry_Kane_in_Russia.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -1081,7 +1081,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/2022_FIFA_World_Cup_England_6%E2%80%932_Iran_-_%288%29_%28Declan_Rice%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null

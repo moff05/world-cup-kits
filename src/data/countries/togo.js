@@ -58,7 +58,7 @@ export const togo = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Togo-nationalmannschaft.jpg",
           "imageCredit": {
             "player": null,
             "game": null

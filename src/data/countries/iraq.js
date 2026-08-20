@@ -114,7 +114,7 @@ export const iraq = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Iraq_and_Norway_match_2026.jpg",
           "imageCredit": {
             "player": null,
             "game": null

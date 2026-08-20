@@ -70,7 +70,7 @@ export const denmark = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Denmark_vs_spain_elkjaer.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -139,7 +139,7 @@ export const denmark = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Michael-laudrup-2000.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -201,7 +201,7 @@ export const denmark = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Jdtomasson1.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -256,7 +256,7 @@ export const denmark = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Netherlands_-_Denmark_WC2010.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -318,7 +318,7 @@ export const denmark = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Kasper_Schmeichel_2016.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -373,7 +373,7 @@ export const denmark = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Tunisia_0_-_0_Denmark_%28FIFA_World_CUP_2022%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null

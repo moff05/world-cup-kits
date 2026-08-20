@@ -180,10 +180,10 @@ export const costaRica = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:WC_2006_-_Germany_v_Costa_Rica_-_teams.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Germany v Costa Rica, 2006 FIFA World Cup opening match"
           },
           "annotations": [
             {
@@ -249,9 +249,9 @@ export const costaRica = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Uruguay_-_Costa_Rica_FIFA_World_Cup_2014_(14).jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Michael Umaña",
             "game": null
           },
           "annotations": [
@@ -304,10 +304,10 @@ export const costaRica = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Keylor_Navas_against_Brazil_-_2018_FIFA_World_Cup_(cropped).jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Keylor Navas",
+            "game": "Costa Rica vs Brazil, group stage"
           },
           "annotations": [
             {

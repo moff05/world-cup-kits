@@ -73,8 +73,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Delegaci%C3%B3n_de_Brasil_en_el_Mundial_de_1930%2C_Los_Sports%2C_1930-07-18_%28384%29.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "Brazilian delegation at the 1930 FIFA World Cup — published in Los Sports, July 18 1930. Public domain."
+          },
           "annotations": [
             {
               "id": "white-debut-1930",
@@ -180,8 +183,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Brazil_v_czechoslovakia_replay_match_1938.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "Brazil vs. Czechoslovakia replay, Quarter-final — 1938 FIFA World Cup, June 14 1938. Public domain."
+          },
           "annotations": [
             {
               "id": "poland-six-five",
@@ -308,8 +314,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Sele%C3%A7%C3%A3o_Brasileira_embarcando_para_a_Copa_do_Mundo_de_1954.tif",
+          "imageCredit": {
+            "player": null,
+            "game": "Brazilian national team boarding for the 1954 FIFA World Cup. Public domain (Arquivo Nacional / Correio da Manhã)."
+          },
           "annotations": [
             {
               "id": "first-yellow-1954",
@@ -457,8 +466,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Garrincha_na_copa_de_1962.jpg",
+          "imageCredit": {
+            "player": "Garrincha",
+            "game": "Garrincha during Brazil's 1962 FIFA World Cup campaign. Public domain (Arquivo Nacional)."
+          },
           "annotations": [
             {
               "id": "pele-injury-1962",
@@ -509,8 +521,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Werner_Haberkorn_-_Retrato_de_Gilmar_dos_Santos_Neves_-_Goleiro_da_Sele%C3%A7%C3%A3o_Brasileira_de_Futebol_nas_copas_do_mundo_de_1954._1958._1962_e_1966_(cropped).jpg",
+          "imageCredit": {
+            "player": "Gilmar",
+            "game": null
+          },
           "annotations": [
             {
               "id": "defending-1966",
@@ -582,8 +597,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pele_celebrating_1970.jpg",
+          "imageCredit": {
+            "player": "Pelé",
+            "game": "Pelé celebrating Brazil's 1970 FIFA World Cup win. Public domain."
+          },
           "annotations": [
             {
               "id": "pele-return-1970",
@@ -662,8 +680,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Valdomiro_Vaz_Franco%2C_Roberto_Rivelino%2C_Jairzinho_1974.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "Valdomiro Vaz Franco, Roberto Rivelino and Jairzinho at Brazil's 1974 FIFA World Cup training session. CC BY-SA 3.0 NL / Dutch National Archives."
+          },
           "annotations": [
             {
               "id": "total-football-1974",
@@ -742,8 +763,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Brazil_v_sweden_1978_01.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "Brazil vs. Sweden, Group Stage — 1978 FIFA World Cup, June 3 1978. Public domain (El Gráfico)."
+          },
           "annotations": [
             {
               "id": "argentina-peru-1978",
@@ -808,8 +832,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Italy_v_brazil_1982_02.jpg",
+          "imageCredit": {
+            "player": "Sócrates",
+            "game": "Italy vs. Brazil, 2nd Round — 1982 FIFA World Cup, July 5 1982. Public domain (El Gráfico)."
+          },
           "annotations": [
             {
               "id": "midfield-1982",
@@ -1016,8 +1043,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Salvaromariobrasil.jpg",
+          "imageCredit": {
+            "player": "Dunga",
+            "game": "Brazil's national team training camp, 1994 FIFA World Cup. CC BY-SA 4.0 / Wikimedia Commons."
+          },
           "annotations": [
             {
               "id": "romario-bebeto-1994",
@@ -1179,8 +1209,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Ronaldo_2002_cropped.jpg",
+          "imageCredit": {
+            "player": "Ronaldo",
+            "game": "The day before the 2002 World Cup Final"
+          },
           "annotations": [
             {
               "id": "comeback-2002",
@@ -1245,8 +1278,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/FIFA_World_Cup_2006_-_BRA_vs_CRO.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "Brazil vs. Croatia, Group Stage — 2006 FIFA World Cup, Olympiastadion Berlin, June 13 2006. CC BY 2.0 / Wikimedia Commons."
+          },
           "annotations": [
             {
               "id": "record-2006",
@@ -1311,8 +1347,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Brazil_national_football_team_at_the_Pal%C3%A1cio_da_Alvorada_2010-05-26_1.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "Brazil's national team received by President Lula ahead of the 2010 FIFA World Cup, Palácio da Alvorada, May 26 2010. CC BY 3.0 BR / Agência Brasil."
+          },
           "annotations": [
             {
               "id": "africa-2010",
@@ -1391,8 +1430,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Brazil_and_Croatia_match_at_the_FIFA_World_Cup_2014-06-12_%2823%29.jpg",
+          "imageCredit": {
+            "player": null,
+            "game": "Brazil vs. Croatia, opening match — 2014 FIFA World Cup, Arena Corinthians, June 12 2014. CC BY 3.0 / Wikimedia Commons."
+          },
           "annotations": [
             {
               "id": "home-2014",
@@ -1457,8 +1499,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Thiago_Silva_2018.jpg",
+          "imageCredit": {
+            "player": "Thiago Silva",
+            "game": "Thiago Silva ahead of Brazil vs. Costa Rica, 2018 FIFA World Cup, June 21 2018. CC BY-SA 3.0 / Wikimedia Commons."
+          },
           "annotations": [
             {
               "id": "rolling-2018",
@@ -1523,8 +1568,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Brazil_vs_Serbia_WC2022_Gabriel_Jesus_entering_the_pitch.jpg",
+          "imageCredit": {
+            "player": "Gabriel Jesus",
+            "game": "Gabriel Jesus enters the pitch, Brazil vs. Serbia — 2022 FIFA World Cup, Lusail Stadium, December 1 2022. CC BY 4.0 / Wikimedia Commons."
+          },
           "annotations": [
             {
               "id": "bicycle-2022",
@@ -1589,8 +1637,11 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
-          "imageCredit": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Alisson_Becker_Brazil_V_Morocco_13_June_2026-13.jpg",
+          "imageCredit": {
+            "player": "Alisson Becker",
+            "game": "Alisson Becker, Brazil vs. Morocco — 2026 FIFA World Cup, June 13 2026. CC BY-SA 4.0 / Wikimedia Commons."
+          },
           "annotations": [
             {
               "id": "haaland-double-2026",

@@ -65,7 +65,7 @@ export const belgium = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/B%C3%A9lgica_en_el_Mundial_1930%2C_Los_Sports%2C_1930-07-25_%28385%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -106,7 +106,7 @@ export const belgium = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bernard_Voorhoof_%281930%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -147,7 +147,7 @@ export const belgium = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Le_Belge_Bernard_Voorhoof_%28sombre%29_sautant_plus_haut_que_tout_le_monde%2C_lors_du_8e_de_finale_de_Coupe_du_monde_1938%2C_perdu_face_%C3%A0_la_France_%C3%A0_Colombes.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -195,7 +195,7 @@ export const belgium = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Inglaterra_v_B%C3%A9lgica%2C_Estadio%2C_1954-06-26_%28580%29_01.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -250,7 +250,7 @@ export const belgium = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Wilfried_Van_Moer_M%C3%A9xico_70.png",
           "imageCredit": {
             "player": null,
             "game": null
@@ -319,7 +319,7 @@ export const belgium = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Hungary_v_belgium_1982_01.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -402,7 +402,7 @@ export const belgium = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Belgium_vs_ussr_1986.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -464,7 +464,7 @@ export const belgium = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Enzo_Scifo-1993.png",
           "imageCredit": {
             "player": null,
             "game": null
@@ -643,7 +643,7 @@ export const belgium = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Marc_Wilmots.JPG",
           "imageCredit": {
             "player": null,
             "game": null
@@ -712,7 +712,7 @@ export const belgium = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Match_Alg%C3%A9rie_vs_Belgique%2C_Coupe_du_Monde_2014%2C_Br%C3%A9sil.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -795,7 +795,7 @@ export const belgium = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Belgium_national_football_team_World_Cup_2018.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -848,7 +848,7 @@ export const belgium = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Kevin_De_Bruyne_WC2022.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -924,7 +924,7 @@ export const belgium = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/2026_FIFA_World_Cup_Match_98%2C_Spain_v_Belgium.jpg",
           "imageCredit": {
             "player": null,
             "game": null

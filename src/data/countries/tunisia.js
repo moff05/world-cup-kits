@@ -229,10 +229,10 @@ export const tunisia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Tunesien_-_WM_2006.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "vs. Ukraine, 2006 World Cup"
           },
           "annotations": [
             {
@@ -284,10 +284,10 @@ export const tunisia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Aymen_Mathlouthi.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Aymen Mathlouthi",
+            "game": "Tunisia vs Panama, first World Cup win in 40 years"
           },
           "annotations": [
             {
@@ -339,10 +339,10 @@ export const tunisia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Tunisia_1_-_0_France_(FIFA_World_CUP_2022).jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Tunisia v France, 2022 FIFA World Cup"
           },
           "annotations": [
             {

@@ -828,10 +828,10 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:98France_14juin.JPG",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Argentina v Japan, 1998 FIFA World Cup (Wikimedia Commons)"
           },
           "annotations": [
             {

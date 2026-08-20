@@ -52,10 +52,10 @@ export const poland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Brazil_v_Poland_WC_1938_%283%29.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Władysław Szczepaniak",
+            "game": "Leônidas da Silva, Antoni Gałecki and Władysław Szczepaniak, Brazil vs. Poland — 1938 FIFA World Cup, Strasbourg, June 5 1938. Public domain (Raz Dwa Trzy / Polish National Digital Archives)."
           },
           "annotations": [
             {
@@ -135,10 +135,10 @@ export const poland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bundesarchiv_Bild_183-N0706-0039%2C_Fu%C3%9Fball-WM%2C_VR_Polen_-_Brasilien_1-0_Deyna.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Kazimierz Deyna",
+            "game": "Poland vs. Brazil, third-place match — 1974 FIFA World Cup, July 6 1974. CC BY-SA 3.0 DE / Bundesarchiv."
           },
           "annotations": [
             {
@@ -211,10 +211,10 @@ export const poland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Kempes_mano_vs_polonia.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Mario Kempes handball incident, Argentina vs. Poland — 1978 FIFA World Cup, June 14 1978. Public domain (El Gráfico)."
           },
           "annotations": [
             {
@@ -356,10 +356,10 @@ export const poland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Spelers_Pools_nationaal_elftal_in_centrum_Amsterdam_v.l.n.r._Smolarek%2C_Boniek_e%2C_Bestanddeelnr_933-8180.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Smolarek, Boniek and Kazimierski of Poland's national team in Amsterdam, November 1986. Public domain / Dutch National Archives (Anefo)."
           },
           "annotations": [
             {
@@ -466,10 +466,10 @@ export const poland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Maciej_%C5%BBurawski_01.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Maciej Żurawski",
+            "game": "Maciej Żurawski, Costa Rica vs. Poland — 2006 FIFA World Cup, Niedersachsenstadion, Hanover, June 20 2006. CC BY-SA 2.0 / Wikimedia Commons."
           },
           "annotations": [
             {
@@ -521,10 +521,10 @@ export const poland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kamil_Grosicki_2018.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Kamil Grosicki",
+            "game": "Kamil Grosicki, Poland vs. Senegal — 2018 FIFA World Cup, June 19 2018. CC BY-SA 3.0 / Wikimedia Commons."
           },
           "annotations": [
             {

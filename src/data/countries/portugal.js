@@ -342,10 +342,10 @@ export const portugal = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Portugal_North_Korea.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Portugal vs North Korea, group stage"
           },
           "annotations": [
             {
@@ -459,9 +459,9 @@ export const portugal = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Bernardo_Silva_2018.jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Bernardo Silva",
             "game": null
           },
           "annotations": [
@@ -528,9 +528,9 @@ export const portugal = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_WC2022_-_02.jpg",
           "imageCredit": {
-            "player": null,
+            "player": "Cristiano Ronaldo",
             "game": null
           },
           "annotations": [

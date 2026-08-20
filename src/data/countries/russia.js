@@ -82,7 +82,7 @@ export const russia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Igor_Netto%2C_Sergei_Salnikov%2C_Lev_Yashin_1958.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -144,7 +144,7 @@ export const russia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Russisch_elftal_op_doorreis_naar_Chili_%28wachtkamer%29%2C_Bestanddeelnr_913-9293.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -220,7 +220,7 @@ export const russia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Lev_Yashin_1966.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -282,7 +282,7 @@ export const russia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Gol_de_V%C3%ADctor_Esp%C3%A1rrago.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -351,7 +351,7 @@ export const russia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Rinat_dasaev_in_1982.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -413,7 +413,7 @@ export const russia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Belgium_vs_ussr_1986.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -578,7 +578,7 @@ export const russia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/020609JPN-RUS.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -633,7 +633,7 @@ export const russia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Aleksandr_Kokorin_2014.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -702,7 +702,7 @@ export const russia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/%D0%94%D0%B5%D0%BD%D0%B8%D1%81_%D0%A7%D0%B5%D1%80%D1%8B%D1%88%D0%B5%D0%B2_%D0%A7%D0%9C_2018_%D0%A1%D0%BE%D1%87%D0%B8.jpg",
           "imageCredit": {
             "player": null,
             "game": null

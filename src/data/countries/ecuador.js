@@ -62,7 +62,7 @@ export const ecuador = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/AGUST%C3%8DN_DELGADO_%2832456009762%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -124,7 +124,7 @@ export const ecuador = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Carlos_Tenorio.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -179,7 +179,7 @@ export const ecuador = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/SWI_ECU_15_06_2014_BSB_9410.JPG",
           "imageCredit": {
             "player": null,
             "game": null
@@ -234,7 +234,7 @@ export const ecuador = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/2022_FIFA_World_Cup_Qatar_0%E2%80%932_Ecuador_-_Plata.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -296,7 +296,7 @@ export const ecuador = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ecuador_vs_Germany_FIFA_World_Cup_2026_at_New_York-New_Jersey_Stadium.jpg",
           "imageCredit": {
             "player": null,
             "game": null

@@ -74,10 +74,10 @@ export const northernIreland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Northern_Ireland_vs_Czechoslovakia_FIFA_World_Cup_1958.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Wilbur Cush",
+            "game": "Northern Ireland vs Czechoslovakia, 1958 World Cup Group Stage — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -143,10 +143,10 @@ export const northernIreland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Spain_v_north_ireland_1982.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Spain vs Northern Ireland, 1982 World Cup Group Stage — Public Domain / Wikimedia Commons"
           },
           "annotations": [
             {
@@ -198,10 +198,10 @@ export const northernIreland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Pat_Jennings.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Pat Jennings",
+            "game": "Northern Ireland goalkeeper Pat Jennings in action vs Netherlands — CC0 / Wikimedia Commons"
           },
           "annotations": [
             {

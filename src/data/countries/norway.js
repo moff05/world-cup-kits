@@ -102,10 +102,10 @@ export const norway = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Gianluca_Pagliuca_makes_the_save_against_Norway_%28Jostein_Flo%29_in_the_1994_World_Cup_%28cropped%29.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Jostein Flo",
+            "game": "Italy vs Norway, 1994 World Cup Group Stage — CC BY-SA 4.0 / Wikimedia Commons"
           },
           "annotations": [
             {

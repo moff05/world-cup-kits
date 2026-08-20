@@ -69,7 +69,7 @@ export const usa = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bert_Patenaude.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -165,10 +165,10 @@ export const usa = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:England_v_USA_-_1950_FIFA_World_Cup_01.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "vs. England, 1950 World Cup"
           },
           "annotations": [
             {
@@ -406,7 +406,7 @@ export const usa = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/LandonDonovan_20060410.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -461,7 +461,7 @@ export const usa = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/FIFA_World_Cup_2006_-_USA_vs_ITA.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -523,7 +523,7 @@ export const usa = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Landon_Donovan_vs_Algeria.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -585,7 +585,7 @@ export const usa = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Joe_Biden_with_USMNT_at_2014-06-16.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -647,7 +647,7 @@ export const usa = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_%2812%29_%28Tyler_Adams_cropped%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -716,7 +716,7 @@ export const usa = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/2026_FIFA_World_Cup_Match_4%2C_United_States_v_Paraguay_%281%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null

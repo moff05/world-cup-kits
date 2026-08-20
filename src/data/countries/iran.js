@@ -64,10 +64,10 @@ export const iran = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Iran_football_WC_1978.png",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Iran squad photo, 1978 FIFA World Cup"
           },
           "annotations": [
             {
@@ -229,10 +229,10 @@ export const iran = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Iran_captain_Javad_Nekounam_in_press_conference_before_Nigeria_match,_2014_FIFA_World_Cup.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Javad Nekounam",
+            "game": "Press conference before Iran vs Nigeria"
           },
           "annotations": [
             {
@@ -284,10 +284,10 @@ export const iran = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Iran_national_football_team_T1.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Iran national team training ahead of the 2018 World Cup"
           },
           "annotations": [
             {
@@ -339,10 +339,10 @@ export const iran = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Iran_v_Wales_in_the_2022_FIFA_World_Cup_Match_17_-_Iran_line-up.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Iran team lineup, 2022 FIFA World Cup vs Wales"
           },
           "annotations": [
             {
@@ -394,10 +394,10 @@ export const iran = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Iran_v_Uzbekistan_2-2%2C_25_March_2025%2C_Azadi_Stadium%2C_World_Cup_2026_qualifier_9.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Iran v Uzbekistan, World Cup 2026 qualifier, March 25 2025 — CC BY 4.0 / Wikimedia Commons (photo: Meghdad Madadi/Tasnim News Agency)"
           },
           "annotations": [
             {

@@ -63,7 +63,7 @@ export const sweden = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Suecia_gol_v_Argentina_1934.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -118,7 +118,7 @@ export const sweden = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Sweden_vs_cuba_1938_world_cup.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -187,7 +187,7 @@ export const sweden = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Suecia_v_Italia%2C_Estadio%2C_1950-07-08_%28373%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -263,7 +263,7 @@ export const sweden = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Swedish_National_football_team_starting_11_1958_WC_final.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -318,7 +318,7 @@ export const sweden = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Tom_Turesson.png",
           "imageCredit": {
             "player": null,
             "game": null
@@ -394,7 +394,7 @@ export const sweden = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bundesarchiv_Bild_183-N0630-0026%2C_Fu%C3%9Fball-WM%2C_BRD_-_Schweden_4-2.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -449,7 +449,7 @@ export const sweden = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Brazil_v_sweden_1978_01.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -504,7 +504,7 @@ export const sweden = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Tomas_Brolin.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -587,7 +587,7 @@ export const sweden = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Football_players_Pontus_K%C3%A5mark_Henrik_Larsson%2C_July_18%2C_1994.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -649,7 +649,7 @@ export const sweden = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Anders_Svensson.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -711,7 +711,7 @@ export const sweden = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Swedish_national_football_team_2006.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -780,7 +780,7 @@ export const sweden = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Emil_Forsberg_%D0%A7%D0%9C_2018_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D0%A1%D0%BE%D1%87%D0%B8.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -842,7 +842,7 @@ export const sweden = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bandera_de_Suecia_durante_la_inauguraci%C3%B3n_del_Mundial_2026.jpg",
           "imageCredit": {
             "player": null,
             "game": null

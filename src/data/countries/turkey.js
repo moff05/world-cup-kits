@@ -60,7 +60,7 @@ export const turkey = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Alemania_v_Turqu%C3%ADa%2C_Estadio%2C_1954-06-26_%28580%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -143,7 +143,7 @@ export const turkey = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/HasanSas.JPG",
           "imageCredit": {
             "player": null,
             "game": null

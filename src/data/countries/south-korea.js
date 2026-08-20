@@ -117,10 +117,10 @@ export const southKorea = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Maradona_foul_corea.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Maradona fouled by South Korean defenders, Argentina vs. South Korea — 1986 FIFA World Cup, June 2 1986. Public domain."
           },
           "annotations": [
             {
@@ -482,10 +482,10 @@ export const southKorea = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/FIFA_World_Cup_2010_Argentina_South_Korea.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Argentina vs. South Korea, Group Stage — 2010 FIFA World Cup, Soccer City, Johannesburg, June 17 2010. CC BY 2.0 / Wikimedia Commons."
           },
           "annotations": [
             {
@@ -537,10 +537,10 @@ export const southKorea = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Belgium_vs_Korea_Republic_-_Group_H_-_2014_FIFA_World_Cup_Brazil.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "Belgium vs. South Korea, Group Stage — 2014 FIFA World Cup, Arena Corinthians, June 26 2014. CC BY 2.0 / Wikimedia Commons."
           },
           "annotations": [
             {
@@ -592,10 +592,10 @@ export const southKorea = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/South_Korea_vs_Germany_2018_World_Cup_30.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "South Korea vs. Germany, Group Stage — 2018 FIFA World Cup, Kazan Arena, June 27 2018. CC BY 4.0 / Wikimedia Commons."
           },
           "annotations": [
             {
@@ -654,10 +654,10 @@ export const southKorea = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Presidential_Dinner_for_Team_Korea_18_%2852551309912%29.jpg",
           "imageCredit": {
             "player": null,
-            "game": null
+            "game": "South Korea's national team honored at a presidential dinner following the 2022 FIFA World Cup, December 8 2022. CC BY-SA 2.0 / Wikimedia Commons."
           },
           "annotations": [
             {

@@ -58,10 +58,10 @@ export const iceland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Aron_Gunnarsson_2018.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Aron Gunnarsson",
+            "game": "Iceland vs Argentina, group stage"
           },
           "annotations": [
             {

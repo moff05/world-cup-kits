@@ -135,10 +135,10 @@ export const senegal = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Sadio_Man%C3%A9_Senegal.jpg",
           "imageCredit": {
-            "player": null,
-            "game": null
+            "player": "Sadio Mané",
+            "game": "Senegal vs Poland, group stage"
           },
           "annotations": [
             {

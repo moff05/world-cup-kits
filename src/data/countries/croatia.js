@@ -202,7 +202,7 @@ export const croatia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/FIFA_World_Cup_2006_-_BRA_vs_CRO.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -257,7 +257,7 @@ export const croatia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Brazil_and_Croatia_match_at_the_FIFA_World_Cup_2014-06-12_%2809%29.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -340,7 +340,7 @@ export const croatia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Andrej_Kramari%C4%87_2018.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -423,7 +423,7 @@ export const croatia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Dominik_Livakovi%C4%87_2021.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -485,7 +485,7 @@ export const croatia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Croatia_Starting_XI_Croatia_v_Portugal_2_July_2026-060.jpg",
           "imageCredit": {
             "player": null,
             "game": null
