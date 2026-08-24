@@ -126,7 +126,7 @@ export const colombia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Formacion_de_la_Selecci%C3%B3n_Colombia_antes_del_Partido_contra_Paraguay_en_la_Repesca_a_Mundial_de_M%C3%A9xico_1986.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -181,7 +181,7 @@ export const colombia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Carlos_Valderrama_1998.jpg",
           "imageCredit": {
             "player": null,
             "game": null
