@@ -58,7 +58,7 @@ export const china = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:China_national_football_team_06-JUN-2008-ANZstad.jpg",
           "imageCredit": {
             "player": null,
             "game": null
