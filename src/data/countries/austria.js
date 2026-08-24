@@ -396,7 +396,7 @@ export const austria = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Toni_Polster1.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -451,7 +451,7 @@ export const austria = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Toni_Polster1.jpg",
           "imageCredit": {
             "player": null,
             "game": null
