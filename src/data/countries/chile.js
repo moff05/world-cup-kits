@@ -252,7 +252,7 @@ export const chile = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Selecci%C3%B3n_Chilena_de_F%C3%BAtbol_1966.jpg",
           "imageCredit": {
             "player": null,
             "game": null
