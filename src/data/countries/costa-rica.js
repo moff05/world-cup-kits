@@ -125,7 +125,7 @@ export const costaRica = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:R%C3%B3nald_G%C3%B3mez.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -359,7 +359,7 @@ export const costaRica = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Keylor_Navas_against_Brazil_-_2018_FIFA_World_Cup_(cropped).jpg",
           "imageCredit": {
             "player": null,
             "game": null
