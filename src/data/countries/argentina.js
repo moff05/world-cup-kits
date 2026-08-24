@@ -697,7 +697,7 @@ export const argentina = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Argentina_equipo_1987.jpg",
           "imageCredit": {
             "player": null,
             "game": null
