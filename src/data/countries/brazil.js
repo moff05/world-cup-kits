@@ -901,7 +901,7 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Brasil_equipo_vs_chile_en_santiago_1983.jpg",
           "imageCredit": null,
           "annotations": [
             {
