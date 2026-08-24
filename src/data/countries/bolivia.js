@@ -94,7 +94,7 @@ export const bolivia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Bolivia_en_el_Sudamericano_1949,_Estadio,_1949-04-16_(309).jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -149,7 +149,7 @@ export const bolivia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Marco_Etcheverry_cropped.jpg",
           "imageCredit": {
             "player": null,
             "game": null
