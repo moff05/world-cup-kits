@@ -92,7 +92,7 @@ export const croatia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Davor%C5%A0uker.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -147,7 +147,7 @@ export const croatia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Mirko_Jozic_con_Croacia.jpg",
           "imageCredit": {
             "player": null,
             "game": null
