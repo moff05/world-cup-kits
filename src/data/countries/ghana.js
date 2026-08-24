@@ -310,7 +310,7 @@ export const ghana = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Abdul_Fatawu_7_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_01.jpg",
           "imageCredit": {
             "player": null,
             "game": null
