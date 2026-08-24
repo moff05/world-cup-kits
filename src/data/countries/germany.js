@@ -85,7 +85,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:1933-11-05_Magdeburg_Germany%27s_team_vs_Norway.png",
           "imageCredit": null,
           "annotations": [
             {
