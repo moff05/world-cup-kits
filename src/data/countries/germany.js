@@ -344,7 +344,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Fu%C3%9Fballmannschaft_der_Deutschen_Fu%C3%9Fballnationalmannschaft_(Kiel_77.611).jpg",
           "imageCredit": null,
           "annotations": [
             {
@@ -493,7 +493,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Finale_wereldkampioenschap_voetbal_1974_in_Munchen,_West_Duitsland_tegen_Nederla,_Bestanddeelnr_927-3097.jpg",
           "imageCredit": null,
           "annotations": [
             {
@@ -649,7 +649,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Germany_team_at_1980_mundialito.jpg",
           "imageCredit": null,
           "annotations": [
             {
@@ -1113,7 +1113,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Oliver_Kahn_06-2004.jpg",
           "imageCredit": null,
           "annotations": [
             {
