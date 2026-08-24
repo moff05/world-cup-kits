@@ -342,7 +342,7 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Selecci%C3%B3n_Francesa_1972.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -701,7 +701,7 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Zinedine_zidane_wcf_2006.jpg",
           "imageCredit": {
             "player": null,
             "game": null
