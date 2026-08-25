@@ -17,5 +17,8 @@
   { "id": "iraq", "year": "1986", "note": "checked WC category, national team category, 'by year' subcategory (only has 2026), group photographs (jumps 1951 to 2011) — nothing from that era on Commons" },
   { "id": "morocco", "year": "1986", "note": "checked WC category, national team category (closest era photo is 1964, 22yrs off), Aziz Bouderbala (only a 2018 photo) — nothing from that era on Commons" },
   { "id": "morocco", "year": "1994", "note": "no 1994 WC subcategory, Mustapha Hadji's only photo is 2012 (14-18yrs removed) — nothing from that era on Commons" },
-  { "id": "morocco", "year": "1998", "note": "no 1998 WC subcategory, Mustapha Hadji's only photo is 2012 (14yrs removed); closest era match (Iran v Morocco 2005) is an Islamic Solidarity Games fixture, not reliably the senior national team — nothing from that era on Commons" }
+  { "id": "morocco", "year": "1998", "note": "no 1998 WC subcategory, Mustapha Hadji's only photo is 2012 (14yrs removed); closest era match (Iran v Morocco 2005) is an Islamic Solidarity Games fixture, not reliably the senior national team — nothing from that era on Commons" },
+  { "id": "nigeria", "year": "1994", "note": "no 1994 WC subcategory, Okocha/Oliseh have no era-appropriate photos, 'Yekini.jpg' found is a Senegalese wrestler of the same name, not the footballer — nothing from that era on Commons" },
+  { "id": "nigeria", "year": "1998", "note": "no 1998 WC subcategory, same star-player search as 1994 — nothing from that era on Commons" },
+  { "id": "north-korea", "year": "1966", "note": "checked WC category, broad search, Pak Do-ik (scorer of the famous 1966 goal vs Italy) — no freely-licensed DPRK-era football photos exist on Commons" }
 ]
