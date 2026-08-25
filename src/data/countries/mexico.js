@@ -591,7 +591,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Cruz_vs_cabanas.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -653,7 +653,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Team_Mexico_in_Goettingen.JPG",
           "imageCredit": {
             "player": null,
             "game": null
@@ -715,7 +715,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2006,_Iran_1-3_Mexico_(04).jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -1085,7 +1085,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Team_Warm-ups_During_the_2026_World_Cup_South_Africa.jpg",
           "imageCredit": {
             "player": null,
             "game": null
