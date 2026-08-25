@@ -62,7 +62,7 @@ export const algeria = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Algeria_v_germany_1982_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Algeria_v_germany_1982_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Algeria v West Germany, 1982 FIFA World Cup (Wikimedia Commons)"
@@ -117,7 +117,7 @@ export const algeria = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Belloumi,_lakhdar_1986.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Belloumi%2C_lakhdar_1986.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Lakhdar Belloumi",
             "game": null
@@ -172,7 +172,7 @@ export const algeria = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_England_Algeria.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/FIFA_World_Cup_2010_England_Algeria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "England v Algeria, 2010 FIFA World Cup (Wikimedia Commons)"
@@ -234,7 +234,7 @@ export const algeria = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Riyad_Mahrez_-_2014_World_Cup.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Riyad_Mahrez_-_2014_World_Cup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Riyad Mahrez",
             "game": "Algeria v Belgium, 2014 FIFA World Cup (Wikimedia Commons)"
