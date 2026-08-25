@@ -181,7 +181,7 @@ export const saudiArabia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:WM06_ASA-UKR_Warm_Up.jpg",
           "imageCredit": {
             "player": null,
             "game": null
