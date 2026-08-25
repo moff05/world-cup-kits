@@ -288,7 +288,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Mexico_equipo_1952_estadio.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -343,7 +343,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Selecci%C3%B3n_Mexicana_1971.jpg",
           "imageCredit": {
             "player": null,
             "game": null
