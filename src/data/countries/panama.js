@@ -114,7 +114,7 @@ export const panama = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Adalberto_Carrasquilla_England_v_Panama_27_June_26-011.jpg",
           "imageCredit": {
             "player": null,
             "game": null
