@@ -59,7 +59,7 @@ export const scotland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Uruguay_v_Escocia,_Estadio,_1954-07-03_(581).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Uruguay_v_Escocia%2C_Estadio%2C_1954-07-03_%28581%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "vs. Uruguay, 1954 World Cup"
@@ -169,7 +169,7 @@ export const scotland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-N0614-0028,_Fu%C3%9Fball-WM,_Zaire_-_Schottland_0-2.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bundesarchiv_Bild_183-N0614-0028%2C_Fu%C3%9Fball-WM%2C_Zaire_-_Schottland_0-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Billy Bremner",
             "game": null
@@ -224,7 +224,7 @@ export const scotland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Peru_v_Scotland_(1978_FIFA_World_Cup).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Peru_v_Scotland_%281978_FIFA_World_Cup%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Joe Jordan",
             "game": "Scotland v Peru, 1978 FIFA World Cup (Wikimedia Commons)"
@@ -279,7 +279,7 @@ export const scotland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Brazil_v_scotland_1982_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Brazil_v_scotland_1982_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Scotland vs Brazil at the 1982 World Cup, Group Stage in Spain"
@@ -389,7 +389,7 @@ export const scotland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Ally_McCoist_1994.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ally_McCoist_1994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Ally McCoist, part of Scotland's 1990 World Cup squad, pictured with Rangers in 1994",
             "game": null
@@ -444,7 +444,7 @@ export const scotland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Scotland-holland_euro_96.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Scotland-holland_euro_96.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -499,7 +499,7 @@ export const scotland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Andy_Robertson_Scotland_v_Bolivia_6_June_2026-34.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Andy_Robertson_Scotland_v_Bolivia_6_June_2026-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Captain Andy Robertson playing for Scotland in their final World Cup warm-up match, June 2026"
