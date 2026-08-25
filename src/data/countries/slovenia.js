@@ -59,7 +59,7 @@ export const slovenia = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Slovenia_-_USA_at_FIFA_World_Cup_2010,_center.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Slovenia_-_USA_at_FIFA_World_Cup_2010%2C_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -114,7 +114,7 @@ export const slovenia = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Slovenia_USA.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/FIFA_World_Cup_2010_Slovenia_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Slovenia vs United States, 2010 World Cup Group C (Wikimedia Commons)"
