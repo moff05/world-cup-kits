@@ -47,7 +47,7 @@ export const norway = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Bronselaget_1936.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bronselaget_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Norway's 1936 Olympic bronze medal-winning squad, the core group that played the 1938 World Cup — public domain"
@@ -164,7 +164,7 @@ export const norway = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Ole_G_Solskjaer.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ole_G_Solskjaer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -240,7 +240,7 @@ export const norway = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Erling_Haaland_France_v_Norway_26_June_26-008.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Erling_Haaland_France_v_Norway_26_June_26-008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Erling Haaland",
             "game": "France vs Norway, Group Stage — CC BY-SA 4.0 / Wikimedia Commons"
