@@ -118,7 +118,7 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Sport,_SFA022003994.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -173,7 +173,7 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Suiza_en_el_Mundial_1950,_Estadio,_1950-07-08_(373).jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -290,7 +290,7 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Suiza_en_el_Mundial_1954,_Estadio,_1954-06-26_(580).jpg",
           "imageCredit": {
             "player": null,
             "game": null
