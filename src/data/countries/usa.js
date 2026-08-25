@@ -110,7 +110,7 @@ export const usa = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:U.S._men%27s_national_soccer_team_at_the_1930_FIFA_World_Cup.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -282,7 +282,7 @@ export const usa = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Alexi_Lalas_Calcio_Padova_1994-1995_(cropped).jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -337,7 +337,7 @@ export const usa = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:ClaudioReyna_USMNT_20060511.jpg",
           "imageCredit": {
             "player": null,
             "game": null
