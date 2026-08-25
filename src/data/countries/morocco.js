@@ -64,7 +64,7 @@ export const morocco = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Ahmed_Faras_M%C3%A9xico_70.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ahmed_Faras_M%C3%A9xico_70.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Ahmed Faras, Panini México 70 sticker",
             "game": null
@@ -374,7 +374,7 @@ export const morocco = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:2018_FIFA_World_Cup_Group_B_march_IRN-MAR_28_(cropped).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/2018_FIFA_World_Cup_Group_B_march_IRN-MAR_28_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
