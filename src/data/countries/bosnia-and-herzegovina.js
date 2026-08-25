@@ -59,7 +59,7 @@ export const bosniaAndHerzegovina = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Bosnia_players_at_Maracan%C3%A3_15_June_2014.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bosnia_players_at_Maracan%C3%A3_15_June_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Bosnia & Herzegovina squad warming up at the Maracanã ahead of their match against Argentina, 2014 FIFA World Cup"
@@ -121,7 +121,7 @@ export const bosniaAndHerzegovina = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:2026_FIFA_World_Cup_-_Bosnia_and_Herzegovina_v._Qatar_in_Seattle_-_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/2026_FIFA_World_Cup_-_Bosnia_and_Herzegovina_v._Qatar_in_Seattle_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Bosnia and Herzegovina v. Qatar, group stage, Lumen Field in Seattle, 2026 FIFA World Cup"
