@@ -61,7 +61,7 @@ export const ivoryCoast = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Ivory_Coast_penalty.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ivory_Coast_penalty.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Penalty kick, Ivory Coast v Serbia and Montenegro, 2006 FIFA World Cup group stage — photo by Björn Laczay, CC BY 2.0, via Wikimedia Commons"
@@ -171,7 +171,7 @@ export const ivoryCoast = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Colombia_and_Ivory_Coast_match_at_the_FIFA_World_Cup_2014-06-19_(15).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Colombia_and_Ivory_Coast_match_at_the_FIFA_World_Cup_2014-06-19_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Colombia v Ivory Coast, 2014 FIFA World Cup group stage — freely licensed photo via Wikimedia Commons"
