@@ -444,7 +444,7 @@ export const scotland = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Scotland-holland_euro_96.jpg",
           "imageCredit": {
             "player": null,
             "game": null
