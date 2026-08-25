@@ -239,7 +239,7 @@ export const czechRepublic = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Northern_Ireland_vs_Czechoslovakia_FIFA_World_Cup_1958.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Northern_Ireland_vs_Czechoslovakia_FIFA_World_Cup_1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Northern Ireland v Czechoslovakia playoff, 1958 FIFA World Cup"
@@ -425,7 +425,7 @@ export const czechRepublic = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:France_v_czechoslovakia_1982_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/France_v_czechoslovakia_1982_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "France v Czechoslovakia, 1982 FIFA World Cup"
