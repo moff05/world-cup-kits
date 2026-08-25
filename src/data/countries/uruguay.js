@@ -265,7 +265,7 @@ export const uruguay = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Uruguay_en_el_Sudamericano_1957,_Estadio,_1957-04-12_(726).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Uruguay_en_el_Sudamericano_1957%2C_Estadio%2C_1957-04-12_%28726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -582,7 +582,7 @@ export const uruguay = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Uruguay_equipo_vs_chile.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Uruguay_equipo_vs_chile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -637,7 +637,7 @@ export const uruguay = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Uruguay.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Uruguay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
