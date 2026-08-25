@@ -30,5 +30,9 @@
   { "id": "saudi-arabia", "year": "1994", "note": "no 1994 WC subcategory, Al-Owairan (closest photo is 2025, 31yrs removed) — nothing from that era on Commons" },
   { "id": "saudi-arabia", "year": "1998", "note": "no 1998 WC subcategory, Al-Deayea (closest photo is 2008, still 10yrs removed) — nothing from that era on Commons" },
   { "id": "scotland", "year": "1958", "note": "checked WC category, national team category, group photographs (closest is 1972, 14yrs removed) — nothing from that era on Commons" },
-  { "id": "scotland", "year": "1986", "note": "checked WC category, broad search — only candidate (Dalglish, Stoke v Liverpool) has an uncertain/hedged date ('around 1983 or 1984... looks like'), fails verification bar — nothing confirmed from that era on Commons" }
+  { "id": "scotland", "year": "1986", "note": "checked WC category, broad search — only candidate (Dalglish, Stoke v Liverpool) has an uncertain/hedged date ('around 1983 or 1984... looks like'), fails verification bar — nothing confirmed from that era on Commons" },
+  { "id": "serbia", "year": "1998", "note": "1998 was FR Yugoslavia — checked WC category, Savicevic/Mijatovic/Mihajlovic all only have photos 9-12yrs removed — nothing from that era on Commons" },
+  { "id": "south-africa", "year": "1998", "note": "checked WC category, Lucas Radebe and Benni McCarthy (closest photos 11-13yrs removed) — nothing from that era on Commons" },
+  { "id": "south-korea", "year": "1990", "note": "checked WC category, national team category, group photographs (jumps 1973 to 2012), Hong Myung-bo (only recent/coaching-era photos) — nothing from that era on Commons" },
+  { "id": "south-korea", "year": "1994", "note": "same search as 1990 — nothing from that era on Commons" }
 ]
