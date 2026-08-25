@@ -73,7 +73,7 @@ export const wales = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:The_Israeli_team_playing_against_Wales_at_the_Ramat_Gan_stadium,_1958_D448-079.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/The_Israeli_team_playing_against_Wales_at_the_Ramat_Gan_stadium%2C_1958_D448-079.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Israel v Wales, 1958 World Cup qualification play-off (Wikimedia Commons)"
@@ -128,7 +128,7 @@ export const wales = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_(41)_(Daniel_James).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_%2841%29_%28Daniel_James%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Daniel James",
             "game": null
