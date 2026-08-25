@@ -59,7 +59,7 @@ export const panama = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:PAN-TUN_(10).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/PAN-TUN_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Édgar Yoel Bárcenas",
             "game": "Panama vs Tunisia"
@@ -114,7 +114,7 @@ export const panama = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Adalberto_Carrasquilla_England_v_Panama_27_June_26-011.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Adalberto_Carrasquilla_England_v_Panama_27_June_26-011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
