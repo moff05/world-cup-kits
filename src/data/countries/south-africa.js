@@ -116,7 +116,7 @@ export const southAfrica = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Lucas_Radebe_in_South_Africa.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lucas_Radebe_in_South_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Lucas Radebe, who captained South Africa at the 2002 World Cup",
             "game": null
@@ -171,7 +171,7 @@ export const southAfrica = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:South_Africa_national_football_team_training_at_University_of_the_Witwatersrand_2010-06-04_1.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/South_Africa_national_football_team_training_at_University_of_the_Witwatersrand_2010-06-04_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "South Africa (Bafana Bafana) training session, tournament hosts"
@@ -233,7 +233,7 @@ export const southAfrica = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Team_Warm-ups_During_the_2026_World_Cup_South_Africa.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Team_Warm-ups_During_the_2026_World_Cup_South_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "South Africa players warming up before their 2026 World Cup opener against Mexico"
