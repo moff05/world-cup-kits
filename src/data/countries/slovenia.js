@@ -59,7 +59,7 @@ export const slovenia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Slovenia_-_USA_at_FIFA_World_Cup_2010,_center.jpg",
           "imageCredit": {
             "player": null,
             "game": null
