@@ -248,7 +248,7 @@ export const peru = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Peru_v_italy_1982.jpg",
           "imageCredit": {
             "player": null,
             "game": null
