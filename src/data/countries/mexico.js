@@ -130,7 +130,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Antonio_Carbajal,_Estadio,_1952-04-26_(467).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Antonio_Carbajal%2C_Estadio%2C_1952-04-26_%28467%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Antonio Carbajal, Mexico's 1950 World Cup goalkeeper, photographed 1952",
             "game": null
@@ -288,7 +288,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Mexico_equipo_1952_estadio.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mexico_equipo_1952_estadio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -343,7 +343,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Selecci%C3%B3n_Mexicana_1971.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Selecci%C3%B3n_Mexicana_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -591,7 +591,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Cruz_vs_cabanas.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Cruz_vs_cabanas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -653,7 +653,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Team_Mexico_in_Goettingen.JPG",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Team_Mexico_in_Goettingen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -715,7 +715,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2006,_Iran_1-3_Mexico_(04).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/FIFA_World_Cup_2006%2C_Iran_1-3_Mexico_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -963,7 +963,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Hirving_Lozano_at_Russia_2018_FIFA_World_Cup.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Hirving_Lozano_at_Russia_2018_FIFA_World_Cup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Hirving Lozano",
             "game": "Mexico vs Germany, 2018 Group Stage — Wikimedia Commons (freely licensed)"
@@ -1016,7 +1016,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Alexis_Vega_WC2022.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Alexis_Vega_WC2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Alexis Vega",
             "game": "Mexico vs Argentina, group stage"
@@ -1085,7 +1085,7 @@ export const mexico = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Team_Warm-ups_During_the_2026_World_Cup_South_Africa.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Team_Warm-ups_During_the_2026_World_Cup_South_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
