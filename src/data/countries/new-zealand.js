@@ -65,7 +65,7 @@ export const newZealand = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Brazil_v_new_zealand_1982_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Brazil_v_new_zealand_1982_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -120,7 +120,7 @@ export const newZealand = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Italy_New_Zealand.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/FIFA_World_Cup_2010_Italy_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "New Zealand vs Italy, group stage"
@@ -175,7 +175,7 @@ export const newZealand = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:2026_FIFA_World_Cup_-_New_Zealand_vs._Egypt_pre_match_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2026_FIFA_World_Cup_-_New_Zealand_vs._Egypt_pre_match_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
