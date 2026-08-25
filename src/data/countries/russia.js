@@ -468,7 +468,7 @@ export const russia = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Belgium_vs_ussr_1986.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Belgium_vs_ussr_1986.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
