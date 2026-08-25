@@ -44,7 +44,7 @@ export const indonesia = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Dutch_East_Indies_1938_World_Cup_Squad.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Dutch_East_Indies_1938_World_Cup_Squad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Dutch East Indies squad, 1938 FIFA World Cup — public domain"
