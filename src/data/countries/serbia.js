@@ -242,7 +242,7 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Yugoslavia_v_Francia,_Estadio,_1954-06-26_(580).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Yugoslavia_v_Francia%2C_Estadio%2C_1954-06-26_%28580%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -518,7 +518,7 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Spain_v_yugoslavia_1982_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Spain_v_yugoslavia_1982_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -635,7 +635,7 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2006_-_SCG_vs_CIV.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/FIFA_World_Cup_2006_-_SCG_vs_CIV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Serbia and Montenegro players warming up before facing Ivory Coast at the 2006 World Cup"
@@ -690,7 +690,7 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Serbia_Ghana.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/FIFA_World_Cup_2010_Serbia_Ghana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Serbia vs Ghana, group stage"
@@ -745,7 +745,7 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Aleksandar_Mitrovi%C4%87_CRC-SRB_crop.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Aleksandar_Mitrovi%C4%87_CRC-SRB_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Aleksandar Mitrović",
             "game": null
@@ -800,7 +800,7 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Strahinja_Pavlovi%C4%87_WC2022.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Strahinja_Pavlovi%C4%87_WC2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Strahinja Pavlović",
             "game": "Serbia vs Brazil, group stage"
