@@ -374,7 +374,7 @@ export const bulgaria = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:World_Cup_1994_-_Bulgaria_v_Germany_-_Stoichkov_has_scored_in_75th_minute.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/World_Cup_1994_-_Bulgaria_v_Germany_-_Stoichkov_has_scored_in_75th_minute.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Hristo Stoichkov",
             "game": "Bulgaria vs Germany, 1994 World Cup quarter-final — Wikimedia Commons"
