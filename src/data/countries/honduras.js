@@ -115,7 +115,7 @@ export const honduras = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Spain_Honduras.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/FIFA_World_Cup_2010_Spain_Honduras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Spain vs Honduras, 2010 World Cup Group H (Wikimedia Commons)"
@@ -170,7 +170,7 @@ export const honduras = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Honduras_and_Ecuador_match_at_the_FIFA_World_Cup_2014-06-20_(14283334658).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Honduras_and_Ecuador_match_at_the_FIFA_World_Cup_2014-06-20_%2814283334658%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Honduras vs Ecuador, 2014 World Cup Group E (Wikimedia Commons)"
