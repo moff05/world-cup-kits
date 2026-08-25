@@ -125,7 +125,7 @@ export const costaRica = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:R%C3%B3nald_G%C3%B3mez.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/R%C3%B3nald_G%C3%B3mez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -180,7 +180,7 @@ export const costaRica = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:WC_2006_-_Germany_v_Costa_Rica_-_teams.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/WC_2006_-_Germany_v_Costa_Rica_-_teams.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Germany v Costa Rica, 2006 FIFA World Cup opening match"
@@ -249,7 +249,7 @@ export const costaRica = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Uruguay_-_Costa_Rica_FIFA_World_Cup_2014_(14).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Uruguay_-_Costa_Rica_FIFA_World_Cup_2014_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Michael Umaña",
             "game": null
@@ -304,7 +304,7 @@ export const costaRica = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Keylor_Navas_against_Brazil_-_2018_FIFA_World_Cup_(cropped).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Keylor_Navas_against_Brazil_-_2018_FIFA_World_Cup_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Keylor Navas",
             "game": "Costa Rica vs Brazil, group stage"
@@ -359,7 +359,7 @@ export const costaRica = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Keylor_Navas_against_Brazil_-_2018_FIFA_World_Cup_(cropped).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Keylor_Navas_against_Brazil_-_2018_FIFA_World_Cup_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
