@@ -110,7 +110,7 @@ export const usa = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:U.S._men%27s_national_soccer_team_at_the_1930_FIFA_World_Cup.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/U.S._men%27s_national_soccer_team_at_the_1930_FIFA_World_Cup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -165,7 +165,7 @@ export const usa = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:England_v_USA_-_1950_FIFA_World_Cup_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/England_v_USA_-_1950_FIFA_World_Cup_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "vs. England, 1950 World Cup"
@@ -282,7 +282,7 @@ export const usa = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Alexi_Lalas_Calcio_Padova_1994-1995_(cropped).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Alexi_Lalas_Calcio_Padova_1994-1995_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -337,7 +337,7 @@ export const usa = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:ClaudioReyna_USMNT_20060511.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/ClaudioReyna_USMNT_20060511.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
