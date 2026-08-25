@@ -58,7 +58,7 @@ export const jamaica = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Deon-Burton-SWFC.jpg",
           "imageCredit": {
             "player": null,
             "game": null
