@@ -87,7 +87,7 @@ export const portugal = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Eusebio_(1963).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Eusebio_%281963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -197,7 +197,7 @@ export const portugal = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Luis_Figo_19-10-06.JPG",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Luis_Figo_19-10-06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -280,7 +280,7 @@ export const portugal = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:WM06_Portugal-France_Penalty.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/WM06_Portugal-France_Penalty.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Portugal vs France, 2006 semi-final — CC BY 2.0 / Wikimedia Commons"
@@ -342,7 +342,7 @@ export const portugal = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Portugal_North_Korea.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/FIFA_World_Cup_2010_Portugal_North_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Portugal vs North Korea, group stage"
@@ -397,7 +397,7 @@ export const portugal = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2013.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Cristiano_Ronaldo_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -459,7 +459,7 @@ export const portugal = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Bernardo_Silva_2018.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bernardo_Silva_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Bernardo Silva",
             "game": null
@@ -528,7 +528,7 @@ export const portugal = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_WC2022_-_02.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Cristiano_Ronaldo_WC2022_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Cristiano Ronaldo",
             "game": null
@@ -597,7 +597,7 @@ export const portugal = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Christiano_Ronaldo_at_world_cup_match_2026.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Christiano_Ronaldo_at_world_cup_match_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
