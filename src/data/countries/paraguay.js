@@ -59,7 +59,7 @@ export const paraguay = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Usa_paraguay_jump.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Usa_paraguay_jump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "USA v Paraguay, 1930 FIFA World Cup"
@@ -107,7 +107,7 @@ export const paraguay = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Dar%C3%ADo_Jara_Saguier.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Dar%C3%ADo_Jara_Saguier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Darío Jara Saguier with the Paraguay squad, 1950 FIFA World Cup — public domain"
@@ -162,7 +162,7 @@ export const paraguay = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Paraguay_en_el_Sudamericano_1956,_Estadio,_1956-03-23_(671).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Paraguay_en_el_Sudamericano_1956%2C_Estadio%2C_1956-03-23_%28671%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -224,7 +224,7 @@ export const paraguay = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Cruz_vs_cabanas.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Cruz_vs_cabanas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -286,7 +286,7 @@ export const paraguay = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Velez_equipo_1995apertura.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Velez_equipo_1995apertura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -472,7 +472,7 @@ export const paraguay = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Paraguay_vs._Italy_-_FIFA_World_Cup_2010_(National_anthems).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Paraguay_vs._Italy_-_FIFA_World_Cup_2010_%28National_anthems%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Paraguay vs. Italy, 2010 Group Stage — Wikimedia Commons (freely licensed)"
