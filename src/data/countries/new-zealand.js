@@ -175,7 +175,7 @@ export const newZealand = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:2026_FIFA_World_Cup_-_New_Zealand_vs._Egypt_pre_match_01.jpg",
           "imageCredit": {
             "player": null,
             "game": null
