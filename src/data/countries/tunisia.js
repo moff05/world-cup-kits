@@ -64,7 +64,7 @@ export const tunisia = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Tunisia_football_team_1978.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Tunisia_football_team_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -229,7 +229,7 @@ export const tunisia = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Tunesien_-_WM_2006.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Tunesien_-_WM_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "vs. Ukraine, 2006 World Cup"
@@ -284,7 +284,7 @@ export const tunisia = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Aymen_Mathlouthi.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Aymen_Mathlouthi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Aymen Mathlouthi",
             "game": "Tunisia vs Panama, first World Cup win in 40 years"
@@ -339,7 +339,7 @@ export const tunisia = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Tunisia_1_-_0_France_(FIFA_World_CUP_2022).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Tunisia_1_-_0_France_%28FIFA_World_CUP_2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Tunisia v France, 2022 FIFA World Cup"
@@ -394,7 +394,7 @@ export const tunisia = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Netherlands_v_Tunisia_2026_World_Cup_-_55373561612.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Netherlands_v_Tunisia_2026_World_Cup_-_55373561612.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
