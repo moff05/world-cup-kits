@@ -187,7 +187,7 @@ export const nigeria = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Kanu.jpg",
           "imageCredit": {
             "player": null,
             "game": null
