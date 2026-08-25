@@ -374,7 +374,7 @@ export const morocco = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:2018_FIFA_World_Cup_Group_B_march_IRN-MAR_28_(cropped).jpg",
           "imageCredit": {
             "player": null,
             "game": null
