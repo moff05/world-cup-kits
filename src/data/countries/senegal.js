@@ -75,7 +75,7 @@ export const senegal = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:El-HadjiDiouf.jpg",
           "imageCredit": {
             "player": null,
             "game": null
