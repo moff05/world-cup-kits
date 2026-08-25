@@ -22,5 +22,8 @@
   { "id": "nigeria", "year": "1998", "note": "no 1998 WC subcategory, same star-player search as 1994 — nothing from that era on Commons" },
   { "id": "north-korea", "year": "1966", "note": "checked WC category, broad search, Pak Do-ik (scorer of the famous 1966 goal vs Italy) — no freely-licensed DPRK-era football photos exist on Commons" },
   { "id": "portugal", "year": "1986", "note": "checked WC category, national team group photographs (jumps 1972 to 2012), broad search — nothing from that era on Commons" },
-  { "id": "republic-of-ireland", "year": "1990", "note": "checked WC category, national team category, Packie Bonner, Jack Charlton, Ronnie Whelan — no era-appropriate Irish player photos; closest match category (Euro 1988 v Netherlands) is Dutch-archive photos with no clear Irish player content" }
+  { "id": "republic-of-ireland", "year": "1990", "note": "checked WC category, national team category, Packie Bonner, Jack Charlton, Ronnie Whelan — no era-appropriate Irish player photos; closest match category (Euro 1988 v Netherlands) is Dutch-archive photos with no clear Irish player content" },
+  { "id": "romania", "year": "1934", "note": "checked WC category (only a diagram), national team category, History subcategory — no photos near this era on Commons" },
+  { "id": "romania", "year": "1938", "note": "same search as 1934 — no photos near this era on Commons" },
+  { "id": "romania", "year": "1990", "note": "checked WC category, national team category, Hagi (closest photo is 2007, 17yrs removed) — nothing from that era on Commons" }
 ]
