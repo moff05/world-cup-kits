@@ -65,7 +65,7 @@ export const newZealand = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Brazil_v_new_zealand_1982_01.jpg",
           "imageCredit": {
             "player": null,
             "game": null
