@@ -162,7 +162,7 @@ export const paraguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Paraguay_en_el_Sudamericano_1956,_Estadio,_1956-03-23_(671).jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -224,7 +224,7 @@ export const paraguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Cruz_vs_cabanas.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -286,7 +286,7 @@ export const paraguay = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Velez_equipo_1995apertura.jpg",
           "imageCredit": {
             "player": null,
             "game": null
