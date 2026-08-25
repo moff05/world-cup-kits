@@ -58,7 +58,7 @@ export const angola = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2006,_Iran_1-1_Angola_(05).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/FIFA_World_Cup_2006%2C_Iran_1-1_Angola_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Iran vs Angola, 2006 World Cup Group D — CC BY 4.0 / Wikimedia Commons"
