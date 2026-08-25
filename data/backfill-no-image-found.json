@@ -34,5 +34,9 @@
   { "id": "serbia", "year": "1998", "note": "1998 was FR Yugoslavia — checked WC category, Savicevic/Mijatovic/Mihajlovic all only have photos 9-12yrs removed — nothing from that era on Commons" },
   { "id": "south-africa", "year": "1998", "note": "checked WC category, Lucas Radebe and Benni McCarthy (closest photos 11-13yrs removed) — nothing from that era on Commons" },
   { "id": "south-korea", "year": "1990", "note": "checked WC category, national team category, group photographs (jumps 1973 to 2012), Hong Myung-bo (only recent/coaching-era photos) — nothing from that era on Commons" },
-  { "id": "south-korea", "year": "1994", "note": "same search as 1990 — nothing from that era on Commons" }
+  { "id": "south-korea", "year": "1994", "note": "same search as 1990 — nothing from that era on Commons" },
+  { "id": "south-korea", "year": "1998", "note": "same search as 1990/1994 — nothing from that era on Commons" },
+  { "id": "spain", "year": "1990", "note": "checked WC category, group photographs (jumps 1953 to 2009), Butragueño (only 2015+ executive-era photos) — nothing from that era on Commons" },
+  { "id": "spain", "year": "1994", "note": "same search as 1990, plus Hierro (closest 2008, 14yrs removed) — nothing from that era on Commons" },
+  { "id": "spain", "year": "1998", "note": "same search as 1990/1994, plus Raúl (closest 2007, 9yrs removed, fails threshold) — nothing from that era on Commons" }
 ]
