@@ -394,7 +394,7 @@ export const tunisia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Netherlands_v_Tunisia_2026_World_Cup_-_55373561612.jpg",
           "imageCredit": {
             "player": null,
             "game": null
