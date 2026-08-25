@@ -85,7 +85,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:1933-11-05_Magdeburg_Germany%27s_team_vs_Norway.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/1933-11-05_Magdeburg_Germany%27s_team_vs_Norway.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": null,
           "annotations": [
             {
@@ -130,7 +130,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Germany_v_Switzerland_WC_1938_(1).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Germany_v_Switzerland_WC_1938_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Germany v Switzerland, 1938 FIFA World Cup"
@@ -282,7 +282,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:HamrinSemifinal1958.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/HamrinSemifinal1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "West Germany v Sweden, 1958 FIFA World Cup semifinal"
@@ -344,7 +344,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Fu%C3%9Fballmannschaft_der_Deutschen_Fu%C3%9Fballnationalmannschaft_(Kiel_77.611).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Fu%C3%9Fballmannschaft_der_Deutschen_Fu%C3%9Fballnationalmannschaft_%28Kiel_77.611%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": null,
           "annotations": [
             {
@@ -417,7 +417,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Argentina_germania_1966.JPG",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Argentina_germania_1966.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Argentina v West Germany, 1966 FIFA World Cup (Wikimedia Commons)"
@@ -493,7 +493,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Finale_wereldkampioenschap_voetbal_1974_in_Munchen,_West_Duitsland_tegen_Nederla,_Bestanddeelnr_927-3097.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Finale_wereldkampioenschap_voetbal_1974_in_Munchen%2C_West_Duitsland_tegen_Nederla%2C_Bestanddeelnr_927-3097.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": null,
           "annotations": [
             {
@@ -649,7 +649,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Germany_team_at_1980_mundialito.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Germany_team_at_1980_mundialito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": null,
           "annotations": [
             {
@@ -729,7 +729,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Germany_v_france_1982_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Germany_v_france_1982_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "West Germany v France, 1982 FIFA World Cup semi-final (Wikimedia Commons)"
@@ -812,7 +812,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Ruggeri_vs_rummenigge_final.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ruggeri_vs_rummenigge_final.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Karl-Heinz Rummenigge",
             "game": "1986 World Cup Final vs. Argentina"
@@ -895,7 +895,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Italien_%E2%80%93_WM_in_Mailand_-_10._Juni_1990_-_Deutschland_-_Jugoslawien_4-1_-_panoramio.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Italien_%E2%80%93_WM_in_Mailand_-_10._Juni_1990_-_Deutschland_-_Jugoslawien_4-1_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "West Germany v Yugoslavia, 1990 FIFA World Cup, San Siro, Milan"
@@ -964,7 +964,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:World_Cup_1994_-_Bulgaria_v_Germany_-_action_in_the_first_half.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/World_Cup_1994_-_Bulgaria_v_Germany_-_action_in_the_first_half.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Germany vs Bulgaria, quarterfinal"
@@ -1113,7 +1113,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Oliver_Kahn_06-2004.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Oliver_Kahn_06-2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": null,
           "annotations": [
             {
@@ -1193,7 +1193,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Klose_germany.JPG",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Klose_germany.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Miroslav Klose",
             "game": "Top scorer of the 2006 World Cup, hosted by Germany"
@@ -1276,7 +1276,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Germany_Australia.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/FIFA_World_Cup_2010_Germany_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Germany vs Australia, group stage"
@@ -1414,7 +1414,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Julian_Draxler_2018.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Julian_Draxler_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Julian Draxler",
             "game": "vs. Mexico, 2018 World Cup"
@@ -1469,7 +1469,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Thomas_M%C3%BCller_WC2022.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Thomas_M%C3%BCller_WC2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Thomas Müller",
             "game": "Germany 1-2 Japan, group stage"
@@ -1531,7 +1531,7 @@ export const germany = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Germany_vs_Cura%C3%A7ao_2026_FIFA_World_Cup.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Germany_vs_Cura%C3%A7ao_2026_FIFA_World_Cup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Germany vs Curaçao, Group Stage — CC0 / Wikimedia Commons"
