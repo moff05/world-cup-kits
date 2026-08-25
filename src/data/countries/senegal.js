@@ -75,7 +75,7 @@ export const senegal = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:El-HadjiDiouf.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/El-HadjiDiouf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -135,7 +135,7 @@ export const senegal = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Sadio_Man%C3%A9_Senegal.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sadio_Man%C3%A9_Senegal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Sadio Mané",
             "game": "Senegal vs Poland, group stage"
@@ -197,7 +197,7 @@ export const senegal = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:S%C3%A9n%C3%A9gal_champions_CAN_2021_au_Cameroun.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/S%C3%A9n%C3%A9gal_champions_CAN_2021_au_Cameroun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Senegal celebrating their 2021 Africa Cup of Nations title in February 2022, months before the Qatar World Cup, with Koulibaly, Mendy and Gueye pictured"
@@ -259,7 +259,7 @@ export const senegal = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Kalidou_Koulibaly_France_v_Senegal_16_June_2026-321.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Kalidou_Koulibaly_France_v_Senegal_16_June_2026-321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Kalidou Koulibaly playing for Senegal against France at the 2026 World Cup"
