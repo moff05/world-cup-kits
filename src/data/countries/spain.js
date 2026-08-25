@@ -708,7 +708,7 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Fernando_Hierro_2008.jpg",
           "imageCredit": {
             "player": null,
             "game": null
