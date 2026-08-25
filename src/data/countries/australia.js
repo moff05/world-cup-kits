@@ -64,7 +64,7 @@ export const australia = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Doug_Utjesenovic_(cropped).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Doug_Utjesenovic_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Doug Utjesenovic",
             "game": "East Germany v Australia, 1974 FIFA World Cup (Wikimedia Commons)"
