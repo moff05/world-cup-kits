@@ -87,7 +87,7 @@ export const portugal = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Eusebio_(1963).jpg",
           "imageCredit": {
             "player": null,
             "game": null
