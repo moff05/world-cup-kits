@@ -58,7 +58,7 @@ export const iceland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Aron_Gunnarsson_2018.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Aron_Gunnarsson_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Aron Gunnarsson",
             "game": "Iceland vs Argentina, group stage"
