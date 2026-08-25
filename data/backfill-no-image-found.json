@@ -39,5 +39,9 @@
   { "id": "spain", "year": "1990", "note": "checked WC category, group photographs (jumps 1953 to 2009), Butragueño (only 2015+ executive-era photos) — nothing from that era on Commons" },
   { "id": "spain", "year": "1994", "note": "same search as 1990, plus Hierro (closest 2008, 14yrs removed) — nothing from that era on Commons" },
   { "id": "spain", "year": "1998", "note": "same search as 1990/1994, plus Raúl (closest 2007, 9yrs removed, fails threshold) — nothing from that era on Commons" },
-  { "id": "switzerland", "year": "1966", "note": "checked WC category, national team group photographs (jumps 1954 to 2006), broad search — nothing from that era on Commons" }
+  { "id": "switzerland", "year": "1966", "note": "checked WC category, national team group photographs (jumps 1954 to 2006), broad search — nothing from that era on Commons" },
+  { "id": "switzerland", "year": "1994", "note": "checked WC category, Chapuisat (closest 2014, 20yrs removed) — nothing from that era on Commons" },
+  { "id": "switzerland", "year": "2022", "note": "checked WC category, Xhaka (closest 2012, 10yrs removed, fails threshold), Shaqiri (no Commons presence) — nothing from that era on Commons" },
+  { "id": "tunisia", "year": "1998", "note": "no 1998 WC subcategory, Baya/Sellimi have no Commons presence, group photographs jump 1978 to 2010+ — nothing from that era on Commons" },
+  { "id": "tunisia", "year": "2002", "note": "checked WC category (only a stadium photo, no team), same star-player search as 1998 — nothing from that era on Commons" }
 ]
