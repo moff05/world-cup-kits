@@ -197,7 +197,7 @@ export const portugal = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Luis_Figo_19-10-06.JPG",
           "imageCredit": {
             "player": null,
             "game": null
@@ -397,7 +397,7 @@ export const portugal = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2013.jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -597,7 +597,7 @@ export const portugal = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Christiano_Ronaldo_at_world_cup_match_2026.jpg",
           "imageCredit": {
             "player": null,
             "game": null
