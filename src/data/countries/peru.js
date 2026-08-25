@@ -55,7 +55,7 @@ export const peru = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Delegaci%C3%B3n_de_Per%C3%BA_en_el_Mundial_1930,_Los_Sports,_1930-07-25_(385).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Delegaci%C3%B3n_de_Per%C3%BA_en_el_Mundial_1930%2C_Los_Sports%2C_1930-07-25_%28385%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Peru delegation, 1930 FIFA World Cup"
@@ -117,7 +117,7 @@ export const peru = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:1970_World_Cup_Peru_Squad_2.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/1970_World_Cup_Peru_Squad_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Peru squad photo, 1970 FIFA World Cup"
@@ -193,7 +193,7 @@ export const peru = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Teófilo_Cubillas_1978.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Te%C3%B3filo_Cubillas_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Teófilo Cubillas",
             "game": "1978 World Cup"
@@ -248,7 +248,7 @@ export const peru = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Peru_v_italy_1982.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Peru_v_italy_1982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -303,7 +303,7 @@ export const peru = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Carvallo.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Jos%C3%A9_Carvallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "José Carvallo",
             "game": "Open training session in Khimki ahead of the tournament"
