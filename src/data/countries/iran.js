@@ -64,7 +64,7 @@ export const iran = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Iran_football_WC_1978.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iran_football_WC_1978.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Iran squad photo, 1978 FIFA World Cup"
@@ -174,7 +174,7 @@ export const iran = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2006,_Iran_1-1_Angola_(05).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/FIFA_World_Cup_2006%2C_Iran_1-1_Angola_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Iran vs. Angola, 2006 FIFA World Cup Group D — CC BY 4.0 / Mehr News Agency"
@@ -229,7 +229,7 @@ export const iran = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Iran_captain_Javad_Nekounam_in_press_conference_before_Nigeria_match,_2014_FIFA_World_Cup.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Iran_captain_Javad_Nekounam_in_press_conference_before_Nigeria_match%2C_2014_FIFA_World_Cup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Javad Nekounam",
             "game": "Press conference before Iran vs Nigeria"
@@ -284,7 +284,7 @@ export const iran = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Iran_national_football_team_T1.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Iran_national_football_team_T1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Iran national team training ahead of the 2018 World Cup"
@@ -339,7 +339,7 @@ export const iran = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Iran_v_Wales_in_the_2022_FIFA_World_Cup_Match_17_-_Iran_line-up.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Iran_v_Wales_in_the_2022_FIFA_World_Cup_Match_17_-_Iran_line-up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Iran team lineup, 2022 FIFA World Cup vs Wales"
