@@ -72,7 +72,7 @@ export const austria = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Sindelar-aut.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sindelar-aut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Matthias Sindelar",
             "game": null
@@ -141,7 +141,7 @@ export const austria = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Austria_en_el_Mundial_1954,_Estadio,_1954-06-26_(580).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Austria_en_el_Mundial_1954%2C_Estadio%2C_1954-06-26_%28580%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Austria squad, 1954 FIFA World Cup (Wikimedia Commons)"
@@ -196,7 +196,7 @@ export const austria = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:%C3%96sterrike_1958.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/%C3%96sterrike_1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Austria national team squad photo, published in Rekord-Magasinet, September 1958"
@@ -272,7 +272,7 @@ export const austria = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Krankl_goal.webp",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Krankl_goal.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Hans Krankl",
             "game": "vs. West Germany, Córdoba, 1978 World Cup"
@@ -341,7 +341,7 @@ export const austria = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Germany_v_austria_wc1982_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Germany_v_austria_wc1982_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "vs. West Germany, 1982 World Cup"
@@ -396,7 +396,7 @@ export const austria = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Toni_Polster1.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Toni_Polster1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -451,7 +451,7 @@ export const austria = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Toni_Polster1.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Toni_Polster1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -513,7 +513,7 @@ export const austria = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:ALGvAUS.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/ALGvAUS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Algeria vs Austria at Kansas City Stadium, 2026 FIFA World Cup"
