@@ -74,7 +74,7 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:1934_FIFA_World_Cup_-_Italy_v_Spain_-_Gianpiero_Combi_and_Ricardo_Zamora.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/1934_FIFA_World_Cup_-_Italy_v_Spain_-_Gianpiero_Combi_and_Ricardo_Zamora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Ricardo Zamora",
             "game": null
@@ -150,7 +150,7 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Uruguay_v_Espa%C3%B1a,_Estadio,_1950-07-15_(374)_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Uruguay_v_Espa%C3%B1a%2C_Estadio%2C_1950-07-15_%28374%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Spain vs Uruguay at the 1950 World Cup final round, published in the Chilean magazine Estadio"
@@ -205,7 +205,7 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Luis_Su%C3%A1rez_Miramontes_1962.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Luis_Su%C3%A1rez_Miramontes_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Luis Suárez Miramontes, member of Spain's 1962 World Cup squad and the country's only Ballon d'Or winner",
             "game": null
@@ -260,7 +260,7 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Real_Madrid_(1966).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Real_Madrid_%281966%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Amancio Amaro, part of Spain's 1966 World Cup squad, pictured with Real Madrid in 1966",
             "game": null
@@ -315,7 +315,7 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Austria_v_spain_1978_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Austria_v_spain_1978_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "vs. Austria, 1978 World Cup"
@@ -384,7 +384,7 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Spain_v_germany_1982_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Spain_v_germany_1982_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "vs. West Germany, 1982 World Cup"
@@ -453,7 +453,7 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Denmark_vs_spain_elkjaer.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Denmark_vs_spain_elkjaer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Ricardo Gallego",
             "game": "vs. Denmark, 1986 World Cup"
@@ -708,7 +708,7 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Fernando_Hierro_2008.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Fernando_Hierro_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -770,7 +770,7 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Fernando_Torres_Atl%C3%A9tico_Madrid.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Fernando_Torres_Atl%C3%A9tico_Madrid.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Fernando Torres, who scored for Spain at the 2006 World Cup, pictured weeks after the tournament",
             "game": null
@@ -853,7 +853,7 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Germany_vs_Spain_semi-final.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/FIFA_World_Cup_2010_Germany_vs_Spain_semi-final.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Spain vs Germany, 2010 Semi-final — CC BY-SA 3.0 / Wikimedia Commons"
@@ -908,7 +908,7 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Naples_vs_Barcelone_-_Gen%C3%A8ve_-_aout_2014_-_Andr%C3%A9s_Iniesta.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Naples_vs_Barcelone_-_Gen%C3%A8ve_-_aout_2014_-_Andr%C3%A9s_Iniesta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -970,7 +970,7 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Sergio_Busquets_2018.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sergio_Busquets_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Sergio Busquets",
             "game": "Portugal vs Spain, group stage"
@@ -1032,7 +1032,7 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:%C3%81lvaro_Morata.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/%C3%81lvaro_Morata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Alvaro Morata, Spain's top scorer at the 2022 World Cup, playing for the national team",
             "game": null
@@ -1122,7 +1122,7 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Spain_World_Cup_Winners_Argentina_v_Spain_19_July_2026-1.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Spain_World_Cup_Winners_Argentina_v_Spain_19_July_2026-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Spain celebrate winning the 2026 FIFA World Cup Final vs Argentina, July 19 2026 — CC BY-SA 4.0 / Wikimedia Commons (photo: Bryan Berlin)"
