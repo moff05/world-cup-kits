@@ -908,7 +908,7 @@ export const spain = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Naples_vs_Barcelone_-_Gen%C3%A8ve_-_aout_2014_-_Andr%C3%A9s_Iniesta.jpg",
           "imageCredit": {
             "player": null,
             "game": null
