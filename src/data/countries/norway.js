@@ -164,7 +164,7 @@ export const norway = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Ole_G_Solskjaer.jpg",
           "imageCredit": {
             "player": null,
             "game": null
