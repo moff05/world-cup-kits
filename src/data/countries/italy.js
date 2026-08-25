@@ -1020,7 +1020,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Totti_2002.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Totti_2002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Francesco Totti, official portrait, September 2002",
             "game": null
@@ -1158,7 +1158,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Claudio_Marchisio_2010.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Claudio_Marchisio_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Claudio Marchisio",
             "game": "Italy vs Paraguay, group stage"
@@ -1213,7 +1213,7 @@ export const italy = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Mario_Balotelli_-_140624-7121-jikatu_(14318827317).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mario_Balotelli_-_140624-7121-jikatu_%2814318827317%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Mario Balotelli",
             "game": "Italy vs Uruguay, group stage"
