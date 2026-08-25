@@ -12,5 +12,7 @@
   { "id": "greece", "year": "1994", "note": "checked World Cup category, national team category, History subcategory — oldest player photo found was 1920s/30s, nothing from that era on Commons" },
   { "id": "haiti", "year": "2026", "note": "checked 2026 WC category (only stadium/fan photos, no player), Group C category, national team category — no WikiPortraits coverage like Ghana got, nothing usable found" },
   { "id": "hungary", "year": "1934", "note": "checked WC category, national team category — only Golden Team photos exist (1952-54 era), ~18-20yr gap, too far" },
-  { "id": "hungary", "year": "1958", "note": "checked WC category (no 1958 subcat), Golden Team category — those photos (1952-54) predate 1958 and most of that squad had defected after 1956, wrong players for this year" }
+  { "id": "hungary", "year": "1958", "note": "checked WC category (no 1958 subcat), Golden Team category — those photos (1952-54) predate 1958 and most of that squad had defected after 1956, wrong players for this year" },
+  { "id": "iran", "year": "1998", "note": "checked WC category (only line-up diagrams), 'Iran 1998 Stars' category (a modern 2008+ exhibition alumni team, not from 1998), Ali Daei (closest photo is 2007, 9yrs removed) — nothing from that era on Commons" },
+  { "id": "iraq", "year": "1986", "note": "checked WC category, national team category, 'by year' subcategory (only has 2026), group photographs (jumps 1951 to 2011) — nothing from that era on Commons" }
 ]
