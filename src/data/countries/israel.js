@@ -58,7 +58,7 @@ export const israel = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Mordechai_Spiegler_M%C3%A9xico_70.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Mordechai_Spiegler_M%C3%A9xico_70.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Mordechai Spiegler, Panini México 70 sticker",
             "game": null
