@@ -242,7 +242,7 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Yugoslavia_v_Francia,_Estadio,_1954-06-26_(580).jpg",
           "imageCredit": {
             "player": null,
             "game": null
@@ -518,7 +518,7 @@ export const serbia = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Spain_v_yugoslavia_1982_01.jpg",
           "imageCredit": {
             "player": null,
             "game": null
