@@ -521,7 +521,7 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Werner_Haberkorn_-_Retrato_de_Gilmar_dos_Santos_Neves_-_Goleiro_da_Sele%C3%A7%C3%A3o_Brasileira_de_Futebol_nas_copas_do_mundo_de_1954._1958._1962_e_1966_(cropped).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Werner_Haberkorn_-_Retrato_de_Gilmar_dos_Santos_Neves_-_Goleiro_da_Sele%C3%A7%C3%A3o_Brasileira_de_Futebol_nas_copas_do_mundo_de_1954._1958._1962_e_1966_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Gilmar",
             "game": null
@@ -901,7 +901,7 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Brasil_equipo_vs_chile_en_santiago_1983.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Brasil_equipo_vs_chile_en_santiago_1983.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": null,
           "annotations": [
             {
@@ -1209,7 +1209,7 @@ export const brazil = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Ronaldo_2002_cropped.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ronaldo_2002_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Ronaldo",
             "game": "The day before the 2002 World Cup Final"
