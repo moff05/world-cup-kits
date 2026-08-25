@@ -773,7 +773,7 @@ export const netherlands = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Memphis_Depay_Barca_2021.jpg",
           "imageCredit": {
             "player": null,
             "game": null
