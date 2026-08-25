@@ -38,5 +38,6 @@
   { "id": "south-korea", "year": "1998", "note": "same search as 1990/1994 — nothing from that era on Commons" },
   { "id": "spain", "year": "1990", "note": "checked WC category, group photographs (jumps 1953 to 2009), Butragueño (only 2015+ executive-era photos) — nothing from that era on Commons" },
   { "id": "spain", "year": "1994", "note": "same search as 1990, plus Hierro (closest 2008, 14yrs removed) — nothing from that era on Commons" },
-  { "id": "spain", "year": "1998", "note": "same search as 1990/1994, plus Raúl (closest 2007, 9yrs removed, fails threshold) — nothing from that era on Commons" }
+  { "id": "spain", "year": "1998", "note": "same search as 1990/1994, plus Raúl (closest 2007, 9yrs removed, fails threshold) — nothing from that era on Commons" },
+  { "id": "switzerland", "year": "1966", "note": "checked WC category, national team group photographs (jumps 1954 to 2006), broad search — nothing from that era on Commons" }
 ]
