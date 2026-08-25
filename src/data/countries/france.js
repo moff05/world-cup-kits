@@ -74,7 +74,7 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Delegaci%C3%B3n_de_Francia_en_el_Mundial_1930,_Los_Sports,_1930-07-25_(385).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Delegaci%C3%B3n_de_Francia_en_el_Mundial_1930%2C_Los_Sports%2C_1930-07-25_%28385%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "France delegation, 1930 FIFA World Cup (Wikimedia Commons)"
@@ -115,7 +115,7 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:L%27%C3%A9quipe_de_France_de_football_%C3%A0_la_Coupe_du_Monde_1934_(_oppos%C3%A9e_%C3%A0_l%27Autriche).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/L%27%C3%A9quipe_de_France_de_football_%C3%A0_la_Coupe_du_Monde_1934_%28_oppos%C3%A9e_%C3%A0_l%27Autriche%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "France squad photo, 1934 FIFA World Cup"
@@ -163,7 +163,7 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:L%27%C3%A9quipe_de_France_de_football_%C3%A0_la_Coupe_du_monde_1938.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/L%27%C3%A9quipe_de_France_de_football_%C3%A0_la_Coupe_du_monde_1938.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "France's 1938 World Cup squad, after their win over Belgium"
@@ -211,7 +211,7 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Yugoslavia_v_Francia,_Estadio,_1954-06-26_(580).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Yugoslavia_v_Francia%2C_Estadio%2C_1954-06-26_%28580%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Yugoslavia v France, 1954 FIFA World Cup"
@@ -287,7 +287,7 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Fontaine1958.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Fontaine1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Just Fontaine",
             "game": "France, 1958 FIFA World Cup (Wikimedia Commons)"
@@ -342,7 +342,7 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Selecci%C3%B3n_Francesa_1972.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Selecci%C3%B3n_Francesa_1972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -397,7 +397,7 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:1978_FIFA_World_Cup_-_Italy_v_France_-_Michel_Platini.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/1978_FIFA_World_Cup_-_Italy_v_France_-_Michel_Platini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Michel Platini",
             "game": "vs. Italy, 1978 World Cup"
@@ -480,7 +480,7 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:France_v_czechoslovakia_1982_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/France_v_czechoslovakia_1982_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Michel Platini",
             "game": "vs. Czechoslovakia, 1982 World Cup"
@@ -563,7 +563,7 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Platini_vs_canada.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Platini_vs_canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Michel Platini",
             "game": "vs. Canada, 1986 World Cup"
@@ -701,7 +701,7 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Zinedine_zidane_wcf_2006.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Zinedine_zidane_wcf_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -908,7 +908,7 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Paul_Pogba_20140816.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Paul_Pogba_20140816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Paul Pogba, midfielder on France's 2014 World Cup squad, weeks after the tournament",
             "game": null
@@ -991,7 +991,7 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Hugo_Lloris_201807091.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Hugo_Lloris_201807091.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Hugo Lloris",
             "game": null
@@ -1074,7 +1074,7 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:2022_wc_final_05.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/2022_wc_final_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Kylian Mbappé",
             "game": "Scoring his second goal in extra time, 2022 FIFA World Cup Final"
@@ -1164,7 +1164,7 @@ export const france = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Maxence_Lacroix_France_v_Norway_26_June_26-031_(cropped).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Maxence_Lacroix_France_v_Norway_26_June_26-031_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Maxence Lacroix",
             "game": "France v Norway, Group Stage, June 26 2026 — CC BY-SA 4.0 / Wikimedia Commons (photo: Bryan Berlin/WikiPortraits)"
