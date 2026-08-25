@@ -1171,7 +1171,7 @@ export const england = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Team_England_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Team_England_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "England v Ghana, Group Stage, Boston Stadium, 23 June 2026 — CC BY-SA 4.0 / Wikimedia Commons (photo: YantsImages)"
