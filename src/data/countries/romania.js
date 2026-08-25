@@ -394,7 +394,7 @@ export const romania = {
       ],
       "kits": {
         "home": {
-          "image": null,
+          "image": "https://commons.wikimedia.org/wiki/File:Hagi.jpg",
           "imageCredit": {
             "player": null,
             "game": null
