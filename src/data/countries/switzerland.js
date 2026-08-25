@@ -63,7 +63,7 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Match_Holland-Switzerland_19340527.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Match_Holland-Switzerland_19340527.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Netherlands v Switzerland, 1934 FIFA World Cup, San Siro, Milan"
@@ -118,7 +118,7 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Sport,_SFA022003994.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sport%2C_SFA022003994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -173,7 +173,7 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Suiza_en_el_Mundial_1950,_Estadio,_1950-07-08_(373).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Suiza_en_el_Mundial_1950%2C_Estadio%2C_1950-07-08_%28373%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -235,7 +235,7 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Suiza_v_Italia,_Estadio,_1954-06-26_(580).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Suiza_v_Italia%2C_Estadio%2C_1954-06-26_%28580%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Switzerland v Italy, 1954 FIFA World Cup"
@@ -290,7 +290,7 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Suiza_en_el_Mundial_1954,_Estadio,_1954-06-26_(580).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Suiza_en_el_Mundial_1954%2C_Estadio%2C_1954-06-26_%28580%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": null
@@ -469,7 +469,7 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Swiss_national_football_team.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Swiss_national_football_team.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Switzerland squad, pre-2006 World Cup"
@@ -524,7 +524,7 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Spain_Switzerland.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/FIFA_World_Cup_2010_Spain_Switzerland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Switzerland vs Spain, group stage upset win over the eventual champions"
@@ -586,7 +586,7 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Switzerland_and_Ecuador_match_at_the_FIFA_World_Cup_2014-06-15_DSC06405_(14427057271).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Switzerland_and_Ecuador_match_at_the_FIFA_World_Cup_2014-06-15_DSC06405_%2814427057271%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": "Xherdan Shaqiri",
             "game": "vs. Ecuador, 2014 World Cup"
@@ -648,7 +648,7 @@ export const switzerland = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:Switzerland_national_football_team_World_Cup_2018.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Switzerland_national_football_team_World_Cup_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Switzerland national team vs Sweden, round of 16"
