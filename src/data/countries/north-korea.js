@@ -121,7 +121,7 @@ export const northKorea = {
       ],
       "kits": {
         "home": {
-          "image": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Brazil_North_Korea_7.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/FIFA_World_Cup_2010_Brazil_North_Korea_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "imageCredit": {
             "player": null,
             "game": "Brazil vs North Korea, 2010 World Cup Group G — CC BY 3.0 BR / Wikimedia Commons"
