@@ -32,7 +32,7 @@ export const senegal = {
   ],
   "kits": {
     "2002": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "The Miracle Debut",
       "homeColors": "white shirt with green, yellow and red trim drawn from the national flag (Le Coq Sportif)",
       "awayColors": "green shirt with red and yellow sleeve stripes (Le Coq Sportif); worn against Uruguay after FIFA ruled the sky-blue kits too similar",
