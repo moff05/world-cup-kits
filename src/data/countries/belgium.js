@@ -345,7 +345,7 @@ export const belgium = {
       }
     },
     "1986": {
-      "result": "Round of 16",
+      "result": "4th Place",
       "headline": "Fourth Place, Forever Famous",
       "homeColors": "red shirt, white shorts, red socks (Adidas, three-stripe trim)",
       "awayColors": "white shirt, red shorts",
@@ -669,7 +669,7 @@ export const belgium = {
       }
     },
     "2014": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Golden Generation's First Bow",
       "homeColors": "red shirt, white shorts, red socks (Burrda)",
       "awayColors": "white shirt, red shorts",
@@ -738,7 +738,7 @@ export const belgium = {
       }
     },
     "2018": {
-      "result": "Round of 16",
+      "result": "3rd Place",
       "headline": "Comeback in Kazan, Bronze in Petersburg",
       "homeColors": "red shirt with diamond-pattern flag graphic on the chest, white shorts, red socks (Adidas, inspired by the Euro 1994 kit)",
       "awayColors": "yellow shirt with red and black trim (Belgium's first-ever yellow kit, inspired by their 1984 goalkeeper jersey)",
