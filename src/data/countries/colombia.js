@@ -262,7 +262,7 @@ export const colombia = {
       }
     },
     "2014": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "James Arrives, Debut Quarter-Final",
       "homeColors": "yellow shirt, navy shorts (Adidas)",
       "awayColors": "red shirt, navy shorts — Colombia's first-ever red kit (Adidas)",
