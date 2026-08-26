@@ -30,7 +30,7 @@ export const northKorea = {
   ],
   "kits": {
     "1966": {
-      "result": "Group Stage",
+      "result": "Quarter-final",
       "headline": "The Miracle of Middlesbrough",
       "homeColors": "plain red shirt with white V-neck collar and cuffs",
       "awayColors": "white shirt with blue V-neck collar and cuffs, North Korean flag on the chest",
