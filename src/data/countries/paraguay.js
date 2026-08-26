@@ -429,7 +429,7 @@ export const paraguay = {
       }
     },
     "2010": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "History in South Africa",
       "homeColors": "red and white vertical stripes, blue shorts",
       "awayColors": null,
