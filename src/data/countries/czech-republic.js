@@ -100,7 +100,7 @@ export const czechRepublic = {
       }
     },
     "1938": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Two Games, One Opponent",
       "homeColors": "white shirt, red shorts, blue socks",
       "awayColors": null,
@@ -451,7 +451,7 @@ export const czechRepublic = {
       }
     },
     "1990": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Skuhravý's Five-Goal Spring",
       "homeColors": "white shirt, red shorts, blue socks",
       "awayColors": null,
