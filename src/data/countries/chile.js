@@ -147,7 +147,7 @@ export const chile = {
       }
     },
     "1962": {
-      "result": "Group Stage",
+      "result": "3rd Place",
       "headline": "Hosts Climb to Third",
       "homeColors": "red shirt, white shorts, blue socks",
       "awayColors": null,
