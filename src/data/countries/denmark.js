@@ -96,7 +96,7 @@ export const denmark = {
       }
     },
     "1998": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Laudrup Brothers' Last Dance",
       "homeColors": "Red shirt with white V-neck collar, white shoulder panels, and white Hummel chevron sleeves",
       "awayColors": null,
