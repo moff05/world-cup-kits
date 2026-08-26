@@ -140,7 +140,7 @@ export const brazil = {
       }
     },
     "1938": {
-      "result": "Round of 16",
+      "result": "3rd Place",
       "headline": "Leônidas and the Blunder That Cost a Final",
       "homeColors": "white shirt with blue collar, white shorts, white socks",
       "awayColors": null,
@@ -209,7 +209,7 @@ export const brazil = {
       }
     },
     "1950": {
-      "result": "Group Stage",
+      "result": "Runners-up",
       "headline": "The White That Was Never Worn Again",
       "homeColors": "white shirt with blue collar, white shorts, white socks",
       "awayColors": null,
@@ -285,7 +285,7 @@ export const brazil = {
       }
     },
     "1954": {
-      "result": "Group Stage",
+      "result": "Quarter-final",
       "headline": "Yellow for the First Time. The Battle of Bern.",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
@@ -623,7 +623,7 @@ export const brazil = {
       }
     },
     "1974": {
-      "result": "2nd Round",
+      "result": "4th Place",
       "headline": "The Post-1970 Hangover",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
@@ -706,7 +706,7 @@ export const brazil = {
       }
     },
     "1978": {
-      "result": "2nd Round",
+      "result": "3rd Place",
       "headline": "Argentina's Junta. Goal Difference. Third.",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
@@ -858,7 +858,7 @@ export const brazil = {
       }
     },
     "1986": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Sócrates' Miss. France's Victory.",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
@@ -1235,7 +1235,7 @@ export const brazil = {
       }
     },
     "2006": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Ronaldo's Record. Zidane's Exit.",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
@@ -1304,7 +1304,7 @@ export const brazil = {
       }
     },
     "2010": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Africa's First. Holland's Counter.",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
@@ -1373,7 +1373,7 @@ export const brazil = {
       }
     },
     "2014": {
-      "result": "Round of 16",
+      "result": "4th Place",
       "headline": "7-1. At Home.",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
@@ -1456,7 +1456,7 @@ export const brazil = {
       }
     },
     "2018": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Neymar's Russia. Belgium's Ambush.",
       "homeColors": "yellow shirt with green trim, blue shorts, white socks",
       "awayColors": "blue shirt, white shorts, blue socks",
