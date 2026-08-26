@@ -267,7 +267,7 @@ export const argentina = {
       }
     },
     "1966": {
-      "result": "Group Stage",
+      "result": "Quarter-final",
       "headline": "Wembley's 'Animals' Remark",
       "homeColors": "light blue and white vertical stripes, black shorts, white socks",
       "awayColors": null,
@@ -785,7 +785,7 @@ export const argentina = {
       }
     },
     "1998": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Batistuta's Hat-Trick, Bergkamp's Strike",
       "homeColors": "light blue and white vertical stripes, black shorts, white socks (Adidas)",
       "awayColors": null,
@@ -909,7 +909,7 @@ export const argentina = {
       }
     },
     "2006": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "24 Passes, One Perfect Goal",
       "homeColors": "light blue and white vertical stripes, black shorts, white socks (Adidas)",
       "awayColors": null,
@@ -978,7 +978,7 @@ export const argentina = {
       }
     },
     "2010": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Diego's Team Dismantled",
       "homeColors": "light blue and white vertical stripes, black shorts, white socks (Adidas)",
       "awayColors": "black shirt",
