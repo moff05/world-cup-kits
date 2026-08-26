@@ -41,7 +41,7 @@ export const switzerland = {
   ],
   "kits": {
     "1934": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Kielholz's Double Debut",
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
@@ -89,7 +89,7 @@ export const switzerland = {
       }
     },
     "1938": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "A Replay, Then a Wall",
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
@@ -199,7 +199,7 @@ export const switzerland = {
       }
     },
     "1954": {
-      "result": "Group Stage",
+      "result": "Quarter-final",
       "headline": "Seven-Five, Still the Record",
       "homeColors": "red shirt, white shorts, red socks (hosts' kit, unbranded)",
       "awayColors": "white shirt, red shorts, white socks",
