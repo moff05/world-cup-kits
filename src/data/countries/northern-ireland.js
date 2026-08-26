@@ -31,7 +31,7 @@ export const northernIreland = {
   ],
   "kits": {
     "1958": {
-      "result": "Group Stage",
+      "result": "Quarter-final",
       "headline": "Smallest Nation, Biggest Run",
       "homeColors": "green shirt with white V-neck collar, white shorts, blue socks",
       "awayColors": null,
