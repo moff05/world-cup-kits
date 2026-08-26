@@ -289,7 +289,7 @@ export const romania = {
       }
     },
     "1994": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Hagi's Golden Generation Peaks",
       "homeColors": "yellow shirt with blue and red chevron pattern, blue shorts (Adidas)",
       "awayColors": null,
