@@ -30,7 +30,7 @@ export const wales = {
   ],
   "kits": {
     "1958": {
-      "result": "Group Stage",
+      "result": "Quarter-final",
       "headline": "Pelé Ends the Dream",
       "homeColors": "red shirt with white shorts, reintroduced for the 1958 tournament",
       "awayColors": "yellow and green change kit, used for the first time at a World Cup",
