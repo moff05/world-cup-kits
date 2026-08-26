@@ -39,7 +39,7 @@ export const russia = {
   ],
   "kits": {
     "1958": {
-      "result": "Group Stage",
+      "result": "Quarter-final",
       "headline": "Yashin's World Cup Debut",
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
@@ -108,7 +108,7 @@ export const russia = {
       }
     },
     "1962": {
-      "result": "Group Stage",
+      "result": "Quarter-final",
       "headline": "Colombia's Miracle Comeback",
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
@@ -170,7 +170,7 @@ export const russia = {
       }
     },
     "1966": {
-      "result": "Group Stage",
+      "result": "4th Place",
       "headline": "Fourth Place, Forever Best",
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
@@ -246,7 +246,7 @@ export const russia = {
       }
     },
     "1970": {
-      "result": "Group Stage",
+      "result": "Quarter-final",
       "headline": "Espárrago's Cruel Late Header",
       "homeColors": "red shirt, white shorts, red socks",
       "awayColors": null,
@@ -659,7 +659,7 @@ export const russia = {
       }
     },
     "2018": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Akinfeev's Shootout Heroics",
       "homeColors": "red shirt with white shoulder stripes, echoing the USSR's 1988 Olympic kit",
       "awayColors": "white shirt with grey architectural-pattern graphic",
