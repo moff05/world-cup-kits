@@ -29,7 +29,7 @@ export const cuba = {
   ],
   "kits": {
     "1938": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Amateurs Stun Europe Twice",
       "homeColors": null,
       "awayColors": null,
