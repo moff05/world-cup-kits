@@ -40,7 +40,7 @@ export const usa = {
   ],
   "kits": {
     "1930": {
-      "result": "Group Stage",
+      "result": "Semi-final",
       "headline": "Patenaude's Historic Hat-Trick",
       "homeColors": "white shirt, blue shorts, white socks",
       "awayColors": null,
@@ -363,7 +363,7 @@ export const usa = {
       }
     },
     "2002": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Golden Generation's Quarter-Final",
       "homeColors": "white shirt, navy blue shorts, white socks (Nike)",
       "awayColors": null,
