@@ -308,7 +308,7 @@ export const southKorea = {
       }
     },
     "2002": {
-      "result": "Round of 16",
+      "result": "4th Place",
       "headline": "The Miracle Run to Fourth",
       "homeColors": "red shirt, red shorts",
       "awayColors": null,
