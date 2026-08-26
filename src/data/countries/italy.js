@@ -521,7 +521,7 @@ export const italy = {
       }
     },
     "1978": {
-      "result": "2nd Round",
+      "result": "4th Place",
       "headline": "Rossi Arrives, Falls Short",
       "homeColors": "blue shirt, white shorts, blue socks",
       "awayColors": null,
@@ -749,7 +749,7 @@ export const italy = {
       }
     },
     "1990": {
-      "result": "Round of 16",
+      "result": "3rd Place",
       "headline": "Totò Schillaci's Summer",
       "homeColors": "blue shirt with wave-pattern trim (Diadora), white shorts, blue socks",
       "awayColors": null,
@@ -915,7 +915,7 @@ export const italy = {
       }
     },
     "1998": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Out on Penalties, Again",
       "homeColors": "blue shirt, white shorts, blue socks",
       "awayColors": null,
