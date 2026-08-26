@@ -78,7 +78,7 @@ export const poland = {
       }
     },
     "1974": {
-      "result": "2nd Round",
+      "result": "3rd Place",
       "headline": "The Golden Generation Arrives",
       "homeColors": "white shirt, red shorts, white socks",
       "awayColors": null,
@@ -237,7 +237,7 @@ export const poland = {
       }
     },
     "1982": {
-      "result": "2nd Round",
+      "result": "3rd Place",
       "headline": "Boniek's Booking, Bronze Again",
       "homeColors": "white shirt, red shorts, white socks",
       "awayColors": null,
