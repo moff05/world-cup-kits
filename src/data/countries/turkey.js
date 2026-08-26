@@ -86,7 +86,7 @@ export const turkey = {
       }
     },
     "2002": {
-      "result": "Round of 16",
+      "result": "3rd Place",
       "headline": "11 Seconds to Bronze",
       "homeColors": "red shirt with white shorts (Adidas, 1983–2002 era)",
       "awayColors": "white shirt with red trim (Adidas, 1983–2002 era)",
