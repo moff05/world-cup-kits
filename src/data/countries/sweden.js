@@ -41,7 +41,7 @@ export const sweden = {
   ],
   "kits": {
     "1934": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "First Match, First Win",
       "homeColors": "yellow shirt, blue shorts, yellow socks",
       "awayColors": null,
@@ -89,7 +89,7 @@ export const sweden = {
       }
     },
     "1938": {
-      "result": null,
+      "result": "4th Place",
       "headline": "Eight Goals, Then a Collapse",
       "homeColors": "yellow shirt, blue shorts, yellow socks",
       "awayColors": null,
@@ -144,7 +144,7 @@ export const sweden = {
       }
     },
     "1950": {
-      "result": "Group Stage",
+      "result": "3rd Place",
       "headline": "Bronze Built on Survival",
       "homeColors": "yellow shirt, blue shorts, yellow socks",
       "awayColors": null,
@@ -530,7 +530,7 @@ export const sweden = {
       }
     },
     "1994": {
-      "result": "Round of 16",
+      "result": "3rd Place",
       "headline": "Andersson's Summer in the Sun",
       "homeColors": "yellow shirt, blue shorts, yellow socks (Adidas)",
       "awayColors": "blue shirt, yellow shorts, blue socks",
@@ -737,7 +737,7 @@ export const sweden = {
       }
     },
     "2018": {
-      "result": "Round of 16",
+      "result": "Quarter-final",
       "headline": "Forsberg's Strike, Then England",
       "homeColors": "yellow shirt, blue shorts, yellow socks (Adidas)",
       "awayColors": "blue shirt, yellow shorts, blue socks",
